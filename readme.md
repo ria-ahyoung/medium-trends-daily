@@ -35,14 +35,14 @@ Get more useful information conveniently right here. 🤓
 
 **1. Fornt-End**
 
-[<kbd> <br> React <br> </kbd>](#react)
+[<kbd> <br> React <br> </kbd>](#reactjs)
 [<kbd> <br> NextJS <br> </kbd>](#nextjs)
-[<kbd> <br> UI/UX <br> </kbd>](#ux-design)
-[<kbd> <br> JS & TS <br> </kbd>](#javascript)
+[<kbd> <br> UI/UX <br> </kbd>](#ui-ux-design)
+[<kbd> <br> JS & TS <br> </kbd>](#js-&-ts)
 [<kbd> <br> Node.js <br> </kbd>](#nodejs)
 
 [<kbd> <br> Web Development 💻 <br> </kbd>](web-development)
-[<kbd> <br> Web-Views 📱 <br> </kbd>](#webview)
+[<kbd> <br> Web-Views 📱 <br> </kbd>](#web-views)
 
 **2. Dev Common**
 
@@ -52,7 +52,7 @@ Get more useful information conveniently right here. 🤓
 
 **3. Mobile Development**
 
-[<kbd> <br>Mobile App Development<br> </kbd>](#mobile-app-development)
+[<kbd> <br> Mobile App Development <br> </kbd>](#app-development)
 [<kbd> <br> Andriod<br> </kbd>](#andriod)
 [<kbd> <br> IOS <br> </kbd>](#ios)
 
