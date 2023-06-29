@@ -2,16 +2,18 @@
 
 Hi there , It's `Ah-Young Jang` 👋
 
-📘 How well-informed are you about latest trends in the **Web and Tech Field**?
+📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
 
-Here are several noteworthy trends that are gaining attention in the in the web and technology Industry. <br/>
+Here are several noteworthy trends that are gaining attention in the in the web and technology.
 
 Following posts are collected based on [Medium], along with trending topics and popular posts. <br/>
-Get the information conveniently right here. 🤓
 
-<img src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif" alt="Size Limit logo by Anton Lovchikov" align="right" width='40%' style="max-width: 400px;">
+Get more useful information conveniently right here. 🤓
 
-> These trends includes the following contents :
+<img src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="400" height="300">
+
+<blockquote>These trends includes the following contents :</blockquote>
 
 - **Frontend Trends**
   - Lastest trend topics which useful for frontend developers
@@ -26,3 +28,38 @@ Get the information conveniently right here. 🤓
 💡 If you have any further Questions or Ideas, welcome to ask!
 
 [Medium]: https://medium.com
+
+<br/>
+
+## 🚩 Table of Contents
+
+**1. Fornt-End**
+
+[<kbd> <br> React <br> </kbd>](#react)
+[<kbd> <br> NextJS <br> </kbd>](#nextjs)
+[<kbd> <br> UI/UX <br> </kbd>](#ux-design)
+[<kbd> <br> JS & TS <br> </kbd>](#javascript)
+[<kbd> <br> Node.js <br> </kbd>](#nodejs)
+
+[<kbd> <br> Web Development 💻 <br> </kbd>](web-development)
+[<kbd> <br> Web-Views 📱 <br> </kbd>](#webview)
+
+**2. Dev Common**
+
+[<kbd> <br> Programming <br> </kbd>](#programming)
+[<kbd> <br> Relationships <br> </kbd>](#relationships)
+[<kbd> <br> Technology <br> </kbd>](#technology)
+
+**3. Mobile Development**
+
+[<kbd> <br>Mobile App Development<br> </kbd>](#mobile-app-development)
+[<kbd> <br> Andriod<br> </kbd>](#andriod)
+[<kbd> <br> IOS <br> </kbd>](#ios)
+
+**4. Infra**
+
+[<kbd> <br> DevOps <br> </kbd>](#devops)
+[<kbd> <br> Kubernetes <br> </kbd>](#kubernetes)
+[<kbd> <br> Docker <br> </kbd>](#docker)
+
+<br/>
