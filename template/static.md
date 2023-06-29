@@ -1,4 +1,4 @@
-# Daliy Tech Trends
+# Daliy Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated-725236)
 
 Hi there , It's `Ah-Young Jang` 👋
 

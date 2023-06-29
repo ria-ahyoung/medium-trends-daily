@@ -1,68 +1,3 @@
-# Daliy Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated-725236)
-
-Hi there , It's `Ah-Young Jang` 👋
-
-📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
-
-Here are several noteworthy trends that are gaining attention in the in the web and technology.
-
-Following posts are collected based on [Medium], along with trending topics and popular posts. <br/>
-
-Get more useful information conveniently right here. 🤓
-
-<img src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="400" height="300">
-
-<blockquote>These trends includes the following contents :</blockquote>
-
-- **Frontend Trends**
-  - Lastest trend topics which useful for frontend developers
-  - Such as **`Next.js`, `React.js`, `Web development`**
-  - **`UI/UX`, `JS & TS`,** and **`Node.js`.**
-- **Developer** Common Topics
-  - Developer should be aware of abouts
-  - **`Technology`**, and **`Relationships`**
-- **Infrastructure** Knowledge
-  - related to **`DevOps`, `Kubernetes`, and `Docker`.**
-
-💡 If you have any further Questions or Ideas, welcome to ask!
-
-[Medium]: https://medium.com
-
-<br/>
-
-## 🚩 Table of Contents
-
-**1. Fornt-End**
-
-[<kbd> <br> React <br> </kbd>](#react)
-[<kbd> <br> NextJS <br> </kbd>](#nextjs)
-[<kbd> <br> UI/UX <br> </kbd>](#ux-design)
-[<kbd> <br> JS & TS <br> </kbd>](#javascript)
-[<kbd> <br> Node.js <br> </kbd>](#nodejs)
-
-[<kbd> <br> Web Development 💻 <br> </kbd>](web-development)
-[<kbd> <br> Web-Views 📱 <br> </kbd>](#webview)
-
-**2. Dev Common**
-
-[<kbd> <br> Programming <br> </kbd>](#programming)
-[<kbd> <br> Relationships <br> </kbd>](#relationships)
-[<kbd> <br> Technology <br> </kbd>](#technology)
-
-**3. Mobile Development**
-
-[<kbd> <br>Mobile App Development<br> </kbd>](#mobile-app-development)
-[<kbd> <br> Andriod<br> </kbd>](#andriod)
-[<kbd> <br> IOS <br> </kbd>](#ios)
-
-**4. Infra**
-
-[<kbd> <br> DevOps <br> </kbd>](#devops)
-[<kbd> <br> Kubernetes <br> </kbd>](#kubernetes)
-[<kbd> <br> Docker <br> </kbd>](#docker)
-
-<br/>
 
 <h1>ReactJS</h1>
 <h3>1. Bye-bye useState & useEffect: Revolutionizing React Development! - <a href=https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb?source=tag_page---------0-85--------------------0f4ed5db_23e4_4e32_be31_1aeb2fb12cdc-------17>link</a></h3>
@@ -568,3 +503,4 @@ if __name__ == '__main__'…</blockquote>
 ✍️ **posted by `Ganasai`** , <date>Apr 23</date>
 
 <blockquote>The above image clearly explains the complete process from scratch to the very end of deployment. Here I have set up the Jenkins pipeline using Jenkins File and Jenkins Shared Library. Jenkins Pipeline: — This supports Continuous Integration and Continuous Deployment by automating all the steps like build, testing, and…</blockquote>
+
