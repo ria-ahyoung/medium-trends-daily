@@ -19,6 +19,8 @@ Get more useful information conveniently right here. 🤓
   - Lastest trend topics which useful for frontend developers
   - Such as **`Next.js`, `React.js`, `Web development`**
   - **`UI/UX`, `JS & TS`,** and **`Node.js`.**
+- **Mobile**
+  - **`App Development`, `Android`, `IOS`**
 - **Developer** Common Topics
   - Developer should be aware of abouts
   - **`Technology`**, and **`Relationships`**
@@ -52,8 +54,8 @@ Get more useful information conveniently right here. 🤓
 
 **3. Mobile Development**
 
-[<kbd> <br> Mobile App Development <br> </kbd>](#app-development)
-[<kbd> <br> Andriod<br> </kbd>](#andriod)
+[<kbd> <br> Mobile App Development <br> </kbd>](#mobile-app-development)
+[<kbd> <br> Android <br> </kbd>](#android)
 [<kbd> <br> IOS <br> </kbd>](#ios)
 
 **4. Infra**
@@ -378,7 +380,7 @@ if __name__ == '__main__'…</blockquote>
 <blockquote>A lesson my daughter taught me out on the lake —  I’m fortunate to be the father of two compassionate daughters who often take time out of their busy schedules to teach me important life lessons. On one occasion, we were out on the lake riding a stand-up paddleboard. Rather than stand, I prefer to sit on the board and propel…</blockquote>
 
 <br/>
-<h1>App Development</h1>
+<h1>Mobile App Development</h1>
 <h3>1. Offline First Approach With Flutter - <a href=https://medium.com/arkitek-r-d/offline-first-approach-with-flutter-ace2843d36d8?source=tag_page---------0-85--------------------6e92f6ff_d878_47b9_a678_898c7e3966f3-------17>link</a></h3>
 
 ✍️ **posted by `Tugba Çekirge`** , <date>Jun 14</date>

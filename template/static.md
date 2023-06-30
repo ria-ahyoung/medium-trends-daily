@@ -22,6 +22,8 @@ Get more useful information conveniently right here. 🤓
 - **Developer** Common Topics
   - Developer should be aware of abouts
   - **`Technology`**, and **`Relationships`**
+- **Mobile**
+  - **`App Development`, `Android`, `IOS`**
 - **Infrastructure** Knowledge
   - related to **`DevOps`, `Kubernetes`, and `Docker`.**
 
@@ -53,7 +55,7 @@ Get more useful information conveniently right here. 🤓
 **3. Mobile Development**
 
 [<kbd> <br> Mobile App Development <br> </kbd>](#app-development)
-[<kbd> <br> Andriod<br> </kbd>](#andriod)
+[<kbd> <br> Android <br> </kbd>](#android)
 [<kbd> <br> IOS <br> </kbd>](#ios)
 
 **4. Infra**
