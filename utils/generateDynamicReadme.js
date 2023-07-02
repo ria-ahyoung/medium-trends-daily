@@ -18,7 +18,9 @@ import getCurrentDate from "./getCurrentDate.js";
  */
 
 export default async function generateDynamicReadme() {
-  console.log("Meduim에서 최신 트렌드를 받아옵니다. 잠시만 기다려 주세요...🤖");
+  console.log(
+    "Meduim에서 최신 트렌드를 받아옵니다. 잠시만 기다려 주세요... 🤖"
+  );
 
   const allContent = [];
 
@@ -36,11 +38,12 @@ export default async function generateDynamicReadme() {
     fs.writeFileSync(filePath, content, "utf-8");
 
     allContent.push(content);
+    console.log(`ㄴ ${tag} 작업 완료`);
   }
 
   const mergedContent = allContent.join("<br/>");
   fs.writeFileSync("./template/dynamic.md", mergedContent, "utf-8");
 
-  console.log("컨텐츠가 dynamic.md 파일에 동적으로 생성되었습니다. 📖");
+  console.log("신규 컨텐츠가 dynamic.md 파일에 동적으로 생성되었습니다. 📖");
   mergeReadmeFiles();
 }
