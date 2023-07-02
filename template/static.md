@@ -40,10 +40,11 @@ Get more useful information conveniently right here. 🤓
 [<kbd> <br> React <br> </kbd>](#reactjs)
 [<kbd> <br> NextJS <br> </kbd>](#nextjs)
 [<kbd> <br> UI/UX <br> </kbd>](#ui-ux-design)
-[<kbd> <br> JS & TS <br> </kbd>](#js-&-ts)
+[<kbd> <br> JavaScript <br> </kbd>](#javascript)
+[<kbd> <br> TypeScript <br> </kbd>](#typescript)
 [<kbd> <br> Node.js <br> </kbd>](#nodejs)
 
-[<kbd> <br> Web Development 💻 <br> </kbd>](web-development)
+[<kbd> <br> Web Development 💻 <br> </kbd>](#web-development)
 [<kbd> <br> Web-Views 📱 <br> </kbd>](#web-views)
 
 **2. Dev Common**
@@ -54,7 +55,7 @@ Get more useful information conveniently right here. 🤓
 
 **3. Mobile Development**
 
-[<kbd> <br> Mobile App Development <br> </kbd>](#app-development)
+[<kbd> <br> App Development <br> </kbd>](#app-development)
 [<kbd> <br> Android <br> </kbd>](#android)
 [<kbd> <br> IOS <br> </kbd>](#ios)
 

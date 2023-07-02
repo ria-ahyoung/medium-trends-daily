@@ -23,7 +23,7 @@ export default function generatePostContent(tag, posts) {
     const { title, author, date, preview, link } = post;
     const template = `<h3>${
       index + 1
-    }. ${title} - <a href=${link}>link</a></h3>\n\n✍️ **posted by \`${author}\`** , <date>${date}</date>\n\n<blockquote>${
+    }. ${title} - <a href=${link} target="_blank" rel="noopener noreferrer">link</a></h3>\n\n✍️ **posted by \`${author}\`** , <date>${date}</date>\n\n<blockquote>${
       preview ?? "Click the link to check out the post. ⌲"
     }</blockquote>\n\n`;
     readmeContent += template;
