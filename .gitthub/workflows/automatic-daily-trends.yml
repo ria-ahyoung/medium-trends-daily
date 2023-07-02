@@ -1,0 +1,32 @@
+name: Daily Medium Trends Pipline
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Run script
+        run: |
+          node index.js
+
+          git config --global user.name "ria-ahyoung"
+          git config --global user.email "ria.ahyoung@gmail.com"
+
+          git pull origin main
+
+          git add .
+          git commit -m "feat: 🎉 update `$(date +'%Y/%m/%d')` Tech Trends"
+
+          git push
