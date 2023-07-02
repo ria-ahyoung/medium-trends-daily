@@ -18,7 +18,10 @@ import getCurrentDate from "./getCurrentDate.js";
  */
 
 export default async function generateDynamicReadme() {
+  console.log("Meduim에서 최신 트렌드를 받아옵니다. 잠시만 기다려 주세요...🤖");
+
   const allContent = [];
+
   for (const tag of TRENDS_TOPIC) {
     const posts = await fetchMediumPosts(tag);
     const content = generatePostContent(tag, posts);
@@ -38,5 +41,6 @@ export default async function generateDynamicReadme() {
   const mergedContent = allContent.join("<br/>");
   fs.writeFileSync("./template/dynamic.md", mergedContent, "utf-8");
 
+  console.log("컨텐츠가 dynamic.md 파일에 동적으로 생성되었습니다. 📖");
   mergeReadmeFiles();
 }
