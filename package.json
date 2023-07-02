@@ -1,0 +1,12 @@
+{
+  "name": "Medium-Trends-Daily",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ria-ahyoung/medium-trends-daily.git",
+  "author": "ria-ahyoung <ria.ahyoung@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
