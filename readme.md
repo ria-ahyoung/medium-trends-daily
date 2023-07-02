@@ -1,4 +1,4 @@
-# Daliy Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated-725236)
 
 Hi there , It's `Ah-Young Jang` 👋
 
@@ -65,7 +65,6 @@ Get more useful information conveniently right here. 🤓
 [<kbd> <br> Docker <br> </kbd>](#docker)
 
 <br/>
-
 
 <h1>ReactJS</h1>
 <h3>1. Bye-bye useState & useEffect: Revolutionizing React Development! - <a href=https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb?source=tag_page---------0-85--------------------be097360_d57f_4460_9211_4b937e120ce8-------17>link</a></h3>
@@ -571,4 +570,3 @@ if __name__ == '__main__'…</blockquote>
 ✍️ **posted by `Rajani Ekunde`** , <date>3 days ago</date>
 
 <blockquote>Hello there🌻 In this article, we will be deploying a Java Spring Boot Application on Kubernetes. Here is the flow chart of the project deployment. Steps that are done in the Project are as follow: Set up the cloud server Install the dependencies Set up Mini-Kube Clone the Repository Configure…</blockquote>
-
