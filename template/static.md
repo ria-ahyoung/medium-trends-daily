@@ -4,7 +4,7 @@ Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
 
-Here are several noteworthy trends that are gaining attention in the in the web and technology.
+Here are several noteworthy trends that are gaining attention in the web and technology.
 
 Following posts are collected based on [Medium], along with trending topics and popular posts. <br/>
 
