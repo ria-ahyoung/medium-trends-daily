@@ -5,6 +5,7 @@ import { DISPLAY_LABEL, TRENDS_TOPIC } from "../static/index.js";
 import fetchMediumPosts from "../services/fetchMediumPosts.js";
 
 import generatePostContent from "./generatePostContent.js";
+import mergeReadmeFiles from "./mergeReadmeFiles.js";
 import getCurrentDate from "./getCurrentDate.js";
 
 /**
