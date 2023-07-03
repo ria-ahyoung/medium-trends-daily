@@ -3,7 +3,7 @@ name: Daily Medium Trends Pipline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 0 * * * *"
 
 jobs:
   run-script:
@@ -18,19 +18,22 @@ jobs:
         with:
           node-version: 16
 
-      - name: Install Dependencies ⚙️
+      - name: Install Dependencies 🔩
         run: yarn
 
-      - name: Run script 🏃‍♀️
-        run: |
-          node index.js
+      - name: Run Script 🏃‍♀️
+        run: node index.js
 
+      - name: Login Github 🔑
+        run: |
           git config --global user.name "ria-ahyoung"
           git config --global user.email "ria.ahyoung@gmail.com"
 
+      - name: Commit Github 🔖
+        run: |
           git pull origin main
-
           git add .
-          git commit -m "feat: 🎉 update `$(date +'%Y/%m/%d')` Tech Trends"
+          git commit -m "feat: 🎉 update `${{ format('{0:yyyy/MM/dd}', github.run_number) }}` Tech Trends"
 
-          git push
+      - name: Push Github 💻
+        run: git push
