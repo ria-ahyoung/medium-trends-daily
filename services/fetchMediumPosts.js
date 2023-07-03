@@ -1,3 +1,4 @@
+import axios from "axios";
 import { JSDOM } from "jsdom";
 
 import { BASE_URL } from "../static/app.js";
@@ -18,10 +19,10 @@ const postLimit = 5;
 export default async function fetchMediumPosts(tag = "nextjs") {
   try {
     const url = `${BASE_URL}/tag/${tag}/top/week`;
-    const response = await fetch(url);
+    const response = await axios.get(url);
 
-    if (response.ok) {
-      const html = await response.text();
+    if (response.status === 200) {
+      const html = response.data;
       const document = new JSDOM(html).window.document;
 
       let postInfo = [];
