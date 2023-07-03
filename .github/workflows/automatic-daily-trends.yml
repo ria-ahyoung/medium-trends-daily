@@ -6,7 +6,7 @@ on:
 
 jobs:
   run-script:
-    runs-on: self-hosted
+    runs-on: macOS
 
     steps:
       - name: Checkout repository 🛎
