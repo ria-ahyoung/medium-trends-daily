@@ -19,7 +19,7 @@ export default function generatePostContent(tag, posts) {
   const label = DISPLAY_LABEL[tag].split("/")[1];
   let readmeContent = `\n<h1>${label}</h1>\n`;
 
-  posts.forEach((post, index) => {
+  posts?.forEach((post, index) => {
     const { title, author, date, preview, link } = post;
     const template = `<h3>${
       index + 1
