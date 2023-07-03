@@ -3,14 +3,14 @@ name: Daily Medium Trends Pipline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   run-script:
     runs-on: macOS
 
     steps:
-      - name: Checkout repository 🛎
+      - name: Checkout Repository 🛎
         uses: actions/checkout@v2
 
       - name: Setup Node.js ⭐️
@@ -18,10 +18,10 @@ jobs:
         with:
           node-version: 16
 
-      - name: Install Dependencies 🔩
+      - name: Install Dependencies ⚙️
         run: yarn
 
-      - name: Run Script 🏃‍♀️
+      - name: Run Scripts 🏃‍♀️
         run: node index.js
 
       - name: Login Github 🔑
@@ -33,7 +33,7 @@ jobs:
         run: |
           git pull origin main
           git add .
-          git commit -m "feat: 🎉 update `${{ format('{0:yyyy/MM/dd}', github.run_number) }}` Tech Trends"
+          git commit -m "feat: 🎉 update `${{ format('{0:yyyy/MM/dd}', github.event.created_at) }}` Tech Trends"
 
       - name: Push Github 💻
         run: git push
