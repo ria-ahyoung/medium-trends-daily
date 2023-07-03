@@ -2,22 +2,25 @@ name: Daily Medium Trends Pipline
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository 🛎
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
+      - name: Set up Node.js ⭐️
         uses: actions/setup-node@v2
         with:
           node-version: 16
+      
+      - name: Install Dependencies ⚙️
+        run: yarn
 
-      - name: Run script
+      - name: Run script 🏃‍♀️
         run: |
           node index.js
 
