@@ -1,7 +1,7 @@
 name: Daily Medium Trends Pipline
 
 on:
-  workflows_dispatch:
+  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
 
