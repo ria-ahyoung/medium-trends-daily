@@ -1,6 +1,7 @@
 name: Daily Medium Trends Pipline
 
 on:
+  workflows_dispatch:
   schedule:
     - cron: "*/5 * * * *"
 
@@ -12,11 +13,11 @@ jobs:
       - name: Checkout repository 🛎
         uses: actions/checkout@v2
 
-      - name: Set up Node.js ⭐️
+      - name: Setup Node.js ⭐️
         uses: actions/setup-node@v2
         with:
           node-version: 16
-      
+
       - name: Install Dependencies ⚙️
         run: yarn
 
