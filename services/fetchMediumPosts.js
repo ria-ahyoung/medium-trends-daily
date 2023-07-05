@@ -1,7 +1,7 @@
 import axios from "axios";
 import { JSDOM } from "jsdom";
 
-import { BASE_URL } from "../static/app.js";
+import { BASE_URL } from "../static/APP.js";
 import getElementContent from "../utils/getElementContent.js";
 
 const postLimit = 5;
