@@ -11,7 +11,7 @@ export default function getCurrentDate() {
   const currentDate = new Date();
   const year = currentDate.getFullYear().toString();
   const month = (currentDate.getMonth() + 1).toString();
-  const day = currentDate.getDate();
+  const day = currentDate.getDate().toString();
   const week = getWeekNumber(currentDate);
 
   return {

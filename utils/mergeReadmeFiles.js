@@ -1,13 +1,15 @@
 import fs from "fs";
+import { generateDateTitle } from "./index.js";
 
 const readmeFiles = ["./template/static.md", "./template/dynamic.md"];
 
 export default function mergeReadmeFiles() {
   try {
+    const title = generateDateTitle();
     const staticFileContent = fs.readFileSync(readmeFiles[0], "utf-8");
     const dynamicFileContent = fs.readFileSync(readmeFiles[1], "utf-8");
 
-    const mergedContent = staticFileContent + "\n" + dynamicFileContent;
+    const mergedContent = title + staticFileContent + "\n" + dynamicFileContent;
     fs.writeFileSync("./readme.md", mergedContent, "utf-8");
 
     console.log("Readme 파일 합치기가 완료되었습니다. 🎉");
