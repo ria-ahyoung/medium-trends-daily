@@ -1,5 +1,3 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated-725236)
-
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -37,8 +35,8 @@ Get more useful information conveniently right here. 🤓
 
 **1. Fornt-End**
 
-[<kbd> <br> React <br> </kbd>](#reactjs)
-[<kbd> <br> NextJS <br> </kbd>](#nextjs)
+[<kbd> <br> React.js <br> </kbd>](#reactjs)
+[<kbd> <br> Next.js <br> </kbd>](#nextjs)
 [<kbd> <br> UI/UX <br> </kbd>](#ui-ux-design)
 [<kbd> <br> JavaScript <br> </kbd>](#javascript)
 [<kbd> <br> TypeScript <br> </kbd>](#typescript)
