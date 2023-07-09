@@ -27,7 +27,7 @@ export default function getElementContent(document, type) {
     ),
     link: document
       .querySelector("div.l.ed > span > div > a")
-      .getAttribute("href"),
+      ?.getAttribute("href"),
   };
 
   if (EXCEPTION_TYPE.includes(type)) return elements[type];
