@@ -28,6 +28,8 @@ export default async function fetchMediumPosts(tag = "nextjs") {
       let postInfo = [];
       const posts = getElementContent(document, "article");
 
+      if (!posts.length) return { link: url };
+
       posts.forEach((post, index) => {
         if (index >= postLimit) return;
 
