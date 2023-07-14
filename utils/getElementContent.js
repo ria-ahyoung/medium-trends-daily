@@ -14,20 +14,16 @@
  *
  */
 
-const EXCEPTION_TYPE = ["article", "link"];
+const EXCEPTION_TYPE = ["article", "title", "link"];
 
 export default function getElementContent(document, type) {
   const elements = {
-    article: document.querySelectorAll("div.l > article > div.ja.jb.jc.l"),
-    title: document.querySelector("h2"),
-    author: document.querySelector("div.ab.q > a > p"),
-    date: document.querySelector("div.ab.q > a > p.be.b.bf.z.fq"),
-    preview: document.querySelector(
-      "a.af.ag.ah.ai.aj.ak.al.am.an.ao.ap.aq.ar.as.at > div > p"
-    ),
-    link: document
-      .querySelector("div.l.ed > span > div > a")
-      ?.getAttribute("href"),
+    article: document.querySelectorAll("article.kt"),
+    title: document.querySelector("div.li > a").getAttribute("aria-label"),
+    author: document.querySelector("div.bl > a > p"),
+    date: document.querySelector("div.ab.q"),
+    preview: document.querySelector("div.no.l > h3"),
+    link: document.querySelector("div.li > a").getAttribute("href"),
   };
 
   if (EXCEPTION_TYPE.includes(type)) return elements[type];

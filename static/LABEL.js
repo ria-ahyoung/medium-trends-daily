@@ -1,6 +1,6 @@
 const DISPLAY_LABEL = {
   /* Front-End */
-  react: "Front/ReactJS",
+  reactjs: "Front/ReactJS",
   nextjs: "Front/NextJS",
   "ui-ux-design-trends": "Front/UI-UX Design",
   "javascript-development": "Front/JavaScript",
