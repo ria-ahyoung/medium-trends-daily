@@ -33,3 +33,9 @@ jobs:
         run: |
           COMMIT_DATE=$(date +"%Y/%m/%d")
           echo $COMMIT_DATE
+          git pull origin main
+          git add .
+          git commit -m "feat: 🎉 update \`${COMMIT_DATE}\` Tech Trends"
+
+      - name: Push Github 💻
+        run: git push
