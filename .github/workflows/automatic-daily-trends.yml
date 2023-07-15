@@ -1,9 +1,9 @@
-name: Daily Medium Trends Pipline
+name: Daily Medium Trends Pipeline
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   run-script:
@@ -31,10 +31,5 @@ jobs:
 
       - name: Commit Github 🔖
         run: |
-          COMMIT_DATE=$(git log -1 --format=%cd --date=format:'%Y/%m/%d')
-          git pull origin main
-          git add .
-          git commit -m "feat: 🎉 update \`${COMMIT_DATE}\` Tech Trends"
-
-      - name: Push Github 💻
-        run: git push
+          COMMIT_DATE=$(date +"%Y/%m/%d")
+          echo $COMMIT_DATE
