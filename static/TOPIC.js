@@ -1,5 +1,5 @@
 const front = [
-  "react",
+  "reactjs",
   "nextjs",
   "ui-ux-design-trends",
   "javascript-development",
