@@ -18,7 +18,7 @@ const postLimit = 5;
 
 export default async function fetchMediumPosts(tag = "nextjs") {
   try {
-    const url = `${BASE_URL}/tag/${tag}`;
+    const url = `${BASE_URL}/tag/${tag}/recommended`;
     const response = await axios.get(url);
 
     if (response.status === 200) {
@@ -35,7 +35,7 @@ export default async function fetchMediumPosts(tag = "nextjs") {
 
         const title = getElementContent(post, "title");
         const author = getElementContent(post, "author");
-        const date = getElementContent(post, "date").split("·")[1];
+        const date = getElementContent(post, "date")?.split("·")[1] ?? "";
         const preview = getElementContent(post, "preview");
         const link = getElementContent(post, "link");
 

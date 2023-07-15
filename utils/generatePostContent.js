@@ -1,4 +1,4 @@
-import { DISPLAY_LABEL } from "../static/index.js";
+import { BASE_URL, DISPLAY_LABEL } from "../static/index.js";
 
 /**
  * @description 포스팅 정보를 README 컨텐츠로 생성해 반환하는 함수입니다.
@@ -17,10 +17,11 @@ import { DISPLAY_LABEL } from "../static/index.js";
 
 export default function generatePostContent(tag, posts) {
   const label = DISPLAY_LABEL[tag].split("/")[1];
-  let readmeContent = `\n<h1>${label}</h1>\n`;
+  const mainUrl = `${BASE_URL}/tag/${tag}/recommended`;
+  let readmeContent = `\n<h1><a href=${mainUrl} target="_blank" rel="noopener noreferrer">${label}</a></h1>\n`;
 
   if (Object.keys(posts).length === 1 && posts.hasOwnProperty("link")) {
-    return (readmeContent += directContent(posts.link, label));
+    return (readmeContent += directContent(label));
   } else {
     posts?.forEach((post, index) => {
       const template = templateContent(post, index);
@@ -30,15 +31,17 @@ export default function generatePostContent(tag, posts) {
   }
 }
 
-const directContent = (url, label) => {
-  return `<h3>🔥 &nbsp;<a href=${url} target="_blank">${label} 주간 핫토픽</a>&nbsp; 🔗</h3>\n`;
+const directContent = (label) => {
+  return `<h3>🔥 &nbsp;<a href=${mainUrl} target="_blank" rel="noopener noreferrer">${label} 주간 핫토픽</a>&nbsp; 🔗</h3>\n`;
 };
 
 const templateContent = (post, index) => {
   const { title, author, date, preview, link } = post;
   return `<h3>${
     index + 1
-  }. ${title} - <a href=${link} target="_blank" rel="noopener noreferrer">link</a></h3>\n\n✍️ **posted by \`${author}\`** , <date>${date}</date>\n\n<blockquote>${
+  }. ${title} - <a href=${link} target="_blank" rel="noopener noreferrer">link</a></h3>\n\n✍️ **posted by \`${author}\`** <date>${
+    date ? " , " + date : date
+  }</date>\n\n<blockquote>${
     preview ?? "Click the link to check out the post. ⌲"
   }</blockquote>\n\n`;
 };
