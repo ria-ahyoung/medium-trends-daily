@@ -23,7 +23,7 @@ export default function getElementContent(document, type) {
     author: document.querySelector("div.bl > a > p"),
     date: document.querySelector("a > span > div"),
     preview: document.querySelector("div.jc > h3"),
-    link: document.querySelector("div.bl > a").getAttribute("href"),
+    link: document.querySelector("div.l.er.ib > a").getAttribute("href"),
   };
 
   if (EXCEPTION_TYPE.includes(type)) return elements[type];
