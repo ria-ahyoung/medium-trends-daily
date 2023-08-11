@@ -20,9 +20,8 @@ export default function generatePostContent(tag, posts) {
   const mainUrl = `${BASE_URL}/tag/${tag}/recommended`;
   let readmeContent = `\n<h1><a href=${mainUrl} target="_blank" rel="noopener noreferrer">${label}</a></h1>\n`;
 
-  if (Object.keys(posts).length === 1 && posts.hasOwnProperty("link")) {
-    return (readmeContent += directContent(label));
-  } else {
+  if (!posts) return readmeContent += directContent('https://medium.com/tag/' + tag, label);
+  else {
     posts?.forEach((post, index) => {
       const template = templateContent(post, index);
       readmeContent += template;
@@ -31,8 +30,8 @@ export default function generatePostContent(tag, posts) {
   }
 }
 
-const directContent = (label) => {
-  return `<h3>🔥 &nbsp;<a href=${mainUrl} target="_blank" rel="noopener noreferrer">${label} 주간 핫토픽</a>&nbsp; 🔗</h3>\n`;
+const directContent = (link, label) => {
+  return `<h3>🔥 &nbsp;<a href=${link} target="_blank" rel="noopener noreferrer">${label} 주간 핫토픽</a>&nbsp; 🔗</h3>\n`;
 };
 
 const templateContent = (post, index) => {
