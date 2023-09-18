@@ -48,33 +48,4 @@
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/kubernetes target="_blank" rel="noopener noreferrer">Kubernetes 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Use bun from a Docker container - <a href=https://medium.com/@jogarcia/use-bun-from-a-docker-container-c9011bfd6d4e?source=tag_recommended_feed---------0-84----------docker----------38b7b98e_6002_484a_b2f0_84196a5337b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jose Garcia`** <date> , 1 day ago</date>
-
-<blockquote>A guide on how to use Bun from inside a Docker container</blockquote>
-
-<h3>2. Unlocking the Power of Containerization: Why Data Scientists Need to Learn Dockers and Kubernetes? - <a href=https://medium.com/gitconnected/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc?source=tag_recommended_feed---------1-107----------docker----------38b7b98e_6002_484a_b2f0_84196a5337b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Youssef Hosni`** <date> , 14 min read</date>
-
-<blockquote>As the field of data science continues to evolve, it’s becoming increasingly important for practitioners to stay up-to-date with the latest…</blockquote>
-
-<h3>3. A Collection of Docker Images To Solve All Your Debugging Needs - <a href=https://medium.com/better-programming/a-collection-of-docker-images-to-solve-all-your-debugging-needs-189973aae5c0?source=tag_recommended_feed---------2-85----------docker----------38b7b98e_6002_484a_b2f0_84196a5337b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Martin Heinz`** <date> , 6 min read</date>
-
-<blockquote>Whether you’re debugging networking, databases, your application code, or anything else, these images will be all you need to get it done</blockquote>
-
-<h3>4. Azure Devops self-hosted agent with Docker - <a href=https://medium.com/@ahmed.trifa1/azure-devops-self-hosted-agent-with-docker-92b03d430484?source=tag_recommended_feed---------3-84----------docker----------38b7b98e_6002_484a_b2f0_84196a5337b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `ahmed trifa`** <date> , 16 hours ago</date>
-
-<blockquote>It is common for a self-hosted agent to handle custom softwares, enforce networking/security aspects, or increase performance over hosted…</blockquote>
-
-<h3>5. Remote development, or: How I learned to stop worrying and love the Mainframe - <a href=https://medium.com/homullus/remote-development-or-how-i-learned-to-stop-worrying-and-love-the-mainframe-90165147a57d?source=tag_recommended_feed---------4-107----------docker----------38b7b98e_6002_484a_b2f0_84196a5337b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Marko Mitranić`** <date> , Aug 13, 2021</date>
-
-<blockquote>Development on a remote server is not as tricky as it sounds. In fact getting a cheap VPS droplet or a cluster has some insane benefits…</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/docker target="_blank" rel="noopener noreferrer">Docker 주간 핫토픽</a>&nbsp; 🔗</h3>
