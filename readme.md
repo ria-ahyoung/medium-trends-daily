@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/02/19)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/02/20)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,63 +68,63 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------0-107----------reactjs----------afdb8be9_fcbe_4704_9b21_14ad1cc212ce------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. EventPulse: Revolutionizing Event Management with React JS and Flask - <a href=https://medium.com/@johngaitho/eventeventpulse-revolutionizing-event-management-with-react-js-and-flask-2eab5c811c8c?source=tag_recommended_feed---------0-84----------reactjs----------38002313_49ea_42ce_a575_19eb4c5cef5d------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `John Gaitho`** <date> , 4 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------1-107----------reactjs----------38002313_49ea_42ce_a575_19eb4c5cef5d------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Exploring React 19: 4 New Hooks for Practical Use - <a href=https://medium.com/stackademic/react-js-v19-exploring-react-19-4-new-hooks-for-practical-use-90b9373014bb?source=tag_recommended_feed---------1-85----------reactjs----------afdb8be9_fcbe_4704_9b21_14ad1cc212ce------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Exploring React 19: 4 New Hooks for Practical Use - <a href=https://medium.com/stackademic/react-js-v19-exploring-react-19-4-new-hooks-for-practical-use-90b9373014bb?source=tag_recommended_feed---------2-85----------reactjs----------38002313_49ea_42ce_a575_19eb4c5cef5d------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `TechVirtuoso τεχνολογία`** <date> , 4 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Integrating React with Django Multipage Application - <a href=https://medium.com/wetheitguys/integrating-react-with-django-multipage-application-355462baaf5d?source=tag_recommended_feed---------2-84----------reactjs----------afdb8be9_fcbe_4704_9b21_14ad1cc212ce------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The current state of using React Three Fiber in React Native + Expo - <a href=https://medium.com/@trifonstatkov/the-current-state-of-using-react-three-fiber-in-react-native-expo-c65918593eaf?source=tag_recommended_feed---------3-84----------reactjs----------38002313_49ea_42ce_a575_19eb4c5cef5d------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Viraj Sharma`** <date> , 1 day ago</date>
+✍️ **posted by `Trifon Statkov`** <date> , 5 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. How To Create React Components That Run On Every React Framework? - <a href=https://medium.com/bitsrc/create-react-components-in-nextjs-bea5ce6d7171?source=tag_recommended_feed---------3-107----------reactjs----------afdb8be9_fcbe_4704_9b21_14ad1cc212ce------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How To Create React Components That Run On Every React Framework? - <a href=https://medium.com/bitsrc/create-react-components-in-nextjs-bea5ce6d7171?source=tag_recommended_feed---------4-107----------reactjs----------38002313_49ea_42ce_a575_19eb4c5cef5d------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Lakindu Hewawasam`** <date> , Jan 8, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Top 10 ReactJS Coding Interview Challenge For 2024 - <a href=https://medium.com/javascript-in-plain-english/top-10-reactjs-coding-interview-challenge-for-2024-c1e591f9384c?source=tag_recommended_feed---------4-85----------reactjs----------afdb8be9_fcbe_4704_9b21_14ad1cc212ce------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ravi Sharma`** <date> , Jan 25, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. NextJS vs ReactJS — like Juice vs Water. - <a href=https://medium.com/@dorianszafranski17/nextjs-vs-reactjs-like-juice-vs-water-f033b52b9e1c?source=tag_recommended_feed---------0-84----------nextjs----------9b126613_af5c_4520_99ab_18bf13c5b0fc------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Collection of Custom Hooks For Your Nextjs-React Project - <a href=https://medium.com/javascript-in-plain-english/collection-of-custom-hooks-for-your-nextjs-react-project-1779379e6f4a?source=tag_recommended_feed---------0-84----------nextjs----------bb5f0200_c8fd_4570_b44a_1deb49237fad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dorian Szafranski`** <date> , 1 day ago</date>
+✍️ **posted by `Ravi Sharma`** <date> , 14 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------9b126613_af5c_4520_99ab_18bf13c5b0fc------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------bb5f0200_c8fd_4570_b44a_1deb49237fad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Katharine A.`** <date> , 13 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Best free, open-source SaaS starters for React & NextJS 2024 - <a href=https://medium.com/@WaspLang/best-free-open-source-saas-starters-for-react-nextjs-2024-b00ab7499409?source=tag_recommended_feed---------2-85----------nextjs----------9b126613_af5c_4520_99ab_18bf13c5b0fc------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Why you should avoid using useEffect hook in React and what to do instead - <a href=https://medium.com/stackademic/why-you-should-avoid-using-useeffect-hook-in-react-and-what-to-do-instead-740660e33420?source=tag_recommended_feed---------2-85----------nextjs----------bb5f0200_c8fd_4570_b44a_1deb49237fad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wasp`** <date> , Jan 25, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. You don’t need a static site generator - <a href=https://medium.com/@taig/you-dont-need-a-static-site-generator-c3332c08d2f0?source=tag_recommended_feed---------3-84----------nextjs----------9b126613_af5c_4520_99ab_18bf13c5b0fc------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Niklas Klein`** <date> , 1 day ago</date>
+✍️ **posted by `Marcelo Botelho`** <date> , Jan 7, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------9b126613_af5c_4520_99ab_18bf13c5b0fc------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Build a 1-Click Deployment Service like Vercel with Production-Ready Microservice Architecture - <a href=https://medium.com/stackademic/build-a-1-click-deployment-service-like-vercel-with-production-ready-microservice-architecture-4f05d3fd8427?source=tag_recommended_feed---------3-84----------nextjs----------bb5f0200_c8fd_4570_b44a_1deb49237fad------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Talha Siddique`** <date> , 8 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------bb5f0200_c8fd_4570_b44a_1deb49237fad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Teng Wei Herr`** <date> , 6 min read</date>
 
@@ -132,103 +132,45 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------1a8d6af2_3b75_4eec_9222_013e050e6eaa------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shailesh Chauhan`** <date> , Dec 28, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. A Guide to Empathy Mapping in UX/UI - <a href=https://medium.com/@kumarisakshi9595/a-guide-to-empathy-mapping-in-ux-ui-7eeae0570ebe?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------1a8d6af2_3b75_4eec_9222_013e050e6eaa------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`** <date> , Jun 30, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------1a8d6af2_3b75_4eec_9222_013e050e6eaa------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`** <date> , Dec 19, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. UX/UI design trends in 2023 - <a href=https://medium.com/magnetic/ux-ui-design-trends-in-2023-efdc94ea0fb7?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------1a8d6af2_3b75_4eec_9222_013e050e6eaa------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `David Bailey`** <date> , Feb 19, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------1a8d6af2_3b75_4eec_9222_013e050e6eaa------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Design Studio`** <date> , Nov 30, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/ui-ux-design-trends target="_blank" rel="noopener noreferrer">UI-UX Design 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. ReactJS Hooks - <a href=https://medium.com/@pardeep_k/reactjs-hooks-0e12db232c39?source=tag_recommended_feed---------0-84----------javascript_development----------456681a9_dcee_43fd_9648_590e9d9b6be5------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Pardeep Kumar`** <date> , 14 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------456681a9_dcee_43fd_9648_590e9d9b6be5------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ravi Sharma`** <date> , Jan 1, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. 10 Advanced JavaScript Tricks for Experienced Developers 🔥🔥 - <a href=https://medium.com/@lokesh-prajapati/10-advanced-javascript-tricks-for-experienced-developers-8afb44b24427?source=tag_recommended_feed---------2-85----------javascript_development----------456681a9_dcee_43fd_9648_590e9d9b6be5------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Lokesh Prajapati`** <date> , Jan 29, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Angular 16 is HERE! 5 Features that will blow your mind 🤯 - <a href=https://medium.com/@Luna-Rojas/angular-16-is-here-5-features-that-will-blow-your-mind-3d2c7e80d8d4?source=tag_recommended_feed---------3-84----------javascript_development----------456681a9_dcee_43fd_9648_590e9d9b6be5------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Luna Rojas`** <date> , 4 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------456681a9_dcee_43fd_9648_590e9d9b6be5------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Daisy Kirui`** <date> , Sep 21, 2022</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/javascript-development target="_blank" rel="noopener noreferrer">JavaScript 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. How to Create Read-Only Objects in TypeScript - <a href=https://medium.com/@alexefimenko/how-to-create-read-only-objects-in-typescript-c1444ad9f28c?source=tag_recommended_feed---------0-84----------typescript_tips----------9afb8553_9205_475d_a718_adfb3e7b1b24------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Alex Efimenko`** <date> , 3 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------9afb8553_9205_475d_a718_adfb3e7b1b24------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Chris Bauer`** <date> , Jul 11, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. 5 Tools for Typescript Projects at Scale - <a href=https://medium.com/bitsrc/5-tools-for-typescript-projects-at-scale-05667f8a0ae0?source=tag_recommended_feed---------2-85----------typescript_tips----------9afb8553_9205_475d_a718_adfb3e7b1b24------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ashan Fernando`** <date> , Jan 25, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Typescript: Type vs Interface - <a href=https://medium.com/@wotinda/typescript-type-vs-interface-31f9be034aec?source=tag_recommended_feed---------3-84----------typescript_tips----------9afb8553_9205_475d_a718_adfb3e7b1b24------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Wot in da`** <date> , 2 days ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. 10 TypeScript Tips and Tricks for Advanced Developers - <a href=https://medium.com/@codegirljs/10-typescript-tips-and-tricks-for-advanced-developers-25db6fe6aa72?source=tag_recommended_feed---------4-85----------typescript_tips----------9afb8553_9205_475d_a718_adfb3e7b1b24------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Skylar Johnson`** <date> , Aug 10, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/typescript-tips target="_blank" rel="noopener noreferrer">TypeScript 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/nodejs target="_blank" rel="noopener noreferrer">NodeJS 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. Node.js vs Deno vs Bun: Benchmark for a real-world case — JWT, Postgres, PDF gen - <a href=https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-benchmark-for-a-real-world-case-jwt-postgres-pdf-gen-9fbd94bb9a83?source=tag_recommended_feed---------0-84----------nodejs----------3dbc05b1_7944_4cc8_b739_bbb4e55e7a19------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mayank Choubey`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Why UUID7 is better than UUID4 as clustered index in RDBMS - <a href=https://medium.com/@rtawadrous/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056?source=tag_recommended_feed---------1-107----------nodejs----------3dbc05b1_7944_4cc8_b739_bbb4e55e7a19------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `RimonTawadrous`** <date> , Jan 15, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. Top 5 Node.js Features Every Developer Should Know - <a href=https://medium.com/bitsrc/top-5-features-of-nodejs-e49d1c68f4a7?source=tag_recommended_feed---------2-85----------nodejs----------3dbc05b1_7944_4cc8_b739_bbb4e55e7a19------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Danusha Navod`** <date> , 6 days ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. Automatic API Documentation for Express.js Using Swagger - <a href=https://medium.com/aws-tip/automatic-api-documentation-for-express-js-using-swagger-bd3c6a431c36?source=tag_recommended_feed---------3-84----------nodejs----------3dbc05b1_7944_4cc8_b739_bbb4e55e7a19------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Bernabas Tekkalign`** <date> , 7 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Node.js Mastery: Advanced Development & Performance Tips - <a href=https://medium.com/@Choco23/node-js-mastery-advanced-development-performance-tips-da07355c1e8a?source=tag_recommended_feed---------4-107----------nodejs----------3dbc05b1_7944_4cc8_b739_bbb4e55e7a19------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Choco`** <date> , 6 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/web-development target="_blank" rel="noopener noreferrer">Web Development 주간 핫토픽</a>&nbsp; 🔗</h3>
