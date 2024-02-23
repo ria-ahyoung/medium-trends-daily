@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/02/22)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/02/23)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,63 +68,63 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------0-84----------reactjs----------5279b653_8c9e_4f8d_8bae_a04554bf5d9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Heart of React: Exploring the Core Hooks for Seamless Development - <a href=https://medium.com/@manishsinghmail03/the-heart-of-react-exploring-the-core-hooks-for-seamless-development-1b243e7ca43c?source=tag_recommended_feed---------0-84----------reactjs----------98ab0666_356e_43b4_a71f_5057463f20a3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Manish Singh`** <date> , 13 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------98ab0666_356e_43b4_a71f_5057463f20a3------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------1-107----------reactjs----------5279b653_8c9e_4f8d_8bae_a04554bf5d9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. Exploring React 19: 4 New Hooks for Practical Use - <a href=https://medium.com/stackademic/react-js-v19-exploring-react-19-4-new-hooks-for-practical-use-90b9373014bb?source=tag_recommended_feed---------2-85----------reactjs----------5279b653_8c9e_4f8d_8bae_a04554bf5d9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Exploring React 19: 4 New Hooks for Practical Use - <a href=https://medium.com/stackademic/react-js-v19-exploring-react-19-4-new-hooks-for-practical-use-90b9373014bb?source=tag_recommended_feed---------2-85----------reactjs----------98ab0666_356e_43b4_a71f_5057463f20a3------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `TechVirtuoso τεχνολογία`** <date> , 6 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Create a react app without node_modules (self-contained, offline and production-ready) - <a href=https://medium.com/@msheriffusa/create-a-react-app-without-node-modules-and-self-contained-offline-and-production-ready-f0840e5e77b5?source=tag_recommended_feed---------3-84----------reactjs----------5279b653_8c9e_4f8d_8bae_a04554bf5d9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How To Transform ReactJS Animation into Video: the Lightweight Version of Remotion - <a href=https://medium.com/javascript-in-plain-english/how-to-transform-reactjs-animation-into-video-the-lightweight-version-of-remotion-25706b1e0251?source=tag_recommended_feed---------3-84----------reactjs----------98ab0666_356e_43b4_a71f_5057463f20a3------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammed Sheriff`** <date> , 2 hours ago</date>
+✍️ **posted by `Vladimir Topolev`** <date> , 7 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. How To Create React Components That Run On Every React Framework? - <a href=https://medium.com/bitsrc/create-react-components-in-nextjs-bea5ce6d7171?source=tag_recommended_feed---------4-107----------reactjs----------5279b653_8c9e_4f8d_8bae_a04554bf5d9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------98ab0666_356e_43b4_a71f_5057463f20a3------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lakindu Hewawasam`** <date> , Jan 8, 2024</date>
+✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Next.js CLI TURBO - <a href=https://medium.com/stackademic/next-js-cli-turbo-f0b6cf768136?source=tag_recommended_feed---------0-84----------nextjs----------d7cb9f2c_b9ec_4878_a232_7ba2a18c83d9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Shopify Mastery Unlocked: The Ultimate Guide to Launching Your Next.js - <a href=https://medium.com/@fernandorosenblit/shopify-mastery-unlocked-the-ultimate-guide-to-launching-your-next-js-8a84fa165233?source=tag_recommended_feed---------0-84----------nextjs----------be7ff288_e5b9_44b1_8559_c22693f3aef7------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kristiyan Velkov`** <date> , 1 day ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------d7cb9f2c_b9ec_4878_a232_7ba2a18c83d9------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Katharine A.`** <date> , 13 min read</date>
+✍️ **posted by `Fernando Rosenblit`** <date> , 10 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Why you should avoid using useEffect hook in React and what to do instead - <a href=https://medium.com/stackademic/why-you-should-avoid-using-useeffect-hook-in-react-and-what-to-do-instead-740660e33420?source=tag_recommended_feed---------2-85----------nextjs----------d7cb9f2c_b9ec_4878_a232_7ba2a18c83d9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------be7ff288_e5b9_44b1_8559_c22693f3aef7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Katharine Angelopoulos`** <date> , 13 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. Why you should avoid using useEffect hook in React and what to do instead - <a href=https://medium.com/stackademic/why-you-should-avoid-using-useeffect-hook-in-react-and-what-to-do-instead-740660e33420?source=tag_recommended_feed---------2-85----------nextjs----------be7ff288_e5b9_44b1_8559_c22693f3aef7------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Marcelo Botelho`** <date> , Jan 7, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Create a react app without node_modules (SEO, offline and production-ready) - <a href=https://medium.com/@msheriffusa/create-a-react-app-without-node-modules-and-self-contained-offline-and-production-ready-f0840e5e77b5?source=tag_recommended_feed---------3-84----------nextjs----------d7cb9f2c_b9ec_4878_a232_7ba2a18c83d9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Fixing ‘Could not find the module’ Error in NextJS with Ant Design - <a href=https://medium.com/@fdikmen/fixing-could-not-find-the-module-error-in-nextjs-with-ant-design-3ae2cfe0160d?source=tag_recommended_feed---------3-84----------nextjs----------be7ff288_e5b9_44b1_8559_c22693f3aef7------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammed Sheriff`** <date> , 1 day ago</date>
+✍️ **posted by `Fırat DİKMEN`** <date> , 12 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------d7cb9f2c_b9ec_4878_a232_7ba2a18c83d9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------be7ff288_e5b9_44b1_8559_c22693f3aef7------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Teng Wei Herr`** <date> , 6 min read</date>
 
@@ -132,31 +132,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------4e4522e1_0e82_4285_845b_c43839c4ce7c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------7ac25979_de4a_4e66_8944_25374e26e942------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`** <date> , Dec 28, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. A Guide to Empathy Mapping in UX/UI - <a href=https://medium.com/@kumarisakshi9595/a-guide-to-empathy-mapping-in-ux-ui-7eeae0570ebe?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------4e4522e1_0e82_4285_845b_c43839c4ce7c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. What are the latest UI UX design trends of 2023?- GKM IT - <a href=https://medium.com/@gkmit11/what-are-the-latest-ui-ux-design-trends-of-2023-gkm-it-d822a3047fda?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------7ac25979_de4a_4e66_8944_25374e26e942------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kumarisakshi`** <date> , Jun 30, 2023</date>
+✍️ **posted by `GKM IT`** <date> , Feb 2, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------4e4522e1_0e82_4285_845b_c43839c4ce7c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------7ac25979_de4a_4e66_8944_25374e26e942------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Consagoustech`** <date> , Dec 19, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. The Design Thinking Process And Its Stages - <a href=https://medium.com/@adeoyedeborah99/the-design-thinking-process-and-its-stages-b9e2fc79ee94?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------4e4522e1_0e82_4285_845b_c43839c4ce7c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href=https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------7ac25979_de4a_4e66_8944_25374e26e942------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `debbygrin`** <date> , Mar 4, 2021</date>
+✍️ **posted by `Erma Winter`** <date> , Feb 7, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------4e4522e1_0e82_4285_845b_c43839c4ce7c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------7ac25979_de4a_4e66_8944_25374e26e942------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Design Studio`** <date> , Nov 30, 2023</date>
 
@@ -164,31 +164,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. A Beginner’s Guide to JavaScript Maps - <a href=https://medium.com/javascript-in-plain-english/a-beginners-guide-to-javascript-maps-4bcab0c2716c?source=tag_recommended_feed---------0-84----------javascript_development----------e89937d3_b0f6_4314_9359_43abcfe06e7a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Unleash Meta-Programming Powers with JavaScript Proxies - <a href=https://medium.com/gitconnected/unleash-meta-programming-powers-with-javascript-proxies-30ace2d1fe1f?source=tag_recommended_feed---------0-84----------javascript_development----------a834f8fb_11f6_4e8d_a395_4e9789a1e431------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Max N`** <date> , 2 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------e89937d3_b0f6_4314_9359_43abcfe06e7a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------a834f8fb_11f6_4e8d_a395_4e9789a1e431------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`** <date> , Jan 1, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. 10 Advanced JavaScript Tricks for Experienced Developers 🔥🔥 - <a href=https://medium.com/@lokesh-prajapati/10-advanced-javascript-tricks-for-experienced-developers-8afb44b24427?source=tag_recommended_feed---------2-85----------javascript_development----------e89937d3_b0f6_4314_9359_43abcfe06e7a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 10 Advanced JavaScript Tricks for Experienced Developers 🔥🔥 - <a href=https://medium.com/@lokesh-prajapati/10-advanced-javascript-tricks-for-experienced-developers-8afb44b24427?source=tag_recommended_feed---------2-85----------javascript_development----------a834f8fb_11f6_4e8d_a395_4e9789a1e431------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Lokesh Prajapati`** <date> , Jan 29, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Understanding satisfies in TypeScript: A Safer Alternative to as - <a href=https://medium.com/@kumoroskar/understanding-satisfies-in-typescript-a-safer-alternative-to-as-0301ca11fc7a?source=tag_recommended_feed---------3-84----------javascript_development----------e89937d3_b0f6_4314_9359_43abcfe06e7a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Tame Complex String Matching with JavaScript RegEx - <a href=https://medium.com/javascript-in-plain-english/tame-complex-string-matching-with-javascript-regex-07fb8d16b8b0?source=tag_recommended_feed---------3-84----------javascript_development----------a834f8fb_11f6_4e8d_a395_4e9789a1e431------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oskar Kumor`** <date> , 6 hours ago</date>
+✍️ **posted by `Max N`** <date> , 2 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------e89937d3_b0f6_4314_9359_43abcfe06e7a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------a834f8fb_11f6_4e8d_a395_4e9789a1e431------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`** <date> , Sep 21, 2022</date>
 
@@ -196,31 +196,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Exploring Optional in TypeScript: A Comparison with Java Optional - <a href=https://medium.com/@yadaom/exploring-optional-in-typescript-a-comparison-with-java-optional-07c9d9095508?source=tag_recommended_feed---------0-84----------typescript_tips----------65cb79b6_beb5_40f8_8510_bb7c00ed840c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Making a == 5 && a == 8 in JavaScript: Exploring Four Solutions - <a href=https://medium.com/@Beck_Moulton/making-a-5-a-8-in-javascript-exploring-four-solutions-c825a0d00294?source=tag_recommended_feed---------0-84----------typescript_tips----------82b64711_328d_46ec_9c24_5c51c8c671cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Om Prakash Yadav`** <date> , 19 hours ago</date>
+✍️ **posted by `Beck Moulton`** <date> , 1 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------65cb79b6_beb5_40f8_8510_bb7c00ed840c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------82b64711_328d_46ec_9c24_5c51c8c671cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Chris Bauer`** <date> , Jul 11, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. 5 Tools for Typescript Projects at Scale - <a href=https://medium.com/bitsrc/5-tools-for-typescript-projects-at-scale-05667f8a0ae0?source=tag_recommended_feed---------2-85----------typescript_tips----------65cb79b6_beb5_40f8_8510_bb7c00ed840c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 10 Advanced TypeScript Tricks for Experienced Developers: - <a href=https://medium.com/@chandantechie/10-advanced-typescript-tricks-for-experienced-developers-2143e6aa8b38?source=tag_recommended_feed---------2-85----------typescript_tips----------82b64711_328d_46ec_9c24_5c51c8c671cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashan Fernando`** <date> , Jan 25, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Understanding satisfies in TypeScript: A Safer Alternative to as - <a href=https://medium.com/@kumoroskar/understanding-satisfies-in-typescript-a-safer-alternative-to-as-0301ca11fc7a?source=tag_recommended_feed---------3-84----------typescript_tips----------65cb79b6_beb5_40f8_8510_bb7c00ed840c------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Oskar Kumor`** <date> , 1 day ago</date>
+✍️ **posted by `Chandan Kumar`** <date> , Dec 30, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. 6 TypeScript Features I Can’t Live Without After Using Them! - <a href=https://medium.com/javascript-in-plain-english/6-typescript-features-i-cant-live-without-after-using-them-1d7feab33922?source=tag_recommended_feed---------4-85----------typescript_tips----------65cb79b6_beb5_40f8_8510_bb7c00ed840c------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Exploring Optional in TypeScript: A Comparison with Java Optional - <a href=https://medium.com/@yadaom/exploring-optional-in-typescript-a-comparison-with-java-optional-07c9d9095508?source=tag_recommended_feed---------3-84----------typescript_tips----------82b64711_328d_46ec_9c24_5c51c8c671cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Om Prakash Yadav`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. 6 TypeScript Features I Can’t Live Without After Using Them! - <a href=https://medium.com/javascript-in-plain-english/6-typescript-features-i-cant-live-without-after-using-them-1d7feab33922?source=tag_recommended_feed---------4-85----------typescript_tips----------82b64711_328d_46ec_9c24_5c51c8c671cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Maxwell`** <date> , 5 min read</date>
 
@@ -228,31 +228,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. The ultimate static file server benchmark - <a href=https://medium.com/deno-the-complete-reference/the-ultimate-static-file-server-benchmark-eb40d72f4711?source=tag_recommended_feed---------0-84----------nodejs----------34365b01_c7a9_45c5_8052_bb8bcd1a93b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Node.js Lambda Package Optimization: Decrease Size and Increase Performance Using ES Modules - <a href=https://medium.com/@levi9-serbia/node-js-lambda-package-optimization-decrease-size-and-increase-performance-using-es-modules-100b392b7732?source=tag_recommended_feed---------0-84----------nodejs----------f03211b2_abfa_4694_94f1_e0555068d373------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mayank Choubey`** <date> , 1 day ago</date>
+✍️ **posted by `Levi9 Serbia`** <date> , 12 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. You don’t need to pay for SaaS boilerplates — Open SaaS - <a href=https://medium.com/@WaspLang/you-dont-need-to-pay-for-saas-boilerplates-open-saas-f4ee70bbe848?source=tag_recommended_feed---------1-107----------nodejs----------34365b01_c7a9_45c5_8052_bb8bcd1a93b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. You don’t need to pay for SaaS boilerplates — Open SaaS - <a href=https://medium.com/@WaspLang/you-dont-need-to-pay-for-saas-boilerplates-open-saas-f4ee70bbe848?source=tag_recommended_feed---------1-107----------nodejs----------f03211b2_abfa_4694_94f1_e0555068d373------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wasp`** <date> , Jan 30, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Top 5 Node.js Features Every Developer Should Know - <a href=https://medium.com/bitsrc/top-5-features-of-nodejs-e49d1c68f4a7?source=tag_recommended_feed---------2-85----------nodejs----------34365b01_c7a9_45c5_8052_bb8bcd1a93b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top 5 Node.js Features Every Developer Should Know - <a href=https://medium.com/bitsrc/top-5-features-of-nodejs-e49d1c68f4a7?source=tag_recommended_feed---------2-85----------nodejs----------f03211b2_abfa_4694_94f1_e0555068d373------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Danusha Navod`** <date> , Feb 13, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Shorthand Javascript Coding Techniques That Make You Look Like A Pro - <a href=https://medium.com/@muhamadwindy/shorthand-javascript-coding-techniques-that-make-you-look-like-a-pro-ccfe9b54392c?source=tag_recommended_feed---------3-84----------nodejs----------34365b01_c7a9_45c5_8052_bb8bcd1a93b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Creating Node.js Lambda functions with packages - <a href=https://medium.com/@heenriquecds/creating-node-js-lambda-functions-with-packages-9d78e5b010a5?source=tag_recommended_feed---------3-84----------nodejs----------f03211b2_abfa_4694_94f1_e0555068d373------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Muhamad Windy Sulistiyo`** <date> , 19 hours ago</date>
+✍️ **posted by `HenriqueCDS`** <date> , 14 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. NodeJS 21 is HERE! Features that will blow your mind 🤯 - <a href=https://medium.com/javascript-in-plain-english/nodejs-21-is-here-features-that-will-blow-your-mind-fd996c8f0365?source=tag_recommended_feed---------4-107----------nodejs----------34365b01_c7a9_45c5_8052_bb8bcd1a93b0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. NodeJS 21 is HERE! Features that will blow your mind 🤯 - <a href=https://medium.com/javascript-in-plain-english/nodejs-21-is-here-features-that-will-blow-your-mind-fd996c8f0365?source=tag_recommended_feed---------4-107----------nodejs----------f03211b2_abfa_4694_94f1_e0555068d373------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Luna Rojas`** <date> , 8 min read</date>
 
@@ -260,97 +260,97 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. 7 Custom GPTs for Product Designers - <a href=https://medium.com/ux-planet/7-custom-gpts-for-product-designers-437bcd92e2ba?source=tag_recommended_feed---------0-84----------web_development----------4336f69f_718a_427b_a8ee_2d83df727dca------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 15 Must-Have Chrome Extensions for Product Designers - <a href=https://medium.com/ux-planet/15-must-have-chrome-extensions-for-product-designers-1e02e36d34f9?source=tag_recommended_feed---------0-84----------web_development----------1e2a1120_b22c_45c2_85dd_6b0ea7032c0a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `uxplanet.org`** <date> , 8 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. PWAs Are Now Officially Dead On iOS In The EU - <a href=https://medium.com/itnext/pwas-are-now-officially-dead-on-ios-in-the-eu-fbb4d26e5325?source=tag_recommended_feed---------1-107----------web_development----------4336f69f_718a_427b_a8ee_2d83df727dca------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Danny Moerkerke`** <date> , 5 min read</date>
+✍️ **posted by `uxplanet.org`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Apple Wants To Kill PWAs - <a href=https://medium.com/itnext/apple-wants-to-kill-pwas-0895be2e497b?source=tag_recommended_feed---------2-85----------web_development----------4336f69f_718a_427b_a8ee_2d83df727dca------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------web_development----------1e2a1120_b22c_45c2_85dd_6b0ea7032c0a------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Choco`** <date> , 9 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. Apple Wants To Kill PWAs - <a href=https://medium.com/itnext/apple-wants-to-kill-pwas-0895be2e497b?source=tag_recommended_feed---------2-85----------web_development----------1e2a1120_b22c_45c2_85dd_6b0ea7032c0a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Danny Moerkerke`** <date> , 4 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Web Components: Your Secret Weapon for Hybrid Apps - <a href=https://medium.com/@joshkapp/web-components-your-secret-weapon-for-hybrid-apps-b1a2f32192a1?source=tag_recommended_feed---------3-84----------web_development----------4336f69f_718a_427b_a8ee_2d83df727dca------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 7 Custom GPTs for Product Designers - <a href=https://medium.com/ux-planet/7-custom-gpts-for-product-designers-437bcd92e2ba?source=tag_recommended_feed---------3-84----------web_development----------1e2a1120_b22c_45c2_85dd_6b0ea7032c0a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Josh Kapp`** <date> , 8 hours ago</date>
+✍️ **posted by `uxplanet.org`** <date> , 2 days ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. JavaScript’s Hidden Gem: Exploring the Power of Mutation Observer - <a href=https://medium.com/javascript-in-plain-english/javascripts-hidden-gem-exploring-the-power-of-mutation-observer-f8a92c01a374?source=tag_recommended_feed---------4-107----------web_development----------4336f69f_718a_427b_a8ee_2d83df727dca------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Is Django Dying? An Honest Look at the Future - <a href=https://medium.com/python-in-plain-english/is-django-dying-an-honest-look-at-the-future-86ed684415b1?source=tag_recommended_feed---------4-107----------web_development----------1e2a1120_b22c_45c2_85dd_6b0ea7032c0a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Svetloslav Novoselski`** <date> , 5 min read</date>
+✍️ **posted by `Builescu Daniel`** <date> , 5 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. React Native: Offline Content Display with Local HTML Files in WebView - <a href=https://medium.com/yonder-techblog/react-native-offline-content-display-with-local-html-files-in-webview-7d22a0cf46fb?source=tag_recommended_feed---------0-84----------webview----------8454caca_ddaa_4830_9f9e_130bebd00f2b------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React Native: Offline Content Display with Local HTML Files in WebView - <a href=https://medium.com/yonder-techblog/react-native-offline-content-display-with-local-html-files-in-webview-7d22a0cf46fb?source=tag_recommended_feed---------0-84----------webview----------cb0f10bf_ddac_4917_ad7e_f9ef9f82020c------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex-Stefan Albu`** <date> , 8 hours ago</date>
+✍️ **posted by `Alex-Stefan Albu`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. WebView in Jetpack Compose - <a href=https://medium.com/@sahar.asadian90/webview-in-jetpack-compose-71f237873c2e?source=tag_recommended_feed---------1-85----------webview----------8454caca_ddaa_4830_9f9e_130bebd00f2b------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. WebView in Jetpack Compose - <a href=https://medium.com/@sahar.asadian90/webview-in-jetpack-compose-71f237873c2e?source=tag_recommended_feed---------1-85----------webview----------cb0f10bf_ddac_4917_ad7e_f9ef9f82020c------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Sahar Asadian`** <date> , Oct 30, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Web View Flutter - <a href=https://medium.com/@abubakarsaddqiuekhan/web-view-flutter-54a8a204f539?source=tag_recommended_feed---------2-84----------webview----------8454caca_ddaa_4830_9f9e_130bebd00f2b------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Web View Flutter - <a href=https://medium.com/@abubakarsaddqiuekhan/web-view-flutter-54a8a204f539?source=tag_recommended_feed---------2-84----------webview----------cb0f10bf_ddac_4917_ad7e_f9ef9f82020c------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abubakar Saddique`** <date> , 4 days ago</date>
+✍️ **posted by `Abubakar Saddique`** <date> , 5 days ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Communication between React Native web view and React app - <a href=https://medium.com/@svbala99/communication-between-react-native-web-view-and-react-app-c0fb0af7e5a6?source=tag_recommended_feed---------3-85----------webview----------8454caca_ddaa_4830_9f9e_130bebd00f2b------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Communication between React Native web view and React app - <a href=https://medium.com/@svbala99/communication-between-react-native-web-view-and-react-app-c0fb0af7e5a6?source=tag_recommended_feed---------3-85----------webview----------cb0f10bf_ddac_4917_ad7e_f9ef9f82020c------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Balamurugan V`** <date> , Jul 4, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Synchronization of native and WebView sessions with iOS - <a href=https://medium.com/axel-springer-tech/synchronization-of-native-and-webview-sessions-with-ios-9fe2199b44c9?source=tag_recommended_feed---------4-84----------webview----------8454caca_ddaa_4830_9f9e_130bebd00f2b------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Synchronization of native and WebView sessions with iOS - <a href=https://medium.com/axel-springer-tech/synchronization-of-native-and-webview-sessions-with-ios-9fe2199b44c9?source=tag_recommended_feed---------4-84----------webview----------cb0f10bf_ddac_4917_ad7e_f9ef9f82020c------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Paul Hackenberger`** <date> , 5 days ago</date>
+✍️ **posted by `Paul Hackenberger`** <date> , 6 days ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Graph Theory to Harmonize Model Integration - <a href=https://medium.com/towards-data-science/graph-theory-to-harmonize-model-integration-e11b4827135a?source=tag_recommended_feed---------0-84----------programming----------790f1656_51a1_4a92_b9bd_f4238af25979------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Graph Theory to Harmonize Model Integration - <a href=https://medium.com/towards-data-science/graph-theory-to-harmonize-model-integration-e11b4827135a?source=tag_recommended_feed---------0-84----------programming----------ffbe402c_b5f4_4b30_949b_00ca28ca8408------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmad Albarqawi`** <date> , 4 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Frontend Application Security: Tips and Tricks - <a href=https://medium.com/bitsrc/frontend-application-security-tips-practices-f9be12169e66?source=tag_recommended_feed---------1-107----------programming----------790f1656_51a1_4a92_b9bd_f4238af25979------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Lahiru Hewawasam`** <date> , 5 days ago</date>
+✍️ **posted by `Ahmad Albarqawi`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Introducing SafeTest: A Novel Approach to Front End Testing - <a href=https://medium.com/netflix-techblog/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?source=tag_recommended_feed---------2-85----------programming----------790f1656_51a1_4a92_b9bd_f4238af25979------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A practical guide to morphological image processing - <a href=https://medium.com/ai-in-plain-english/a-practical-guide-to-morphological-image-processing-8df5cb6ec39f?source=tag_recommended_feed---------1-107----------programming----------ffbe402c_b5f4_4b30_949b_00ca28ca8408------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Netflix Technology Blog`** <date> , Feb 13, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation - <a href=https://medium.com/towards-data-science/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930?source=tag_recommended_feed---------3-84----------programming----------790f1656_51a1_4a92_b9bd_f4238af25979------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Leonie Monigatti`** <date> , 2 days ago</date>
+✍️ **posted by `Salvatore Raieli`** <date> , 10 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. If You Missed This BigQuery Email You Could Lose Your SQL Queries - <a href=https://medium.com/pipeline-a-data-engineering-resource/if-you-missed-this-bigquery-email-you-could-lose-your-sql-queries-30f7a0ee1ca7?source=tag_recommended_feed---------4-107----------programming----------790f1656_51a1_4a92_b9bd_f4238af25979------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------programming----------ffbe402c_b5f4_4b30_949b_00ca28ca8408------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Zach Quinn`** <date> , 5 min read</date>
+✍️ **posted by `Akhilesh Mishra`** <date> , Feb 8, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. Stop using Exceptions - <a href=https://medium.com/@no1.melman10/stop-using-exceptions-4a72b9ab337f?source=tag_recommended_feed---------3-84----------programming----------ffbe402c_b5f4_4b30_949b_00ca28ca8408------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Callum Linington`** <date> , 15 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------4-107----------programming----------ffbe402c_b5f4_4b30_949b_00ca28ca8408------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
@@ -388,63 +388,63 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. It Took Two Divorces for Me to Learn What Destroys a Marriage - <a href=https://medium.com/illumination-curated/it-took-two-divorces-for-me-to-learn-what-destroys-a-marriage-6b4706a0c4be?source=tag_recommended_feed---------0-84----------relationships----------119f6a73_4612_40f4_9325_08f4eb133007------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Bigger and Closer - <a href=https://medium.com/@heyhali/bigger-and-closer-506870519f52?source=tag_recommended_feed---------0-84----------relationships----------827d130d_c34f_443d_9328_be6b8c1ae59f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Holly Paige`** <date> , 7 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. “The Space” - <a href=https://medium.com/@4fishgreenberg/the-space-1e0c9f5e1679?source=tag_recommended_feed---------1-107----------relationships----------119f6a73_4612_40f4_9325_08f4eb133007------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Paul Greenberg`** <date> , 2 min read</date>
+✍️ **posted by `heyhayley`** <date> , 19 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Notes on a Third - <a href=https://medium.com/@neilmcneil/notes-on-a-third-814a3e2307ab?source=tag_recommended_feed---------2-85----------relationships----------119f6a73_4612_40f4_9325_08f4eb133007------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How to Be a Master Manipulator in Five Easy Steps - <a href=https://medium.com/thing-a-day/how-to-be-a-master-manipulator-in-five-easy-steps-ccec675e54ff?source=tag_recommended_feed---------1-107----------relationships----------827d130d_c34f_443d_9328_be6b8c1ae59f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Neil McNeil`** <date> , 6 days ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. ♓️PISCES Weekly Horoscope: 19 – 25 February 2024🐟 - <a href=https://medium.com/@anastasiagirlboss/️pisces-weekly-horoscope-19-25-february-2024-0176556ef3e7?source=tag_recommended_feed---------3-84----------relationships----------119f6a73_4612_40f4_9325_08f4eb133007------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `The Black Horoscope`** <date> , 11 hours ago</date>
+✍️ **posted by `Matthew Maniaci`** <date> , 14 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Drama School for Misfits - <a href=https://medium.com/the-memoirist/drama-school-for-misfits-6cce8681c50c?source=tag_recommended_feed---------4-107----------relationships----------119f6a73_4612_40f4_9325_08f4eb133007------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Notes on a Third - <a href=https://medium.com/@neilmcneil/notes-on-a-third-814a3e2307ab?source=tag_recommended_feed---------2-85----------relationships----------827d130d_c34f_443d_9328_be6b8c1ae59f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `KiKi Walter`** <date> , 7 min read</date>
+✍️ **posted by `Neil McNeil`** <date> , Feb 14, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. 4 Habits Emotionally Mature People Avoid - <a href=https://medium.com/@nickwignall/4-habits-emotionally-mature-people-avoid-1bace46e69c7?source=tag_recommended_feed---------3-84----------relationships----------827d130d_c34f_443d_9328_be6b8c1ae59f------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Nick Wignall`** <date> , 8 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Please Stop Suggesting That I Can JUST Stop Having Depression - <a href=https://medium.com/invisible-illness/please-stop-suggesting-that-i-can-just-stop-having-depression-4307131719d4?source=tag_recommended_feed---------4-107----------relationships----------827d130d_c34f_443d_9328_be6b8c1ae59f------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Marie Shanley - Mxiety`** <date> , 8 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Why I’m Closing My Pepper Bank Account 😒 - <a href=https://medium.com/@liorlp/why-im-closing-my-pepper-bank-account-b3bc3ed335d2?source=tag_recommended_feed---------0-84----------mobile_app_development----------5ab45f8b_c28a_463b_8bbe_9f95386abe7e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Vibration In Flutter - <a href=https://medium.com/flutterdevs/vibration-in-flutter-db1b1d418cc7?source=tag_recommended_feed---------0-84----------mobile_app_development----------eca38542_ca3e_4a49_9bf6_7e05c9d1c3ec------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lior Alperovitch`** <date> , 10 hours ago</date>
+✍️ **posted by `Sk`** <date> , 14 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Accessibility Amplified: A Journey to Inclusive Android Apps - <a href=https://medium.com/gitconnected/accessibility-amplified-a-journey-to-inclusive-android-apps-120d86b56f56?source=tag_recommended_feed---------1-107----------mobile_app_development----------5ab45f8b_c28a_463b_8bbe_9f95386abe7e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Accessibility Amplified: A Journey to Inclusive Android Apps - <a href=https://medium.com/gitconnected/accessibility-amplified-a-journey-to-inclusive-android-apps-120d86b56f56?source=tag_recommended_feed---------1-107----------mobile_app_development----------eca38542_ca3e_4a49_9bf6_7e05c9d1c3ec------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James Cullimore`** <date> , Feb 1, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. It’s time for the NATIVE mobile development to end. - <a href=https://medium.com/mobilepeople/its-time-for-the-native-mobile-development-to-end-f677e37be5a8?source=tag_recommended_feed---------2-85----------mobile_app_development----------5ab45f8b_c28a_463b_8bbe_9f95386abe7e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. It’s time for the NATIVE mobile development to end. - <a href=https://medium.com/mobilepeople/its-time-for-the-native-mobile-development-to-end-f677e37be5a8?source=tag_recommended_feed---------2-85----------mobile_app_development----------eca38542_ca3e_4a49_9bf6_7e05c9d1c3ec------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Michael Szczepanik`** <date> , Feb 11, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Exploring the New Frontiers of React 19: A Glimpse into the Future of Web Development - <a href=https://medium.com/@apicraft/exploring-the-new-frontiers-of-react-19-a-glimpse-into-the-future-of-web-development-747c2ce11dea?source=tag_recommended_feed---------3-84----------mobile_app_development----------5ab45f8b_c28a_463b_8bbe_9f95386abe7e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Push Repositories in Flutter - <a href=https://medium.com/@papulamarco/push-repositories-in-flutter-0cd68273b713?source=tag_recommended_feed---------3-84----------mobile_app_development----------eca38542_ca3e_4a49_9bf6_7e05c9d1c3ec------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammed Tawfik`** <date> , 14 hours ago</date>
+✍️ **posted by `Marco`** <date> , 13 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. SwiftUI View Models: Lifecycle Quirks - <a href=https://medium.com/the-swift-cooperative/swiftui-view-models-lifecycle-quirks-8dd967e84e31?source=tag_recommended_feed---------4-107----------mobile_app_development----------5ab45f8b_c28a_463b_8bbe_9f95386abe7e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. SwiftUI View Models: Lifecycle Quirks - <a href=https://medium.com/the-swift-cooperative/swiftui-view-models-lifecycle-quirks-8dd967e84e31?source=tag_recommended_feed---------4-107----------mobile_app_development----------eca38542_ca3e_4a49_9bf6_7e05c9d1c3ec------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Luis Recuenco`** <date> , Dec 19, 2023</date>
 
@@ -484,31 +484,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Understanding iOS Development - <a href=https://medium.com/@gowthamravikumar/understanding-ios-development-e080ade4505f?source=tag_recommended_feed---------0-84----------ios----------64aa5801_dd50_4811_8fbc_8535524c1ba3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Landscape Mode for Specific views in SwiftUI - <a href=https://medium.com/@somasharma95/landscape-mode-for-specific-views-in-swiftui-20e4fd5e8bcd?source=tag_recommended_feed---------0-84----------ios----------a98adb09_b38f_4d69_a9b1_ab21be6494ab------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gowtham Ravikumar`** <date> , 5 hours ago</date>
+✍️ **posted by `Soma Sharma`** <date> , 17 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. The battery saga & the iPhone15 Pro Max - <a href=https://medium.com/macoclock/the-battery-saga-the-iphone15-pro-max-f621bb9bc8b2?source=tag_recommended_feed---------1-107----------ios----------64aa5801_dd50_4811_8fbc_8535524c1ba3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The battery saga & the iPhone15 Pro Max - <a href=https://medium.com/macoclock/the-battery-saga-the-iphone15-pro-max-f621bb9bc8b2?source=tag_recommended_feed---------1-107----------ios----------a98adb09_b38f_4d69_a9b1_ab21be6494ab------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `David Lewis`** <date> , 7 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. iOS 17.4 Is Way Bigger Than We’ve Expected — 25+ Amazing Features! - <a href=https://medium.com/macoclock/ios-17-4-is-way-bigger-than-weve-expected-25-amazing-features-b690cf7156c2?source=tag_recommended_feed---------2-85----------ios----------64aa5801_dd50_4811_8fbc_8535524c1ba3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. iOS 17.4 Is Way Bigger Than We’ve Expected — 25+ Amazing Features! - <a href=https://medium.com/macoclock/ios-17-4-is-way-bigger-than-weve-expected-25-amazing-features-b690cf7156c2?source=tag_recommended_feed---------2-85----------ios----------a98adb09_b38f_4d69_a9b1_ab21be6494ab------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Nikhil Vemu`** <date> , 16 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Fix Production Bugs in Your iOS Project - <a href=https://medium.com/@mjuddin88/fix-production-bugs-in-your-ios-project-5ada0709617f?source=tag_recommended_feed---------3-84----------ios----------64aa5801_dd50_4811_8fbc_8535524c1ba3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding iOS Development - <a href=https://medium.com/@gowthamravikumar/understanding-ios-development-e080ade4505f?source=tag_recommended_feed---------3-84----------ios----------a98adb09_b38f_4d69_a9b1_ab21be6494ab------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Md Jasim Uddin`** <date> , 1 day ago</date>
+✍️ **posted by `Gowtham Ravikumar`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Apple’s all new design language - <a href=https://medium.com/design-bootcamp/apples-all-new-design-language-986cdc4c29b4?source=tag_recommended_feed---------4-107----------ios----------64aa5801_dd50_4811_8fbc_8535524c1ba3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Apple’s all new design language - <a href=https://medium.com/design-bootcamp/apples-all-new-design-language-986cdc4c29b4?source=tag_recommended_feed---------4-107----------ios----------a98adb09_b38f_4d69_a9b1_ab21be6494ab------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ameer Omidvar`** <date> , Feb 14, 2024</date>
 
@@ -516,63 +516,63 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Necessary Culture Change with GitOps - <a href=https://medium.com/itnext/necessary-culture-change-with-gitops-2c63f4fe9604?source=tag_recommended_feed---------0-84----------devops----------821e6912_de44_4fe2_b05f_093b7ba8307e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Necessary Culture Change with GitOps - <a href=https://medium.com/itnext/necessary-culture-change-with-gitops-2c63f4fe9604?source=tag_recommended_feed---------0-84----------devops----------8f8f260e_00d5_4bf0_94d2_f55199496260------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Artem Lajko`** <date> , 1 day ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at… - <a href=https://medium.com/@cep21/almost-every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-d2aeba3b6a45?source=tag_recommended_feed---------1-107----------devops----------821e6912_de44_4fe2_b05f_093b7ba8307e------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jack Lindamood`** <date> , Feb 6, 2024</date>
+✍️ **posted by `Artem Lajko`** <date> , 2 days ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------devops----------821e6912_de44_4fe2_b05f_093b7ba8307e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Linux — CPU Architecture and Kernel Components - <a href=https://medium.com/@tonylixu/linux-cpu-architecture-and-kernel-components-062e05c44614?source=tag_recommended_feed---------1-107----------devops----------8f8f260e_00d5_4bf0_94d2_f55199496260------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tony`** <date> , 9 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------devops----------8f8f260e_00d5_4bf0_94d2_f55199496260------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Akhilesh Mishra`** <date> , Feb 8, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Open-source Log Aggregation by Loki - <a href=https://medium.com/fancode-engineering-blog/open-source-log-aggregation-by-loki-dbf671dbee8d?source=tag_recommended_feed---------3-84----------devops----------821e6912_de44_4fe2_b05f_093b7ba8307e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Challenge 6: Hop, little bunny - <a href=https://medium.com/@danielepolencic/challenge-6-hop-little-bunny-b0748c3cd907?source=tag_recommended_feed---------3-84----------devops----------8f8f260e_00d5_4bf0_94d2_f55199496260------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kunal`** <date> , 14 hours ago</date>
+✍️ **posted by `Daniele Polencic`** <date> , 12 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Seamless Transition: Migrating Kafka Cluster to Kubernetes - <a href=https://medium.com/zendesk-engineering/seamless-transition-migrating-kafka-cluster-to-kubernetes-c8dc66594d1b?source=tag_recommended_feed---------4-107----------devops----------821e6912_de44_4fe2_b05f_093b7ba8307e------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. (Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at… - <a href=https://medium.com/@cep21/almost-every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-d2aeba3b6a45?source=tag_recommended_feed---------4-107----------devops----------8f8f260e_00d5_4bf0_94d2_f55199496260------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Frankie`** <date> , Feb 13, 2024</date>
+✍️ **posted by `Jack Lindamood`** <date> , Feb 6, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Necessary Culture Change with GitOps - <a href=https://medium.com/itnext/necessary-culture-change-with-gitops-2c63f4fe9604?source=tag_recommended_feed---------0-84----------kubernetes----------f0b86888_a869_4602_8cab_f6556eb839f9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Explaining Kubernetes In Kitchen - <a href=https://medium.com/@omarzenhom/explaining-kubernetes-in-kitchen-8ed04327437a?source=tag_recommended_feed---------0-84----------kubernetes----------45bedc45_fc72_4188_aaa0_5c6498f272cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Artem Lajko`** <date> , 1 day ago</date>
+✍️ **posted by `Omar Zenhom`** <date> , 6 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Future of Amazon EKS - <a href=https://medium.com/it-newbies-note/future-of-amazon-eks-f32abd083729?source=tag_recommended_feed---------1-107----------kubernetes----------f0b86888_a869_4602_8cab_f6556eb839f9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Future of Amazon EKS - <a href=https://medium.com/it-newbies-note/future-of-amazon-eks-f32abd083729?source=tag_recommended_feed---------1-107----------kubernetes----------45bedc45_fc72_4188_aaa0_5c6498f272cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Nova Lailatul Rizkiyah`** <date> , Jan 26, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Lessons From Our 8 Years Of Kubernetes In Production — Two Major Cluster Crashes, Ditching Self… - <a href=https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd?source=tag_recommended_feed---------2-85----------kubernetes----------f0b86888_a869_4602_8cab_f6556eb839f9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Lessons From Our 8 Years Of Kubernetes In Production — Two Major Cluster Crashes, Ditching Self… - <a href=https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd?source=tag_recommended_feed---------2-85----------kubernetes----------45bedc45_fc72_4188_aaa0_5c6498f272cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Anders Jönsson`** <date> , Feb 5, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. AWS Extended EKS Support: A Costly Band-Aid for Kubernetes Clusters - <a href=https://medium.com/@talkimhi/aws-extended-eks-support-a-costly-band-aid-for-kubernetes-clusters-120b8d537abe?source=tag_recommended_feed---------3-84----------kubernetes----------f0b86888_a869_4602_8cab_f6556eb839f9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Challenge 6: Hop, little bunny - <a href=https://medium.com/@danielepolencic/challenge-6-hop-little-bunny-b0748c3cd907?source=tag_recommended_feed---------3-84----------kubernetes----------45bedc45_fc72_4188_aaa0_5c6498f272cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tal KimHi`** <date> , 1 day ago</date>
+✍️ **posted by `Daniele Polencic`** <date> , 12 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. ☁️Why FaaS is a better choice than Kubernetes - <a href=https://medium.com/@james.matson_64120/️why-faas-is-a-better-choice-than-kubernetes-8f58773a41a1?source=tag_recommended_feed---------4-107----------kubernetes----------f0b86888_a869_4602_8cab_f6556eb839f9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. ☁️Why FaaS is a better choice than Kubernetes - <a href=https://medium.com/@james.matson_64120/️why-faas-is-a-better-choice-than-kubernetes-8f58773a41a1?source=tag_recommended_feed---------4-107----------kubernetes----------45bedc45_fc72_4188_aaa0_5c6498f272cb------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James Matson`** <date> , 14 min read</date>
 
@@ -580,31 +580,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Deploying Next.js SSR on Google Cloud with Docker, GitHub Actions, and Nginx: A Step-by-Step Guide - <a href=https://medium.com/@yisak04/deploying-next-js-ssr-on-google-cloud-with-docker-github-actions-and-nginx-a-step-by-step-guide-0f2b0acf34fb?source=tag_recommended_feed---------0-84----------docker----------4b46402d_24b9_4611_ace5_4ada631a0063------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How I was able to run 2 Lambdas in a single ECR Image. - <a href=https://medium.com/@kamauharrison87/how-i-was-able-to-run-2-lambdas-in-a-single-ecr-image-acd9be366228?source=tag_recommended_feed---------0-84----------docker----------819ebbf6_89fe_4579_a4dc_44a6554f8e85------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yishak Kidanu`** <date> , 8 hours ago</date>
+✍️ **posted by `Harrison Kamau`** <date> , 8 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Devops zero to hero #3 — Everything you need to know about Dockers - <a href=https://medium.com/illumination/devops-zero-to-hero-3-everything-you-need-to-know-about-dockers-7ff321b38e6b?source=tag_recommended_feed---------1-107----------docker----------4b46402d_24b9_4611_ace5_4ada631a0063------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Devops zero to hero #3 — Everything you need to know about Dockers - <a href=https://medium.com/illumination/devops-zero-to-hero-3-everything-you-need-to-know-about-dockers-7ff321b38e6b?source=tag_recommended_feed---------1-107----------docker----------819ebbf6_89fe_4579_a4dc_44a6554f8e85------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Akhilesh Mishra`** <date> , Jan 23, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------docker----------4b46402d_24b9_4611_ace5_4ada631a0063------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------docker----------819ebbf6_89fe_4579_a4dc_44a6554f8e85------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Akhilesh Mishra`** <date> , Feb 8, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Table of processes simulation using Apache Spark and Kafka - <a href=https://medium.com/@benameur.amir7/table-of-processes-simulation-using-apache-spark-and-kafka-371151475cc0?source=tag_recommended_feed---------3-84----------docker----------4b46402d_24b9_4611_ace5_4ada631a0063------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploying Next.js SSR on Google Cloud with Docker, GitHub Actions, and Nginx: A Step-by-Step Guide - <a href=https://medium.com/@yisak04/deploying-next-js-ssr-on-google-cloud-with-docker-github-actions-and-nginx-a-step-by-step-guide-0f2b0acf34fb?source=tag_recommended_feed---------3-84----------docker----------819ebbf6_89fe_4579_a4dc_44a6554f8e85------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Amir Ben Ameur`** <date> , 2 hours ago</date>
+✍️ **posted by `Yishak Kidanu`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. How to Implement Mutual TLS with Docker Containers - <a href=https://medium.com/itnext/how-to-implement-mutual-tls-with-docker-containers-1546a2eab38b?source=tag_recommended_feed---------4-107----------docker----------4b46402d_24b9_4611_ace5_4ada631a0063------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How to Implement Mutual TLS with Docker Containers - <a href=https://medium.com/itnext/how-to-implement-mutual-tls-with-docker-containers-1546a2eab38b?source=tag_recommended_feed---------4-107----------docker----------819ebbf6_89fe_4579_a4dc_44a6554f8e85------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Bryant Hagadorn`** <date> , Feb 3, 2024</date>
 
