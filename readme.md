@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/02)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/03)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,31 +68,31 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Unveiling React’s useDebugValue Hook: Simplifying Debugging with Examples - <a href=https://medium.com/zestgeek/unveiling-reacts-usedebugvalue-hook-simplifying-debugging-with-examples-015a1af72678?source=tag_recommended_feed---------0-84----------reactjs----------d80f94a7_47e1_40af_a2ee_97493dc22dc0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to make a signature generator web app with React JS ? - <a href=https://medium.com/@surajchaudhary0707/how-to-make-a-signature-generator-web-app-with-react-js-db8e77f18782?source=tag_recommended_feed---------0-84----------reactjs----------729fd3dd_5cca_4c52_b2ce_399444bd71ad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Love Trivedi`** <date> , 1 day ago</date>
+✍️ **posted by `Suraj Chaudhary`** <date> , 5 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------d80f94a7_47e1_40af_a2ee_97493dc22dc0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------729fd3dd_5cca_4c52_b2ce_399444bd71ad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Collection of Custom Hooks For Your Nextjs-React Project - <a href=https://medium.com/javascript-in-plain-english/collection-of-custom-hooks-for-your-nextjs-react-project-1779379e6f4a?source=tag_recommended_feed---------2-85----------reactjs----------d80f94a7_47e1_40af_a2ee_97493dc22dc0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Collection of Custom Hooks For Your Nextjs-React Project - <a href=https://medium.com/javascript-in-plain-english/collection-of-custom-hooks-for-your-nextjs-react-project-1779379e6f4a?source=tag_recommended_feed---------2-85----------reactjs----------729fd3dd_5cca_4c52_b2ce_399444bd71ad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`** <date> , Feb 19, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Major React 19 Update: React Compiler and All You Need to Know - <a href=https://medium.com/@spitertech_solutions/major-react-19-update-react-compiler-and-all-you-need-to-know-44c3ef3f67b2?source=tag_recommended_feed---------3-84----------reactjs----------d80f94a7_47e1_40af_a2ee_97493dc22dc0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How React Works Behind the Scene - <a href=https://medium.com/@Pratik_Mane_9/how-react-work-behind-the-scene-6d00f6c1e88a?source=tag_recommended_feed---------3-84----------reactjs----------729fd3dd_5cca_4c52_b2ce_399444bd71ad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Spitertech Solutions`** <date> , 1 day ago</date>
+✍️ **posted by `Pratik Mane`** <date> , 14 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------d80f94a7_47e1_40af_a2ee_97493dc22dc0------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------729fd3dd_5cca_4c52_b2ce_399444bd71ad------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
@@ -109,7 +109,36 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/javascript-development target="_blank" rel="noopener noreferrer">JavaScript 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/typescript-tips target="_blank" rel="noopener noreferrer">TypeScript 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. suppressImplicitAnyIndexErrors in TypeScript - <a href=https://medium.com/@mihirsomani/suppressimplicitanyindexerrors-in-typescript-a1dc4acbbc39?source=tag_recommended_feed---------0-84----------typescript_tips----------80b9931e_230d_41a7_b37f_33312398aaf3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mihir Somani`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------80b9931e_230d_41a7_b37f_33312398aaf3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Chris Bauer`** <date> , Jul 11, 2023</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. 10 Advanced TypeScript Tricks for Experienced Developers: - <a href=https://medium.com/@chandantechie/10-advanced-typescript-tricks-for-experienced-developers-2143e6aa8b38?source=tag_recommended_feed---------2-85----------typescript_tips----------80b9931e_230d_41a7_b37f_33312398aaf3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Chandan Kumar`** <date> , Dec 30, 2023</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. How to create a union of string types that allow plain strings - <a href=https://medium.com/@cheezytony1/how-to-create-a-union-of-string-types-that-allow-plain-strings-61ce706e43b5?source=tag_recommended_feed---------3-84----------typescript_tips----------80b9931e_230d_41a7_b37f_33312398aaf3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tony Okoro`** <date> , 3 days ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. 6 TypeScript Features I Can’t Live Without After Using Them! - <a href=https://medium.com/javascript-in-plain-english/6-typescript-features-i-cant-live-without-after-using-them-1d7feab33922?source=tag_recommended_feed---------4-85----------typescript_tips----------80b9931e_230d_41a7_b37f_33312398aaf3------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Maxwell`** <date> , 5 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/nodejs target="_blank" rel="noopener noreferrer">NodeJS 주간 핫토픽</a>&nbsp; 🔗</h3>
@@ -145,33 +174,4 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/kubernetes target="_blank" rel="noopener noreferrer">Kubernetes 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. E2E Data pipeline in practice — Part 3 - <a href=https://medium.com/soname-solutions/e2e-data-pipeline-in-practice-part-3-c4f31ff6b313?source=tag_recommended_feed---------0-84----------docker----------e6efbbfb_8a7a_4a6c_aa44_a1fe58d63031------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Petukhou Mikita`** <date> , 13 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Devops zero to hero #3 — Everything you need to know about Dockers - <a href=https://medium.com/illumination/devops-zero-to-hero-3-everything-you-need-to-know-about-dockers-7ff321b38e6b?source=tag_recommended_feed---------1-107----------docker----------e6efbbfb_8a7a_4a6c_aa44_a1fe58d63031------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Akhilesh Mishra`** <date> , Jan 23, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. You should stop writing Dockerfiles today —  Do this instead - <a href=https://medium.com/@akhilesh-mishra/you-should-stop-writing-dockerfiles-today-do-this-instead-3cd8a44cb8b0?source=tag_recommended_feed---------2-85----------docker----------e6efbbfb_8a7a_4a6c_aa44_a1fe58d63031------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Akhilesh Mishra`** <date> , Feb 8, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Protecting Docker Services (and other servers) behind Traefik and Keycloak with unique permissions… - <a href=https://medium.com/@jjflynn22/protecting-docker-services-and-file-providers-behind-traefik-and-keycloak-with-unique-permissions-5ea7b454c6e7?source=tag_recommended_feed---------3-84----------docker----------e6efbbfb_8a7a_4a6c_aa44_a1fe58d63031------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `HeneryH`** <date> , 8 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. How to Implement Mutual TLS with Docker Containers - <a href=https://medium.com/itnext/how-to-implement-mutual-tls-with-docker-containers-1546a2eab38b?source=tag_recommended_feed---------4-107----------docker----------e6efbbfb_8a7a_4a6c_aa44_a1fe58d63031------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Bryant Hagadorn`** <date> , Feb 3, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/docker target="_blank" rel="noopener noreferrer">Docker 주간 핫토픽</a>&nbsp; 🔗</h3>
