@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/07)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/08)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,31 +68,31 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Mastering React’s useImperativeHandle Hook: A Comprehensive Guide with Examples - <a href=https://medium.com/zestgeek/mastering-reacts-useimperativehandle-hook-a-comprehensive-guide-with-examples-acb16872d99a?source=tag_recommended_feed---------0-84----------reactjs----------9e286a6a_c230_4c17_a20e_4f56feb76513------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Beginner’s Guide to Guidewire Jutro Digital Platform - <a href=https://medium.com/@priyabratapanda.13/a-beginners-guide-to-guidewire-jutro-digital-platform-23520f1e047b?source=tag_recommended_feed---------0-84----------reactjs----------ebb1c434_03c2_40f2_9fac_b29068c1bd8f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Love Trivedi`** <date> , 14 hours ago</date>
+✍️ **posted by `Priyabrata Panda`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------9e286a6a_c230_4c17_a20e_4f56feb76513------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------ebb1c434_03c2_40f2_9fac_b29068c1bd8f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. Collection of Custom Hooks For Your Nextjs-React Project - <a href=https://medium.com/javascript-in-plain-english/collection-of-custom-hooks-for-your-nextjs-react-project-1779379e6f4a?source=tag_recommended_feed---------2-85----------reactjs----------9e286a6a_c230_4c17_a20e_4f56feb76513------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------reactjs----------ebb1c434_03c2_40f2_9fac_b29068c1bd8f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ravi Sharma`** <date> , Feb 19, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Rendering Conditional Components with Clean Code✨ - <a href=https://medium.com/@awaisshaikh94/rendering-conditional-components-with-clean-code-241e34505f1e?source=tag_recommended_feed---------3-84----------reactjs----------9e286a6a_c230_4c17_a20e_4f56feb76513------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Muhammad Awais`** <date> , 16 hours ago</date>
+✍️ **posted by `Wei Jun`** <date> , Feb 28, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------9e286a6a_c230_4c17_a20e_4f56feb76513------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top 5 React Best Practices Every Developer Should Know - <a href=https://medium.com/bitsrc/react-best-practices-55aca2f38606?source=tag_recommended_feed---------3-84----------reactjs----------ebb1c434_03c2_40f2_9fac_b29068c1bd8f------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Danusha Navod`** <date> , 14 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------ebb1c434_03c2_40f2_9fac_b29068c1bd8f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
@@ -100,68 +100,10 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. 🤔 Do we need state management in React❓ - <a href=https://medium.com/@alonronin/do-we-need-state-management-in-react-fd3e3650be8e?source=tag_recommended_feed---------0-84----------nextjs----------d3f1a9d5_9058_4be3_aea3_31fc43dbe46f------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Alon Valadji`** <date> , 12 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/@kangelopoulos/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------d3f1a9d5_9058_4be3_aea3_31fc43dbe46f------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Katharine Angelopoulos`** <date> , 13 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. Collection of Custom Hooks For Your Nextjs-React Project - <a href=https://medium.com/javascript-in-plain-english/collection-of-custom-hooks-for-your-nextjs-react-project-1779379e6f4a?source=tag_recommended_feed---------2-85----------nextjs----------d3f1a9d5_9058_4be3_aea3_31fc43dbe46f------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ravi Sharma`** <date> , Feb 19, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Draft.js in Next.js with TypeScript: A Comprehensive Guide - <a href=https://medium.com/@gabrielairiart.gi/draft-js-in-next-js-with-typescript-a-comprehensive-guide-7a5fda563eb3?source=tag_recommended_feed---------3-84----------nextjs----------d3f1a9d5_9058_4be3_aea3_31fc43dbe46f------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Gabriela Iriart`** <date> , 10 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------d3f1a9d5_9058_4be3_aea3_31fc43dbe46f------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Teng Wei Herr`** <date> , 6 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/nextjs target="_blank" rel="noopener noreferrer">NextJS 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------07378644_93fc_4159_ad24_68de9584dbee------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shailesh Chauhan`** <date> , Dec 28, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Why Adobe XD Couldn’t Compete Against Figma? - <a href=https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------07378644_93fc_4159_ad24_68de9584dbee------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`** <date> , Feb 27, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------07378644_93fc_4159_ad24_68de9584dbee------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`** <date> , Dec 19, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href=https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------07378644_93fc_4159_ad24_68de9584dbee------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Erma Winter`** <date> , Feb 7, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------07378644_93fc_4159_ad24_68de9584dbee------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Design Studio`** <date> , Nov 30, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/ui-ux-design-trends target="_blank" rel="noopener noreferrer">UI-UX Design 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/javascript-development target="_blank" rel="noopener noreferrer">JavaScript 주간 핫토픽</a>&nbsp; 🔗</h3>
@@ -185,36 +127,7 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/technology target="_blank" rel="noopener noreferrer">Technology 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Here’s What’s Wrong with Saying “My Kids Come First” on the Dating Apps - <a href=https://medium.com/@jennieyoung/heres-what-s-wrong-with-saying-my-kids-come-first-on-the-dating-apps-278964106209?source=tag_recommended_feed---------0-84----------relationships----------796c9398_d99c_424b_a148_7c919be3d3d2------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jennie Young`** <date> , 5 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Good Guys Don’t Pay the Bill So Alpha Males Can Procreate - <a href=https://medium.com/sexography/good-guys-dont-pay-the-bill-so-alpha-males-can-procreate-d9e8e3ec9b2a?source=tag_recommended_feed---------1-107----------relationships----------796c9398_d99c_424b_a148_7c919be3d3d2------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Renata Ellera Gomes`** <date> , 7 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. Confession: Casual Sex is My New Favorite Kind - <a href=https://medium.com/the-virago/confession-casual-sex-is-my-new-favorite-kind-0206f3ba34e3?source=tag_recommended_feed---------2-85----------relationships----------796c9398_d99c_424b_a148_7c919be3d3d2------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jennifer Lily Marie`** <date> , 6 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Domestic abuse scars American society, hidden in trailer homes and mansions. - <a href=https://medium.com/@larry-payne/domestic-abuse-scars-american-society-hidden-in-trailer-homes-and-mansions-62c4f6c5976e?source=tag_recommended_feed---------3-84----------relationships----------796c9398_d99c_424b_a148_7c919be3d3d2------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Larry Payne, D.Min., LPC`** <date> , 1 day ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. When Should You Break Up With a Friend? - <a href=https://medium.com/modern-women/when-should-you-break-up-with-a-friend-bdf3c723570e?source=tag_recommended_feed---------4-107----------relationships----------796c9398_d99c_424b_a148_7c919be3d3d2------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Brina Patel`** <date> , 9 min read</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/relationships target="_blank" rel="noopener noreferrer">Relationships 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/mobile-app-development target="_blank" rel="noopener noreferrer">App Development 주간 핫토픽</a>&nbsp; 🔗</h3>
@@ -223,10 +136,68 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/android target="_blank" rel="noopener noreferrer">Android 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/ios target="_blank" rel="noopener noreferrer">IOS 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. BLAST COIN Airdrop Full guide — Claim 350$ Now! - <a href=https://medium.com/@xixury/blast-coin-airdrop-full-guide-claim-350-now-83144dd81a7e?source=tag_recommended_feed---------0-84----------ios----------c3e39dd0_191e_46fb_9bef_a1dd6f14dfd8------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `MEMEhunter`** <date> , 2 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Aspect-Oriented Programming in Swift - <a href=https://medium.com/the-swift-cooperative/aspect-oriented-programming-in-swift-f2366350c527?source=tag_recommended_feed---------1-107----------ios----------c3e39dd0_191e_46fb_9bef_a1dd6f14dfd8------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Luis Recuenco`** <date> , 3 days ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. Apple’s all new design language - <a href=https://medium.com/design-bootcamp/apples-all-new-design-language-986cdc4c29b4?source=tag_recommended_feed---------2-85----------ios----------c3e39dd0_191e_46fb_9bef_a1dd6f14dfd8------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ameer Omidvar`** <date> , Feb 14, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. iOS 17.4 Released — 25+ Amazing New Features You NEED To Try Now! - <a href=https://medium.com/macoclock/ios-17-4-has-way-more-features-than-weve-expected-25-new-features-changes-363ef3d8fdfe?source=tag_recommended_feed---------3-84----------ios----------c3e39dd0_191e_46fb_9bef_a1dd6f14dfd8------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Nikhil Vemu`** <date> , 17 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. The 2FA app that tells you when you get `012345` - <a href=https://medium.com/gitconnected/the-2fa-app-that-tells-you-when-you-get-012345-4b04e90ce317?source=tag_recommended_feed---------4-107----------ios----------c3e39dd0_191e_46fb_9bef_a1dd6f14dfd8------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Jacob Bartlett`** <date> , 22 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/devops target="_blank" rel="noopener noreferrer">Devops 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. Introducing Boilerplate - <a href=https://medium.com/gruntwork/introducing-boilerplate-6d796444ecf6?source=tag_recommended_feed---------0-84----------devops----------324481cf_34ff_4ae0_a305_12ce17080081------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Yevgeniy Brikman`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Rube Goldberg, Cloud Architect - <a href=https://medium.com/itnext/rube-goldberg-cloud-architect-a5bbb357b54d?source=tag_recommended_feed---------1-107----------devops----------324481cf_34ff_4ae0_a305_12ce17080081------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Anthony Critelli`** <date> , 11 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. 13 Kubernetes Tricks You Didn’t Know - <a href=https://medium.com/overcast-blog/13-kubernetes-tricks-you-didnt-know-647de6364472?source=tag_recommended_feed---------2-85----------devops----------324481cf_34ff_4ae0_a305_12ce17080081------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `DavidW (skyDragon)`** <date> , Feb 26, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. Devops Zero to Hero #6— A complete guide to serverless in AWS with Lambda - <a href=https://medium.com/@akhilesh-mishra/devops-zero-to-hero-6-a-complete-guide-to-serverless-in-aws-with-lambda-8b4aa04312fd?source=tag_recommended_feed---------3-84----------devops----------324481cf_34ff_4ae0_a305_12ce17080081------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Akhilesh Mishra`** <date> , 15 hours ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Pulumi VS Terraform: The Definitive Guide to Choosing Your IaC Tool - <a href=https://medium.com/gitguardian/pulumi-vs-terraform-the-definitive-guide-to-choosing-your-iac-tool-6be9081aa6e7?source=tag_recommended_feed---------4-107----------devops----------324481cf_34ff_4ae0_a305_12ce17080081------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tiexin Guo`** <date> , 18 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/kubernetes target="_blank" rel="noopener noreferrer">Kubernetes 주간 핫토픽</a>&nbsp; 🔗</h3>
