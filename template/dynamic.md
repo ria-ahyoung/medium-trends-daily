@@ -1,30 +1,30 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Make your React Native code cleaner - <a href=https://medium.com/@charismakurniawan/make-your-react-native-code-cleaner-42b3d3f5a8f8?source=tag_recommended_feed---------0-84----------reactjs----------d857d77f_6306_4ae1_847f_d8693e379bd7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Child ‘s function calling from parent component  | ReactJS | NextJS - <a href=https://medium.com/@cleverzone/child-s-function-calling-from-parent-component-reactjs-nextjs-cc6fa415ca63?source=tag_recommended_feed---------0-84----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Charisma Kurniawan Aji`** <date> , 1 day ago</date>
+✍️ **posted by `Abhijeet kumar`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------d857d77f_6306_4ae1_847f_d8693e379bd7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------reactjs----------d857d77f_6306_4ae1_847f_d8693e379bd7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wei Jun`** <date> , Feb 28, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Understanding the Differences Between Map and Object in JavaScript - <a href=https://medium.com/@sharareshaddev/understanding-the-differences-between-map-and-object-in-javascript-b92e7cf8fa6c?source=tag_recommended_feed---------3-84----------reactjs----------d857d77f_6306_4ae1_847f_d8693e379bd7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Integrating AI models in Next.js - <a href=https://medium.com/@hkhantanoli/integrating-ai-models-in-next-js-dee6f11d44e7?source=tag_recommended_feed---------3-84----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `sherry shad`** <date> , 1 hour ago</date>
+✍️ **posted by `Hamza Khan`** <date> , 8 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------d857d77f_6306_4ae1_847f_d8693e379bd7------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
@@ -32,66 +32,66 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/nextjs target="_blank" rel="noopener noreferrer">NextJS 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. How to use Docusaurus in Next.js projects? - <a href=https://medium.com/@martinadamsdev/how-to-use-docusaurus-in-next-js-projects-0292003fd3c8?source=tag_recommended_feed---------0-84----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Martin Adams`** <date> , 3 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Katharine Angelopoulos`** <date> , 13 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Wei Jun`** <date> , Feb 28, 2024</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. Child ‘s function calling from parent component  | ReactJS | NextJS - <a href=https://medium.com/@cleverzone/child-s-function-calling-from-parent-component-reactjs-nextjs-cc6fa415ca63?source=tag_recommended_feed---------3-84----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Abhijeet kumar`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Teng Wei Herr`** <date> , 6 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------5e417d24_21d6_4277_9741_bff89e04e1b4------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shailesh Chauhan`** <date> , Dec 28, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. The Top 10 UI UX Trends to Watch in 2024 - <a href=https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------5e417d24_21d6_4277_9741_bff89e04e1b4------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Erma Winter`** <date> , Feb 7, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------5e417d24_21d6_4277_9741_bff89e04e1b4------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`** <date> , Dec 19, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Why Adobe XD Couldn’t Compete Against Figma? - <a href=https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------5e417d24_21d6_4277_9741_bff89e04e1b4------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`** <date> , Feb 27, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------5e417d24_21d6_4277_9741_bff89e04e1b4------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Design Studio`** <date> , Nov 30, 2023</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/ui-ux-design-trends target="_blank" rel="noopener noreferrer">UI-UX Design 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. A Guide to : Set and Map - <a href=https://medium.com/@cleverzone/a-guide-to-set-and-map-6fe2d557b920?source=tag_recommended_feed---------0-84----------javascript_development----------6a156222_9c83_4227_b112_d349229ce106------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Guide to : Set and Map - <a href=https://medium.com/@cleverzone/a-guide-to-set-and-map-6fe2d557b920?source=tag_recommended_feed---------0-84----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Abhijeet kumar`** <date> , 5 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------6a156222_9c83_4227_b112_d349229ce106------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`** <date> , Jan 1, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. 9 common mistakes made by JavaScript programmers 😎 - <a href=https://medium.com/@khushi1399gupta/9-common-mistakes-made-by-javascript-programmers-a3189ee4bdfa?source=tag_recommended_feed---------2-85----------javascript_development----------6a156222_9c83_4227_b112_d349229ce106------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 9 common mistakes made by JavaScript programmers 😎 - <a href=https://medium.com/@khushi1399gupta/9-common-mistakes-made-by-javascript-programmers-a3189ee4bdfa?source=tag_recommended_feed---------2-85----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Khushi_developer`** <date> , Feb 2, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Commonly Used JavaScript Array Methods in Daily Development - <a href=https://medium.com/@kisanpwr1/commonly-used-javascript-array-methods-in-daily-development-cd2000245cfa?source=tag_recommended_feed---------3-84----------javascript_development----------6a156222_9c83_4227_b112_d349229ce106------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Commonly Used JavaScript Array Methods in Daily Development - <a href=https://medium.com/@kisanpwr1/commonly-used-javascript-array-methods-in-daily-development-cd2000245cfa?source=tag_recommended_feed---------3-84----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Kisan Pawar`** <date> , 2 days ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------6a156222_9c83_4227_b112_d349229ce106------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`** <date> , Sep 21, 2022</date>
 
