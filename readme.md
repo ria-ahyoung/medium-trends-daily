@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/11)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/03/12)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,31 +68,31 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Child ‘s function calling from parent component  | ReactJS | NextJS - <a href=https://medium.com/@cleverzone/child-s-function-calling-from-parent-component-reactjs-nextjs-cc6fa415ca63?source=tag_recommended_feed---------0-84----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. HOC Pattern in React for components with GraphQL Query - <a href=https://medium.com/@adighate10/hoc-pattern-in-react-for-components-with-graphql-query-cf639263d6a7?source=tag_recommended_feed---------0-84----------reactjs----------b6f1e43f_cabf_4144_bb64_bed935326d3f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhijeet kumar`** <date> , 1 day ago</date>
+✍️ **posted by `Aditya Ghate`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Navigating Pitfalls: A Guide to React Hooks (useState & useEffect) - <a href=https://medium.com/@Choco23/navigating-pitfalls-a-guide-to-react-hooks-usestate-useeffect-2aa2d1eca746?source=tag_recommended_feed---------1-107----------reactjs----------b6f1e43f_cabf_4144_bb64_bed935326d3f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Choco`** <date> , 9 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------reactjs----------b6f1e43f_cabf_4144_bb64_bed935326d3f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wei Jun`** <date> , Feb 28, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Integrating AI models in Next.js - <a href=https://medium.com/@hkhantanoli/integrating-ai-models-in-next-js-dee6f11d44e7?source=tag_recommended_feed---------3-84----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding the Differences Between Map and Object in JavaScript - <a href=https://medium.com/@sharareshaddev/understanding-the-differences-between-map-and-object-in-javascript-b92e7cf8fa6c?source=tag_recommended_feed---------3-84----------reactjs----------b6f1e43f_cabf_4144_bb64_bed935326d3f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hamza Khan`** <date> , 8 hours ago</date>
+✍️ **posted by `sherry shad`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------b6803124_062c_4eb0_bc13_ef939a2e1bac------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Integrated Authentication + Database SPEED RUN [React.js & Firebase] - <a href=https://medium.com/dev-genius/integrated-authentication-database-speed-run-react-js-firebase-39f577d28666?source=tag_recommended_feed---------4-107----------reactjs----------b6f1e43f_cabf_4144_bb64_bed935326d3f------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `James McArthur`** <date> , Jan 16, 2024</date>
 
@@ -100,31 +100,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How to use Docusaurus in Next.js projects? - <a href=https://medium.com/@martinadamsdev/how-to-use-docusaurus-in-next-js-projects-0292003fd3c8?source=tag_recommended_feed---------0-84----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. setup Next js and React project in Nx monorepo - <a href=https://medium.com/@sargashte118/setup-next-js-and-react-project-in-nx-monorepo-21391b42a8f6?source=tag_recommended_feed---------0-84----------nextjs----------a2e7785a_1689_46d0_8c5b_d29afeb3f742------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Martin Adams`** <date> , 3 min read</date>
+✍️ **posted by `Ahmad Safari`** <date> , 10 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Deliver New Content Faster — On Demand ISR - <a href=https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8?source=tag_recommended_feed---------1-107----------nextjs----------a2e7785a_1689_46d0_8c5b_d29afeb3f742------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Katharine Angelopoulos`** <date> , 13 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React 19 is coming, what’s new? - <a href=https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4?source=tag_recommended_feed---------2-85----------nextjs----------a2e7785a_1689_46d0_8c5b_d29afeb3f742------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wei Jun`** <date> , Feb 28, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Child ‘s function calling from parent component  | ReactJS | NextJS - <a href=https://medium.com/@cleverzone/child-s-function-calling-from-parent-component-reactjs-nextjs-cc6fa415ca63?source=tag_recommended_feed---------3-84----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. My Journey to Building a Virtual Space - <a href=https://medium.com/@bigtulahi1/my-journey-to-building-a-virtual-space-5d005cc88ed3?source=tag_recommended_feed---------3-84----------nextjs----------a2e7785a_1689_46d0_8c5b_d29afeb3f742------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhijeet kumar`** <date> , 1 day ago</date>
+✍️ **posted by `Abdullah`** <date> , 9 hours ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------02de0763_16b5_4fa8_8f6d_d4ac48f474c9------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Explained: Web app at the edge - <a href=https://medium.com/gitconnected/explained-web-app-at-the-edge-fb391985a0a5?source=tag_recommended_feed---------4-107----------nextjs----------a2e7785a_1689_46d0_8c5b_d29afeb3f742------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Teng Wei Herr`** <date> , 6 min read</date>
 
@@ -135,36 +135,7 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/ui-ux-design-trends target="_blank" rel="noopener noreferrer">UI-UX Design 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. A Guide to : Set and Map - <a href=https://medium.com/@cleverzone/a-guide-to-set-and-map-6fe2d557b920?source=tag_recommended_feed---------0-84----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Abhijeet kumar`** <date> , 5 hours ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href=https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?source=tag_recommended_feed---------1-107----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ravi Sharma`** <date> , Jan 1, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>3. 9 common mistakes made by JavaScript programmers 😎 - <a href=https://medium.com/@khushi1399gupta/9-common-mistakes-made-by-javascript-programmers-a3189ee4bdfa?source=tag_recommended_feed---------2-85----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Khushi_developer`** <date> , Feb 2, 2024</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>4. Commonly Used JavaScript Array Methods in Daily Development - <a href=https://medium.com/@kisanpwr1/commonly-used-javascript-array-methods-in-daily-development-cd2000245cfa?source=tag_recommended_feed---------3-84----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kisan Pawar`** <date> , 2 days ago</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
-<h3>5. JavaScript in a nutshell! - <a href=https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78?source=tag_recommended_feed---------4-107----------javascript_development----------1e6fd916_ceda_4e7a_8cab_fc7bbb1c9f9a------- target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Daisy Kirui`** <date> , Sep 21, 2022</date>
-
-<blockquote>Click the link to check out the post. ⌲</blockquote>
-
+<h3>🔥 &nbsp;<a href=https://medium.com/tag/javascript-development target="_blank" rel="noopener noreferrer">JavaScript 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/typescript-tips target="_blank" rel="noopener noreferrer">TypeScript 주간 핫토픽</a>&nbsp; 🔗</h3>
@@ -185,7 +156,36 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/technology target="_blank" rel="noopener noreferrer">Technology 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/relationships target="_blank" rel="noopener noreferrer">Relationships 주간 핫토픽</a>&nbsp; 🔗</h3>
+<h3>1. My Journey with Narcissistic Personality Disorder in Relationships - <a href=https://medium.com/@miabeauty1985/my-journey-with-narcissistic-personality-disorder-in-relationships-8b26fb104c9a?source=tag_recommended_feed---------0-84----------relationships----------c5ccf743_6bac_40ca_a240_05522b774c61------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mia`** <date> , 2 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>2. Netflix and Never Enough Narratives: Deconstructing Desire and Decision-Making in “Love is Blind” - <a href=https://medium.com/@faitheday/netflix-and-never-enough-narratives-deconstructing-desire-and-decision-making-in-love-is-blind-6ce1b74ca79d?source=tag_recommended_feed---------1-107----------relationships----------c5ccf743_6bac_40ca_a240_05522b774c61------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Faithe J Day`** <date> , 8 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>3. My Husband Got His Own Apartment - <a href=https://medium.com/human-parts/my-husband-got-his-own-apartment-4a1b2f9da584?source=tag_recommended_feed---------2-85----------relationships----------c5ccf743_6bac_40ca_a240_05522b774c61------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Kerala Taylor`** <date> , 11 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>4. 10 Things I Stopped Doing After Leaving Sex Work - <a href=https://medium.com/write-earn-a-beginners-hub-for-writers/10-things-i-stopped-doing-after-leaving-sex-work-94a3530f26e1?source=tag_recommended_feed---------3-84----------relationships----------c5ccf743_6bac_40ca_a240_05522b774c61------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Chloé`** <date> , 2 min read</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
+<h3>5. I’m New Here: A Story of Coming Out Later in Life - <a href=https://medium.com/prismnpen/im-new-here-a-story-of-coming-out-later-in-life-716706ffceb2?source=tag_recommended_feed---------4-107----------relationships----------c5ccf743_6bac_40ca_a240_05522b774c61------- target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Luke`** <date> , 1 day ago</date>
+
+<blockquote>Click the link to check out the post. ⌲</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/mobile-app-development target="_blank" rel="noopener noreferrer">App Development 주간 핫토픽</a>&nbsp; 🔗</h3>
