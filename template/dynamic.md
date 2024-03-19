@@ -64,31 +64,31 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------d40f35f0_f93f_4621_840f_5ea47d8c2127------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href=https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------abbf61ab_1de6_48a2_bc85_a4714f0d35b8------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`** <date> , Dec 28, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Why Adobe XD Couldn’t Compete Against Figma? - <a href=https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------d40f35f0_f93f_4621_840f_5ea47d8c2127------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why Adobe XD Couldn’t Compete Against Figma? - <a href=https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------abbf61ab_1de6_48a2_bc85_a4714f0d35b8------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Kumarisakshi`** <date> , Feb 27, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------d40f35f0_f93f_4621_840f_5ea47d8c2127------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href=https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------abbf61ab_1de6_48a2_bc85_a4714f0d35b8------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Consagoustech`** <date> , Dec 19, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href=https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------d40f35f0_f93f_4621_840f_5ea47d8c2127------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href=https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------abbf61ab_1de6_48a2_bc85_a4714f0d35b8------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Erma Winter`** <date> , Feb 7, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------d40f35f0_f93f_4621_840f_5ea47d8c2127------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href=https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------abbf61ab_1de6_48a2_bc85_a4714f0d35b8------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Design Studio`** <date> , Nov 30, 2023</date>
 
@@ -128,33 +128,33 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. TypeScript Error Handling: A guide to 11 TypeScript errors and their fixes - <a href=https://medium.com/@zipy-ai/typescript-error-handling-a-guide-to-11-typescript-errors-and-their-fixes-7fe59ee707a6?source=tag_recommended_feed---------0-84----------typescript_tips----------8b8c11dd_22f3_4711_878d_08fc498a9573------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. NonEmptyArray type - <a href=https://medium.com/typescript-tidbits/nonemptyarray-type-98348fb43b24?source=tag_recommended_feed---------0-84----------typescript_tips----------264da53f_f968_4aac_a9ea_ef977884cacd------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Zipy`** <date> , 3 days ago</date>
+✍️ **posted by `Oluwafemi Shobande`** <date> , 1 day ago</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------8b8c11dd_22f3_4711_878d_08fc498a9573------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href=https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6?source=tag_recommended_feed---------1-107----------typescript_tips----------264da53f_f968_4aac_a9ea_ef977884cacd------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Chris Bauer`** <date> , Jul 11, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. 6 TypeScript Features I Can’t Live Without After Using Them! - <a href=https://medium.com/javascript-in-plain-english/6-typescript-features-i-cant-live-without-after-using-them-1d7feab33922?source=tag_recommended_feed---------2-85----------typescript_tips----------8b8c11dd_22f3_4711_878d_08fc498a9573------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 6 TypeScript Features I Can’t Live Without After Using Them! - <a href=https://medium.com/javascript-in-plain-english/6-typescript-features-i-cant-live-without-after-using-them-1d7feab33922?source=tag_recommended_feed---------2-85----------typescript_tips----------264da53f_f968_4aac_a9ea_ef977884cacd------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Maxwell`** <date> , 5 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. Comprehensive Guide to TypeScript: Enhancing Your JavaScript Development - <a href=https://medium.com/@dezsays/comprehensive-guide-to-typescript-enhancing-your-javascript-development-ce15a4632f1f?source=tag_recommended_feed---------3-84----------typescript_tips----------8b8c11dd_22f3_4711_878d_08fc498a9573------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Using Generics In TypeScript: A Practical Guide - <a href=https://medium.com/@alexkhomenko/using-generics-in-typescript-a-practical-guide-7843ffdc3ad5?source=tag_recommended_feed---------3-84----------typescript_tips----------264da53f_f968_4aac_a9ea_ef977884cacd------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dezarea Bryan`** <date> , 10 min read</date>
+✍️ **posted by `Alex Khomenko`** <date> , 7 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. 5 Tools for Typescript Projects at Scale - <a href=https://medium.com/bitsrc/5-tools-for-typescript-projects-at-scale-05667f8a0ae0?source=tag_recommended_feed---------4-85----------typescript_tips----------8b8c11dd_22f3_4711_878d_08fc498a9573------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 10 Advanced TypeScript Tricks for Experienced Developers: - <a href=https://medium.com/@chandantechie/10-advanced-typescript-tricks-for-experienced-developers-2143e6aa8b38?source=tag_recommended_feed---------4-85----------typescript_tips----------264da53f_f968_4aac_a9ea_ef977884cacd------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashan Fernando`** <date> , Jan 25, 2024</date>
+✍️ **posted by `Chandan Kumar`** <date> , Dec 30, 2023</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
@@ -320,33 +320,33 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. And the World Will Hate You For It - <a href=https://medium.com/@tfreynard11/and-the-world-will-hate-you-for-it-2f166c4b9fe5?source=tag_recommended_feed---------0-84----------relationships----------a6cd4a81_b590_4672_acd5_0d8f8b8ccaba------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. And the World Will Hate You For It - <a href=https://medium.com/@tfreynard11/and-the-world-will-hate-you-for-it-2f166c4b9fe5?source=tag_recommended_feed---------0-84----------relationships----------dd503cdd_b75f_4055_8643_d6bf109742ef------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `T.F Reynard`** <date> , 4 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>2. How To Love Your Partner As They Are Today - <a href=https://medium.com/modern-women/how-to-love-your-partner-as-they-are-today-9d3e75efda36?source=tag_recommended_feed---------1-107----------relationships----------a6cd4a81_b590_4672_acd5_0d8f8b8ccaba------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Details - <a href=https://medium.com/@kshaffar/details-9ff8fc1be447?source=tag_recommended_feed---------1-107----------relationships----------dd503cdd_b75f_4055_8643_d6bf109742ef------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tara Shani Rullo, LCSW`** <date> , 6 min read</date>
+✍️ **posted by `Kate Shaffar`** <date> , Feb 24, 2024</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>3. My Journey with Narcissistic Personality Disorder in Relationships - <a href=https://medium.com/@miabeauty1985/my-journey-with-narcissistic-personality-disorder-in-relationships-8b26fb104c9a?source=tag_recommended_feed---------2-85----------relationships----------a6cd4a81_b590_4672_acd5_0d8f8b8ccaba------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. My Journey with Narcissistic Personality Disorder in Relationships - <a href=https://medium.com/@miabeauty1985/my-journey-with-narcissistic-personality-disorder-in-relationships-8b26fb104c9a?source=tag_recommended_feed---------2-85----------relationships----------dd503cdd_b75f_4055_8643_d6bf109742ef------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mia`** <date> , 2 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>4. I thought I loved myself when I fell in love - <a href=https://medium.com/@nasyasalsabila/i-thought-i-loved-myself-when-i-fell-in-love-4bb79e098bd2?source=tag_recommended_feed---------3-84----------relationships----------a6cd4a81_b590_4672_acd5_0d8f8b8ccaba------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Men, these 12 subtle behaviours make you instantly more attractive - <a href=https://medium.com/@iamalexmathers/men-these-12-subtle-behaviours-make-you-instantly-more-attractive-31b1e58e1b36?source=tag_recommended_feed---------3-84----------relationships----------dd503cdd_b75f_4055_8643_d6bf109742ef------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tulisan Nasya`** <date> , 18 hours ago</date>
+✍️ **posted by `Alex Mathers`** <date> , 4 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
-<h3>5. How Disposable Objects Have Lead to Disposable People - <a href=https://medium.com/@ashely.crouch/how-disposable-objects-have-lead-to-disposable-people-7e52096b1b23?source=tag_recommended_feed---------4-107----------relationships----------a6cd4a81_b590_4672_acd5_0d8f8b8ccaba------- target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Fraught With Undermining Routes - <a href=https://medium.com/write-under-the-moon/fraught-with-undermining-routes-248fb00408d2?source=tag_recommended_feed---------4-107----------relationships----------dd503cdd_b75f_4055_8643_d6bf109742ef------- target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashely L. Crouch`** <date> , 8 min read</date>
+✍️ **posted by `Jill Eng`** <date> , 2 min read</date>
 
 <blockquote>Click the link to check out the post. ⌲</blockquote>
 
