@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/05/01)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/05/02)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -104,7 +104,6 @@ Get more useful information conveniently right here. 🤓
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/mobile-app-development target="_blank" rel="noopener noreferrer">App Development 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>🔥 &nbsp;<a href=https://medium.com/tag/android target="_blank" rel="noopener noreferrer">Android 주간 핫토픽</a>&nbsp; 🔗</h3>
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
 <h3>🔥 &nbsp;<a href=https://medium.com/tag/ios target="_blank" rel="noopener noreferrer">IOS 주간 핫토픽</a>&nbsp; 🔗</h3>
