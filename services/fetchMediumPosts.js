@@ -34,14 +34,12 @@ export default async function fetchMediumPosts(tag = "nextjs") {
 
         const title = getElementContent(post, "title");
         const author = getElementContent(post, "author");
-        const date = getElementContent(post, "date")?.split("·")[1] ?? "";
         const preview = getElementContent(post, "preview");
         const link = getElementContent(post, "link");
 
         postInfo.push({
           title,
           author,
-          date,
           preview,
           link: BASE_URL + link,
         });

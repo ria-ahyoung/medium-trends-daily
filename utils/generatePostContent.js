@@ -10,7 +10,7 @@ import { BASE_URL, DISPLAY_LABEL } from "../static/index.js";
  * @example const content = generatePostContent(tag, posts);
  * content === `
     <h3>포스팅 제목 - <a>link</a></h3>
-    <p>저자명</p> <date>작성 날짜</date>
+    <p>저자명</p> 
     <blockquote>요약 게시물</blockquote>
     `
  */
@@ -35,12 +35,11 @@ const directContent = (link, label) => {
 };
 
 const templateContent = (post, index) => {
-  const { title, author, date, preview, link } = post;
-  return `<h3>${
-    index + 1
-  }. ${title} - <a href=${link} target="_blank" rel="noopener noreferrer">link</a></h3>\n\n✍️ **posted by \`${author}\`** <date>${
-    date ? " , " + date : date
-  }</date>\n\n<blockquote>${
-    preview ?? "Click the link to check out the post. ⌲"
-  }</blockquote>\n\n`;
+  const { author, preview, link } = post;
+  const postTitle = `${index + 1}. ${title}`;
+  const postLink = `<a href="${link}" target="_blank" rel="noopener noreferrer">link</a>`;
+  const authorInfo = `✍️ **posted by \`${author}\`**`;
+  const postPreview = `<blockquote>${preview ?? "글을 확인하려면 링크를 클릭하세요. ⌲"}</blockquote>`;
+
+  return `<h3>${postTitle} - ${postLink}</h3>\n\n${authorInfo}\n\n${postPreview}\n\n`;
 };
