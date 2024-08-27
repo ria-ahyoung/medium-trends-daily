@@ -35,7 +35,7 @@ const directContent = (link, label) => {
 };
 
 const templateContent = (post, index) => {
-  const { author, preview, link } = post;
+  const { title, author, preview, link } = post;
   const postTitle = `${index + 1}. ${title}`;
   const postLink = `<a href="${link}" target="_blank" rel="noopener noreferrer">link</a>`;
   const authorInfo = `✍️ **posted by \`${author}\`**`;
