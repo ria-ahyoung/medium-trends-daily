@@ -41,7 +41,7 @@ export default async function fetchMediumPosts(tag = "nextjs") {
           title,
           author,
           preview,
-          link: BASE_URL + link,
+          link,
         });
       });
 

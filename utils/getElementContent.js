@@ -22,7 +22,7 @@ export default function getElementContent(document, type) {
     title: document.querySelector("h2"),
     author: document.querySelector("a > p"),
     preview: document.querySelector("h3"),
-    link: document.querySelector("a").getAttribute("href")
+    link: document.querySelector('[role="link"]').getAttribute('data-href')
   };
 
   if (EXCEPTION_TYPE.includes(type)) return elements[type];
