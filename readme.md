@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/08/27)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/08/28)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -100,31 +100,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Dockerizing NEXT JS V14 + Application using output Standalone and Self Hos - <a href="https://medium.com/@techwithtwin?source=tag_recommended_feed---------0-84----------nextjs----------10334bec_3a76_4dbd_9cf2_a8dc27355a01-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Micro Frontends with Module Federation in Next.js: A Modern Approach to Scalable Web Architecture - <a href="https://medium.com/@nirbhaysinghbest1?source=tag_recommended_feed---------0-84----------nextjs----------3c637e1c_87c0_4ab2_94ec_029cdda83fee-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tech with twin`**
+✍️ **posted by `Nirbhay Singh`**
 
-<blockquote>Step by step article on dockerizing nextjs applications.</blockquote>
+<blockquote>Micro frontends represent a revolutionary approach to web development, breaking down monolithic applications into smaller, more manageable…</blockquote>
 
-<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/@jherr2020?source=tag_recommended_feed---------1-107----------nextjs----------10334bec_3a76_4dbd_9cf2_a8dc27355a01-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/@jherr2020?source=tag_recommended_feed---------1-107----------nextjs----------3c637e1c_87c0_4ab2_94ec_029cdda83fee-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jack Herrington`**
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>3. I Switched From NextJS To Laravel And I Can’t Believe I Didn’t Sooner - <a href="https://medium.com/@hhartleyjs?source=tag_recommended_feed---------2-85----------nextjs----------10334bec_3a76_4dbd_9cf2_a8dc27355a01-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I Switched From NextJS To Laravel And I Can’t Believe I Didn’t Sooner - <a href="https://medium.com/@hhartleyjs?source=tag_recommended_feed---------2-85----------nextjs----------3c637e1c_87c0_4ab2_94ec_029cdda83fee-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `HarryHTML`**
 
 <blockquote>Why the hell is everyone so obsessed with Nextjs?</blockquote>
 
-<h3>4. Zod Input Validation in Next.js: To Enhance Frontend Form Handling - <a href="https://medium.com/@iamarasekera?source=tag_recommended_feed---------3-84----------nextjs----------10334bec_3a76_4dbd_9cf2_a8dc27355a01-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Storybook Should Be Your Next Best Friend in React and Next.js Projects - <a href="https://medium.com/@nicks14368?source=tag_recommended_feed---------3-84----------nextjs----------3c637e1c_87c0_4ab2_94ec_029cdda83fee-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ishara Amarasekera`**
+✍️ **posted by `Nikhil Sharma`**
 
-<blockquote>Implementing Frontend Validation with Zod for a Seamless User Experience in Next.js</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/@jhyahav?source=tag_recommended_feed---------4-107----------nextjs----------10334bec_3a76_4dbd_9cf2_a8dc27355a01-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/@jhyahav?source=tag_recommended_feed---------4-107----------nextjs----------3c637e1c_87c0_4ab2_94ec_029cdda83fee-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jonathan Yahav`**
 
@@ -132,31 +132,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. How the HNG Internship Will Help Me Achieve My Tech Service Goals - <a href="https://medium.com/@adebayooluwaseun19838?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------4c7bdabf_8d1b_4e5a_b0a9_2838a951a1a4-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How the HNG Internship Will Help Me Achieve My Tech Service Goals - <a href="https://medium.com/@adebayooluwaseun19838?source=tag_recommended_feed---------0-84----------ui_ux_design_trends----------88be3569_08e6_46cd_bd39_1ece9e8095b2-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Oluwaseun Adebayo`**
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. 10 UI/UX Tools to use in 2023 — Infowind Technologies(IT) PVT. LTD - <a href="https://medium.com/@Infowind?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------4c7bdabf_8d1b_4e5a_b0a9_2838a951a1a4-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 10 UI/UX Tools to use in 2023 — Infowind Technologies(IT) PVT. LTD - <a href="https://medium.com/@Infowind?source=tag_recommended_feed---------1-85----------ui_ux_design_trends----------88be3569_08e6_46cd_bd39_1ece9e8095b2-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Infowind Technologies`**
 
 <blockquote>Which designer wouldn’t want to use a host of design tools at each level of product development? With a flourishing number of design tools…</blockquote>
 
-<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------4c7bdabf_8d1b_4e5a_b0a9_2838a951a1a4-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890?source=tag_recommended_feed---------2-84----------ui_ux_design_trends----------88be3569_08e6_46cd_bd39_1ece9e8095b2-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
 
-<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/@davidkiosk?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------4c7bdabf_8d1b_4e5a_b0a9_2838a951a1a4-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/@davidkiosk?source=tag_recommended_feed---------3-85----------ui_ux_design_trends----------88be3569_08e6_46cd_bd39_1ece9e8095b2-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `David Bailey`**
 
 <blockquote>We designers are a curious species — tirelessly seeking and sharing ideas that help develop our craft and the things we make. UX design…</blockquote>
 
-<h3>5. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------4c7bdabf_8d1b_4e5a_b0a9_2838a951a1a4-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous?source=tag_recommended_feed---------4-84----------ui_ux_design_trends----------88be3569_08e6_46cd_bd39_1ece9e8095b2-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Consagoustech`**
 
@@ -164,31 +164,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. The JavaScript Bundler Conundrum: Navigating the Top 10 Tools - <a href="https://medium.com/@rakeshkumar-42819?source=tag_recommended_feed---------0-84----------javascript_development----------6c37f7d1_798c_4e0c_bd63_fc63ed1e6a70-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 5 Harsh Truths About JavaScript Every Developer Needs to Hear (But Won’t) - <a href="https://medium.com/@arslanmirza?source=tag_recommended_feed---------0-84----------javascript_development----------894ee916_80ea_4a44_a439_224b51e63886-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rakesh Kumar`**
+✍️ **posted by `Arslan Mirza`**
 
-<blockquote>Navigating the Rapidly Evolving Landscape of JavaScript Bundlers</blockquote>
+<blockquote>JavaScript.</blockquote>
 
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric?source=tag_recommended_feed---------1-107----------javascript_development----------6c37f7d1_798c_4e0c_bd63_fc63ed1e6a70-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric?source=tag_recommended_feed---------1-107----------javascript_development----------894ee916_80ea_4a44_a439_224b51e63886-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`**
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. 28 JavaScript One-Liners every Senior Developer Needs to Know - <a href="https://medium.com/@matemarschalko?source=tag_recommended_feed---------2-85----------javascript_development----------6c37f7d1_798c_4e0c_bd63_fc63ed1e6a70-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 28 JavaScript One-Liners every Senior Developer Needs to Know - <a href="https://medium.com/@matemarschalko?source=tag_recommended_feed---------2-85----------javascript_development----------894ee916_80ea_4a44_a439_224b51e63886-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mate Marschalko`**
 
 <blockquote>Learn how to implement complex logic with beautifully short and efficient next-level JavaScript syntax.</blockquote>
 
-<h3>4. 15 JavaScript Performance Hacks Every Developer Should Know - <a href="https://medium.com/@asierr?source=tag_recommended_feed---------3-84----------javascript_development----------6c37f7d1_798c_4e0c_bd63_fc63ed1e6a70-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 9 Powerful Features of ES2024 That Will Change How You Write JavaScript - <a href="https://medium.com/@asierr?source=tag_recommended_feed---------3-84----------javascript_development----------894ee916_80ea_4a44_a439_224b51e63886-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `asierr.dev`**
 
-<blockquote>JavaScript is a powerful language that runs in almost every web browser, powering dynamic and interactive websites. However, with great…</blockquote>
+<blockquote>JavaScript continues to evolve rapidly, and the latest iteration, ES2024, introduces a suite of powerful features that are set to transform…</blockquote>
 
-<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui?source=tag_recommended_feed---------4-107----------javascript_development----------6c37f7d1_798c_4e0c_bd63_fc63ed1e6a70-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui?source=tag_recommended_feed---------4-107----------javascript_development----------894ee916_80ea_4a44_a439_224b51e63886-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`**
 
@@ -196,31 +196,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. 10 Advanced TypeScript Tips and Tricks You Might Not Know - <a href="https://medium.com/@javascriptcentric?source=tag_recommended_feed---------0-84----------typescript_tips----------1f758330_b863_43a7_b024_08fc7e0986de-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 Advanced TypeScript Tips and Tricks You Might Not Know - <a href="https://medium.com/@javascriptcentric?source=tag_recommended_feed---------0-84----------typescript_tips----------dbf913fc_8e33_487b_a60e_360085ecf46e-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`**
 
 <blockquote>Unlock the Full Potential of TypeScript: 10 Advanced Tips & Tricks You Probably Haven’t Discovered Yet.</blockquote>
 
-<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/@chrisbauer.career?source=tag_recommended_feed---------1-107----------typescript_tips----------1f758330_b863_43a7_b024_08fc7e0986de-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/@chrisbauer.career?source=tag_recommended_feed---------1-107----------typescript_tips----------dbf913fc_8e33_487b_a60e_360085ecf46e-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Chris Bauer`**
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi?source=tag_recommended_feed---------2-85----------typescript_tips----------1f758330_b863_43a7_b024_08fc7e0986de-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi?source=tag_recommended_feed---------2-85----------typescript_tips----------dbf913fc_8e33_487b_a60e_360085ecf46e-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Gabriela Iriart`**
 
 <blockquote>NonNullable<T> in TypeScript is a utility type that plays a significant role in enhancing code safety and clarity. This is particularly…</blockquote>
 
-<h3>4. Top Reasons to Switch from JavaScript to TypeScript - <a href="https://medium.com/@AALA-IT-Solutions?source=tag_recommended_feed---------3-84----------typescript_tips----------1f758330_b863_43a7_b024_08fc7e0986de-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top Reasons to Switch from JavaScript to TypeScript - <a href="https://medium.com/@AALA-IT-Solutions?source=tag_recommended_feed---------3-84----------typescript_tips----------dbf913fc_8e33_487b_a60e_360085ecf46e-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `AALA IT Solutions`**
 
 <blockquote>We’ve seen and experienced many times how the choice of programming language can make or break a project. JavaScript has long been the…</blockquote>
 
-<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82?source=tag_recommended_feed---------4-85----------typescript_tips----------1f758330_b863_43a7_b024_08fc7e0986de-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82?source=tag_recommended_feed---------4-85----------typescript_tips----------dbf913fc_8e33_487b_a60e_360085ecf46e-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Nabendu Biswas`**
 
@@ -228,31 +228,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. What is npm ci and How does it differ from npm i? - <a href="https://medium.com/@rutuja.pandule?source=tag_recommended_feed---------0-84----------nodejs----------5a9d0e38_b11d_4e4d_bf85_467bf783967c-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Farewell, Nodemon! 💔 - <a href="https://medium.com/@Evelyn.Taylor?source=tag_recommended_feed---------0-84----------nodejs----------84338757_0f2a_4d8b_ace1_d79d8dff8d27-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rutuja Pandule`**
+✍️ **posted by `Evelyn Taylor`**
 
-<blockquote>What is NPM CI, and what are the key differences between NPM I and NPM CI ? When to use which ?? Understand NPM CI in this blog .</blockquote>
+<blockquote>Ah, Nodemon, companion of countless late-night coding sessions, friend to the eternally ctrl+s-ing finger.</blockquote>
 
-<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/@jherr2020?source=tag_recommended_feed---------1-107----------nodejs----------5a9d0e38_b11d_4e4d_bf85_467bf783967c-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/@jherr2020?source=tag_recommended_feed---------1-107----------nodejs----------84338757_0f2a_4d8b_ace1_d79d8dff8d27-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jack Herrington`**
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>3. A Legendary Interview Question: What is the Maximum Length of An Array in Nodejs? - <a href="https://medium.com/@bytefish?source=tag_recommended_feed---------2-85----------nodejs----------5a9d0e38_b11d_4e4d_bf85_467bf783967c-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. A Legendary Interview Question: What is the Maximum Length of An Array in Nodejs? - <a href="https://medium.com/@bytefish?source=tag_recommended_feed---------2-85----------nodejs----------84338757_0f2a_4d8b_ace1_d79d8dff8d27-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shuai Li`**
 
 <blockquote>If the interviewer asks you the question in the title, what’s your answer?</blockquote>
 
-<h3>4. Introducing Rapidfy Beta: A Lightweight Backend Framework for Node.js - <a href="https://medium.com/@kimmylps-99?source=tag_recommended_feed---------3-84----------nodejs----------5a9d0e38_b11d_4e4d_bf85_467bf783967c-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Introducing Rapidfy Beta: A Lightweight Backend Framework for Node.js - <a href="https://medium.com/@kimmylps-99?source=tag_recommended_feed---------3-84----------nodejs----------84338757_0f2a_4d8b_ace1_d79d8dff8d27-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Kimmy Dev`**
 
 <blockquote>Chapter 1: Introduction and Getting Started with Rapidfy</blockquote>
 
-<h3>5. Announcing Gulp v5 - <a href="https://medium.com/@BlaineBublitz?source=tag_recommended_feed---------4-107----------nodejs----------5a9d0e38_b11d_4e4d_bf85_467bf783967c-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Announcing Gulp v5 - <a href="https://medium.com/@BlaineBublitz?source=tag_recommended_feed---------4-107----------nodejs----------84338757_0f2a_4d8b_ace1_d79d8dff8d27-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Blaine Bublitz`**
 
@@ -292,31 +292,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. SwiftUI WebView with Loader State Handling - <a href="https://medium.com/@kbbinshad?source=tag_recommended_feed---------0-84----------webview----------61f05453_ec8b_4ff1_ba94_615a8c2c5aa0-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. SwiftUI WebView with Loader State Handling - <a href="https://medium.com/@kbbinshad?source=tag_recommended_feed---------0-84----------webview----------1a02c57d_6d32_4b95_ac7f_d820d41010c1-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Binshad Karekkatt Basheer`**
 
 <blockquote>In this article, I will explain how to implement a WebView in a SwiftUI app with a loader to indicate when content is loading. First, I’ll…</blockquote>
 
-<h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_?source=tag_recommended_feed---------1-85----------webview----------61f05453_ec8b_4ff1_ba94_615a8c2c5aa0-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_?source=tag_recommended_feed---------1-85----------webview----------1a02c57d_6d32_4b95_ac7f_d820d41010c1-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Marvel Apps`**
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. Expo Login with Instagram using react-native-instagram-login - <a href="https://medium.com/@farmaan30327?source=tag_recommended_feed---------2-84----------webview----------61f05453_ec8b_4ff1_ba94_615a8c2c5aa0-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Expo Login with Instagram using react-native-instagram-login - <a href="https://medium.com/@farmaan30327?source=tag_recommended_feed---------2-84----------webview----------1a02c57d_6d32_4b95_ac7f_d820d41010c1-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Farmaan`**
 
 <blockquote>Integrating Instagram login into your Expo app is a great way to enhance user experience by allowing users to sign in quickly using their…</blockquote>
 
-<h3>4. Synchronization of native and WebView sessions with iOS - <a href="https://medium.com/@paul-hackenberger?source=tag_recommended_feed---------3-85----------webview----------61f05453_ec8b_4ff1_ba94_615a8c2c5aa0-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Synchronization of native and WebView sessions with iOS - <a href="https://medium.com/@paul-hackenberger?source=tag_recommended_feed---------3-85----------webview----------1a02c57d_6d32_4b95_ac7f_d820d41010c1-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Paul Hackenberger`**
 
 <blockquote>Our struggle and success in unifying session management</blockquote>
 
-<h3>5. Building Document PDF Scanner for Windows, Android and iOS with .NET MAUI Blazor - <a href="https://medium.com/@yushulx?source=tag_recommended_feed---------4-84----------webview----------61f05453_ec8b_4ff1_ba94_615a8c2c5aa0-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Building Document PDF Scanner for Windows, Android and iOS with .NET MAUI Blazor - <a href="https://medium.com/@yushulx?source=tag_recommended_feed---------4-84----------webview----------1a02c57d_6d32_4b95_ac7f_d820d41010c1-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Xiao Ling`**
 
@@ -356,31 +356,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Step-by-Step Guide to the AI Hugging Video Trend on TikTok - <a href="https://medium.com/@aifilmnews?source=tag_recommended_feed---------0-84----------technology----------cc893248_0b39_445b_bcc7_a0d30154b723-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Step-by-Step Guide to the AI Hugging Video Trend on TikTok - <a href="https://medium.com/@aifilmnews?source=tag_recommended_feed---------0-84----------technology----------14b19b6e_2ac5_4136_8234_d03fcfcaa7c9-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `AI Film News`**
 
 <blockquote>A new sensation has emerged on TikTok, blending the surreal with the deeply heartwarming. It’s called the AI Hugging Video Trend, and it’s…</blockquote>
 
-<h3>2. How an MIT Graduate Created One of the Best-Selling Rock Albums Ever - <a href="https://medium.com/@jonathanusa?source=tag_recommended_feed---------1-107----------technology----------cc893248_0b39_445b_bcc7_a0d30154b723-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How an MIT Graduate Created One of the Best-Selling Rock Albums Ever - <a href="https://medium.com/@jonathanusa?source=tag_recommended_feed---------1-107----------technology----------14b19b6e_2ac5_4136_8234_d03fcfcaa7c9-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jonathan Clark`**
 
 <blockquote>The Boston Sound was born in a basement in Watertown, Massachusetts.</blockquote>
 
-<h3>3. Do Not Use LLM or Generative AI For These Use Cases - <a href="https://medium.com/@christophertao?source=tag_recommended_feed---------2-85----------technology----------cc893248_0b39_445b_bcc7_a0d30154b723-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Do Not Use LLM or Generative AI For These Use Cases - <a href="https://medium.com/@christophertao?source=tag_recommended_feed---------2-85----------technology----------14b19b6e_2ac5_4136_8234_d03fcfcaa7c9-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Christopher Tao`**
 
 <blockquote>Choose correct AI techniques for the right use case families</blockquote>
 
-<h3>4. Copilot for Power BI - <a href="https://medium.com/@tomaskutac?source=tag_recommended_feed---------3-84----------technology----------cc893248_0b39_445b_bcc7_a0d30154b723-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Copilot for Power BI - <a href="https://medium.com/@tomaskutac?source=tag_recommended_feed---------3-84----------technology----------14b19b6e_2ac5_4136_8234_d03fcfcaa7c9-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Tomas Kutac`**
 
 <blockquote>Copilot for Power BI is a cutting-edge AI-powered feature integrated into Microsoft’s Power BI platform, designed to streamline and enhance…</blockquote>
 
-<h3>5. Breaking Up Google: Why This Is Not Microsoft Circa 2000 - <a href="https://medium.com/@johnny-p?source=tag_recommended_feed---------4-107----------technology----------cc893248_0b39_445b_bcc7_a0d30154b723-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Breaking Up Google: Why This Is Not Microsoft Circa 2000 - <a href="https://medium.com/@johnny-p?source=tag_recommended_feed---------4-107----------technology----------14b19b6e_2ac5_4136_8234_d03fcfcaa7c9-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `John Polonis`**
 
@@ -420,31 +420,31 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Skeleton Loading from scratch powering Reanimated V3 (60 FPS) - <a href="https://medium.com/@varunkukade999?source=tag_recommended_feed---------0-84----------mobile_app_development----------ead8a9fd_d8a2_4a58_bebf_8543f0253b3b-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How we solved the planning and estimation problem of Mobile App - <a href="https://medium.com/@rokni.mohsen?source=tag_recommended_feed---------0-84----------mobile_app_development----------89644202_35a5_49e1_9696_a2b77af34c4d-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Varun Kukade`**
+✍️ **posted by `Mohsen Rokni`**
 
-<blockquote>Let’s build a Skeleton loading animation using the power of reanimated v3.</blockquote>
+<blockquote>Can we deliver?</blockquote>
 
-<h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172?source=tag_recommended_feed---------1-107----------mobile_app_development----------ead8a9fd_d8a2_4a58_bebf_8543f0253b3b-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172?source=tag_recommended_feed---------1-107----------mobile_app_development----------89644202_35a5_49e1_9696_a2b77af34c4d-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Roman Ismagilov`**
 
 <blockquote>This tutorial is structured to present the easiest and most impactful solutions first. The later sections cover solutions that are harder…</blockquote>
 
-<h3>3. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat?source=tag_recommended_feed---------2-85----------mobile_app_development----------ead8a9fd_d8a2_4a58_bebf_8543f0253b3b-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat?source=tag_recommended_feed---------2-85----------mobile_app_development----------89644202_35a5_49e1_9696_a2b77af34c4d-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Natesh Bhat`**
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Jetpack Compose and collectAsLazyPagingItems - <a href="https://medium.com/@dobri.kostadinov?source=tag_recommended_feed---------3-84----------mobile_app_development----------ead8a9fd_d8a2_4a58_bebf_8543f0253b3b-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Jetpack Compose: Advanced Techniques and Real-World Applications - <a href="https://medium.com/@d.asodariya.25?source=tag_recommended_feed---------3-84----------mobile_app_development----------89644202_35a5_49e1_9696_a2b77af34c4d-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dobri Kostadinov`**
+✍️ **posted by `D'haval Asodariya`**
 
-<blockquote>Efficiently Managing Large Data Sets in Jetpack Compose with LazyColumn</blockquote>
+<blockquote>As you’ve begun your journey with Jetpack Compose, you’re already familiar with its basics and the substantial benefits it offers over…</blockquote>
 
-<h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/@elesilfat?source=tag_recommended_feed---------4-107----------mobile_app_development----------ead8a9fd_d8a2_4a58_bebf_8543f0253b3b-------" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/@elesilfat?source=tag_recommended_feed---------4-107----------mobile_app_development----------89644202_35a5_49e1_9696_a2b77af34c4d-------" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ILFAT K`**
 
