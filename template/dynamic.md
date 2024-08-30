@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Micro Frontends with Module Federation in Next.js: A Modern Approach to Scalable Web Architecture - <a href="https://medium.com/@nirbhaysinghbest1/micro-frontends-with-module-federation-in-next-js-a-modern-approach-to-scalable-web-architecture-0910cda05dad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Configure dynamic routing in Next.Js - <a href="https://medium.com/@krishverma2004/configure-dynamic-routing-in-next-js-ba148b64def2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nirbhay Singh`**
+✍️ **posted by `Krish Verma`**
 
-<blockquote>Micro frontends represent a revolutionary approach to web development, breaking down monolithic applications into smaller, more manageable…</blockquote>
+<blockquote>So, you’re here for the dynamic routing tutorial, I’m going to keep this short and to the point.</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Why the hell is everyone so obsessed with Nextjs?</blockquote>
 
-<h3>4. Next.js — The Essentials and How - <a href="https://medium.com/@saikenkkanti/next-js-the-essentials-and-how-3b5934bffa3e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Starting 20 Micro SaaS Companies to Find Success in at Least One - <a href="https://medium.com/@eyalcumartesi/starting-20-micro-saas-companies-to-find-success-in-at-least-one-ce2bdb92dd49" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sai Kumar Nekkanti`**
+✍️ **posted by `Eyal Cumartesi`**
 
-<blockquote>A detailed guide covering the essential building blocks of a Next.js project, environment variables, linters, pre-commit hooks, tailwind</blockquote>
+<blockquote>Hey everyone, this is my plan…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,11 +178,11 @@
 
 <blockquote>If the interviewer asks you the question in the title, what’s your answer?</blockquote>
 
-<h3>4. Setup and use OCI Centralized Configuration Providers for Oracle Database applications - <a href="https://medium.com/@sharad-chandran/setting-up-and-working-with-centralized-configuration-providers-in-oracle-database-0713cee1c40f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building a Robust User Authentication System with the PERN Stack - <a href="https://medium.com/@aifuture/building-a-robust-user-authentication-system-with-the-pern-stack-4ca5234bb35d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sharad Chandran`**
+✍️ **posted by `amit kumar`**
 
-<blockquote>Centralized Configuration Providers aka “Config Stores” allow configuration details (including Database Configuration) to be stored in a…</blockquote>
+<blockquote>In today’s digital world, creating secure user authentication systems is crucial for any web application. In this blog post, we will walk…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -384,11 +384,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Hard-earned Learnings From Navigating Google Play App Rejections - <a href="https://medium.com/proandroiddev/hard-earned-learnings-from-navigating-google-play-app-rejections-8ce1c6b68316" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Composable-scoped ViewModel: An interesting experiment - <a href="https://medium.com/proandroiddev/composable-scoped-viewmodel-an-interesting-experiment-b982b86d84cd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashwini Kumar`**
+✍️ **posted by `Joost Klitsie`**
 
-<blockquote>Essential Tips and Strategies to Overcome Play’s Approval Hurdles and Accelerate Your App’s Success</blockquote>
+<blockquote>Scope any ViewModel to the composition of the Composable it is in, while surviving configuration changes, by using the power of Lifecycle.</blockquote>
 
 <h3>2. Efficient Render Passes — On Tile-Based Rendering Hardware - <a href="https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -402,11 +402,11 @@
 
 <blockquote>Common Pitfalls in Jetpack Compose and How to Avoid Them for Smoother Android UI Development</blockquote>
 
-<h3>4. Setting Up Hilt & Room Dependency in Android Using new libs versions with Kotlin DSL - <a href="https://medium.com/@deepakkathayat87/setting-up-hilt-dependency-injection-in-android-using-libs-versions-toml-and-kotlin-dsl-37acbcb1f483" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Cracking the Most Common Android Interview Question - <a href="https://medium.com/@dobri.kostadinov/cracking-the-most-common-android-interview-question-9fc0adcba408" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deepak kathayat`**
+✍️ **posted by `Dobri Kostadinov`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>A Deep Dive into the Question That Keeps Coming Up in Every Android Interview</blockquote>
 
 <h3>5. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,11 +416,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. iPhone 16 Launch Event Revealed: My Take On The Latest Rumours - <a href="https://medium.com/macoclock/iphone-16-launch-event-revealed-my-take-on-the-latest-rumours-630584dd6082" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. An Open Source Security Camera - <a href="https://medium.com/gitconnected/an-open-source-security-camera-3ec9b6397a7b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Ellis`**
+✍️ **posted by `Mark Lucking`**
 
-<blockquote>I genuinely can’t believe that iPhone season is nearly upon us, but here we are, heading relentlessly towards Apple’s biggest event of the…</blockquote>
+<blockquote>Build a security solution with XIAO ESP32S3 Sense and an iOS device.</blockquote>
 
 <h3>2. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,11 +434,11 @@
 
 <blockquote>I never thought “do not hallucinate” works.</blockquote>
 
-<h3>4. Shifting Mac: Creating a cloud native pipeline for iOS engineers - <a href="https://medium.com/@VanguardTech/shifting-mac-creating-a-cloud-native-pipeline-for-ios-engineers-ba56a18b8309" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. iPhone 16 Launch Event Revealed: My Take On The Latest Rumours - <a href="https://medium.com/macoclock/iphone-16-launch-event-revealed-my-take-on-the-latest-rumours-630584dd6082" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vanguard Tech`**
+✍️ **posted by `Mark Ellis`**
 
-<blockquote>Vanguard moves iOS builds from Macs to AWS’s macOS EC2, boosting CI/CD efficiency for global teams.</blockquote>
+<blockquote>I genuinely can’t believe that iPhone season is nearly upon us, but here we are, heading relentlessly towards Apple’s biggest event of the…</blockquote>
 
 <h3>5. How the Medium iOS team works effectively with legacy code - <a href="https://medium.com/medium-eng/how-the-medium-ios-team-works-effectively-with-legacy-code-0a9ddc45df19" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -448,11 +448,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Mastering K8s Event Driven AutoScaling - <a href="https://medium.com/@adityadhopade18/mastering-k8s-event-driven-autoscaling-cd1b9df78903" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding the Linux ‘ls’ Command 🗂️🔍 - <a href="https://medium.com/devops-engineering-on-cloud/understanding-the-ls-command-your-gateway-to-file-system-navigation-on-linux-️-a147977c0949" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aditya Dhopade`**
+✍️ **posted by `Vamsi Penmetsa`**
 
-<blockquote>Chapter 1: Introduction to Autoscaling</blockquote>
+<blockquote>Hey there, aspiring DevOps engineer! 👋 Ready to dive into one of the most fundamental yet powerful commands in the Unix/Linux world?</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,11 +466,11 @@
 
 <blockquote>Tricks of the trade, hacks, trade secrets, cheat sheets, best practices, call them what you will. Every industry has them, and anyone who…</blockquote>
 
-<h3>4. Istio Observability: Visualising traffic with Grafana Node Graph - <a href="https://medium.com/@safelyup/istio-observability-visualising-traffic-with-grafana-node-graph-2e64fadccec5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Journey from Scratch to Building a Platform - <a href="https://medium.com/@bruno.ga3/the-journey-from-scratch-to-building-a-platform-8975216b798e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Armin Ranjbar Daemi`**
+✍️ **posted by `Bruno Almeida`**
 
-<blockquote>First part of Istio Observability series, utilises the standard Istio service metrics to visualise the traffic flow between…</blockquote>
+<blockquote>In the DevOps world, the focus is usually on simplifying development by making operations smoother and more transparent. But when you start…</blockquote>
 
 <h3>5. Container Security Scanning: Vulnerabilities, Risks and Tooling - <a href="https://medium.com/4th-coffee/container-security-scanning-vulnerabilities-risks-and-tooling-31b09f64e6f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -480,29 +480,29 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. What is the Kubernetes “Claim” model? - <a href="https://medium.com/itnext/what-is-the-kubernetes-claim-model-1572d7cf39a8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Installing the first node of a Kubernetes cluster with kubeadm. - <a href="https://medium.com/@Kubway/installing-the-first-node-of-a-kubernetes-cluster-with-kubeadm-c116ab0cc38b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Brian Grant`**
+✍️ **posted by `Kubway`**
 
-<blockquote>Explanation of the Kubernetes Claim model, what its purpose is, and what API resources implement the pattern.</blockquote>
+<blockquote>Author: Marie F. from Kubway</blockquote>
 
-<h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Maryam Tavakkoli`**
+
+<blockquote>An inside look at my experience as a Kubernetes Release Team shadow, contributing to versions v1.29, v1.30, and v1.31.</blockquote>
+
+<h3>3. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Niels Cautaerts`**
 
 <blockquote>Containerization has revolutionized the software industry, but using them blindly for everything without considering their drawbacks or…</blockquote>
 
-<h3>3. Internal Developer Platforms: A Real Thing or Just a Trend? - <a href="https://medium.com/itnext/internal-developer-platforms-a-real-thing-or-just-a-trend-ee9c97870dcc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Certified Kubernetes Security Specialist (CKS) Exam: Free study resources and tips - <a href="https://medium.com/devbulls/certified-kubernetes-security-specialist-cks-exam-free-study-resources-and-tips-35d23e0e2b0b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Artem Lajko`**
+✍️ **posted by `Piotr Stroz`**
 
-<blockquote>Are Internal Developer Platforms like Backstage merely a hyped topic that will be forgotten in a few years?</blockquote>
-
-<h3>4. Kubernetes: Open Source Limits & Requests Configuration Optimization with Grafana & Kexa - <a href="https://medium.com/@contact_52772/kubernetes-costless-limits-requests-configuration-optimization-with-grafana-kexa-open-source-b3fbedfe1168" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kexa`**
-
-<blockquote>While sharing with the Kubernetes community on different networks, I noticed that there was a demand for assistance in managing and…</blockquote>
+<blockquote>A few weeks ago, I checked my CKS exam results and saw that I passed. I realised I could have prepared for the exam more quickly if I had…</blockquote>
 
 <h3>5. Docker Beginner to Expert Tutorial - <a href="https://medium.com/gitconnected/docker-beginner-to-expert-tutorial-68555aa3e544" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -512,11 +512,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. How to deploy a SpringBoot Backend Application in Docker without DockerFile - <a href="https://medium.com/@saumojitbhattacharjee/how-to-deploy-a-springboot-backend-application-in-docker-without-dockerfile-139acf6e37f2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. From Code to Container: Streamlining Flask App Dockerization for Effortless Deployment - <a href="https://medium.com/@anurupakarmakar.dgp18/from-code-to-container-streamlining-flask-app-dockerization-for-effortless-deployment-28b0fe33da87" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Saumojit Bhattacharjee`**
+✍️ **posted by `Anurupa Karmakar`**
 
-<blockquote>Background : In this blog , I am gonna explain how to deploy a spring boot application in form of JAR file to docker without having…</blockquote>
+<blockquote>1. Introduction</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -530,11 +530,11 @@
 
 <blockquote>Containerization has become a cornerstone of modern software development, enabling developers to package applications and their…</blockquote>
 
-<h3>4. Learn Docker Networking in 5️⃣minutes with commands and an example - <a href="https://medium.com/@sarankamandula/learn-docker-networking-in-5️⃣minutes-with-commands-and-an-example-69c32eaa9272" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Run docker containers on your local machine - <a href="https://medium.com/@agnieszkapasieka/run-docker-containers-on-your-local-machine-94ccd2b7d2f4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Saran Kamandula`**
+✍️ **posted by `Agnieszka Pasieka`**
 
-<blockquote>Docker is a platform that simplifies the process of developing, shipping, and running applications by using containerization technology…</blockquote>
+<blockquote>This article is a quick guide on how to install docker host on your local machine and run containers for testing without incurring any…</blockquote>
 
 <h3>5. Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker - <a href="https://medium.com/data-engineer-things/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
