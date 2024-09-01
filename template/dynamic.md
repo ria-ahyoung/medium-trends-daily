@@ -161,11 +161,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. 🌟 How to Automatically Set Your Authorization Header in Postman - <a href="https://medium.com/javascript-in-plain-english/how-to-automatically-set-your-authorization-header-in-postman-617395eb9708" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Node.js and Kafka: A Hands-On Guide to Building Scalable Data Pipelines - <a href="https://medium.com/@padamaniabhay920/node-js-and-kafka-a-hands-on-guide-to-building-scalable-data-pipelines-d6926808e11d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Niralipatel`**
+✍️ **posted by `Padamani Abhay`**
 
-<blockquote>Have you ever found yourself manually updating your API tokens in Postman every time they expire or change? 😩 It can be a bit tedious…</blockquote>
+<blockquote>What is Kafka?</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -179,11 +179,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>If the interviewer asks you the question in the title, what’s your answer?</blockquote>
 
-<h3>4. Designing Promises in JavaScript: A Deep Dive - <a href="https://medium.com/@sushilm2011/designing-promises-in-javascript-a-deep-dive-d7b1e82d8d47" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Your Own DNS Server with Node.js - <a href="https://medium.com/@yashaswisingh0413/building-your-own-dns-server-with-node-js-cca799c7bb61" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sushil Maurya`**
+✍️ **posted by `Yashaswi`**
 
-<blockquote>Promises in JavaScript are a powerful tool for handling asynchronous operations. Understanding how they work internally can provide…</blockquote>
+<blockquote>Hey there! 🌟 Have you ever wondered how the internet knows exactly where to find your favorite websites, like youtube.com or google.com…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -193,11 +193,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. From Grief to Growth: How a Side Project Became a Proof of Concept - <a href="https://medium.com/@Con2byrne/from-grief-to-growth-how-a-side-project-became-a-proof-of-concept-65defe04b06e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to create a sticky Navbar using next js - <a href="https://medium.com/@dhairyasehgal2307/how-to-create-a-sticky-navbar-using-next-js-a1b19a6b4a49" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Conor`**
+✍️ **posted by `Dhairya Sehgal`**
 
-<blockquote>Introduction: Finding Purpose Through Passion</blockquote>
+<blockquote>Navigating a website should be effortless, and a sticky navbar helps ensure that important links are always accessible. In this tutorial…</blockquote>
 
 <h3>2. The Madness Of Web Browsers - <a href="https://medium.com/website-development-dilemnas/the-madness-of-web-browsers-8cf52c2df5df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -211,11 +211,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Most interviewees failed on it.</blockquote>
 
-<h3>4. 8, 16, 32, 64 GB? The Is Best RAM Size For Frontend Development? - <a href="https://medium.com/@tomaszs2/8-16-32-64-gb-the-is-best-ram-size-for-frontend-development-3215f1680da9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I Escaped a Major Hassle with the Lombok Library in Java Spring - <a href="https://medium.com/@emirgs-uzun/i-escaped-a-major-hassle-with-the-lombok-library-in-java-spring-5664e44723c8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tom Smykowski`**
+✍️ **posted by `Emir Uzun`**
 
-<blockquote>Ideally 64 GB for most cases. But there are cases where 128 GB will be much better. It’s cr</blockquote>
+<blockquote>Learn how you can use the Lombok library to reduce code clutter and save time in your Java Spring projects.</blockquote>
 
 <h3>5. 🌤️ Stop Using Margin Top. Use Margin Bottom And Gap Instead - <a href="https://medium.com/@tomaszs2/️-stop-using-margin-top-use-margin-bottom-and-gap-instead-0f13c84c14a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -257,17 +257,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. The power of Pandas plots : backends - <a href="https://medium.com/towards-data-science/the-power-of-pandas-plots-backends-6a08d52071d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Power of Pandas Plots: Backends - <a href="https://medium.com/towards-data-science/the-power-of-pandas-plots-backends-6a08d52071d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Pierre-Etienne Toulemonde`**
 
 <blockquote>Create interactive graphics from Pandas effortlessly</blockquote>
 
-<h3>2. How to estimate work like a senior software engineer - <a href="https://medium.com/atomic-engineer/how-to-estimate-work-like-a-senior-software-engineer-f7a306e5efe7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Programmer’s Survival Guide for a Zombie Apocalypse - <a href="https://medium.com/code-like-a-girl/programmers-survival-guide-for-a-zombie-apocalypse-f1580422675a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jacob Bennett`**
+✍️ **posted by `Aleena`**
 
-<blockquote>The steps I take to estimate and iterate on projects</blockquote>
+<blockquote>How to Reinvent Software and Technology from Scratch</blockquote>
 
 <h3>3. Can You Answer This Senior Level JavaScript Promise Interview Question? - <a href="https://medium.com/frontend-canteen/can-you-answer-this-senior-level-javascript-promise-interview-question-69f7b6ffc2e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -275,31 +275,31 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Most interviewees failed on it.</blockquote>
 
-<h3>4. The God’s lonely programmer: King Terry - <a href="https://medium.com/@prachinandi/the-gods-lonely-programmer-king-terry-e3f514f995f4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Documenting Microservices in 2024 - <a href="https://medium.com/overcast-blog/documenting-microservices-in-2024-fa544af60d16" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nene Sakurada`**
+✍️ **posted by `Omer Rosenbaum`**
 
-<blockquote>Terry A. Davis, who referred to himself as “King Terry,” was the creator of TempleOS, an operating system he developed over the course of…</blockquote>
+<blockquote>Moving from a monolithic architecture to microservices is scary 😱, with many opportunities for things to go wrong. You might be wondering…</blockquote>
 
-<h3>5. Composable-scoped ViewModel: An interesting experiment - <a href="https://medium.com/proandroiddev/composable-scoped-viewmodel-an-interesting-experiment-b982b86d84cd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Choosing a Programming Language for a Project - <a href="https://medium.com/javascript-in-plain-english/choosing-a-programming-language-for-a-project-2b2764723c19" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joost Klitsie`**
+✍️ **posted by `Josef Cruz`**
 
-<blockquote>Scope any ViewModel to the composition of the Composable it is in, while surviving configuration changes, by using the power of Lifecycle.</blockquote>
+<blockquote>Is it really important?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Tap Protocol Update - <a href="https://medium.com/trac-systems/tap-protocol-update-502536bd7673" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. With AI Integration Center Stage Apple Sets Sights on iPhone 16 Launch - <a href="https://medium.com/@odsc/with-ai-integration-center-stage-apple-sets-sights-on-iphone-16-launch-01cfdb6e9768" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Seothe`**
+✍️ **posted by `ODSC - Open Data Science`**
 
-<blockquote>Today, we are excited to release an article announcing a milestone upgrade that we are proud to share with our community. This update is…</blockquote>
+<blockquote>Apple has officially set the date for its highly anticipated next major event, where the tech giant is expected to unveil the iPhone 16. On…</blockquote>
 
-<h3>2. Why Generative AI Tools Are Better at Images and Speech Than Writing - <a href="https://medium.com/coding-at-dawn/why-generative-ai-tools-are-better-at-images-and-speech-than-writing-50a034c33f85" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Fourteen-Year Surprise Had an Unexpected Impact on My Sons - <a href="https://medium.com/the-narrative-arc/a-fourteen-year-surprise-had-an-unexpected-impact-on-my-sons-84519579f8f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dr. Derek Austin 🥳`**
+✍️ **posted by `Ash Jurberg`**
 
-<blockquote>There’s an obvious reason why generative AI tools are so good at creating visual art that would be very time-consuming to create yourself…</blockquote>
+<blockquote>I turned a tradition into a loving gift</blockquote>
 
 <h3>3. Do Not Use LLM or Generative AI For These Use Cases - <a href="https://medium.com/towards-artificial-intelligence/do-not-use-llm-or-generative-ai-for-these-use-cases-a819ae2d9779" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -307,17 +307,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Choose correct AI techniques for the right use case families</blockquote>
 
-<h3>4. The Fall and Rise of Nicolas Cage: A Statistical Analysis - <a href="https://medium.com/fan-fare/the-fall-and-rise-of-nicolas-cage-a-statistical-analysis-253ba8963c8f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Tap Protocol Update - <a href="https://medium.com/trac-systems/tap-protocol-update-502536bd7673" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Daniel Parris`**
+✍️ **posted by `Seothe`**
 
-<blockquote>Nicolas Cage: A Data Story</blockquote>
+<blockquote>Today, we are excited to release an article announcing a milestone upgrade that we are proud to share with our community. This update is…</blockquote>
 
-<h3>5. I “A.I.’d” My Own Campaign Rally to Test Trump’s Claims - <a href="https://medium.com/the-generator/i-a-i-d-my-own-campaign-rally-to-test-trump-s-claims-5e5c626235ef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Choosing a Programming Language for a Project - <a href="https://medium.com/javascript-in-plain-english/choosing-a-programming-language-for-a-project-2b2764723c19" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thomas Smith`**
+✍️ **posted by `Josef Cruz`**
 
-<blockquote>The results surprised me — and revealed a powerful tool for spotting AI fakes</blockquote>
+<blockquote>Is it really important?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -385,17 +385,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Composable-scoped ViewModel: An interesting experiment - <a href="https://medium.com/proandroiddev/composable-scoped-viewmodel-an-interesting-experiment-b982b86d84cd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Loading Initial Data in LaunchedEffect vs. ViewModel - <a href="https://medium.com/@skydoves/loading-initial-data-in-launchedeffect-vs-viewmodel-f1747c20ce62" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Jaewoong Eum`**
+
+<blockquote>When initializing or fetching data upon entering a screen, it’s crucial to select the right trigger point for loading the initial data…</blockquote>
+
+<h3>2. Composable-scoped ViewModel: An interesting experiment - <a href="https://medium.com/proandroiddev/composable-scoped-viewmodel-an-interesting-experiment-b982b86d84cd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Joost Klitsie`**
 
 <blockquote>Scope any ViewModel to the composition of the Composable it is in, while surviving configuration changes, by using the power of Lifecycle.</blockquote>
-
-<h3>2. Efficient Render Passes — On Tile-Based Rendering Hardware - <a href="https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shahbaz Youssefi`**
-
-<blockquote>Efficiently use tile-based rendering hardware.</blockquote>
 
 <h3>3. Jetpack Compose: Top 10 mistake we all have made - <a href="https://medium.com/proandroiddev/jetpack-compose-top-10-mistake-we-all-have-made-a324b52366b8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -403,11 +403,43 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Common Pitfalls in Jetpack Compose and How to Avoid Them for Smoother Android UI Development</blockquote>
 
-<h3>4. Cracking the Most Common Android Interview Question - <a href="https://medium.com/@dobri.kostadinov/cracking-the-most-common-android-interview-question-9fc0adcba408" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Anti-Pattern: Stop Leaking Kotlin Flow Collectors in Your Android ViewModel 🤔 - <a href="https://medium.com/@sachankapil/anti-pattern-stop-leaking-kotlin-flow-collectors-in-your-android-viewmodel-b85d5b09b987" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dobri Kostadinov`**
+✍️ **posted by `Kapil Sachan`**
 
-<blockquote>A Deep Dive into the Question That Keeps Coming Up in Every Android Interview</blockquote>
+<blockquote>Using Kotlin Flows in Android ViewModels is powerful for managing data updates, but improper usage of Flow.collect() can lead to memory…</blockquote>
+
+<h3>5. Efficient Render Passes — On Tile-Based Rendering Hardware - <a href="https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shahbaz Youssefi`**
+
+<blockquote>Efficiently use tile-based rendering hardware.</blockquote>
+
+<br/>
+<h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
+<h3>1. 13 Lesser-Known Features of Xcode - <a href="https://medium.com/@yakupacs/13-lesser-known-features-of-xcode-49a816be6466" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Yakup Açış`**
+
+<blockquote>How can we write code more efficiently by using Xcode features we might overlook?</blockquote>
+
+<h3>2. An Open Source Security Camera - <a href="https://medium.com/gitconnected/an-open-source-security-camera-3ec9b6397a7b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mark Lucking`**
+
+<blockquote>Build a security solution with XIAO ESP32S3 Sense and an iOS device.</blockquote>
+
+<h3>3. Apple Just Quietly Exposed The *AI Prompts* Powering Apple Intelligence - <a href="https://medium.com/macoclock/apple-just-quietly-exposed-the-ai-prompts-powering-apple-intelligence-b4ac3314eb14" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Nikhil Vemu`**
+
+<blockquote>I never thought “do not hallucinate” works.</blockquote>
+
+<h3>4. 📚 Mastering Methods & Properties in Swift: Your Ultimate Guide to Cleaner Code! - <a href="https://medium.com/@appdevbyamitesh/mastering-methods-properties-in-swift-your-ultimate-guide-to-cleaner-code-ec2af96fe484" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Amitesh Mani Tiwari`**
+
+<blockquote>The best code is the code you never have to write. — Jeff Atwood</blockquote>
 
 <h3>5. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,44 +448,12 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 <blockquote>In one of our previous posts, we discussed why it is worth migrating your existing Android application to Kotlin Multiplatform to share…</blockquote>
 
 <br/>
-<h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. An Open Source Security Camera - <a href="https://medium.com/gitconnected/an-open-source-security-camera-3ec9b6397a7b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mark Lucking`**
-
-<blockquote>Build a security solution with XIAO ESP32S3 Sense and an iOS device.</blockquote>
-
-<h3>2. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Marcin Piekielny`**
-
-<blockquote>In one of our previous posts, we discussed why it is worth migrating your existing Android application to Kotlin Multiplatform to share…</blockquote>
-
-<h3>3. Apple Just Quietly Exposed The *AI Prompts* Powering Apple Intelligence - <a href="https://medium.com/macoclock/apple-just-quietly-exposed-the-ai-prompts-powering-apple-intelligence-b4ac3314eb14" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Nikhil Vemu`**
-
-<blockquote>I never thought “do not hallucinate” works.</blockquote>
-
-<h3>4. iPhone 16 Launch Event Revealed: My Take On The Latest Rumours - <a href="https://medium.com/macoclock/iphone-16-launch-event-revealed-my-take-on-the-latest-rumours-630584dd6082" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mark Ellis`**
-
-<blockquote>I genuinely can’t believe that iPhone season is nearly upon us, but here we are, heading relentlessly towards Apple’s biggest event of the…</blockquote>
-
-<h3>5. How the Medium iOS team works effectively with legacy code - <a href="https://medium.com/medium-eng/how-the-medium-ios-team-works-effectively-with-legacy-code-0a9ddc45df19" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Zouhair Mahieddine`**
-
-<blockquote>This story is not about pretty code, it is even less about pretty design.</blockquote>
-
-<br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Understanding the Linux ‘ls’ Command 🗂️🔍 - <a href="https://medium.com/devops-engineering-on-cloud/understanding-the-ls-command-your-gateway-to-file-system-navigation-on-linux-️-a147977c0949" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kubernetes 1.31: Addressing Past Challenges and Introducing New Capabilities - <a href="https://medium.com/@ebru.c.kavak/kubernetes-1-31-addressing-past-challenges-and-introducing-new-capabilities-e5488f6edd0c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vamsi Penmetsa`**
+✍️ **posted by `Ebru C Kavak`**
 
-<blockquote>Hey there, aspiring DevOps engineer! 👋 Ready to dive into one of the most fundamental yet powerful commands in the Unix/Linux world?</blockquote>
+<blockquote>Kubernetes 1.31 marks a significant milestone in the evolution of container orchestration. This release brings a host of new features…</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -461,17 +461,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Containerization has revolutionized the software industry, but using them blindly for everything without considering their drawbacks or…</blockquote>
 
-<h3>3. 20 Life hacks for DevOps Engineers - <a href="https://medium.com/@jake.page91/20-life-hacks-for-devops-engineers-3cdfecf89938" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Mastering NGINX: A Beginner-Friendly Guide to Building a Fast, Secure, and Scalable Web Server - <a href="https://medium.com/@nomannayeem/mastering-nginx-a-beginner-friendly-guide-to-building-a-fast-secure-and-scalable-web-server-cb075b423298" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jake Page`**
+✍️ **posted by `Nayeem Islam`**
 
-<blockquote>Tricks of the trade, hacks, trade secrets, cheat sheets, best practices, call them what you will. Every industry has them, and anyone who…</blockquote>
+<blockquote>Understanding NGINX: The Swiss Army Knife of Modern Web Servers</blockquote>
 
-<h3>4. The Journey from Scratch to Building a Platform - <a href="https://medium.com/@bruno.ga3/the-journey-from-scratch-to-building-a-platform-8975216b798e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. OpenMetrics is Archived, Merged into Prometheus - <a href="https://medium.com/@horovits/openmetrics-is-archived-merged-into-prometheus-d555598d2d04" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bruno Almeida`**
+✍️ **posted by `Dotan Horovits (@horovits)`**
 
-<blockquote>In the DevOps world, the focus is usually on simplifying development by making operations smoother and more transparent. But when you start…</blockquote>
+<blockquote>The CNCF has put the OpenMetrics open source specification back where it has always belonged — Prometheus exposition format. Here’s why.</blockquote>
 
 <h3>5. Container Security Scanning: Vulnerabilities, Risks and Tooling - <a href="https://medium.com/4th-coffee/container-security-scanning-vulnerabilities-risks-and-tooling-31b09f64e6f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -481,11 +481,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Installing the first node of a Kubernetes cluster with kubeadm. - <a href="https://medium.com/@Kubway/installing-the-first-node-of-a-kubernetes-cluster-with-kubeadm-c116ab0cc38b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kubernetes 1.31: Addressing Past Challenges and Introducing New Capabilities - <a href="https://medium.com/@ebru.c.kavak/kubernetes-1-31-addressing-past-challenges-and-introducing-new-capabilities-e5488f6edd0c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kubway`**
+✍️ **posted by `Ebru C Kavak`**
 
-<blockquote>Author: Marie F. from Kubway</blockquote>
+<blockquote>Kubernetes 1.31 marks a significant milestone in the evolution of container orchestration. This release brings a host of new features…</blockquote>
 
 <h3>2. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -499,25 +499,25 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Containerization has revolutionized the software industry, but using them blindly for everything without considering their drawbacks or…</blockquote>
 
-<h3>4. Mastering K8s Event Driven AutoScaling Part [3] - <a href="https://medium.com/@adityadhopade18/mastering-k8s-event-driven-autoscaling-part-3-818bc5a1fd11" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Scheduler Profiles: How Pods Get Scheduled in Kubernetes Cluster - <a href="https://medium.com/@sujayks007/demystifying-kubernetes-scheduler-profiles-how-pods-get-scheduled-in-kubernetes-cluster-b01cc824b913" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aditya Dhopade`**
+✍️ **posted by `Sujay ks`**
 
-<blockquote>Chapter 3: Introspecting HPA</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. Docker Beginner to Expert Tutorial - <a href="https://medium.com/gitconnected/docker-beginner-to-expert-tutorial-68555aa3e544" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Kubernetes: The Road to 1.0 - <a href="https://medium.com/itnext/kubernetes-the-road-to-1-0-525a9420fdf0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ishaan Gupta`**
+✍️ **posted by `Brian Grant`**
 
-<blockquote>Learn docker From Basics to Pro with well-explained examples!</blockquote>
+<blockquote>From my work on Borg and Omega, to how Kubernetes got started and launched, to how we decided what was in and out of 1.0 by July 2015.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. From Code to Container: Streamlining Flask App Dockerization for Effortless Deployment - <a href="https://medium.com/@anurupakarmakar.dgp18/from-code-to-container-streamlining-flask-app-dockerization-for-effortless-deployment-28b0fe33da87" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Docker Containers vs. Virtual Machines: Understanding the Key Differences - <a href="https://medium.com/@abdelrhmannasser/docker-containers-vs-virtual-machines-understanding-the-key-differences-f199758a5c6c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anurupa Karmakar`**
+✍️ **posted by `Abdelrahman Nasser`**
 
-<blockquote>1. Introduction</blockquote>
+<blockquote>In the world of software development, you’ve probably heard about Docker containers and Virtual Machines (VMs). They both help create…</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +531,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Containerization has become a cornerstone of modern software development, enabling developers to package applications and their…</blockquote>
 
-<h3>4. 2. Setting Sail with Docker: Understanding Containers and Images - <a href="https://medium.com/@flaviuscdinu93/2-setting-sail-with-docker-understanding-containers-and-images-e3c3a30046f4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Streamline Your ECS Workflow: Easy Database Migrations with the runecs CLI Tool. - <a href="https://medium.com/@meap/streamline-your-ecs-workflow-easy-database-migrations-with-the-runecs-cli-tool-db5c393074b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Flavius Dinu`**
+✍️ **posted by `Petr Reichl`**
 
-<blockquote>Docker images and Docker containers are the basic building blocks of Docker. Docker doesn’t make too much sense without them, so let’s…</blockquote>
+<blockquote>How to easily run one-off jobs in AWS ECS, such as database migrations.</blockquote>
 
 <h3>5. Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker - <a href="https://medium.com/data-engineer-things/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
