@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/01)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/02)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Advanced React Component Design with TypeScript - <a href="https://medium.com/漸強實驗室-crescendo-lab-engineering-blog/advanced-react-component-design-with-typescript-b679b85ad719" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. NextJs Performance Mysteries: Unmasking Memory Leaks - <a href="https://medium.com/@msmechatronics/nextjs-performance-mysteries-unmasking-memory-leaks-3696cf22564b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `😼ViPro👻`**
+✍️ **posted by `Meiyappan Kannappa`**
 
-<blockquote>Let’s explore what sparks might fly when TypeScript and React come together.</blockquote>
+<blockquote>Memory leak is a type of resource leak where a software program is not managing the memory allocation and releasing memory when not needed…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>And They Asked Me a Couple of Tough Questions</blockquote>
 
-<h3>4. Efficient Data Management in React: A Comprehensive Guide to TanStack Query - <a href="https://medium.com/@ajithpmdwaraka/mastering-data-fetching-in-react-with-tanstack-query-285e100a6f40" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Handling Asynchronous Operations In Redux - <a href="https://medium.com/@purohitshrey9/handling-async-operations-in-redux-700ade22d13e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ajith P M`**
+✍️ **posted by `Shrey Purohit`**
 
-<blockquote>In modern web development, efficiently managing server state is crucial for building responsive and user-friendly applications. React, a…</blockquote>
+<blockquote>→Includes Typescript</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Practical Use of Ambient Type Declarations in App Development with Next.js - <a href="https://medium.com/@amatyas/practical-use-of-ambient-type-declarations-in-app-development-with-next-js-27c5e5234c52" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Setting Up Real-Time Communication with Socket.IO in Next.js - <a href="https://medium.com/@vardaanbhatia55/setting-up-real-time-communication-with-socket-io-in-next-js-c3d5ab9c7237" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Matyas Angyal`**
+✍️ **posted by `Vardaan Bhatia`**
 
-<blockquote>Simplify TypeScript code and enhance flexibility in application development with ambient types</blockquote>
+<blockquote>Real-time communication is a powerful feature in modern web applications, allowing data to be transmitted instantly between a server and a…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -112,17 +112,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>3. I Switched From NextJS To Laravel And I Can’t Believe I Didn’t Sooner - <a href="https://medium.com/@hhartleyjs/i-switched-from-nextjs-to-laravel-and-i-cant-believe-i-didn-t-sooner-f906e643c75c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder - <a href="https://medium.com/@ixartz/the-ultimate-2024-tech-stack-for-solo-saas-developers-build-smarter-not-harder-011d08292bd1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `HarryHTML`**
+✍️ **posted by `Rémi Wg`**
 
-<blockquote>Why the hell is everyone so obsessed with Nextjs?</blockquote>
+<blockquote>Building a SaaS as a solo developer is a challenging task. You have to wear multiple hats and be proficient in various technologies…</blockquote>
 
-<h3>4. Data Table with nested rows and columns using Shadcn — Nextjs/React - <a href="https://medium.com/@shahkarkhan/data-table-with-nested-rows-and-columns-using-shadcn-nextjs-react-81d5f18de5e9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Next.js Third-Party Libraries — A Go-To Solution for Highly Optimized Components and Utilities - <a href="https://medium.com/@anuj0204kapoor/next-js-third-party-libraries-a-go-to-solution-for-highly-optimized-components-and-utilities-37dfec355030" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shahkar khan`**
+✍️ **posted by `Anuj Kapoor`**
 
-<blockquote>ShadCN is a versatile and powerful component library designed for Next.js, offering a wide array of features that make it an ideal choice…</blockquote>
+<blockquote>Hey folks! How’s your weekend going? Mine’s been pretty exciting! 😄 I wanted to share something cool with you all — have you heard of…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Designing Promises in JavaScript: A Deep Dive - <a href="https://medium.com/@sushilm2011/designing-promises-in-javascript-a-deep-dive-d7b1e82d8d47" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. JavaScript Weekly Issue 132 - <a href="https://medium.com/jsweekly/javascript-weekly-issue-132-d09dae768514" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sushil Maurya`**
+✍️ **posted by `This Week In I/O`**
 
-<blockquote>Promises in JavaScript are a powerful tool for handling asynchronous operations. Understanding how they work internally can provide…</blockquote>
+<blockquote>Welcome to the 132nd issue of JavaScript Weekly, a weekly newsletter of JavaScript articles, news and cool projects.</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -176,17 +176,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. 28 JavaScript One-Liners every Senior Developer Needs to Know - <a href="https://medium.com/@matemarschalko/28-javascript-one-liners-every-senior-developer-needs-to-know-e74bdedc3b3b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 45 JavaScript Super Hacks Every Developer Should Know - <a href="https://medium.com/dev-genius/45-javascript-super-hacks-every-developer-should-know-92aecfb33ee8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mate Marschalko`**
+✍️ **posted by `Amit Mishra`**
 
-<blockquote>Learn how to implement complex logic with beautifully short and efficient next-level JavaScript syntax.</blockquote>
+<blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. How to Debug a JavaScript Action in a Mendix Web Application - <a href="https://medium.com/@vstram/how-to-debug-a-javascript-action-in-a-mendix-web-application-f4218915cd67" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React Optimization Technique: Memoization - <a href="https://medium.com/@furkan-aydin/react-optimization-technique-memoization-6040a1430308" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vinicius Strugata Ambrosio`**
+✍️ **posted by `Furkan Aydın`**
 
-<blockquote>Even though Mendix is a low-code technology, it allows the developer to write “traditional code” alongside the “visual code”. That being…</blockquote>
+<blockquote>Before diving into the memoization, it’s important to note that this article assumes you are familiar with these are: state variables…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,12 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Promise.all vs for…of: Asynchronous JavaScript 🦈 - <a href="https://medium.com/@sharqiewicz/promise-all-vs-for-of-asynchronous-javascript-afd52812905a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Leveling Up: From JavaScript to TypeScript for Beginners - <a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kacper Szarkiewicz`**
+✍️ **posted by `Wesley Smith`**
 
-<blockquote>🦈 Hi I am Sharqi! 
-In JavaScript, Promise.all allows multiple promises to be executed concurrently, waiting for all to complete before…</blockquote>
+<blockquote>As a bootcamp graduate, I was constantly on the lookout for technologies that could help me land that coveted first job. However, I soon…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -209,23 +208,24 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Using TypeScript with React Native: Best Practices - <a href="https://medium.com/@aneeqa-k25/using-typescript-with-react-native-best-practices-1f3738aff8e9" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Aneeqa Khan`**
+
+<blockquote>TypeScript has rapidly become a favourite among developers for building robust, scalable, and maintainable applications. Combined with…</blockquote>
+
+<h3>4. Promise.all vs for…of: Asynchronous JavaScript 🦈 - <a href="https://medium.com/@sharqiewicz/promise-all-vs-for-of-asynchronous-javascript-afd52812905a" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Kacper Szarkiewicz`**
+
+<blockquote>🦈 Hi I am Sharqi! 
+In JavaScript, Promise.all allows multiple promises to be executed concurrently, waiting for all to complete before…</blockquote>
+
+<h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Gabriela Iriart`**
 
 <blockquote>NonNullable<T> in TypeScript is a utility type that plays a significant role in enhancing code safety and clarity. This is particularly…</blockquote>
-
-<h3>4. Leveling Up: From JavaScript to TypeScript for Beginners - <a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Wesley Smith`**
-
-<blockquote>As a bootcamp graduate, I was constantly on the lookout for technologies that could help me land that coveted first job. However, I soon…</blockquote>
-
-<h3>5. Understanding Promises in TypeScript with Fetch API - <a href="https://medium.com/@enayetflweb/understanding-promises-in-typescript-with-fetch-api-7d8093e2087b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Md Enayetur Rahman`**
-
-<blockquote>Promises in TypeScript are a powerful tool for handling asynchronous operations, ensuring that we either resolve the operation successfully…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -261,11 +261,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. How to create a sticky Navbar using next js - <a href="https://medium.com/@dhairyasehgal2307/how-to-create-a-sticky-navbar-using-next-js-a1b19a6b4a49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building Static Site with Modern Tools (No React, Vue, etc) - <a href="https://medium.com/@imantung/building-static-site-with-modern-tools-no-react-vue-etc-7ae6e55b2249" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dhairya Sehgal`**
+✍️ **posted by `Iman Tung`**
 
-<blockquote>Navigating a website should be effortless, and a sticky navbar helps ensure that important links are always accessible. In this tutorial…</blockquote>
+<blockquote>Static Web Page refers to the web page (HTML, CSS, JS) that is the same between the server and browser. There is almost no business logic…</blockquote>
 
 <h3>2. The Madness Of Web Browsers - <a href="https://medium.com/website-development-dilemnas/the-madness-of-web-browsers-8cf52c2df5df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -279,11 +279,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Most interviewees failed on it.</blockquote>
 
-<h3>4. I Escaped a Major Hassle with the Lombok Library in Java Spring - <a href="https://medium.com/@emirgs-uzun/i-escaped-a-major-hassle-with-the-lombok-library-in-java-spring-5664e44723c8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Organizing a Video Streaming Application in Rust: File-by-File Breakdown - <a href="https://medium.com/@bmk72ihvmu/organizing-a-video-streaming-application-in-rust-file-by-file-breakdown-2f2f03642016" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Emir Uzun`**
+✍️ **posted by `Abdul ALMotaleb H.`**
 
-<blockquote>Learn how you can use the Lombok library to reduce code clutter and save time in your Java Spring projects.</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. 🌤️ Stop Using Margin Top. Use Margin Bottom And Gap Instead - <a href="https://medium.com/@tomaszs2/️-stop-using-margin-top-use-margin-bottom-and-gap-instead-0f13c84c14a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -375,11 +375,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Choose correct AI techniques for the right use case families</blockquote>
 
-<h3>4. Tap Protocol Update - <a href="https://medium.com/trac-systems/tap-protocol-update-502536bd7673" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Canary In The Coal Mine: Is Nvidia The First Sign Of The AI Bubble Bursting? - <a href="https://medium.com/predict/the-canary-in-the-coal-mine-is-nvidia-the-first-sign-of-the-ai-bubble-bursting-4550a94ddb81" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Seothe`**
+✍️ **posted by `Will Lockett`**
 
-<blockquote>Today, we are excited to release an article announcing a milestone upgrade that we are proud to share with our community. This update is…</blockquote>
+<blockquote>In short, yes.</blockquote>
 
 <h3>5. Choosing a Programming Language for a Project - <a href="https://medium.com/javascript-in-plain-english/choosing-a-programming-language-for-a-project-2b2764723c19" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -389,17 +389,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. The theory of meeting them twice - <a href="https://medium.com/mr-plan-publication/the-theory-of-meeting-them-twice-5c4b91013332" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. maybe when we’re ready, we’ll meet again. - <a href="https://medium.com/@cherylkoo/maybe-when-were-ready-we-ll-meet-again-08e2c7bd6a57" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `riespeaks`**
+✍️ **posted by `cher`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>I know I keep telling myself this for the nth time, but after seeing you last night I know in my heart that I mean it now: this is the…</blockquote>
 
-<h3>2. Much Ado About Nothing, Something, and Everything - <a href="https://medium.com/ellemeno/much-ado-about-nothing-something-and-everything-4a7b107b36ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Fourteen-Year Surprise Had an Unexpected Impact on My Sons - <a href="https://medium.com/the-narrative-arc/a-fourteen-year-surprise-had-an-unexpected-impact-on-my-sons-84519579f8f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Natasha MH`**
+✍️ **posted by `Ash Jurberg`**
 
-<blockquote>When everything you learned about writing at university becomes as relevant as yesterday’s newspaper lining today’s dustbin</blockquote>
+<blockquote>I turned a tradition into a loving gift</blockquote>
 
 <h3>3. you cannot make someone love you by loving them harder - <a href="https://medium.com/@fyoaeuriz/you-cannot-make-someone-love-you-by-loving-them-harder-657c9e788b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,25 +407,25 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>let that sink in</blockquote>
 
-<h3>4. I’ve Turned Into My Mom and I Couldn’t Be Happier - <a href="https://medium.com/modern-women/ive-turned-into-my-mom-and-i-couldn-t-be-happier-a93503e99c3f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A person who changed my life. - <a href="https://medium.com/@lifesaviorthoughts/a-person-who-changed-my-life-87bb98dc67e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kim Fedyk`**
+✍️ **posted by `Life Savior Thoughts`**
 
-<blockquote>Becoming the parent I cherished as a child</blockquote>
+<blockquote>Life Savior Thoughts! A medium that helps you to change your life.</blockquote>
 
-<h3>5. i hope that loving me isn’t the hardest thing anyone has to do - <a href="https://medium.com/@fyoaeuriz/i-hope-that-loving-me-isnt-the-hardest-thing-anyone-has-to-do-18b0a3c1af7c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Much Ado About Nothing, Something, and Everything - <a href="https://medium.com/ellemeno/much-ado-about-nothing-something-and-everything-4a7b107b36ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `Natasha MH`**
 
-<blockquote>is it too much to ask for love to be easy?</blockquote>
+<blockquote>When everything you learned about writing at university becomes as relevant as yesterday’s newspaper lining today’s dustbin</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Flutter Reload: What’s Under the Hood - <a href="https://medium.com/flutter-community/flutter-reload-whats-under-the-hood-978bce8af874" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering Asset Management in Flutter - <a href="https://medium.com/@ayalon.idan/mastering-asset-management-in-flutter-d9f6ca35be8d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ajay Prabhakar`**
+✍️ **posted by `Idan Ayalon`**
 
-<blockquote>What really happens when you click on reload button</blockquote>
+<blockquote>Managing assets efficiently is crucial for maintainability and scalability when working on a large-scale Flutter project. I use a modular…</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,11 +439,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Cracking the Most Common Android Interview Question - <a href="https://medium.com/@dobri.kostadinov/cracking-the-most-common-android-interview-question-9fc0adcba408" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Creating a Stylish Onboarding Page with Jetpack Compose in Android - <a href="https://medium.com/@ihaydinn/creating-a-stylish-onboarding-page-with-jetpack-compose-in-android-bd93e525920b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dobri Kostadinov`**
+✍️ **posted by `İsmail Hakkı Aydın`**
 
-<blockquote>A Deep Dive into the Question That Keeps Coming Up in Every Android Interview</blockquote>
+<blockquote>Let’s examine together how to compose an onboarding page, which greets us in mobile applications and generally contains the descriptions of…</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -581,11 +581,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Docker Containers vs. Virtual Machines: Understanding the Key Differences - <a href="https://medium.com/@abdelrhmannasser/docker-containers-vs-virtual-machines-understanding-the-key-differences-f199758a5c6c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Only 5 Tools You Need as a DevSecOps Engineer - <a href="https://medium.com/@hxhronies/the-only-5-tools-you-need-as-a-devsecops-engineer-ec72994eb1c4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abdelrahman Nasser`**
+✍️ **posted by `Ronie Horca`**
 
-<blockquote>In the world of software development, you’ve probably heard about Docker containers and Virtual Machines (VMs). They both help create…</blockquote>
+<blockquote>Tools discussed are the only specific tools required to be installed on your workstation, to function effectively as a DevSecOps Engineer</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -599,11 +599,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Containerization has become a cornerstone of modern software development, enabling developers to package applications and their…</blockquote>
 
-<h3>4. Streamline Your ECS Workflow: Easy Database Migrations with the runecs CLI Tool. - <a href="https://medium.com/@meap/streamline-your-ecs-workflow-easy-database-migrations-with-the-runecs-cli-tool-db5c393074b6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to deploy containerized Spring Boot Application to Azure App Service. - <a href="https://medium.com/@omyadav04352/how-to-deploy-containerized-spring-boot-application-to-azure-app-service-2ed937f305b1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Petr Reichl`**
+✍️ **posted by `Om yadav`**
 
-<blockquote>How to easily run one-off jobs in AWS ECS, such as database migrations.</blockquote>
+<blockquote>by Om Yadav ( Cloud Engineer @Searce )</blockquote>
 
 <h3>5. Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker - <a href="https://medium.com/data-engineer-things/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
