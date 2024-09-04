@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/03)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/04)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. NextJs Performance Mysteries: Unmasking Memory Leaks - <a href="https://medium.com/@msmechatronics/nextjs-performance-mysteries-unmasking-memory-leaks-3696cf22564b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Day 01: What is React? - <a href="https://medium.com/javascript-in-plain-english/day-01-what-is-react-50ea400946e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Meiyappan Kannappa`**
+✍️ **posted by `Boryana Krasteva`**
 
-<blockquote>Memory leak is a type of resource leak where a software program is not managing the memory allocation and releasing memory when not needed…</blockquote>
+<blockquote>Recently, I decided to take my skills to the next level by enrolling in the Meta Front-End Developer Professional Certificate.</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>And They Asked Me a Couple of Tough Questions</blockquote>
 
-<h3>4. Handling Asynchronous Operations In Redux - <a href="https://medium.com/@purohitshrey9/handling-async-operations-in-redux-700ade22d13e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Personal Guide to Cleaner and Consistent Naming - <a href="https://medium.com/90pixel/a-personal-guide-to-cleaner-and-consistent-naming-0db39092b2e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shrey Purohit`**
+✍️ **posted by `Ozan Tekin`**
 
-<blockquote>→Includes Typescript</blockquote>
+<blockquote>Explore my personal React naming conventions for cleaner and more consistent code using kebab-case, PascalCase, camelCase, and UPPER_CASE.</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,35 +100,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building a Countdown Timer App with Next.js - <a href="https://medium.com/@asharibali/building-a-countdown-timer-app-with-next-js-69baaf21a12c" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Asharib Ali`**
+
+<blockquote>Day 1: Countdown Timer — 30 Days of 30 Projects Challenge</blockquote>
+
+<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jack Herrington`**
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>2. The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder - <a href="https://medium.com/@ixartz/the-ultimate-2024-tech-stack-for-solo-saas-developers-build-smarter-not-harder-011d08292bd1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Ultimate 2024 Tech Stack for Solo SaaS Developers: Build Smarter, Not Harder - <a href="https://medium.com/@ixartz/the-ultimate-2024-tech-stack-for-solo-saas-developers-build-smarter-not-harder-011d08292bd1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Rémi Wg`**
 
 <blockquote>Building a SaaS as a solo developer is a challenging task. You have to wear multiple hats and be proficient in various technologies…</blockquote>
 
-<h3>3. Implementing a Server Component Inside a Client Component with Two Children - <a href="https://medium.com/@ne0gi02/implementing-a-server-component-inside-a-client-component-with-two-children-9ab5c1a3cc74" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Personal Guide to Cleaner and Consistent Naming - <a href="https://medium.com/90pixel/a-personal-guide-to-cleaner-and-consistent-naming-0db39092b2e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bishakh Neogi`**
+✍️ **posted by `Ozan Tekin`**
 
-<blockquote>Introduction:</blockquote>
+<blockquote>Explore my personal React naming conventions for cleaner and more consistent code using kebab-case, PascalCase, camelCase, and UPPER_CASE.</blockquote>
 
-<h3>4. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jonathan Yahav`**
 
 <blockquote>I was surprised at the lack of free-to-use, premade displacement maps online. I was even more surprised at how easy it was to make my own.</blockquote>
-
-<h3>5. I Switched From NextJS To Laravel And I Can’t Believe I Didn’t Sooner - <a href="https://medium.com/@hhartleyjs/i-switched-from-nextjs-to-laravel-and-i-cant-believe-i-didn-t-sooner-f906e643c75c" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `HarryHTML`**
-
-<blockquote>Why the hell is everyone so obsessed with Nextjs?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. JavaScript Weekly Issue 132 - <a href="https://medium.com/jsweekly/javascript-weekly-issue-132-d09dae768514" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 7 Ways to Secure Your JavaScript Code in 2024 - <a href="https://medium.com/@asierr/7-ways-to-secure-your-javascript-code-in-2024-e178014b6c66" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `This Week In I/O`**
+✍️ **posted by `asierr.dev`**
 
-<blockquote>Welcome to the 132nd issue of JavaScript Weekly, a weekly newsletter of JavaScript articles, news and cool projects.</blockquote>
+<blockquote>As JavaScript continues to dominate the web development landscape, securing your JavaScript code has never been more crucial. With cyber…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. React Optimization Technique: Memoization - <a href="https://medium.com/@furkan-aydin/react-optimization-technique-memoization-6040a1430308" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Parameters and Arguments in JavaScript Functions - <a href="https://medium.com/stackademic/understanding-parameters-and-arguments-in-javascript-functions-4989a395e674" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Furkan Aydın`**
+✍️ **posted by `Thiong'o John W`**
 
-<blockquote>Before diving into the memoization, it’s important to note that this article assumes you are familiar with these are: state variables…</blockquote>
+<blockquote>JavaScript functions are a fundamental part of the language, allowing you to encapsulate code into reusable blocks. Two key concepts when…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Leveling Up: From JavaScript to TypeScript for Beginners - <a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Getting Started with TypeScript: A Friendly Guide for Beginners - <a href="https://medium.com/@dslimen.15/getting-started-with-typescript-a-friendly-guide-for-beginners-009ab5556c0e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wesley Smith`**
+✍️ **posted by `Ben Slimen Mohamed Ali`**
 
-<blockquote>As a bootcamp graduate, I was constantly on the lookout for technologies that could help me land that coveted first job. However, I soon…</blockquote>
+<blockquote>If you’re a developer, chances are you’ve spent a lot of time working with JavaScript. It’s the go-to language for web development…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -208,18 +208,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. Using TypeScript with React Native: Best Practices - <a href="https://medium.com/@aneeqa-k25/using-typescript-with-react-native-best-practices-1f3738aff8e9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aneeqa Khan`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>TypeScript has rapidly become a favourite among developers for building robust, scalable, and maintainable applications. Combined with…</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. Promise.all vs for…of: Asynchronous JavaScript 🦈 - <a href="https://medium.com/@sharqiewicz/promise-all-vs-for-of-asynchronous-javascript-afd52812905a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Leveling Up: From JavaScript to TypeScript for Beginners - <a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kacper Szarkiewicz`**
+✍️ **posted by `Wesley Smith`**
 
-<blockquote>🦈 Hi I am Sharqi! 
-In JavaScript, Promise.all allows multiple promises to be executed concurrently, waiting for all to complete before…</blockquote>
+<blockquote>As a bootcamp graduate, I was constantly on the lookout for technologies that could help me land that coveted first job. However, I soon…</blockquote>
 
 <h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -261,17 +260,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Avoiding Infinite Redirection When Configuring URL Proxying Between Next.js and Django - <a href="https://medium.com/@lizzyzhou/avoiding-infinite-redirection-when-configuring-url-proxying-between-next-js-and-django-f761a7c23720" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Angular @let declarations: Smart Template Subscriptions - <a href="https://medium.com/itnext/angular-let-declarations-smart-template-subscriptions-88beb395a9ce" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lizzy Zhou`**
+✍️ **posted by `Ilir Beqiri`**
 
-<blockquote>Next.js provides a rewrites function that serves as a convenient proxying solution during development. However, I ran into an issue when…</blockquote>
+<blockquote>A real-life use case @let declarations makes the code much simpler.</blockquote>
 
-<h3>2. The Madness Of Web Browsers - <a href="https://medium.com/website-development-dilemnas/the-madness-of-web-browsers-8cf52c2df5df" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michael James`**
+✍️ **posted by `Matan Cohen`**
 
-<blockquote>How I often lose my cookies when trying to wrangle software</blockquote>
+<blockquote>Explore how Signals power modern JavaScript frameworks, making your apps reactive, efficient, and effortlessly responsive.</blockquote>
 
 <h3>3. Can You Answer This Senior Level JavaScript Promise Interview Question? - <a href="https://medium.com/frontend-canteen/can-you-answer-this-senior-level-javascript-promise-interview-question-69f7b6ffc2e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -279,17 +278,18 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Most interviewees failed on it.</blockquote>
 
-<h3>4. Frontend Weekly Digest #378 (26–31 August 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-378-26-31-august-2024-e20962632237" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Journey with Dream Craftify: From Idea to Reality - <a href="https://medium.com/@rohith2712/journey-with-dream-craftify-from-idea-to-reality-01645e6e8947" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fresh Frontend Links`**
+✍️ **posted by `Rohith Tatamsetty`**
 
-<blockquote>Web-development</blockquote>
+<blockquote>Introduction
+Starting something new can be both exciting and challenging. When I first thought about creating Dream Craftify, I had a…</blockquote>
 
-<h3>5. 🌤️ Stop Using Margin Top. Use Margin Bottom And Gap Instead - <a href="https://medium.com/@tomaszs2/️-stop-using-margin-top-use-margin-bottom-and-gap-instead-0f13c84c14a2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Madness Of Web Browsers - <a href="https://medium.com/website-development-dilemnas/the-madness-of-web-browsers-8cf52c2df5df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tom Smykowski`**
+✍️ **posted by `Michael James`**
 
-<blockquote>Let’s just collectively forget about margin-top please 🙏</blockquote>
+<blockquote>How I often lose my cookies when trying to wrangle software</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -325,17 +325,17 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Why You Should Learn Linux - <a href="https://medium.com/@opiero/why-you-should-learn-linux-9ceace168e5c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to start your first project from scratch for absolute beginners. - <a href="https://medium.com/@kholoudxs55kh/how-to-start-your-first-project-from-scratch-for-absolute-beginners-ccd42d7d9200" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Piero Capelo`**
+✍️ **posted by `Kholoud Fattem`**
 
-<blockquote>In today’s tech-driven world, learning Linux is more than just a skill — it’s essential for mastering the systems that power our digital…</blockquote>
+<blockquote>At some point, we were all beginners, trying to figure out how to build a well-structured project. No one is born knowing the right steps…</blockquote>
 
-<h3>2. Programmer’s Survival Guide for a Zombie Apocalypse - <a href="https://medium.com/code-like-a-girl/programmers-survival-guide-for-a-zombie-apocalypse-f1580422675a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aleena`**
+✍️ **posted by `Matan Cohen`**
 
-<blockquote>How to Reinvent Software and Technology from Scratch</blockquote>
+<blockquote>Explore how Signals power modern JavaScript frameworks, making your apps reactive, efficient, and effortlessly responsive.</blockquote>
 
 <h3>3. Interview: How to Check Whether a Username Exists Among One Billion Users? - <a href="https://medium.com/javarevisited/interview-how-to-check-whether-a-username-exists-among-one-billion-users-ffa0d0522998" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -343,31 +343,31 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
 
-<h3>4. Contractor Rates Are Too Beefy for Today’s Corporate IT Budgets - <a href="https://medium.com/womenintechnology/contractor-rates-are-too-beefy-for-todays-corporate-it-budgets-4e9281800048" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why You Should Learn Linux - <a href="https://medium.com/@opiero/why-you-should-learn-linux-9ceace168e5c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sarah Writtenhouse`**
+✍️ **posted by `Piero Capelo`**
 
-<blockquote>Why the cash cow will be skinnier in 2025</blockquote>
+<blockquote>In today’s tech-driven world, learning Linux is more than just a skill — it’s essential for mastering the systems that power our digital…</blockquote>
 
-<h3>5. Choosing a Programming Language for a Project - <a href="https://medium.com/javascript-in-plain-english/choosing-a-programming-language-for-a-project-2b2764723c19" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How and Why We Rolled Our Own Field Encryption Using Entity Framework - <a href="https://medium.com/gitconnected/how-and-why-we-rolled-our-own-field-encryption-using-entity-framework-4e0e00fbd995" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Josef Cruz`**
+✍️ **posted by `Matt Bentley`**
 
-<blockquote>Is it really important?</blockquote>
+<blockquote>How we broke down our complex Encryption requirements using Field Encryption with Entity Framework Core. Including code, performance…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Contractor Rates Are Too Beefy for Today’s Corporate IT Budgets - <a href="https://medium.com/womenintechnology/contractor-rates-are-too-beefy-for-todays-corporate-it-budgets-4e9281800048" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Into the Valley of Death: The crash of American Eagle flight 4184 and the ATR icing story - <a href="https://medium.com/@admiralcloudberg/into-the-valley-of-death-the-crash-of-american-eagle-flight-4184-and-the-atr-icing-story-29e64faee67c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sarah Writtenhouse`**
+✍️ **posted by `Admiral Cloudberg`**
 
-<blockquote>Why the cash cow will be skinnier in 2025</blockquote>
+<blockquote>The full story of the fatal flaw that almost undid Avions de Transport Regional, and the tragic crash that brought that flaw to light.</blockquote>
 
-<h3>2. The Ontological Shock of AI - <a href="https://medium.com/ai-advances/the-ontological-shock-of-ai-e067e3ce5e5b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Guitar Amp Sim Wars - <a href="https://medium.com/the-right-notes/guitar-amp-sim-wars-8f220df3a060" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Paul Siemers, PhD`**
+✍️ **posted by `Michael James`**
 
-<blockquote>To understand AI we must let go of some basic assumptions about the world</blockquote>
+<blockquote>Who’s winning, who’s losing, and what to know</blockquote>
 
 <h3>3. Do Not Use LLM or Generative AI For These Use Cases - <a href="https://medium.com/towards-artificial-intelligence/do-not-use-llm-or-generative-ai-for-these-use-cases-a819ae2d9779" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -375,31 +375,31 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Choose correct AI techniques for the right use case families</blockquote>
 
-<h3>4. Unmasking the SBI Scam APK: A Deep Dive into the Fraudulent World - <a href="https://medium.com/@abhijith-a/unmasking-the-sbi-scam-apk-a-deep-dive-into-the-fraudulent-world-b20f7b40bfc9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Lot Of Job Postings Are (Allegedly) Fake - <a href="https://medium.com/entrepreneur-s-handbook/a-lot-of-job-postings-are-allegedly-fake-5dc248558e00" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhijith A`**
+✍️ **posted by `Joe Procopio`**
 
-<blockquote>This write-up exposes the scam behind fake SBI and other banking APKs shared over WhatsApp and reveals how they exploit the public.</blockquote>
+<blockquote>Ghost Jobs and Talent Fishing Are Things You Need to Know About</blockquote>
 
-<h3>5. Teaching During the “Rise of AI” and the “End of Reading” - <a href="https://medium.com/age-of-awareness/teaching-during-the-rise-of-ai-and-the-end-of-reading-068a6515318f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Best Forgotten PC Gaming Headset - <a href="https://medium.com/@xander51/the-best-forgotten-pc-gaming-headset-503390c593a6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Eric Sentell`**
+✍️ **posted by `Alex Rowe`**
 
-<blockquote>How did we get here, and where are we going?</blockquote>
+<blockquote>Competence in a sea of marketing flash and Bluetooth clones</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. to be loved by you - <a href="https://medium.com/@fyoaeuriz/to-be-loved-by-you-e51ad4deb7af" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. let me look at you for a bit more until my feelings for you are all gone - <a href="https://medium.com/@pupchimin/let-me-look-at-you-for-a-bit-more-until-my-feelings-for-you-are-all-gone-a89f07fb7e4d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `pupchimin ღ`**
 
-<blockquote>thank you !</blockquote>
+<blockquote>https://pin.it/34m55xEUN</blockquote>
 
-<h3>2. Trans Expression Is about So Much More than Appearance - <a href="https://medium.com/prismnpen/trans-expression-is-about-so-much-more-than-appearance-e559c3cf1af5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Fear of Exceeding My Father Financially - <a href="https://medium.com/the-virago/the-fear-of-exceeding-my-father-financially-6f484f0f0e50" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Piddling Piddles`**
+✍️ **posted by `Charlotte`**
 
-<blockquote>Bridging the gap between lived experience as both a woman and a man</blockquote>
+<blockquote>Outearning my father</blockquote>
 
 <h3>3. you cannot make someone love you by loving them harder - <a href="https://medium.com/@fyoaeuriz/you-cannot-make-someone-love-you-by-loving-them-harder-657c9e788b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,25 +407,25 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>let that sink in</blockquote>
 
-<h3>4. From a Breakup, Friend Zoning, and Ghosting to New Beginnings - <a href="https://medium.com/illumination/from-a-breakup-friend-zoning-and-ghosting-to-new-beginnings-8886f68601b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Trans Expression Is about So Much More than Appearance - <a href="https://medium.com/prismnpen/trans-expression-is-about-so-much-more-than-appearance-e559c3cf1af5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yana Bostongirl`**
+✍️ **posted by `Piddling Piddles`**
 
-<blockquote>It all happened within a span of a few months</blockquote>
+<blockquote>Bridging the gap between lived experience as both a woman and a man</blockquote>
 
-<h3>5. Folks who Choose to be Alone - <a href="https://medium.com/my-unpopular-opinion/folks-who-choose-to-be-alone-4c21d2e1b8c0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. You weren’t mine to lose - <a href="https://medium.com/@i043logs/you-werent-mine-to-lose-75c83fa7fd55" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rev. Sheri Heller, LCSW, RSW`**
+✍️ **posted by `oceanburned 𓇼`**
 
-<blockquote>It’s more common than you think</blockquote>
+<blockquote>Image from Pinterest</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Mastering Asset Management in Flutter - <a href="https://medium.com/@ayalon.idan/mastering-asset-management-in-flutter-d9f6ca35be8d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React-native-collapsible-tab-view breaking your UI or not rendering anything? - <a href="https://medium.com/@ashifkhn/react-native-collapsible-tab-view-breaking-your-ui-or-not-rendering-anything-1eb10ad0cb67" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Idan Ayalon`**
+✍️ **posted by `Ashif Khan`**
 
-<blockquote>Managing assets efficiently is crucial for maintainability and scalability when working on a large-scale Flutter project. I use a modular…</blockquote>
+<blockquote>Troubleshooting a Break in the React Native RDS Mobile App: A Case of flex: 1</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,11 +439,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Creating a Stylish Onboarding Page with Jetpack Compose in Android - <a href="https://medium.com/@ihaydinn/creating-a-stylish-onboarding-page-with-jetpack-compose-in-android-bd93e525920b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mixins in Flutter: A Fun and Simple Guide - <a href="https://medium.com/@sharma-deepak/mixins-in-flutter-a-fun-and-simple-guide-10a06014858d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `İsmail Hakkı Aydın`**
+✍️ **posted by `Deepak Sharma`**
 
-<blockquote>Let’s examine together how to compose an onboarding page, which greets us in mobile applications and generally contains the descriptions of…</blockquote>
+<blockquote>Unlock Reusable Code and Add Versatility to Your Flutter Apps with Mixin</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -471,11 +471,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>Common Pitfalls in Jetpack Compose and How to Avoid Them for Smoother Android UI Development</blockquote>
 
-<h3>4. Zello PTT: A Checked Past & Unclear Future - <a href="https://medium.com/@beefnthings/zello-ptt-a-checked-past-unclear-future-c6e44604f68e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. CI/CD in Android Development - <a href="https://medium.com/@anandgaur22/ci-cd-in-android-development-9697068cce03" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Duke Silver`**
+✍️ **posted by `Anand Gaur`**
 
-<blockquote>Zello PTT - Austin Texas</blockquote>
+<blockquote>What is CI/CD?</blockquote>
 
 <h3>5. Efficient Render Passes — On Tile-Based Rendering Hardware - <a href="https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -503,11 +503,11 @@ In JavaScript, Promise.all allows multiple promises to be executed concurrently,
 
 <blockquote>I never thought “do not hallucinate” works.</blockquote>
 
-<h3>4. Zello PTT: A Checked Past & Unclear Future - <a href="https://medium.com/@beefnthings/zello-ptt-a-checked-past-unclear-future-c6e44604f68e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. SwiftData:- The Mocking world - <a href="https://medium.com/@vishwasng/swiftdata-the-mocking-world-de324d1ba527" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Duke Silver`**
+✍️ **posted by `Vishwas Ng`**
 
-<blockquote>Zello PTT - Austin Texas</blockquote>
+<blockquote>Welcome back to the SwiftData series, in the last article I told you, we would be looking into Querying the data, that if you have observed…</blockquote>
 
 <h3>5. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
