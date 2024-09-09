@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Blog 1: Why React is Taking Over Web Development — A Beginner’s Guide - <a href="https://medium.com/@pravinshingade199777/blog-1-why-react-is-taking-over-web-development-a-beginners-guide-027e5d6e16ee" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to use Firestore with Redux (Toolkit) in 2024 and on - <a href="https://medium.com/@leonardorb/how-to-use-firestore-with-redux-toolkit-in-2024-and-on-5432f2488ccc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pravinshingade`**
+✍️ **posted by `Leonardo Barbosa`**
 
-<blockquote>Introduction:</blockquote>
+<blockquote>Firebase: Google’s Mobile and Web App Development Platform</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -18,11 +18,11 @@
 
 <blockquote>And They Asked Me a Couple of Tough Questions</blockquote>
 
-<h3>4. AI-Powered Components in React: Integrating with GPT and Other AI Models - <a href="https://medium.com/@vijaykumarsadhu/ai-powered-components-in-react-integrating-with-gpt-and-other-ai-models-e1e29245f1d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Next.js Project Structure: A Simple Guide (nextjs v15 rc) - <a href="https://medium.com/@onejosefina/nextjs-folder-structure-using-app-router-nextjs-v15-rc-05d8ead9e6ab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vijay Sadhu`**
+✍️ **posted by `Josephine Liang`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Next.js has become a popular choice for building modern web applications, thanks to its powerful features and flexibility. However, for…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Zero-runtime localization in Next.js - <a href="https://medium.com/faire-the-craft/zero-runtime-localization-in-next-js-864e252e387d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why OpenAI switched from Next.JS to Remix? - <a href="https://medium.com/learnreactui/why-openai-switched-from-next-js-to-remix-850f990b5b4f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jude Gao`**
+✍️ **posted by `Onur Dayıbaşı`**
 
-<blockquote>How we hacked Next.js for blazing-fast localization at scale</blockquote>
+<blockquote>The most important point here is that the React ecosystem is not just ServerSide or RSC, but also an indication that SPA and Client Side…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Day 1: Countdown Timer — 30 Days of 30 Projects Challenge</blockquote>
 
-<h3>4. How to build a Full-Stack Video Streaming Platform with Node.js,expressjs,FFmpeg and Next.js - <a href="https://medium.com/@paudelronish/how-to-build-a-full-stack-video-streaming-platform-with-node-js-9a7f14655af6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Zero-runtime localization in Next.js - <a href="https://medium.com/faire-the-craft/zero-runtime-localization-in-next-js-864e252e387d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Paudelronish`**
+✍️ **posted by `Jude Gao`**
 
-<blockquote>Build a full-stack video streaming platform with Node.js, FFmpeg, and Next.js.Learn video processing, frontend integration, and…</blockquote>
+<blockquote>How we hacked Next.js for blazing-fast localization at scale</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Are JavaScript Objects Ordered? | Uncover the Truth Now! - <a href="https://medium.com/@aicontentpace/are-javascript-objects-ordered-uncover-the-truth-now-2a5888d15fca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Create your own 📷 image compressor & to .webp - <a href="https://medium.com/@your-ehsan/how-to-create-your-own-image-compressor-to-webp-23a1becdb239" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Defita F. Contentpace`**
+✍️ **posted by `your-ehsan`**
 
-<blockquote>Understanding the Order of Properties in JavaScript Objects</blockquote>
+<blockquote>Introducing a new image compressor and resizer: Reduce your image sizes without compromising quality. This Image Resizer & Compressor can…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +114,11 @@
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. How to Produce Audio with JavaScript: A Drumkit Example - <a href="https://medium.com/stackademic/how-to-produce-audio-with-javascript-a-drumkit-example-e019545be32d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Nested if else in JavaScript - <a href="https://medium.com/@frontendinterviewquestions/nested-if-else-in-javascript-26a9e4e09214" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thiong'o John W`**
+✍️ **posted by `Pravin M`**
 
-<blockquote>Create your own free music software.</blockquote>
+<blockquote>For more questions and answers visit our website at Frontend Interview Questions</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Introduction to Web Development: - <a href="https://medium.com/@mousinisarkar05/introduction-to-web-development-69aee52de023" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How To become a Full Stack Web Developer in 10 months (Roadmap) - <a href="https://medium.com/@Iamvshl/how-to-become-a-full-stack-web-developer-in-10-months-roadmap-68f2fa9bbd67" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MousiniSarkar`**
+✍️ **posted by `Vishal Nandy`**
 
-<blockquote>So what is Web development?</blockquote>
+<blockquote>In 2023, I was an random NEET aspirant in my school days and had a strong background of Biology. After getting disqualified from NEET, I…</blockquote>
 
 <h3>2. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +210,11 @@
 
 <blockquote>Most interviewees failed on it.</blockquote>
 
-<h3>4. How To become a Full Stack Web Developer in 10 months (Roadmap) - <a href="https://medium.com/@Iamvshl/how-to-become-a-full-stack-web-developer-in-10-months-roadmap-68f2fa9bbd67" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Remove Whitespaces from the Start and End of a String with JavaScript? - <a href="https://medium.com/@hohanga/how-to-remove-whitespaces-from-the-start-and-end-of-a-string-with-javascript-46a96e17c337" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vishal Nandy`**
+✍️ **posted by `John Au-Yeung`**
 
-<blockquote>In 2023, I was an random NEET aspirant in my school days and had a strong background of Biology. After getting disqualified from NEET, I…</blockquote>
+<blockquote>Sometimes, we want to remove whitespaces from the start and end of a string with JavaScript.</blockquote>
 
 <h3>5. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -256,11 +256,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Documentation Processes and Types in Software Projects - <a href="https://medium.com/trendyol-tech/documentation-processes-and-types-in-software-projects-0b55580c41d9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 850$ IDOR:Unauthorized Session Revokation of any user - <a href="https://medium.com/@a13h1/850-idor-unauthorized-session-revokation-of-any-user-93f9cb92fdfe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Emre Savcı`**
+✍️ **posted by `Abhi Sharma`**
 
-<blockquote>Documentation is one of the most critical factors in the survival of software, preventing it from becoming “legacy,” and sharing knowledge.</blockquote>
+<blockquote>Hi Everyone, I’m thrilled to share another intriguing vulnerability I uncovered, this time in Codecov’s session management system. This…</blockquote>
 
 <h3>2. “J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal” - <a href="https://medium.com/ai-advances/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,11 +274,11 @@
 
 <blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
 
-<h3>4. Micro Frontend Architecture: A Guide - <a href="https://medium.com/bitsrc/micro-frontend-architecture-a-guide-28f78ce825ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Ultimate Guide to Reduce App Size in Flutter — Volume 2 - <a href="https://medium.com/@Saurabh7973/ultimate-guide-to-reduce-app-size-in-flutter-volume-2-105e0bb316a6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jonathan Saring`**
+✍️ **posted by `Saurabh Upadhyay`**
 
-<blockquote>Micro frontends are fundamentally changing how we build and scale frontend. By breaking down monolithic frontends into smaller, more…</blockquote>
+<blockquote>A Developer’s Guide to minimize the app size in Flutter</blockquote>
 
 <h3>5. Sometimes Noise is Music: How Beneficial Noise Can Improve Your RAG - <a href="https://medium.com/gitconnected/sometimes-noise-is-music-how-beneficial-noise-can-improve-your-rag-b9d67253500f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -326,11 +326,11 @@
 
 <blockquote>The message was clear: I owe you nothing</blockquote>
 
-<h3>2. If I’d Been Diagnosed With Autism Earlier, Would It Have Changed Who I Am? - <a href="https://medium.com/the-unexpected-autistic-life/if-id-been-diagnosed-with-autism-earlier-would-it-have-changed-who-i-am-2d1af85ec441" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Atom of the Shadow - <a href="https://medium.com/scrittura/atom-of-the-shadow-f044cb3c71c6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Somerfield`**
+✍️ **posted by `Edward Swafford`**
 
-<blockquote>I was 39 when I got my diagnosis. What if I’d had it when I was 12?</blockquote>
+<blockquote>Eyes reveal all</blockquote>
 
 <h3>3. you cannot make someone love you by loving them harder - <a href="https://medium.com/@fyoaeuriz/you-cannot-make-someone-love-you-by-loving-them-harder-657c9e788b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,25 +338,25 @@
 
 <blockquote>let that sink in</blockquote>
 
-<h3>4. “What is love to you?” - <a href="https://medium.com/@lifesaviorthoughts/what-is-love-to-you-9466afdd0c31" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Sunday Best: The Many Faces of Love - <a href="https://medium.com/@ThisIsJaneChukwu/sunday-best-the-many-faces-of-love-9b87484f0f9f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Life Savior Thoughts`**
+✍️ **posted by `Jane Chukwu N.`**
 
-<blockquote>Life Savior Thoughts! A medium that helps you to change your life.</blockquote>
+<blockquote>What does love mean to you?</blockquote>
 
-<h3>5. Four Fathers and Their Children - <a href="https://medium.com/fourth-wave/four-fathers-and-their-children-37071c596dd5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. If I’d Been Diagnosed With Autism Earlier, Would It Have Changed Who I Am? - <a href="https://medium.com/the-unexpected-autistic-life/if-id-been-diagnosed-with-autism-earlier-would-it-have-changed-who-i-am-2d1af85ec441" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Suma Narayan`**
+✍️ **posted by `Mark Somerfield`**
 
-<blockquote>Father’s Day in Australia, 2024</blockquote>
+<blockquote>I was 39 when I got my diagnosis. What if I’d had it when I was 12?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Mobile apps: why and how? - <a href="https://medium.com/@tom_jaussoin/mobile-apps-why-and-how-f3823601c2a3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 3 Ways to Optimize Performance in SwiftUI Apps - <a href="https://medium.com/@thiagorodriguescenturion/3-ways-to-optimize-performance-in-swiftui-apps-5a54b72b4041" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thomas Jaussoin`**
+✍️ **posted by `Thiago Centurion`**
 
-<blockquote>At Lunabee Studio, we create native mobile apps since Stores exist (wow!), using native technologies provided by Apple and Google.</blockquote>
+<blockquote>SwiftUI has revolutionized iOS development with its declarative syntax and powerful features. However, as your app grows in complexity…</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -370,11 +370,11 @@
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. How to Build a Scaleable Movie App Using Jetpack Compose, Clean Architecture, and Dependency… - <a href="https://medium.com/@aamaulanabola10/how-to-build-a-scaleable-movie-app-using-jetpack-compose-clean-architecture-and-dependency-79224b0d7a79" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Getting Started with Asynchronous Programming in Dart - <a href="https://medium.com/@ahmedgreynoon/getting-started-with-asynchronous-programming-in-dart-765bd9dc490b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aa Maulana`**
+✍️ **posted by `Ahmed Greynoon`**
 
-<blockquote>Building scalable and maintainable Android applications using Jetpack compose and Clean Architecture</blockquote>
+<blockquote>Last article, we covered the foundational concepts of the asynchronous programming model, and we learned that synchronous programming in…</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,11 +434,11 @@
 
 <blockquote>I never thought “do not hallucinate” works.</blockquote>
 
-<h3>4. 3 Ways to Optimize Performance in SwiftUI Apps - <a href="https://medium.com/@thiagorodriguescenturion/3-ways-to-optimize-performance-in-swiftui-apps-5a54b72b4041" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Dark Side of Actors: 🛡️ Safety First, 🎭 Drama Later. - <a href="https://medium.com/@ahmed.a.elkott/the-dark-side-of-actors-️-safety-first-drama-later-bb73de29c280" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thiago Centurion`**
+✍️ **posted by `Ahmed Attalla`**
 
-<blockquote>SwiftUI has revolutionized iOS development with its declarative syntax and powerful features. However, as your app grows in complexity…</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -448,11 +448,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. How much Docker a programmer should know? - <a href="https://medium.com/@bhushanch45/how-much-docker-a-programmer-should-know-3d03ac99f03a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Using Multiple GitHub Accounts on the Same Machine - <a href="https://medium.com/@mina.samir93/using-multiple-github-accounts-on-the-same-machine-40edc392cb70" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bhushan Chaudhari`**
+✍️ **posted by `Mina Samir`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Many of us encounter situations where we need to use both personal and work GitHub accounts on the same machine. I’ve seen many developers…</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,11 +466,11 @@
 
 <blockquote>Building a Docker image without requiring a Dockerfile or Docker Daemon</blockquote>
 
-<h3>4. Using Multiple GitHub Accounts on the Same Machine - <a href="https://medium.com/@mina.samir93/using-multiple-github-accounts-on-the-same-machine-40edc392cb70" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Managing Kernel Modules in Linux - <a href="https://medium.com/@ahmedmansouri/managing-kernel-modules-in-linux-d6e5c1ce85d0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mina Samir`**
+✍️ **posted by `Ahmed Mansouri`**
 
-<blockquote>Many of us encounter situations where we need to use both personal and work GitHub accounts on the same machine. I’ve seen many developers…</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. Container Security Scanning: Vulnerabilities, Risks and Tooling - <a href="https://medium.com/4th-coffee/container-security-scanning-vulnerabilities-risks-and-tooling-31b09f64e6f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
