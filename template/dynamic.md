@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Building a Color Picker App with Next.js - <a href="https://medium.com/@asharibali/building-a-color-picker-app-with-next-js-7d2636cef39e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building your first decentralized Application on Filecoin - <a href="https://medium.com/@filbuilders/building-your-first-decentralized-application-on-filecoin-7c787659c5cc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Asharib Ali`**
+✍️ **posted by `FIL-B`**
 
-<blockquote>Day 8: Color Picker — 30 Days of 30 Projects Challenge</blockquote>
+<blockquote>Bob noticed that his Web3 cat looked a little uneasy today ….</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Day 1: Countdown Timer — 30 Days of 30 Projects Challenge</blockquote>
 
-<h3>4. Building your first decentralized Application on Filecoin - <a href="https://medium.com/@filbuilders/building-your-first-decentralized-application-on-filecoin-7c787659c5cc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building a Color Picker App with Next.js - <a href="https://medium.com/@asharibali/building-a-color-picker-app-with-next-js-7d2636cef39e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `FIL-B`**
+✍️ **posted by `Asharib Ali`**
 
-<blockquote>Bob noticed that his Web3 cat looked a little uneasy today ….</blockquote>
+<blockquote>Day 8: Color Picker — 30 Days of 30 Projects Challenge</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,35 +192,35 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Build Decentralized Application with Blockchain and AI Integration - <a href="https://medium.com/@souvikkk23/how-to-build-decentralized-application-with-blockchain-and-ai-integration-e683428dfbd1" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Souvikkk`**
+
+<blockquote>Combining the Power of Decentralization and AI to Build Smarter, More Secure Applications.</blockquote>
+
+<h3>2. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Michal Malewicz`**
 
 <blockquote>Web design is getting out of hand again.</blockquote>
 
-<h3>2. Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀 - <a href="https://medium.com/javascript-in-plain-english/say-goodbye-to-try-catch-with-this-new-ecmascript-operator-e2b798c7b7a8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀 - <a href="https://medium.com/javascript-in-plain-english/say-goodbye-to-try-catch-with-this-new-ecmascript-operator-e2b798c7b7a8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Selcuk Ozdemir`**
 
 <blockquote>Introducing the ?= Operator: JavaScript’s New Error Handling Hero</blockquote>
 
-<h3>3. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Closure with JavaScript - <a href="https://medium.com/@nickmasonswe/understanding-closure-with-javascript-1405092a0e7f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nadar Alpenidze`**
+✍️ **posted by `Nick Mason`**
 
-<blockquote>Have you ever found yourself tangled in the complexity of building a processing pipeline, wrestling with how to correctly design a pipeline…</blockquote>
+<blockquote>The Foundations of Closure</blockquote>
 
-<h3>4. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Matan Cohen`**
 
 <blockquote>Explore how Signals power modern JavaScript frameworks, making your apps reactive, efficient, and effortlessly responsive.</blockquote>
-
-<h3>5. 18 Essential Developer Tools that Will Improve the Way You Work 🚀🔥 - <a href="https://medium.com/stackademic/18-essential-developer-tools-that-will-improve-the-way-you-work-fd6ec7a2ce00" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Madza`**
-
-<blockquote>In the fast-paced world of software development, staying ahead means constantly evolving your toolkit. The right tools can drastically…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -256,17 +256,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Is Today’s OOP Aligned with Alan Kay’s Original Concept? - <a href="https://medium.com/gitconnected/is-todays-oop-aligned-with-alan-kay-s-original-concept-163aa20309f3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Rust adventure to develop a Game Boy emulator — Part 1: Memory - <a href="https://medium.com/@wolferxy/rust-adventure-to-develop-a-game-boy-emulator-part-1-memory-3ea6e29c254c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ruchira Madhushan Rajapaksha`**
+✍️ **posted by `WolfieXY`**
 
-<blockquote>Why do languages like C# and Java fall short of Alan Kay’s original Object-Oriented Vision?</blockquote>
+<blockquote>After an intro we ready to start with some Rust basics and a simple version of Game Boy memory structure.</blockquote>
 
-<h3>2. DeepMind’s AlphaProteo: Revolutionizing Protein Design with Machine Learning - <a href="https://medium.com/gitconnected/deepminds-alphaproteo-revolutionizing-protein-design-with-machine-learning-6ace4e725350" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Single Responsibility Saga: One Job, One Focus - <a href="https://medium.com/womenintechnology/the-single-responsibility-saga-one-job-one-focus-b7cc93a59fcb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Salvatore Raieli`**
+✍️ **posted by `Alina Kovtun`**
 
-<blockquote>Harnessing AI to Create High-Affinity Protein Binders in a Single Step</blockquote>
+<blockquote>The programming world is still wild, unpredictable, and full of strange concepts. Whenever you think you’ve got it all figured out, some…</blockquote>
 
 <h3>3. Interview: How to Check Whether a Username Exists Among One Billion Users? - <a href="https://medium.com/javarevisited/interview-how-to-check-whether-a-username-exists-among-one-billion-users-ffa0d0522998" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,31 +274,31 @@
 
 <blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
 
-<h3>4. A New Giant Software Market: The Rise Of Software Defined Vehicles And The End Of Car Ownership - <a href="https://medium.com/@jankammerath/a-new-giant-software-market-the-rise-of-software-defined-vehicles-and-the-end-of-car-ownership-8eabff14cada" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. HTTP/2 is fast 🚀 but adds complexity - <a href="https://medium.com/itnext/http-2-is-fast-but-adds-complexity-b68bef4144ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jan Kammerath`**
+✍️ **posted by `Benjamin Cane`**
 
-<blockquote>When General Motors launched the Oldsmobile Toronado in 1977 it was the dawn of the era of embedded automotive software. The Toronado was…</blockquote>
+<blockquote>One of the most significant performance improvements I’ve seen in a micro-services platform was moving from 🐢 HTTP/1.1 to 🚀 HTTP/2. But…</blockquote>
 
-<h3>5. “J’accuse! The Unjust Demise of RAG in Favor of Long-Context LLMs: A Rebuttal” - <a href="https://medium.com/ai-advances/jaccuse-the-unjust-demise-of-rag-in-favor-of-long-context-llms-a-rebuttal-c7e3220479a4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Is Today’s OOP Aligned with Alan Kay’s Original Concept? - <a href="https://medium.com/gitconnected/is-todays-oop-aligned-with-alan-kay-s-original-concept-163aa20309f3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Salvatore Raieli`**
+✍️ **posted by `Ruchira Madhushan Rajapaksha`**
 
-<blockquote>Reassessing Retrieval-Augmented Generation in the Age of Long-Context Models</blockquote>
+<blockquote>Why do languages like C# and Java fall short of Alan Kay’s original Object-Oriented Vision?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. I Know Who To Blame For The Decline Of Tech - <a href="https://medium.com/entrepreneur-s-handbook/i-know-who-to-blame-for-the-decline-of-tech-25490269c04e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Microsoft September 2024 Patch Tuesday update fixes Four zero-days, Six critical bugs - <a href="https://medium.com/@windows101tricks/microsoft-september-2024-patch-tuesday-update-fixes-four-zero-days-seven-critical-bugs-00346251eeba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joe Procopio`**
+✍️ **posted by `Windows 11 and Windows 10 How to Guide!`**
 
-<blockquote>Money Men, Hubris, and the State of Tech in the 2020s</blockquote>
+<blockquote>Microsoft Patch Tuesday update September 2024, fixes Four (four actively exploited and one publicly disclosed) zero-days, and Six critical…</blockquote>
 
-<h3>2. Pokemon Should Have Stayed 2-D - <a href="https://medium.com/theuglymonster/pokemon-should-have-stayed-2-d-13e9cbadb269" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Researchers Successfully Use Ultrasound Waves on the Brain to Enhance Mindfulness. - <a href="https://medium.com/@katrinapaulson/researchers-successfully-use-ultrasound-waves-on-the-brain-to-enhance-mindfulness-dce9325accae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Elvia M.`**
+✍️ **posted by `Katrina Paulson`**
 
-<blockquote>A perfected art style sacrificed to update with the times</blockquote>
+<blockquote>Within five minutes, participants reported experiencing the effects of meditation without actually meditating.</blockquote>
 
 <h3>3. Into the Valley of Death: The crash of American Eagle flight 4184 and the ATR icing story - <a href="https://medium.com/@admiralcloudberg/into-the-valley-of-death-the-crash-of-american-eagle-flight-4184-and-the-atr-icing-story-29e64faee67c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -306,17 +306,17 @@
 
 <blockquote>The full story of the fatal flaw that almost undid Avions de Transport Regional, and the tragic crash that brought that flaw to light.</blockquote>
 
-<h3>4. A philosopher on why AI bugs us - <a href="https://medium.com/blog/a-philosopher-on-why-ai-bugs-us-1b231c8666c7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Times, they are a changin’, so we’re automatin’ - <a href="https://medium.com/mcdonalds-technical-blog/times-they-are-a-changin-so-we-re-automatin-d65a95651e94" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Medium Newsletter`**
+✍️ **posted by `Global Technology`**
 
-<blockquote>Issue #159: turning 90, MFA woes, and how to semester your life</blockquote>
+<blockquote>With thousands of system change requests, McDonald’s turns to automation to help manage the creation of change records.</blockquote>
 
-<h3>5. The Courageous Internet Activism of Aaron Swartz - <a href="https://medium.com/policy-panorama/the-courageous-internet-activism-of-aaron-swartz-37965fc93bb0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why smart homes aren’t the standard - <a href="https://medium.com/user-experience-design-1/why-smart-homes-arent-the-standard-20fb6119f9dc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rebecca Ruth Gould, PhD`**
+✍️ **posted by `Daley Wilhelm`**
 
-<blockquote>Why copyright laws undermine the demands of justice</blockquote>
+<blockquote>The 90’s may have given us inflated expectations for smart home technology.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -402,11 +402,11 @@
 
 <blockquote>When initializing or fetching data upon entering a screen, it’s crucial to select the right trigger point for loading the initial data…</blockquote>
 
-<h3>4. Dispatchers.IO vs Dispatchers.Main? When to use which one? - <a href="https://medium.com/@waqasyounis334/dispatchers-io-vs-dispatchers-main-when-to-use-which-one-ea9eff0b0b5e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Create a Custom Animated Hole Effect in Jetpack Compose - <a href="https://medium.com/@kappdev/how-to-create-a-custom-animated-hole-effect-in-jetpack-compose-1980394d9d6c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Waqas Younis`**
+✍️ **posted by `Kappdev`**
 
-<blockquote>I recently learnt about this via a very practical example so sharing it here with you guys.</blockquote>
+<blockquote>In this article, we’ll explore how to create a Custom Hole Effect in Jetpack Compose, featuring a customizable center origin. We’ll also…</blockquote>
 
 <h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,11 +434,11 @@
 
 <blockquote>I never thought “do not hallucinate” works.</blockquote>
 
-<h3>4. Hey Siri, How to fix App Intents? - <a href="https://medium.com/@adamcs00/hey-siri-how-to-fix-app-intents-f28c9e40c522" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 5 Best Flutter UI Templates - <a href="https://medium.com/@theflutterway/5-best-flutter-ui-templates-141c9b60f28e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Adam Csukas`**
+✍️ **posted by `The Flutter Way`**
 
-<blockquote>The App Intents framework provides functionality to deeply integrate your app’s actions and content with system experiences across…</blockquote>
+<blockquote>Are you new to Flutter app development or an experienced developer looking for templates to speed up your work? You’re in the right place…</blockquote>
 
 <h3>5. Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide - <a href="https://medium.com/proandroiddev/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32" target="_blank" rel="noopener noreferrer">link</a></h3>
 
