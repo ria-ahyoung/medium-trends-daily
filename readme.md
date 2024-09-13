@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/12)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/13)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -138,17 +138,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`**
-
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
-
-<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+
+<h3>3. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Consagoustech`**
+
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
 
 <h3>4. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,17 +260,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. How to Build Decentralized Application with Blockchain and AI Integration - <a href="https://medium.com/@souvikkk23/how-to-build-decentralized-application-with-blockchain-and-ai-integration-e683428dfbd1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The 7 Levels of Laravel Optimization: From Rookie to Optimization Overlord — with Benchmark - <a href="https://medium.com/@summonshr/the-7-levels-of-laravel-optimization-from-rookie-to-optimization-overlord-with-benchmark-49009488419b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Souvikkk`**
+✍️ **posted by `Suman Shrestha`**
 
-<blockquote>Combining the Power of Decentralization and AI to Build Smarter, More Secure Applications.</blockquote>
+<blockquote>Buckle up! We’re diving headfirst into the wild world of Laravel optimizations, climbing the treacherous ladder from “just glad it works”…</blockquote>
 
-<h3>2. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michal Malewicz`**
+✍️ **posted by `Nadar Alpenidze`**
 
-<blockquote>Web design is getting out of hand again.</blockquote>
+<blockquote>Have you ever found yourself tangled in the complexity of building a processing pipeline, wrestling with how to correctly design a pipeline…</blockquote>
 
 <h3>3. Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀 - <a href="https://medium.com/javascript-in-plain-english/say-goodbye-to-try-catch-with-this-new-ecmascript-operator-e2b798c7b7a8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,17 +278,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introducing the ?= Operator: JavaScript’s New Error Handling Hero</blockquote>
 
-<h3>4. Understanding Closure with JavaScript - <a href="https://medium.com/@nickmasonswe/understanding-closure-with-javascript-1405092a0e7f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Day in the Life of a Front-End Component —  The Adventures of Buttony - <a href="https://medium.com/@linkingalok/a-day-in-the-life-of-a-front-end-component-the-adventures-of-buttony-2993a3b90b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nick Mason`**
+✍️ **posted by `Alok Kumar`**
 
-<blockquote>The Foundations of Closure</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. Signals behind the scenes - <a href="https://medium.com/gitconnected/signals-behind-the-scenes-19cbcb6b802b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Matan Cohen`**
+✍️ **posted by `Michal Malewicz`**
 
-<blockquote>Explore how Signals power modern JavaScript frameworks, making your apps reactive, efficient, and effortlessly responsive.</blockquote>
+<blockquote>Web design is getting out of hand again.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -324,50 +324,49 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. How Tiny Neural Networks Represent Basic Functions - <a href="https://medium.com/towards-data-science/how-tiny-neural-networks-represent-basic-functions-8a24fce0e2d5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. FLUTTER: Concurrency and Parallelism? - <a href="https://medium.com/@msanjana/flutter-concurrency-and-parallelism-98c8aabe2daa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Amir Taubenfeld`**
+✍️ **posted by `Miyuru Sanjana`**
 
-<blockquote>A gentle introduction to mechanistic interpretability through simple algorithmic examples</blockquote>
+<blockquote>At present, user expectations are higher than ever. The performance and responsiveness of your mobile applications might be the only…</blockquote>
 
-<h3>2. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Math Behind TabTransformer - <a href="https://medium.com/@cristianleo120/the-math-behind-tabtransformer-78b78c12cfc1" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Cristian Leo`**
+
+<blockquote>The king of tabular data: TabTransformer. Here’s how the transformer architecture wins over classical Machine Learning</blockquote>
+
+<h3>3. Say Goodbye to Try/Catch with This New ECMAScript Operator! 🚀 - <a href="https://medium.com/javascript-in-plain-english/say-goodbye-to-try-catch-with-this-new-ecmascript-operator-e2b798c7b7a8" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Selcuk Ozdemir`**
+
+<blockquote>Introducing the ?= Operator: JavaScript’s New Error Handling Hero</blockquote>
+
+<h3>4. Did I Settle Too Soon Into the Comfort Trap? - <a href="https://medium.com/@tsecretdeveloper/did-i-settle-too-soon-into-the-comfort-trap-b244482d8683" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `The Secret Developer`**
+
+<blockquote>Is Good Enough Enough?</blockquote>
+
+<h3>5. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Nadar Alpenidze`**
 
 <blockquote>Have you ever found yourself tangled in the complexity of building a processing pipeline, wrestling with how to correctly design a pipeline…</blockquote>
 
-<h3>3. Interview: How to Check Whether a Username Exists Among One Billion Users? - <a href="https://medium.com/javarevisited/interview-how-to-check-whether-a-username-exists-among-one-billion-users-ffa0d0522998" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Dylan Smith`**
-
-<blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
-
-<h3>4. Become a Great Engineering Leader:
-Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-programmers/become-a-great-engineering-leader-build-effective-skills-to-lead-and-grow-30eee1325cc2" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `The Pragmatic Programmers`**
-
-<blockquote>by James Stanier</blockquote>
-
-<h3>5. The Single Responsibility Saga: One Job, One Focus - <a href="https://medium.com/womenintechnology/the-single-responsibility-saga-one-job-one-focus-b7cc93a59fcb" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Alina Kovtun`**
-
-<blockquote>The programming world is still wild, unpredictable, and full of strange concepts. Whenever you think you’ve got it all figured out, some…</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Microsoft September 2024 Patch Tuesday update fixes Four zero-days, Six critical bugs - <a href="https://medium.com/@windows101tricks/microsoft-september-2024-patch-tuesday-update-fixes-four-zero-days-seven-critical-bugs-00346251eeba" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Power of Decentralization: Our #InspiringInvestment Story Of The Week Is Here - <a href="https://medium.com/@BlockDAGNetwork1/the-power-of-decentralization-our-inspiringinvestment-story-of-the-week-is-here-fda6625a5912" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Windows 11 and Windows 10 How to Guide!`**
+✍️ **posted by `BlockDAG Network`**
 
-<blockquote>Microsoft Patch Tuesday update September 2024, fixes Four (four actively exploited and one publicly disclosed) zero-days, and Six critical…</blockquote>
+<blockquote>Our #InspiringInvestment Story #8 Talks About why the Shift from Traditional Markets to Decentralization is the Future and why You’re at…</blockquote>
 
-<h3>2. Researchers Successfully Use Ultrasound Waves on the Brain to Enhance Mindfulness. - <a href="https://medium.com/@katrinapaulson/researchers-successfully-use-ultrasound-waves-on-the-brain-to-enhance-mindfulness-dce9325accae" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Now I Have a Leica. Again. - <a href="https://medium.com/live-view/now-i-have-a-leica-again-21b9ad047f24" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Katrina Paulson`**
+✍️ **posted by `Michael Alford`**
 
-<blockquote>Within five minutes, participants reported experiencing the effects of meditation without actually meditating.</blockquote>
+<blockquote>The camera that started it all is 100 years old</blockquote>
 
 <h3>3. Into the Valley of Death: The crash of American Eagle flight 4184 and the ATR icing story - <a href="https://medium.com/@admiralcloudberg/into-the-valley-of-death-the-crash-of-american-eagle-flight-4184-and-the-atr-icing-story-29e64faee67c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -375,31 +374,31 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <blockquote>The full story of the fatal flaw that almost undid Avions de Transport Regional, and the tragic crash that brought that flaw to light.</blockquote>
 
-<h3>4. Times, they are a changin’, so we’re automatin’ - <a href="https://medium.com/mcdonalds-technical-blog/times-they-are-a-changin-so-we-re-automatin-d65a95651e94" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Microsoft September 2024 Patch Tuesday update fixes Four zero-days, Six critical bugs - <a href="https://medium.com/@windows101tricks/microsoft-september-2024-patch-tuesday-update-fixes-four-zero-days-seven-critical-bugs-00346251eeba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Global Technology`**
+✍️ **posted by `Windows 11 and Windows 10 How to Guide!`**
 
-<blockquote>With thousands of system change requests, McDonald’s turns to automation to help manage the creation of change records.</blockquote>
+<blockquote>Microsoft Patch Tuesday update September 2024, fixes Four (four actively exploited and one publicly disclosed) zero-days, and Six critical…</blockquote>
 
-<h3>5. Why smart homes aren’t the standard - <a href="https://medium.com/user-experience-design-1/why-smart-homes-arent-the-standard-20fb6119f9dc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Researchers Successfully Use Ultrasound Waves on the Brain to Enhance Mindfulness. - <a href="https://medium.com/@katrinapaulson/researchers-successfully-use-ultrasound-waves-on-the-brain-to-enhance-mindfulness-dce9325accae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Daley Wilhelm`**
+✍️ **posted by `Katrina Paulson`**
 
-<blockquote>The 90’s may have given us inflated expectations for smart home technology.</blockquote>
+<blockquote>Within five minutes, participants reported experiencing the effects of meditation without actually meditating.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. An Illustrated Guide to Turning Your Breakup into a Literary Masterpiece - <a href="https://medium.com/jane-austens-wastebasket/an-illustrated-guide-to-turning-your-breakup-into-a-literary-masterpiece-31483b6d0b5b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. apples and oranges - <a href="https://medium.com/@fyoaeuriz/apples-and-oranges-e2d758ca7731" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Carlyn Beccia`**
+✍️ **posted by `iris ୨୧`**
 
-<blockquote>Because only a writer can master these endings.</blockquote>
+<blockquote>what might have happened if we had paid at the same till, just one more time?</blockquote>
 
-<h3>2. How a Nazi’s Whim Saved My Family - <a href="https://medium.com/the-narrative-arc/how-a-nazis-whim-saved-my-family-5faa7e869aaf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Dancing Through the Years: The Lifelong Value of Queer Friendships - <a href="https://medium.com/prismnpen/dancing-through-years-lifelong-value-queer-friendships-ab37fa3ba013" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ash Jurberg`**
+✍️ **posted by `Eleni Stephanides`**
 
-<blockquote>Death took a right turn at Auschwitz</blockquote>
+<blockquote>Navigating the evolving landscape of social connections into adulthood as an LGBTQ+ person</blockquote>
 
 <h3>3. This Was the Hottest Thing a Man Ever Said to Me - <a href="https://medium.com/the-virago/this-was-the-hottest-thing-a-man-ever-said-to-me-5b423bc076f0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,17 +406,17 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <blockquote>It proved his confidence, maturity, and vulnerability</blockquote>
 
-<h3>4. Checkout Love - <a href="https://medium.com/scribe/checkout-love-b8ae35bde90e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. we always get to choose who we let into our lives - <a href="https://medium.com/@cherylkoo/we-always-get-to-choose-who-we-let-into-our-lives-4df94707e108" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ema Dumitru`**
+✍️ **posted by `cher`**
 
-<blockquote>Poem</blockquote>
+<blockquote>Good Will Hunting (1998)</blockquote>
 
-<h3>5. The Boy Who Didn’t Know How to Hug - <a href="https://medium.com/modern-women/the-boy-who-didnt-know-how-to-hug-ae67349e800f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why I Stayed - <a href="https://medium.com/@keralataylor/why-i-stayed-6ae56e5b50ac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Britanny Levy`**
+✍️ **posted by `Kerala Taylor`**
 
-<blockquote>Emotional neglect leaves deep scars, but love and persistence will help the healing.</blockquote>
+<blockquote>Some dynamics of my marriage were unique, but I stayed for the same reasons so many women stay</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -453,11 +452,11 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Sorry Apple, we are not fooled - <a href="https://medium.com/@lewisjdoyle/sorry-apple-we-are-not-fooled-88a0cc3c3078" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The val Property != Immutable in Kotlin - <a href="https://medium.com/proandroiddev/the-val-property-immutable-in-kotlin-2e4cf49207d0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lewis J Doyle`**
+✍️ **posted by `Jaewoong Eum`**
 
-<blockquote>Yesterday’s Glowtime event highlighted how far behind Apple has fallen. While Apple has added numerous enhancements to the iPhone 16, is…</blockquote>
+<blockquote>When declaring properties, it’s crucial to determine whether a property should be mutable, as this decision can directly impact your…</blockquote>
 
 <h3>2. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -471,11 +470,11 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <blockquote>When initializing or fetching data upon entering a screen, it’s crucial to select the right trigger point for loading the initial data…</blockquote>
 
-<h3>4. Understanding Coroutines in Kotlin: Simplify Asynchronous Programming in Android - <a href="https://medium.com/@rajputmukesh748/understanding-coroutines-in-kotlin-simplify-asynchronous-programming-in-android-3466a4a16998" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 🚨 Google Secretly Adds Opt-Out API for Android 15’s Edge-to-Edge Behaviour! 🚨 - <a href="https://medium.com/proandroiddev/google-secretly-adds-opt-out-api-for-android-15s-edge-to-edge-behaviour-80ca2630d298" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mukesh Rajput`**
+✍️ **posted by `D I N E S H`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Android 15 is revolutionizing the smartphone experience with a bold new requirement — edge-to-edge apps. This move aims to create a more…</blockquote>
 
 <h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -517,11 +516,11 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. ⎈ A Hands-On Guide to Kubernetes Logging Using ELK Stack & Filebeat — PART 4 ⚙️ - <a href="https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-logging-using-elk-stack-filebeat-part-4-️-48e233443961" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to create network namespaces like docker or any container runtime ? - <a href="https://medium.com/@xavier-pestel/how-to-create-network-namespaces-like-docker-or-any-container-runtime-cd0de57fc9f5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anvesh Muppeda`**
+✍️ **posted by `Xavier Pestel (Xavki)`**
 
-<blockquote>⇢ A Comprehensive Guide to Setting Up the ELK Stack on Kubernetes with Helm with Practical Example</blockquote>
+<blockquote>Docker or container runtimes implement multiple namespaces. For example, docker uses user, ipc, mount namespaces… and network namespaces.</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -535,11 +534,11 @@ Build Effective Skills to Lead and Grow - <a href="https://medium.com/pragmatic-
 
 <blockquote>Ladies and gentlemen, fasten your seatbelts as we dive into the latest revolution in data transfer technology.</blockquote>
 
-<h3>4. Creating a Tech Radar: An Exercise in Technical Strategy - <a href="https://medium.com/enapi/creating-a-tech-radar-an-exercise-in-technical-strategy-7c88ba72006c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Implementing Topology Aware Routing in Kubernetes - <a href="https://medium.com/@j.aslanov94/implementing-topology-aware-routing-in-kubernetes-237abacd70ed" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dennis Laumen`**
+✍️ **posted by `Aslanov Javid`**
 
-<blockquote>Learn how ENAPI’s engineering team used a Tech Radar to spark innovation, share knowledge, and strategically manage our evolving tech stack.</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Container Security Scanning: Vulnerabilities, Risks and Tooling - <a href="https://medium.com/4th-coffee/container-security-scanning-vulnerabilities-risks-and-tooling-31b09f64e6f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
