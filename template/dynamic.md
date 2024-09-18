@@ -18,12 +18,11 @@
 
 <blockquote>Let’s explore what sparks might fly when TypeScript and React come together.</blockquote>
 
-<h3>4. A Comprehensive Guide to React Context API: Why, When, and How to Use It - <a href="https://medium.com/@sumitlaxane06/a-comprehensive-guide-to-react-context-api-why-when-and-how-to-use-it-a53f2a50b841" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Trimming the Fat: How Tree Shaking Optimizes Application Performance. - <a href="https://medium.com/@rahulnagubandi/trimming-the-fat-how-tree-shaking-optimizes-application-performance-10d061cc76f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sumit Laxane`**
+✍️ **posted by `Rahul Nagubandi`**
 
-<blockquote>Introduction : -
-React is a powerful library for building user interfaces, but as applications grow in size and complexity, managing state…</blockquote>
+<blockquote>Nowadays, with every passing day, web applications grow bigger and more complex. A new technology or framework enters the market every two…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -243,11 +242,11 @@ React is a powerful library for building user interfaces, but as applications gr
 
 <blockquote>When building React Native applications, you might encounter situations where you need to display HTML content within your app. Whether…</blockquote>
 
-<h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Synchronization of native and WebView sessions with iOS - <a href="https://medium.com/axel-springer-tech/synchronization-of-native-and-webview-sessions-with-ios-9fe2199b44c9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Atif Qamar`**
+✍️ **posted by `Paul Hackenberger`**
 
-<blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
+<blockquote>Our struggle and success in unifying session management</blockquote>
 
 <h3>5. Build VS Code Extension Using VueJS - <a href="https://medium.com/simform-engineering/build-vs-code-extension-using-vuejs-0714262af709" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -353,11 +352,11 @@ React is a powerful library for building user interfaces, but as applications gr
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Master Flutter: From Beginner to Pro - <a href="https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My Journey into Integrating OpenCV with React Native - <a href="https://medium.com/@hasitha.kutala/my-journey-into-integrating-opencv-with-react-native-3d727d613651" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr Flutter Guy`**
+✍️ **posted by `Hasitha Sai Kutala`**
 
-<blockquote>It’s been around 5 years now since I started coding with Flutter. In those years, I have:</blockquote>
+<blockquote>This deals with process of integrating OpenCV in React Native, offering clear step-by-step instructions for seamless Android integration</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -365,17 +364,17 @@ React is a powerful library for building user interfaces, but as applications gr
 
 <blockquote>This tutorial is structured to present the easiest and most impactful solutions first. The later sections cover solutions that are harder…</blockquote>
 
-<h3>3. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat/flutter-vs-react-native-performance-benchmarks-you-cant-miss-️-2e31905df9b4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 3 Ways to Optimize Performance in SwiftUI Apps - <a href="https://medium.com/@thiagorodriguescenturion/3-ways-to-optimize-performance-in-swiftui-apps-5a54b72b4041" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Natesh Bhat`**
+✍️ **posted by `Thiago Centurion`**
 
-<blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
+<blockquote>SwiftUI has revolutionized iOS development with its declarative syntax and powerful features. However, as your app grows in complexity…</blockquote>
 
-<h3>4. Maintaining Syntactic Sugar for Optional in Swift - <a href="https://medium.com/@uwaisalqadri/maintaining-syntactic-sugar-for-optional-in-swift-dfb7f9019fba" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Master Flutter: From Beginner to Pro - <a href="https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Uwais Alqadri`**
+✍️ **posted by `Mr Flutter Guy`**
 
-<blockquote>In iOS development, Optional implementations are very common to allow developers to represent the absence of a value clearly and safely.</blockquote>
+<blockquote>It’s been around 5 years now since I started coding with Flutter. In those years, I have:</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -385,11 +384,11 @@ React is a powerful library for building user interfaces, but as applications gr
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Exploring Lifecycle-Aware Service and FirebaseMessagingService on Android - <a href="https://medium.com/proandroiddev/exploring-lifecycle-aware-service-and-firebasemessagingservice-on-android-fcc89a2e9528" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Create a Shimmering Text Animation in Jetpack Compose - <a href="https://medium.com/@kappdev/how-to-create-a-shimmering-text-animation-in-jetpack-compose-eb4a553d924c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jaewoong Eum`**
+✍️ **posted by `Kappdev`**
 
-<blockquote>The Android lifecycle is important in managing the lifespan of various Android components, such as Activities, Fragments, Views, and…</blockquote>
+<blockquote>Welcome 👋 In this article, we’ll create a stunning Shimmering Text Animation in Jetpack Compose, perfect for a minimalistic loader ✨</blockquote>
 
 <h3>2. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -403,11 +402,11 @@ React is a powerful library for building user interfaces, but as applications gr
 
 <blockquote>Yesterday’s Glowtime event highlighted how far behind Apple has fallen. While Apple has added numerous enhancements to the iPhone 16, is…</blockquote>
 
-<h3>4. Startup Profiles: The Quick Fix for Painfully Slow App Startups - <a href="https://medium.com/proandroiddev/startup-profiles-the-quick-fix-for-painfully-slow-app-startups-2f1c9c0a8fd9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Handling State Efficiently with Jetpack Compose - <a href="https://medium.com/@gsaillen95/handling-state-efficiently-with-jetpack-compose-252b6452748b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `shafayat hossain`**
+✍️ **posted by `Gastón Saillén`**
 
-<blockquote>Boost your app’s startup speed by up to 30% using Baseline and Startup Profiles — enhance performance and user experience effortlessly.</blockquote>
+<blockquote>As Android developers, managing UI state has always been a critical part of building responsive and dynamic applications. With Jetpack…</blockquote>
 
 <h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
