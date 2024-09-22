@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/21)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/22)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Keep Your Next Viral AI App Free For Longer With Local Embeddings - <a href="https://medium.com/fxnai/keep-your-next-viral-ai-app-free-for-longer-with-local-embeddings-33d209ceb8e1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. UI Feedback with Server-Side React in Next.js - <a href="https://medium.com/@will.suto/ui-feedback-with-server-side-react-in-next-js-564bbe080e5b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Function`**
+✍️ **posted by `Will Suto`**
 
-<blockquote>Patch an OpenAI client with Function LLM in one line of code.</blockquote>
+<blockquote>Server-side rendering, or SSR, is a powerful feature in React that allows us to generate HTML for a webpage in the server. SSR has several…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. NextJS 14 for Dummies: A Beginner’s Guide to the Latest Version - <a href="https://medium.com/@shantotrs/nextjs-14-for-dummies-a-beginners-guide-to-the-latest-version-9894d77c0afa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Winning Frontend with Next.js: Build Stunning UIs Fast and Focus on What Really Matters - <a href="https://medium.com/@rukaiah/winning-frontend-with-next-js-build-stunning-uis-fast-and-focus-on-what-really-matters-dad610dfe67e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Touhidur Rahman`**
+✍️ **posted by `Rukaiah`**
 
-<blockquote>If you’re new to Next.js or haven’t yet explored its latest version, NextJS 14, you’re in the right place! Whether you’re a complete…</blockquote>
+<blockquote>Ever been there? You’ve got all these amazing features built, but the UI… not so much.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -220,11 +220,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Actionable tips for writing scalable, readable, and maintainable TypeScript code</blockquote>
 
-<h3>5. Understanding Promises in TypeScript with Fetch API - <a href="https://medium.com/@enayetflweb/understanding-promises-in-typescript-with-fetch-api-7d8093e2087b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Md Enayetur Rahman`**
+✍️ **posted by `Tauan Camargo`**
 
-<blockquote>Promises in TypeScript are a powerful tool for handling asynchronous operations, ensuring that we either resolve the operation successfully…</blockquote>
+<blockquote>My First Encounter with ts-pattern</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -388,17 +388,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. I was there; why her? - <a href="https://medium.com/@rieswrights/i-was-there-why-her-876ad9d0054f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Post-MB Reflections. - <a href="https://medium.com/@shalomchika/post-mb-reflections-78bc2531ff39" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `riespeaks`**
+✍️ **posted by `shalom_chika`**
 
 <blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>2. Am I Aromantic or Just Afraid? - <a href="https://medium.com/prismnpen/am-i-aromantic-or-just-afraid-a3f860e41791" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Father I Barely Knew — The Story of ‘El Doctor’ - <a href="https://medium.com/the-bastards-blog/the-story-of-el-doctor-e39d77096037" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Florence Embers`**
+✍️ **posted by `Rafael Moscatel`**
 
-<blockquote>My journey to understanding love</blockquote>
+<blockquote>Dad took a lifetime of secrets to his grave, and I’m still digging them up.</blockquote>
 
 <h3>3. you cannot make someone love you by loving them harder - <a href="https://medium.com/@fyoaeuriz/you-cannot-make-someone-love-you-by-loving-them-harder-657c9e788b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,25 +406,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>let that sink in</blockquote>
 
-<h3>4. An illustrated guide of men to avoid on dating apps: so I don’t get sued - <a href="https://medium.com/@madelainehanson/an-illustrated-guide-of-men-to-avoid-on-dating-apps-so-i-dont-get-sued-320e6be605c4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I was there; why her? - <a href="https://medium.com/mr-plan-publication/i-was-there-why-her-876ad9d0054f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Madelaine Lucy Hanson`**
+✍️ **posted by `riespeaks`**
 
-<blockquote>I can’t show you their photographs, so let’s try this</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. Small Signs Are Still Signs - <a href="https://medium.com/human-parts/small-signs-are-still-signs-d34c2f18ed3e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. A Letter of Aspiration - <a href="https://medium.com/@johnfgorman/a-letter-of-aspiration-a91362ce584a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Desiree Peralta`**
+✍️ **posted by `John Gorman`**
 
-<blockquote>Never skip an indication of abuse because it’s not big enough to be “alarming.”</blockquote>
+<blockquote>Seduction, sabotage, home, and hope.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. A Flutter Journey Through Stockholm — Flutter & Friends 2024 - <a href="https://medium.com/antigua-mobile/a-flutter-journey-through-stockholm-flutter-friends-2024-6ffc33848f81" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kickstart Your iOS Development Journey Today! 🚀 - <a href="https://medium.com/@vijaywritesofficial/kickstart-your-ios-development-journey-today-9f3485775f68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Esra Kadah`**
+✍️ **posted by `Vijay Writes Official`**
 
-<blockquote>Hi, I’m Esra Kadah, a Senior App Developer at Antigua Mobile GmbH and co-organizer of Flutteristas and Flutter Berlin. Since 2016, I’ve…</blockquote>
+<blockquote>Hey there, future app creator! Are you ready to embark on an exhilarating journey into iOS development? In this blog, we’ll cover the basic…</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. iOS Code Modular Architecture using Swinject & SPM - <a href="https://medium.com/@anup2028/ios-code-modular-architecture-using-swinject-spm-0199d718261f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Starting with Cordova: The Easy Way to Build Mobile Apps - <a href="https://medium.com/@aishwarya.ms661/starting-with-cordova-the-easy-way-to-build-mobile-apps-56e7506c563a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anup Kumar Sahu`**
+✍️ **posted by `Aishwarya M S`**
 
-<blockquote>By default iOS Codebase is monolithic, Monolith is good when we are using good architecture like Clean Architecture + MVVM. Still, the app…</blockquote>
+<blockquote>If you’ve ever wanted to create a mobile app but felt overwhelmed by the complexities of programming languages, Cordova is here to simplify…</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,7 +452,7 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Loading Initial Data on Android Part 2: Clear All Your Doubts - <a href="https://medium.com/proandroiddev/loading-initial-data-part-2-clear-all-your-doubts-0f621bfd06a0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Loading Initial Data on Android Part 2: Clear All Your Doubts - <a href="https://medium.com/@skydoves/loading-initial-data-part-2-clear-all-your-doubts-0f621bfd06a0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jaewoong Eum`**
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Using vCluster to build scalable, efficient, and manageable platforms</blockquote>
 
-<h3>4. Open-source Data Lakehouse And MLOps Platform — A Unified Approach To Data Management And Machine… - <a href="https://medium.com/@wajeehulhassan/open-source-data-lakehouse-and-mlops-platform-a-unified-approach-to-data-management-and-machine-3b399ce0810c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Scaling on Demand: How Sablier Can Optimize Feature Branch Deployments for Frontend Applications - <a href="https://medium.com/@mostafahussein/scaling-on-demand-how-sablier-can-optimize-feature-branch-deployments-for-frontend-applications-c2cda3bdccd2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wajeeh Ul Hassan`**
+✍️ **posted by `Mostafa Hussein`**
 
-<blockquote>There has been tremendous progress in the data engineering and machine learning. Many new tools have been developed that provide users…</blockquote>
+<blockquote>What is Feature Branch Deployment and Why is it Valuable?</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
