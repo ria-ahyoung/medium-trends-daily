@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/23)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/24)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Experience Alone Isn’t Enough: The Art of Continuous Improvement</blockquote>
 
-<h3>4. 7 helpful array methods while working with complex data in reactjs - <a href="https://medium.com/@mroman7/7-helpful-array-methods-while-working-with-complex-data-in-reactjs-7bedf74c8c18" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. UI Feedback with Server-Side React in Next.js - <a href="https://medium.com/@will.suto/ui-feedback-with-server-side-react-in-next-js-564bbe080e5b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Roman`**
+✍️ **posted by `Will Suto`**
 
-<blockquote>Reactjs is a powerful front-end library for building complex apps with good developer experience(DX). While working with large data, we…</blockquote>
+<blockquote>Server-side rendering, or SSR, is a powerful feature in React that allows us to generate HTML for a webpage in the server. SSR has several…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Winning Frontend with Next.js: Build Stunning UIs Fast and Focus on What Really Matters - <a href="https://medium.com/@rukaiah/winning-frontend-with-next-js-build-stunning-uis-fast-and-focus-on-what-really-matters-dad610dfe67e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building a Movie Search App with Next.js - <a href="https://medium.com/@asharibali/building-a-movie-search-app-with-next-js-a6adf84a0c0c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rukaiah`**
+✍️ **posted by `Asharib Ali`**
 
-<blockquote>Ever been there? You’ve got all these amazing features built, but the UI… not so much.</blockquote>
+<blockquote>Day 16: Movie Search — 30 Days of 30 Projects Challenge</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. UI Feedback with Server-Side React in Next.js - <a href="https://medium.com/@will.suto/ui-feedback-with-server-side-react-in-next-js-564bbe080e5b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding JSX: How JavaScript Meets HTML 🖥️✨ - <a href="https://medium.com/@saurabhraut3102/understanding-jsx-how-javascript-meets-html-️-2cb637dff664" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Will Suto`**
+✍️ **posted by `Saurabh Raut`**
 
-<blockquote>Server-side rendering, or SSR, is a powerful feature in React that allows us to generate HTML for a webpage in the server. SSR has several…</blockquote>
+<blockquote>If you’ve just started learning React, one of the first things you’ll notice is that React looks a little strange, especially when you see…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -208,11 +208,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nabendu Biswas`**
+✍️ **posted by `Tauan Camargo`**
 
-<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
+<blockquote>My First Encounter with ts-pattern</blockquote>
 
 <h3>4. Writing Elegant TypeScript: Best Practices for Clean and Sustainable Code - <a href="https://medium.com/simform-engineering/writing-elegant-typescript-best-practices-for-clean-and-sustainable-code-0b228e44170d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -220,19 +220,19 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Actionable tips for writing scalable, readable, and maintainable TypeScript code</blockquote>
 
-<h3>5. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tauan Camargo`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>My First Encounter with ts-pattern</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Streamlining MERN Development with MVC Architecture - <a href="https://medium.com/@anthonysebastinj/streamlining-mern-development-with-mvc-architecture-c63a8c7c43b0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Callbacks and Promises in Node.js: Explained with a Pizzeria - <a href="https://medium.com/@krmirandas/callbacks-and-promises-in-node-js-explained-with-a-pizzeria-65d5eda098b8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anthony Sebastin J`**
+✍️ **posted by `Kevin Miranda`**
 
-<blockquote>Optimizing Workflow and Structure for Scalable Applications</blockquote>
+<blockquote>First time somebody explained me how callbacks and promises work I was impressed. My teammate was who explainme this in my first job in a…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -240,17 +240,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>3. How to make NestJS Blazing Fast? - <a href="https://medium.com/@ahmed.soliman/how-to-make-nestjs-blazing-fast-5949e178346f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Node.js is Not Single-Threaded - <a href="https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmed Soliman`**
+✍️ **posted by `Tkachenko Evgeny`**
 
-<blockquote>I am obsessed with the performance of my apps, and I want to share with you in this article how to increase your Nestjs app performance…</blockquote>
+<blockquote>Node.js is known as a blazingly fast server platform with its revolutionary single-thread architecture, utilizing server resources more…</blockquote>
 
-<h3>4. Building a Scalable Notification System with Kafka and WebSockets - <a href="https://medium.com/@sandeep.ragampudy/building-a-scalable-notification-system-with-kafka-and-websockets-a90ab8e656b9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Refresh Tokens and Supabase/Node JS — A Best Security Approach - <a href="https://medium.com/@abdullahaak06/refresh-tokens-and-supabase-node-js-a-best-security-approach-8839f04c9c96" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sandeep Ragampudy`**
+✍️ **posted by `Abdullah Ahmad`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Hi everyone! I worked in 1 project for a few months and never touched the auth module, not being sure at all why the user seemed to…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Create Your Own Web Component and Implement It in React, Angular, or Vue - <a href="https://medium.com/@gaspm/create-your-own-web-component-and-implement-it-in-react-angular-or-vue-b24ead4bb3bd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Frontend Weekly Digest #381 (16–22 September 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-381-16-22-september-2024-51af154379ba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michal Gasparik`**
+✍️ **posted by `Fresh Frontend Links`**
 
-<blockquote>Learn how to build a custom web component from scratch with this guide. Explore how to seamlessly integrate your component into popular…</blockquote>
+<blockquote>Web-development</blockquote>
 
 <h3>2. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introducing the ?= Operator: JavaScript’s New Error Handling Hero</blockquote>
 
-<h3>4. Comparative study on React and Angular JS - <a href="https://medium.com/@souvik.bhat1999/comparative-study-on-react-and-angular-js-eb48cd4917a7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. .Net 9 Customizing Status Codes - <a href="https://medium.com/c-sharp-programming/net-9-customizing-status-codes-ef91e04ad989" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Souvik Bhattacharyya`**
+✍️ **posted by `Sukhpinder Singh | C# .Net`**
 
-<blockquote>Comparative Study on React and Angular JS</blockquote>
+<blockquote>In ExceptionHandlerMiddleware</blockquote>
 
 <h3>5. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,17 +356,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. An Off-World Mindset on Science and Politics - <a href="https://medium.com/@avi-loeb/an-off-world-mindset-on-science-and-politics-d75aa653f57d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. An Honest Recruiter Told Me Why Most Job Seekers Don’t Get Hired - <a href="https://medium.com/entrepreneur-s-handbook/an-honest-recruiter-told-me-why-most-job-seekers-dont-get-hired-2db543d9b21b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Avi Loeb`**
+✍️ **posted by `Joe Procopio`**
 
-<blockquote>The beautiful snow-covered mountains straddled between blue skies with white clouds and vast green fields, looked like heaven when I…</blockquote>
+<blockquote>If you want a great job, you need some tough love. Here it is.</blockquote>
 
-<h3>2. How It’s Unmade - <a href="https://medium.com/@worldhistory/how-its-unmade-7463d52ec727" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How to Stop Spreading Disinformation - <a href="https://medium.com/westenberg/how-to-stop-spreading-disinformation-f4996342d436" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `George Dillard`**
+✍️ **posted by `Joan Westenberg`**
 
-<blockquote>Creating environmental problems is easy, but undoing them is hard</blockquote>
+<blockquote>Break the Cycle: A Practical Guide for 2024</blockquote>
 
 <h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,31 +374,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. UI-JEPA, The Reason for Apple Intelligence’s Delay - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/ui-jepa-the-reason-for-apple-intelligences-delay-4915f319095a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Are You Ready For BlockDAG’s 50% Bonus Key? Limited Time Only! - <a href="https://medium.com/@BlockDAGNetwork1/are-you-ready-for-blockdags-50-bonus-key-limited-time-only-64badbf6272d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ignacio de Gregorio`**
+✍️ **posted by `BlockDAG Network`**
 
-<blockquote>A New Efficiency Era</blockquote>
+<blockquote>Today We’re Launching our Very first Limited Time Special Bonus Key — Use Code BDAG50 and Level Up Your Holdings!</blockquote>
 
-<h3>5. Hands-On With The Tri-Fold Smartphone: Huawei Mate XT - <a href="https://medium.com/@markellisreviews/hands-on-with-the-tri-fold-smartphone-huawei-mate-xt-4c1f303c7329" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The New State of AirPods in 2024 - <a href="https://medium.com/macoclock/the-new-state-of-airpods-in-2024-1719346c1470" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Ellis`**
+✍️ **posted by `Jonathan Kim`**
 
-<blockquote>Expensive… but innovative</blockquote>
+<blockquote>Where they are and where they’re going</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Post-MB Reflections. - <a href="https://medium.com/@shalomchika/post-mb-reflections-78bc2531ff39" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. your love is a poison - <a href="https://medium.com/@fyoaeuriz/your-love-is-a-poison-f6236f4bbace" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `shalom_chika`**
+✍️ **posted by `iris ୨୧`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>and i died a long time ago</blockquote>
 
-<h3>2. A Father I Barely Knew — The Story of ‘El Doctor’ - <a href="https://medium.com/the-bastards-blog/the-story-of-el-doctor-e39d77096037" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Following My Intuition Led to Strange Moments of Synchronicity - <a href="https://medium.com/engage/how-following-my-intuition-led-to-strange-moments-of-synchronicity-431135ec5844" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rafael Moscatel`**
+✍️ **posted by `James Lloyd`**
 
-<blockquote>Dad took a lifetime of secrets to his grave, and I’m still digging them up.</blockquote>
+<blockquote>Synchronicity is about more than receiving the help we need</blockquote>
 
 <h3>3. you cannot make someone love you by loving them harder - <a href="https://medium.com/@fyoaeuriz/you-cannot-make-someone-love-you-by-loving-them-harder-657c9e788b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,25 +406,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>let that sink in</blockquote>
 
-<h3>4. I was there; why her? - <a href="https://medium.com/mr-plan-publication/i-was-there-why-her-876ad9d0054f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `riespeaks`**
+✍️ **posted by `cher`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Maturity is when you don’t force people to choose you. Maturity is when you’ve accepted that such is life, and that not everything will go…</blockquote>
 
-<h3>5. A Letter of Aspiration - <a href="https://medium.com/@johnfgorman/a-letter-of-aspiration-a91362ce584a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Like 2.7 Million Other Women, I Bought a House Without a Man - <a href="https://medium.com/the-virago/like-2-7-million-other-women-i-bought-a-house-without-a-man-43a68a1c3ac8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `John Gorman`**
+✍️ **posted by `Maria Cassano`**
 
-<blockquote>Seduction, sabotage, home, and hope.</blockquote>
+<blockquote>The sexism was off the charts, but it was worth every penny</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Kickstart Your iOS Development Journey Today! 🚀 - <a href="https://medium.com/@vijaywritesofficial/kickstart-your-ios-development-journey-today-9f3485775f68" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Tip-Toeing From Android Into iOS Development - <a href="https://medium.com/code-wild/tip-toeing-from-android-into-ios-development-9fc77a57f531" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vijay Writes Official`**
+✍️ **posted by `Paulo Pereira`**
 
-<blockquote>Hey there, future app creator! Are you ready to embark on an exhilarating journey into iOS development? In this blog, we’ll cover the basic…</blockquote>
+<blockquote>In this article, I share with you how a supportive culture is helping me expand my skills across both Android and iOS.</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Starting with Cordova: The Easy Way to Build Mobile Apps - <a href="https://medium.com/@aishwarya.ms661/starting-with-cordova-the-easy-way-to-build-mobile-apps-56e7506c563a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Material3 Colors in Jetpack Compose - <a href="https://medium.com/proandroiddev/mastering-material3-colors-in-jetpack-compose-3a6827db97d6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aishwarya M S`**
+✍️ **posted by `Dobri Kostadinov`**
 
-<blockquote>If you’ve ever wanted to create a mobile app but felt overwhelmed by the complexities of programming languages, Cordova is here to simplify…</blockquote>
+<blockquote>A Guide to Material3 Color Schemes and Their Impact on UI Elements in Jetpack Compose</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Spyware on the phones of Russians… - <a href="https://medium.com/@ibederov_en/spyware-on-the-phones-of-russians-6c3e100a7be2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Google Maps in Compose Multiplatform - <a href="https://medium.com/@aribmomin111/google-maps-in-compose-multiplatform-4db4badffb6f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Igor S. Bederov`**
+✍️ **posted by `Areeb Momin`**
 
-<blockquote>Over the past 2 months, we have received a colossal number of calls and requests regarding the possible installation of spyware on the…</blockquote>
+<blockquote>Introduction: Integrate Google Maps in Compose Multiplatform</blockquote>
 
 <h3>2. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Yesterday’s Glowtime event highlighted how far behind Apple has fallen. While Apple has added numerous enhancements to the iPhone 16, is…</blockquote>
 
-<h3>4. Loading Initial Data on Android Part 2: Clear All Your Doubts - <a href="https://medium.com/@skydoves/loading-initial-data-part-2-clear-all-your-doubts-0f621bfd06a0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why should the View context not be shared in a ViewModel - <a href="https://medium.com/@goutam.k0711/why-should-the-view-context-not-be-shared-in-a-viewmodel-6169f1871cbf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jaewoong Eum`**
+✍️ **posted by `Goutam Kumar`**
 
-<blockquote>When a user enters a screen, the default data should be fetched by triggering the business logic, whether from the network or local…</blockquote>
+<blockquote>In Android development, the separation of concerns is crucial for creating maintainable and efficient applications. A common mistake that…</blockquote>
 
 <h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Git Tip for Today 7️⃣ - <a href="https://medium.com/@amanpathakdevops/git-tip-for-today-7️⃣-be1caa1232fc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Exposing Kubernetes Services: Internal and External Communication - <a href="https://medium.com/@shivammishra20121999/exposing-kubernetes-services-internal-and-external-communication-694451b476e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aman Pathak`**
+✍️ **posted by `shivam mishra`**
 
-<blockquote>Hi All, hope you are doing well. This is the seventh (tip in regards to DevOps & Cloud where today I will be going to share tips related to…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -560,17 +560,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>An inside look at my experience as a Kubernetes Release Team shadow, contributing to versions v1.29, v1.30, and v1.31.</blockquote>
 
-<h3>3. Top 5 Kubernetes Challenges for Platform Teams - <a href="https://medium.com/itnext/top-5-kubernetes-challenges-for-platform-teams-87aa2f59e904" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I Transitioned to Containerized Development Environments - <a href="https://medium.com/itnext/i-transitioned-to-containerized-development-environments-75f2ecbc37c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Piotr`**
 
-<blockquote>Using vCluster to build scalable, efficient, and manageable platforms</blockquote>
+<blockquote>Here’s How It Improved My Daily Workflow</blockquote>
 
-<h3>4. Concepts Of Kubernetes for Beginners - <a href="https://medium.com/@manoj777/concepts-of-kubernetes-for-beginners-4f0450f2239f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Introduction to the Gateway API: Revolutionizing Kubernetes Networking - <a href="https://medium.com/@disha.20.10/introduction-to-the-gateway-api-revolutionizing-kubernetes-networking-7b0c9a696038" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Manoj Kumar`**
+✍️ **posted by `Disha Virk`**
 
-<blockquote>Explanation of Kubernetes Architecture</blockquote>
+<blockquote>As Kubernetes continues to evolve, so do the networking challenges that come with managing complex, distributed microservices at scale…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
