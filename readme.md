@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/27)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/09/28)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. All about “Hooks” in React JS - <a href="https://medium.com/@adiii11/all-about-hooks-in-react-js-9ac1c48a166d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. This is how much TypeScript you need to know as a React Developer - <a href="https://medium.com/@s.chandrakethan9/this-is-how-much-typescript-you-need-to-know-as-a-react-developer-74947fc130a0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aditya Singh`**
+✍️ **posted by `Chandrakethan`**
 
-<blockquote>Ever wondered how professional programmers write code that runs so quickly and looks incredibly optimized?</blockquote>
+<blockquote>Personally I feel that learning typescript is super important. Once you code enough amount of javascript or work on good amount of React…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Experience Alone Isn’t Enough: The Art of Continuous Improvement</blockquote>
 
-<h3>4. SSO Implementation Using ReactJS & Golang For Google - <a href="https://medium.com/@purisaurabh/sso-implementation-using-reactjs-golang-for-google-4ca28855b48f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Enable Traces on React Applications using OpenTelemetry and KloudMate - <a href="https://medium.com/kloudmate/how-to-enable-traces-on-react-applications-using-opentelemetry-and-kloudmate-21a8fe93907c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Saurabh Puri`**
+✍️ **posted by `Vasavi`**
 
-<blockquote>What is Single Sign-On (SSO)?</blockquote>
+<blockquote>Application Performance Monitoring (APM) is essential for modern web applications to ensure a smooth user experience and optimized…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,7 +196,7 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. This TypeScript Trick Will Blow Your Mind - <a href="https://medium.com/@Evelyn.Taylor/this-typescript-trick-will-blow-your-mind-edbd991ec9bf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. This TypeScript Trick Will Blow Your Mind - <a href="https://medium.com/javascript-in-plain-english/this-typescript-trick-will-blow-your-mind-edbd991ec9bf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Evelyn Taylor`**
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Node.js is known as a blazingly fast server platform with its revolutionary single-thread architecture, utilizing server resources more…</blockquote>
 
-<h3>4. CSV to VCard QR Code Generator: When Laziness Sparks Genius - <a href="https://medium.com/@atulreny911/csv-to-vcard-qr-code-generator-when-laziness-sparks-genius-efcfe94734e1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Securing Your Node.js Application: A Pre-Launch Checklist for Your Application (Part 2) - <a href="https://medium.com/@aramlmanukyan/securing-your-node-js-application-a-pre-launch-checklist-for-your-application-part-2-f2f6de92c2ee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Atul Reny`**
+✍️ **posted by `Aramlmanukyan`**
 
-<blockquote>Procrastination, But Make It Productive</blockquote>
+<blockquote>In the first part of this series, we covered essential security practices to protect your Node.js application, including input validation…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -324,49 +324,49 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
+<h3>1. Git Submodules: Beware of the Traps When Updating - <a href="https://medium.com/@elye-project/git-submodules-beware-of-the-traps-when-updating-d8e06fd59468" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Elye - A One Eye Dev By His Grace`**
+
+<blockquote>Git submodules are best avoided, but if you have to use them, watch out for their hidden pitfalls! Stay informed to avoid headaches.</blockquote>
+
+<h3>2. Why I Chose to be Outspoken in the Tech World - <a href="https://medium.com/code-like-a-girl/why-i-chose-to-be-outspoken-in-the-tech-world-e6edb44d972b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Emily Wood`**
+
+<blockquote>Learn Strategies to Make Your Voice Heard in a Male-Dominated Industry</blockquote>
+
+<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Austin Starks`**
+
+<blockquote>It literally took one try. I was shocked.</blockquote>
+
+<h3>4. The Slow, Painful Death Of Agile and Jira - <a href="https://medium.com/entrepreneur-s-handbook/the-slow-painful-death-of-agile-and-jira-c8de04e4269a" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Joe Procopio`**
+
+<blockquote>Agile has stopped being agile, so it’s time for Agile to go and take Jira with it</blockquote>
+
+<h3>5. Working with Embeddings: Closed versus Open Source - <a href="https://medium.com/towards-data-science/working-with-embeddings-closed-versus-open-source-39491f0b95c2" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ida Silfverskiöld`**
+
+<blockquote>Using techniques to improve semantic search</blockquote>
+
+<br/>
+<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
 <h3>1. The Slow, Painful Death Of Agile and Jira - <a href="https://medium.com/entrepreneur-s-handbook/the-slow-painful-death-of-agile-and-jira-c8de04e4269a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Joe Procopio`**
 
 <blockquote>Agile has stopped being agile, so it’s time for Agile to go and take Jira with it</blockquote>
 
-<h3>2. ‘MathPrompt’ Embarassingly Jailbreaks All LLMs Available On The Market Today - <a href="https://medium.com/@bamania-ashish/mathprompt-embarassingly-jailbreaks-all-llms-available-on-the-market-today-d749da26c6e8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Photojournalists Capture the News - <a href="https://medium.com/full-frame/how-photojournalists-capture-the-news-1a48e6f14a37" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dr. Ashish Bamania`**
+✍️ **posted by `William Sidnam`**
 
-<blockquote>A deep dive into how ‘MathPrompt’ works, why it is so effective, and why it needs early patching  to prevent harmful LLM content generation</blockquote>
-
-<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Austin Starks`**
-
-<blockquote>It literally took one try. I was shocked.</blockquote>
-
-<h3>4. 3 Most Exciting Features in Java 23 - <a href="https://medium.com/@n.esmaielyfard/3-most-exciting-features-in-java-23-1d811dec69ce" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Nariman Esmaiely Fard`**
-
-<blockquote>Introduction</blockquote>
-
-<h3>5. You’re Overthinking This — Get Unstuck from Your Programming Rut - <a href="https://medium.com/code-like-a-girl/youre-overthinking-this-get-unstuck-from-your-programming-rut-5e464eb7e906" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Julie Perilla Garcia`**
-
-<blockquote>How to deal with paralysis-by-analysis in Software Development.</blockquote>
-
-<br/>
-<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. The Silencio Airdrop: How to Maximize Your Share and Climb the Ranks - <a href="https://medium.com/@silencionetwork/the-5-airdrop-on-silencio-how-to-maximize-your-share-and-climb-the-ranks-bf8ae543e261" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Silencio Network`**
-
-<blockquote>Your ultimate guide to understanding the airdrop, boosting your league ranking, and securing your share of SLC tokens.</blockquote>
-
-<h3>2. How to Travel Light and Still Shoot Like a Pro - <a href="https://medium.com/live-view/how-to-travel-light-and-still-shoot-like-a-pro-140ad74c48c2" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Derrick Story`**
-
-<blockquote>Two Lenses and an iPhone in Alaska</blockquote>
+<blockquote>Listening to a photographer for the French newspaper Le Monde share his story</blockquote>
 
 <h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,17 +374,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. Strawberry’s Paradox: When Perfect Answers Aren’t Enough - <a href="https://medium.com/towards-data-science/strawberrys-paradox-when-perfect-answers-aren-t-enough-a4e3414eadc0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Llama 3.2 Vision, the new multi-modal LLM by Meta - <a href="https://medium.com/data-science-in-your-pocket/llama-3-2-vision-the-new-multi-modal-llm-by-meta-ebabbd02de52" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Cassie Kozyrkov`**
+✍️ **posted by `Mehul Gupta`**
 
-<blockquote>How AI Advances Are Shifting the Burden to Human Judgment</blockquote>
+<blockquote>How to use Llama 3.2 and new features explained</blockquote>
 
-<h3>5. Nightmare at the Edge of the World: The crash of Panarctic Oils flight 416 - <a href="https://medium.com/@admiralcloudberg/nightmare-at-the-edge-of-the-world-the-crash-of-panarctic-oils-flight-416-decdd1a526eb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Handheld PC Gaming Is the Real Actual Future - <a href="https://medium.com/@xander51/handheld-pc-gaming-is-the-real-actual-future-c1c5bbb0031b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Admiral Cloudberg`**
+✍️ **posted by `Alex Rowe`**
 
-<blockquote>The harrowing story of an oilfield resupply flight in the High Arctic that left 32 people dead and two crewmembers fighting for survival.</blockquote>
+<blockquote>The gaming market cannot grow chasing new technology and graphics alone. Expensive next generation GPU’s and “Pro” consoles might be fun…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -452,11 +452,13 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Koin 4.0 — Official Release - <a href="https://medium.com/koin-developers/koin-4-0-official-release-f4827bbcfce3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. SWIGGY SDE-2 Inteview Experience (Android) - <a href="https://medium.com/@himv1998/swiggy-sde-2-inteview-experience-android-7906956a924a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arnaud Giuliani`**
+✍️ **posted by `Himanshu verma`**
 
-<blockquote>The Koin team is excited to announce the release of Koin 4.0, a major update that brings improvements for Kotlin, Compose & Android</blockquote>
+<blockquote>I applied with referral in swiggy.
+So the process started after getting a call from HR.
+HR told me there would be four rounds of…</blockquote>
 
 <h3>2. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +472,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>When a user enters a screen, the default data should be fetched by triggering the business logic, whether from the network or local…</blockquote>
 
-<h3>4. JCenter Shutdown? Here’s How to Add AAR Files from GitHub to Your Android App - <a href="https://medium.com/@shreya.072021/jcenter-shutdown-heres-how-to-add-aar-files-from-github-to-your-android-app-a6ab629232b3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. iPhone vs Android: Which Side Are You On? - <a href="https://medium.com/the-shortform/iphone-vs-android-which-side-are-you-on-19eab72bb096" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shreya Adiga`**
+✍️ **posted by `Over-50 Empress`**
 
-<blockquote>With JCenter shutting down, many Android developers are looking for new ways to manage libraries, and GitHub has become a popular…</blockquote>
+<blockquote>The battle of the smartphones</blockquote>
 
 <h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
