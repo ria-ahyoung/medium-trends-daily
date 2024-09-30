@@ -50,11 +50,11 @@
 
 <blockquote>Building a SaaS as a solo developer is a challenging task. You have to wear multiple hats and be proficient in various technologies…</blockquote>
 
-<h3>4. 🚀 Dealing with APIs in Next.js — Best Practices 🚀 - <a href="https://medium.com/@ahmedhassan711/dealing-with-apis-in-next-js-best-practices-8314644cc6d8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Stripe Payment using .NET 8 Core Microservice and React JS - <a href="https://medium.com/@cprafulm_3258/stripe-payment-using-net-8-core-microservice-and-react-js-b06e24fcc876" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmed Hassan`**
+✍️ **posted by `Praful Chauhan`**
 
-<blockquote>We will discuss first 2 scenarios and save the last one for the upcoming medium story — Stay tuned! …</blockquote>
+<blockquote>In this blog, we will walk through the process of integrating Stripe payments into a .NET 8 Core Microservice architecture with a React JS…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -70,29 +70,29 @@
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`**
-
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
-
-<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Rakshagarambha`**
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. Top 5 Free UX/UI Design Resources - <a href="https://medium.com/@kumarisakshi9595/top-5-free-ux-ui-design-resources-f56f05769301" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`**
-
-<blockquote>In the ever-evolving field of UX/UI design, staying up-to-date with the latest resources and trends is crucial for professional growth…</blockquote>
-
-<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+
+<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Consagoustech`**
+
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+
+<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Design Studio`**
+
+<blockquote>Picture the world of UI and UX design as an ever-evolving ecosystem. In this ecosystem, new trends emerge at a rapid pace and users’…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
@@ -128,11 +128,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. This TypeScript Trick Will Blow Your Mind - <a href="https://medium.com/javascript-in-plain-english/this-typescript-trick-will-blow-your-mind-edbd991ec9bf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 5 Special Operators in TypeScript Introduced in 2024: A Guide with Examples - <a href="https://medium.com/@pradeeptiwari.bhumca10/5-special-operators-in-typescript-introduced-in-2024-a-guide-with-examples-4cc26ddfa265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Evelyn Taylor`**
+✍️ **posted by `Pradeep Tiwari ( Solution Architect )`**
 
-<blockquote>If you’re a TypeScript fan and love discovering cool little hacks, this one’s going to blow your mind.</blockquote>
+<blockquote>In 2024, TypeScript saw the introduction of several new operators aimed at enhancing the language’s expressiveness, reducing boilerplate…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -146,11 +146,11 @@
 
 <blockquote>My First Encounter with ts-pattern</blockquote>
 
-<h3>4. TypeScript vs JavaScript: Quick and Easy Comparison - <a href="https://medium.com/javascript-in-plain-english/typescript-vs-javascript-quick-and-easy-comparison-f38d50ffa485" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Addressing Edge Cases in JavaScript is Essential for Robust Applications (Part 1) - <a href="https://medium.com/@rajesh.ece2eie/why-addressing-edge-cases-in-javascript-is-essential-for-robust-applications-part-1-56952044ed5f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alfonso Valdes Carrales`**
+✍️ **posted by `Rajesh Pandian`**
 
-<blockquote>JavaScript is a strong option for smaller projects where speed is key, TypeScript provides better structure, maintainability, and debugging</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -160,11 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Kafka as a message broker between microservices (Part 1) - <a href="https://medium.com/@sithukyaw_31735/kafka-as-a-message-broker-between-microservices-part-1-991ec75f1550" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding Inconsistencies in IP Address Classification Across Programming Languages - <a href="https://medium.com/bugbountywriteup/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Si Thu Kyaw`**
+✍️ **posted by `sockpuppets`**
 
-<blockquote>In a microservices architecture, Kafka can be used as a message broker to enable communication between independent services. Instead of…</blockquote>
+<blockquote>As a security researcher, I’ve been analyzing IP address classification behaviors across various programming languages. Recently, I noticed…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,11 +178,11 @@
 
 <blockquote>Node.js is known as a blazingly fast server platform with its revolutionary single-thread architecture, utilizing server resources more…</blockquote>
 
-<h3>4. Performance Optimization in Software Engineering: What We Can Learn from Google’s V8 Engine - <a href="https://medium.com/@farouk.taher2016/performance-optimization-in-software-engineering-what-we-can-learn-from-googles-v8-engine-02700a9bb391" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How i built a YouTube video transcription tool using React and OpenAI’s API - <a href="https://medium.com/@barbara.martins_89541/how-i-built-a-youtube-video-transcription-tool-using-react-and-openais-api-65cd0f944d40" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Farouk Taher`**
+✍️ **posted by `Barbara Araujo`**
 
-<blockquote>Other than Mike Tyson, the only thing that makes me feel intimidated is the sheer power of the Google V8 engine! :D</blockquote>
+<blockquote>Transcribing videos automatically is becoming a more common requirement, especially when we want to access content in various formats like…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. 5 JavaScript Concepts Every Developer Should Know - <a href="https://medium.com/javarevisited/5-javascript-concepts-every-developer-should-know-61111b00349a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Interviewer: You are clueless about for loops😂 - <a href="https://medium.com/coding-beauty/for-loop-mystery-f56cecb52e09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `javinpaul`**
+✍️ **posted by `Tari Ibaba`**
 
-<blockquote>These are 5 features every JavaScript developer should learn</blockquote>
+<blockquote>Interviewer: What does func() print in this code?</blockquote>
 
 <h3>2. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +210,11 @@
 
 <blockquote>My article is open to everyone; non-member readers can click this link to read the full text.</blockquote>
 
-<h3>4. Complete Guide to Chrome Extension Manifest Files - <a href="https://medium.com/@abhinavashish15/complete-guide-to-chrome-extension-manifest-files-8fee166cd877" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Frontend Weekly Digest #382 (23–29 September 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-382-23-29-september-2024-0bbcff95cde9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhinav Ashish`**
+✍️ **posted by `Fresh Frontend Links`**
 
-<blockquote>Best Way for Writing a Secure and Efficient manifest.json</blockquote>
+<blockquote>Web-development</blockquote>
 
 <h3>5. Ugly websites sell better. - <a href="https://medium.com/@michalmalewicz/ugly-websites-sell-better-0b0354ebff10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -256,81 +256,81 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Git Submodules: Beware of the Traps When Updating - <a href="https://medium.com/@elye-project/git-submodules-beware-of-the-traps-when-updating-d8e06fd59468" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 7 New Typing Features in Python 3.13 - <a href="https://medium.com/techtofreedom/7-new-typing-features-in-python-3-13-58caae5f2f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Elye - A One Eye Dev By His Grace`**
+✍️ **posted by `Yang Zhou`**
 
-<blockquote>Git submodules are best avoided, but if you have to use them, watch out for their hidden pitfalls! Stay informed to avoid headaches.</blockquote>
+<blockquote>Boosting code reliability with the latest Python typing system</blockquote>
 
-<h3>2. Why I Chose to be Outspoken in the Tech World - <a href="https://medium.com/code-like-a-girl/why-i-chose-to-be-outspoken-in-the-tech-world-e6edb44d972b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 5 Practical Ways To Fix Your Work-Life Balance - <a href="https://medium.com/engineering-managers-journal/5-practical-ways-to-fix-your-work-life-balance-86f78dd7aa5e" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Alex Ponomarev`**
+
+<blockquote>I’m not going to give you advice for an ideal world — I’m going to give it to you for a real one.</blockquote>
+
+<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Austin Starks`**
+
+<blockquote>It literally took one try. I was shocked.</blockquote>
+
+<h3>4. Automating Structural Analysis in SAP2000 with Python & CSI OAPI - <a href="https://medium.com/@hakan-keskin/automating-structural-analysis-in-sap2000-with-python-csi-oapi-530d1da7f3bd" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Hakan Keskin`**
+
+<blockquote>Introduction</blockquote>
+
+<h3>5. Why I Chose to be Outspoken in the Tech World - <a href="https://medium.com/code-like-a-girl/why-i-chose-to-be-outspoken-in-the-tech-world-e6edb44d972b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Emily Wood`**
 
 <blockquote>Learn Strategies to Make Your Voice Heard in a Male-Dominated Industry</blockquote>
 
+<br/>
+<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
+<h3>1. 7 New Typing Features in Python 3.13 - <a href="https://medium.com/techtofreedom/7-new-typing-features-in-python-3-13-58caae5f2f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Yang Zhou`**
+
+<blockquote>Boosting code reliability with the latest Python typing system</blockquote>
+
+<h3>2. The Subculture of Cryptocurrency - <a href="https://medium.com/@gilescrouch/the-subculture-of-cryptocurrency-7eac9d5ee3be" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Giles Crouch | Digital Anthropologist`**
+
+<blockquote>Despite being in a winter and all the fraudsters, the cyrpto community has evolved its own culture. Let’s explore.</blockquote>
+
 <h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Austin Starks`**
 
 <blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. The Slow, Painful Death Of Agile and Jira - <a href="https://medium.com/entrepreneur-s-handbook/the-slow-painful-death-of-agile-and-jira-c8de04e4269a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I trusted OpenAI to help me learn financial analysis. I’m now a (much) better investor. - <a href="https://medium.com/@austin-starks/i-trusted-openai-to-help-me-learn-financial-analysis-im-now-a-much-better-investor-ab78913bdd33" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joe Procopio`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>Agile has stopped being agile, so it’s time for Agile to go and take Jira with it</blockquote>
+<blockquote>AI is better at financial analysis than professional analysts</blockquote>
 
-<h3>5. Working with Embeddings: Closed versus Open Source - <a href="https://medium.com/towards-data-science/working-with-embeddings-closed-versus-open-source-39491f0b95c2" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ida Silfverskiöld`**
-
-<blockquote>Using techniques to improve semantic search</blockquote>
-
-<br/>
-<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Reality Hits AI Very Hard Again - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/reality-hits-ai-very-hard-again-9c6b68143147" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Reality Hits AI Very Hard Again - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/reality-hits-ai-very-hard-again-9c6b68143147" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ignacio de Gregorio`**
 
 <blockquote>They Still Can’t Plan</blockquote>
 
-<h3>2. Why pay for Notion’s AI? I built my own auto-tagging tool in a week! - <a href="https://medium.com/@stephenjayakar/why-pay-for-notions-ai-i-built-my-own-auto-tagging-tool-in-a-week-be2f57fb1b92" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Stephen Jayakar`**
-
-<blockquote>I built the thing I talk about in this blog post — if you want to check it out, it’s here!</blockquote>
-
-<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Austin Starks`**
-
-<blockquote>It literally took one try. I was shocked.</blockquote>
-
-<h3>4. The Slow, Painful Death Of Agile and Jira - <a href="https://medium.com/entrepreneur-s-handbook/the-slow-painful-death-of-agile-and-jira-c8de04e4269a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Joe Procopio`**
-
-<blockquote>Agile has stopped being agile, so it’s time for Agile to go and take Jira with it</blockquote>
-
-<h3>5. Why do people who “don’t play games” play Wordle? - <a href="https://medium.com/design-bootcamp/why-do-people-who-dont-play-games-play-wordle-c70423f1cc4a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Sam Liberty`**
-
-<blockquote>On games, psychology, and why we play</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. When love reaches for you again, I hope it stays - <a href="https://medium.com/mr-plan-publication/when-love-reaches-for-you-again-i-hope-it-stays-80a791ba6411" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Fourteen simple behaviours that make people instantly respect you more - <a href="https://medium.com/@iamalexmathers/fourteen-simple-behaviours-that-make-people-instantly-respect-you-more-4f1a244556dc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `riespeaks`**
+✍️ **posted by `Alex Mathers`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Are there things we can do that influence other people’s perceptions of us?</blockquote>
 
-<h3>2. I’m Collecting Our Past One Scrapbook Page at a Time - <a href="https://medium.com/@kyriegray3/im-collecting-our-past-one-scrapbook-page-at-a-time-6507d31cfcf2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Understanding the Unique Experiences of Autistic Individuals - <a href="https://medium.com/the-unexpected-autistic-life/five-missed-childhood-signs-of-my-autism-f0da33143fea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kyrie Gray`**
+✍️ **posted by `VJVoices`**
 
-<blockquote>How I hold onto memories of our relationship without photos</blockquote>
+<blockquote>Shifting the focus from “why” we do things to “how” we feel</blockquote>
 
 <h3>3. to be loved is to be seen. - <a href="https://medium.com/@solelysolace/to-be-loved-is-to-be-seen-b299757db05d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>never beg to be loved</blockquote>
 
-<h3>4. Hustle Dating — An account of NYC relationships as a single girl in her 20's - <a href="https://medium.com/@isisoflynn/hustle-dating-48e5b6d79e49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Marriage, Brazil, and Burning Sage - <a href="https://medium.com/the-maize/marriage-brazil-and-burning-sage-313540914b82" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Isis O’Flynn-Shahaf`**
+✍️ **posted by `Chris Thompson`**
 
-<blockquote>I am a serial dater.</blockquote>
+<blockquote>My wife is making me take this trip — alone</blockquote>
 
-<h3>5. We Were Feral Children - <a href="https://medium.com/@felsull/we-were-feral-children-d13294988bcd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. I’m Collecting Our Past One Scrapbook Page at a Time - <a href="https://medium.com/@kyriegray3/im-collecting-our-past-one-scrapbook-page-at-a-time-6507d31cfcf2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Felicia C. Sullivan`**
+✍️ **posted by `Kyrie Gray`**
 
-<blockquote>Four stories about growing up in 1980s Brooklyn.</blockquote>
+<blockquote>How I hold onto memories of our relationship without photos</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -384,19 +384,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. SWIGGY SDE-2 Inteview Experience (Android) - <a href="https://medium.com/@himv1998/swiggy-sde-2-inteview-experience-android-7906956a924a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kotlin Multiplatform Demystified: Cross-Platform Made Simple - <a href="https://medium.com/@avinashreddy.kr/kotlin-multiplatform-demystified-cross-platform-made-simple-9ee764f3dee6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Himanshu verma`**
+✍️ **posted by `Avinash Reddy`**
 
-<blockquote>I applied with referral in swiggy.
-So the process started after getting a call from HR.
-HR told me there would be four rounds of…</blockquote>
+<blockquote>This article introduces you to Kotlin Multiplatform (KMP), explains how it works, discusses its pros and cons, and addresses all your…</blockquote>
 
-<h3>2. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Paint the Stars — Drawing with Compose and Canvas - <a href="https://medium.com/proandroiddev/paint-the-stars-drawing-with-compose-and-canvas-6a4e719efe20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joost Klitsie`**
+✍️ **posted by `Eevis Panula`**
 
-<blockquote>Check how you can best handle States and Events in a ViewModel. Keep track of the truth and minimize side-effects, to minimize bugs.</blockquote>
+<blockquote>I’ve always struggled with drawing in Canvas, and I decided to learn more about it. This blog post shares part of that learning journey.</blockquote>
 
 <h3>3. Loading Initial Data on Android Part 2: Clear All Your Doubts - <a href="https://medium.com/proandroiddev/loading-initial-data-part-2-clear-all-your-doubts-0f621bfd06a0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -404,17 +402,17 @@ HR told me there would be four rounds of…</blockquote>
 
 <blockquote>When a user enters a screen, the default data should be fetched by triggering the business logic, whether from the network or local…</blockquote>
 
-<h3>4. iPhone vs Android: Which Side Are You On? - <a href="https://medium.com/the-shortform/iphone-vs-android-which-side-are-you-on-19eab72bb096" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Run Llama 3.2 on Android Phone - <a href="https://medium.com/@researchgraph/how-to-run-llama-3-2-on-android-phone-64be7783c89f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Over-50 Empress`**
+✍️ **posted by `Research Graph`**
 
-<blockquote>The battle of the smartphones</blockquote>
+<blockquote>A Step-by-Step Guide to Running Llama 3.2 and Other Large Models on Android Using Ollama</blockquote>
 
-<h3>5. Why Does The Mobile Industry Copy Apple? - <a href="https://medium.com/macoclock/why-does-the-mobile-industry-copy-apple-dbb04b44b88d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Carl St. James`**
+✍️ **posted by `Joost Klitsie`**
 
-<blockquote>Imitation is the most insincere form of vanity — The President of Samsung, Lee Jae-yong recently had a spat with his design teams. Angered…</blockquote>
+<blockquote>Check how you can best handle States and Events in a ViewModel. Keep track of the truth and minimize side-effects, to minimize bugs.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
@@ -450,11 +448,11 @@ HR told me there would be four rounds of…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Kubernetes Tip for Today 1️⃣0️⃣ - <a href="https://medium.com/@amanpathakdevops/kubernetes-tip-for-today-1️⃣0️⃣-7fc3cbeb1a23" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Unlocking Terramate: Infrastructure as Code - <a href="https://medium.com/@jainanurag.nit/unlocking-terramate-infrastructure-as-code-27b6b55ec2a5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aman Pathak`**
+✍️ **posted by `Anurag Jain`**
 
-<blockquote>Hi All, hope you are doing well. This is the tenth(10th) tip in regards to DevOps & Cloud where today I will be going to share tips related…</blockquote>
+<blockquote>What is Terramate — Hearing for the first time?</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -468,11 +466,11 @@ HR told me there would be four rounds of…</blockquote>
 
 <blockquote>End-to-end Project Implementation</blockquote>
 
-<h3>4. Evolving from MLOps to LLMOps - <a href="https://medium.com/@ilyaschaoua/evolving-from-mlops-to-llmops-d8ae0d4e1846" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Tip for Today 1️⃣1️⃣ - <a href="https://medium.com/@amanpathakdevops/kubernetes-tip-for-today-1️⃣1️⃣-7a93235c972b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ilyas Chaoua`**
+✍️ **posted by `Aman Pathak`**
 
-<blockquote>As artificial intelligence (AI) advances, the ecosystem of tools and methodologies supporting its development has had to keep pace with…</blockquote>
+<blockquote>Hi All, hope you are doing well. This is the eleventh(11th) tip in regards to DevOps & Cloud where today I will be going to share tips…</blockquote>
 
 <h3>5. Container Security Scanning: Vulnerabilities, Risks and Tooling - <a href="https://medium.com/4th-coffee/container-security-scanning-vulnerabilities-risks-and-tooling-31b09f64e6f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -500,11 +498,11 @@ HR told me there would be four rounds of…</blockquote>
 
 <blockquote>Users adopt Infrastructure as Code (IaC) as much due to the limitations of GUIs and CLIs as due to the benefits of IaC</blockquote>
 
-<h3>4. Kubernetes Tip for Today 1️⃣0️⃣ - <a href="https://medium.com/@amanpathakdevops/kubernetes-tip-for-today-1️⃣0️⃣-7fc3cbeb1a23" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Installing EKS addons with the AWS CDK - <a href="https://medium.com/@jicowan/installing-eks-addons-with-the-aws-cdk-26b66668f630" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aman Pathak`**
+✍️ **posted by `Jeremy Cowan`**
 
-<blockquote>Hi All, hope you are doing well. This is the tenth(10th) tip in regards to DevOps & Cloud where today I will be going to share tips related…</blockquote>
+<blockquote>I recently got involved with a project to build the infrastructure for testing different quantitative frameworks using AWS Batch on Amazon…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -514,11 +512,11 @@ HR told me there would be four rounds of…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Model Deployment with FastAPI, Azure, and Docker - <a href="https://medium.com/towards-data-science/model-deployment-with-fastapi-azure-and-docker-10e5cfbc1f4f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 100 Days of DevOps and Cloud - Day 1 - <a href="https://medium.com/@ashmitadutta90/100-days-of-devops-and-cloud-day-1-7ded75b9831e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sabrine Bendimerad`**
+✍️ **posted by `Ashmita Dutta`**
 
-<blockquote>A Complete Guide to Serving a Machine Learning Model with FastAPI</blockquote>
+<blockquote>Started my DevOps journey today by learning about the key fundamentals of DevOps</blockquote>
 
 <h3>2. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -532,11 +530,11 @@ HR told me there would be four rounds of…</blockquote>
 
 <blockquote>End-to-end Project Implementation</blockquote>
 
-<h3>4. 100 Days of DevOps and Cloud - Day 1 - <a href="https://medium.com/@ashmitadutta90/100-days-of-devops-and-cloud-day-1-7ded75b9831e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Docker — Intro - <a href="https://medium.com/jungletronics/docker-intro-1c73f32db840" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashmita Dutta`**
+✍️ **posted by `J3`**
 
-<blockquote>Started my DevOps journey today by learning about the key fundamentals of DevOps</blockquote>
+<blockquote>How To Create a Rails 7 Project with Docker Setup- FinanceAppSeries — #Episode 4</blockquote>
 
 <h3>5. Building a Local Data Lake from scratch with MinIO, Iceberg, Spark, StarRocks, Mage, and Docker - <a href="https://medium.com/data-engineer-things/building-a-local-data-lake-from-scratch-with-minio-iceberg-spark-starrocks-mage-and-docker-c12436e6ff9d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
