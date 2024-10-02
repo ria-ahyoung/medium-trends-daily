@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/01)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/02)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Experience Alone Isn’t Enough: The Art of Continuous Improvement</blockquote>
 
-<h3>4. “Commit, Push, Repeat: How 100 Days Reshaped My Digital DNA “ - <a href="https://medium.com/@mohit098/commit-push-repeat-how-100-days-reshaped-my-digital-dna-e6917bbf766d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Standardizing Base Colors in React.js and React Native Apps - <a href="https://medium.com/@Games24x7Tech/standardizing-base-colors-in-react-js-and-react-native-apps-f370ff20b679" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohit Goyal`**
+✍️ **posted by `Games24x7 Blogs`**
 
-<blockquote>Hello! I’m Mohit Goyal, a sophomore, pursuing a Computer Science degree. I aim to gain knowledge of MERN stack and Machine Learning and…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,7 +196,7 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. TypeScript Tutorial (Part 2)- How to Install TypeScript: A Simple Guide - <a href="https://medium.com/@CodingAdventureWithEmma/typescript-tutorial-part-2-how-to-install-typescript-a-simple-guide-e4d70854f37d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TypeScript Tutorial (Part 2)- How to Install TypeScript: A Simple Guide - <a href="https://medium.com/javascript-in-plain-english/typescript-tutorial-part-2-how-to-install-typescript-a-simple-guide-e4d70854f37d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Coding Adventure with Emma`**
 
@@ -228,11 +228,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Understanding Inconsistencies in IP Address Classification Across Programming Languages - <a href="https://medium.com/bugbountywriteup/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Memory Leak Profiling and Pinpointing for Node.js - <a href="https://medium.com/att-israel/memory-leak-profiling-and-pinpointing-for-node-js-f92a088a748b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `sockpuppets`**
+✍️ **posted by `Yehonathan Bar Ilan`**
 
-<blockquote>As a security researcher, I’ve been analyzing IP address classification behaviors across various programming languages. Recently, I noticed…</blockquote>
+<blockquote>Ever had an issue with a memory leak in node.js? Join me, as I show how to identify, isolate and fix memory leaks in node.js.</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Node.js is known as a blazingly fast server platform with its revolutionary single-thread architecture, utilizing server resources more…</blockquote>
 
-<h3>4. How i built a YouTube video transcription tool using React and OpenAI’s API - <a href="https://medium.com/@barbara.martins_89541/how-i-built-a-youtube-video-transcription-tool-using-react-and-openais-api-65cd0f944d40" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. NodeJS roadMap - <a href="https://medium.com/@yannickmulemeri01/nodejs-roadmap-b6e8048fc0e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Barbara Araujo`**
+✍️ **posted by `Yannickmulemeri`**
 
-<blockquote>Transcribing videos automatically is becoming a more common requirement, especially when we want to access content in various formats like…</blockquote>
+<blockquote>As a software developper, i think creating a Node.js roadmap can help you navigate your learning journey effectively. Here’s a structured…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -388,17 +388,20 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. How I Used Prenatal Depression to Resolve Hidden Pain - <a href="https://medium.com/modern-women/understanding-my-depression-during-pregnancy-677f42b1af2d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. You gave your wife permission to start dating other men if she wanted. - <a href="https://medium.com/quick-dirty/you-gave-your-wife-permission-to-start-dating-other-men-if-she-wanted-dabb7a448dd2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sofia Lee`**
+✍️ **posted by `Bella Cooper's Randy Reads`**
 
-<blockquote>Hard times primed me to become the best mother I can be</blockquote>
+<blockquote>She had resisted at first, insisting it wouldn’t be right. But you told her you were ok with it, and that she would make the sexiest lover…</blockquote>
 
-<h3>2. Marriage, Brazil, and Burning Sage - <a href="https://medium.com/the-maize/marriage-brazil-and-burning-sage-313540914b82" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Becoming a Soldier - <a href="https://medium.com/scribe/becoming-a-soldier-4df98891861a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chris Thompson`**
+✍️ **posted by `Maria Nazos`**
 
-<blockquote>My wife is making me take this trip — alone</blockquote>
+<blockquote>He was pulling tight the comforter,
+putting on long brown boots and gray-green pants.
+It made me reach for the coat 
+hanging heavy on the…</blockquote>
 
 <h3>3. to be loved is to be seen. - <a href="https://medium.com/@solelysolace/to-be-loved-is-to-be-seen-b299757db05d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,17 +409,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>never beg to be loved</blockquote>
 
-<h3>4. These 11 Dating Mistakes Are Keeping Men Single - <a href="https://medium.com/@jamesmsama/these-11-dating-mistakes-are-keeping-men-single-4ebeccc5044b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why My Wife Didn’t Pick Up My Call That Evening - <a href="https://medium.com/good-vibes-club/why-my-wife-didnt-pick-up-my-call-that-evening-bc489a06cbd4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `James Michael Sama`**
+✍️ **posted by `Prasanna Srinath Subhasinghe II`**
 
-<blockquote>It’s not just about finding the right person, it’s also about being the right person.</blockquote>
+<blockquote>The art of saying no while crafting Gok Kola decorations</blockquote>
 
-<h3>5. Understanding the Unique Experiences of Autistic Individuals - <a href="https://medium.com/the-unexpected-autistic-life/five-missed-childhood-signs-of-my-autism-f0da33143fea" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Black Dress That Taught Me About Love - <a href="https://medium.com/@michelleapatrovani/the-black-dress-that-taught-me-about-love-e3537ac710f1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `VJVoices`**
+✍️ **posted by `Michelle A. Patrovani - M.A.P.`**
 
-<blockquote>Shifting the focus from “why” we do things to “how” we feel</blockquote>
+<blockquote>Revisiting lessons learned from a ripped hem</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -452,11 +455,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Android Stack Weekly — Issue#144 - <a href="https://medium.com/canopas/android-stack-weekly-issue-144-d8fce788e16a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. WhatsApp Local Data and its Folders… - <a href="https://medium.com/@umamaheshwaryelle/whatsapp-local-data-and-its-folders-56edae90ebb1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Radhika S`**
+✍️ **posted by `Umamaheshwar Yelle`**
 
-<blockquote>Welcome to Android Weekly — a newsletter on new development and updates of Android universe curated by Canopas team, delivered every Monday</blockquote>
+<blockquote>can read if you are interested !</blockquote>
 
 <h3>2. Paint the Stars — Drawing with Compose and Canvas - <a href="https://medium.com/proandroiddev/paint-the-stars-drawing-with-compose-and-canvas-6a4e719efe20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +473,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Koin team is excited to announce the release of Koin 4.0, a major update that brings improvements for Kotlin, Compose & Android</blockquote>
 
-<h3>4. WhatsApp Local Data and its Folders… - <a href="https://medium.com/@umamaheshwaryelle/whatsapp-local-data-and-its-folders-56edae90ebb1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Android Stack Weekly — Issue#144 - <a href="https://medium.com/canopas/android-stack-weekly-issue-144-d8fce788e16a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Umamaheshwar Yelle`**
+✍️ **posted by `Radhika S`**
 
-<blockquote>can read if you are interested !</blockquote>
+<blockquote>Welcome to Android Weekly — a newsletter on new development and updates of Android universe curated by Canopas team, delivered every Monday</blockquote>
 
 <h3>5. Best way to keep state in a ViewModel - <a href="https://medium.com/proandroiddev/best-way-to-keep-state-in-a-viewmodel-d8334712265" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +487,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Multiplatform app in Xcode: how to develop and some good practices - <a href="https://medium.com/@leonardo.alves.melo.1995/multiplatform-app-in-xcode-how-to-develop-and-some-good-practices-fdb50684d4a2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Apple Vision Pro: A New Era in Spatial Computing - <a href="https://medium.com/@OwyHasan/apple-vision-pro-a-new-era-in-spatial-computing-5b18022c7248" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Leonardo Alves de Melo`**
+✍️ **posted by `Hasan`**
 
-<blockquote>Are you starting developing a project that must support both iOS and macOS? Or perhaps iOS and VisionOS? Or even all Apple platforms? In…</blockquote>
+<blockquote>Apple has always been at the forefront of technological innovation.</blockquote>
 
 <h3>2. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +505,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Swift 6’s Concurrency Rules Make the Singleton Pattern a Risky Move, and What to Use Instead</blockquote>
 
-<h3>4. iOS Stack Weekly — Issue#144 - <a href="https://medium.com/canopas/ios-stack-weekly-issue-144-f2cc44817983" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Advanced Bash Techniques for Dynamic Android Resource Handling - <a href="https://medium.com/@rguzmanc.161/advanced-bash-techniques-for-dynamic-android-resource-handling-5c208a6cdb2a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Amisha I`**
+✍️ **posted by `RaulitoGC`**
 
-<blockquote>Welcome to iOS Weekly — a newsletter on new development and updates of the iOS universe curated by Canopas team, delivered every Monday.</blockquote>
+<blockquote>In the previous article, we discussed the process of downloading a colors.xml file and integrating it into an Android project. Now, let's…</blockquote>
 
 <h3>5. Jailbreak your Enemies with a Link: Remote Execution on iOS - <a href="https://medium.com/gitconnected/jailbreak-your-enemies-with-a-link-remote-execution-on-ios-710323cd4d95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
