@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/05)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/06)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How to host and deploy (Next.js) app on cloudflare - <a href="https://medium.com/@valoherie/how-to-host-and-deploy-next-js-app-on-cloudflare-a224b06d73d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Creating an Nx Monorepo and Integrating Aceternity UI - <a href="https://medium.com/@kavania2002/creating-an-nx-monorepo-and-integrating-aceternity-ui-014c3e50c86b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Valerie`**
+✍️ **posted by `Kavan Gondalia`**
 
-<blockquote>I wanted to build a personal website and decided to host it on Cloudflare. Here are the steps, assuming you already have your Next.js…</blockquote>
+<blockquote>A Step-by-Step Guide to Integrating Aceternity UI with an Nx Monorepo</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>React 19 is shaping up to be an important update, enhancing the performance and developer experience introduced in React 18. This new…</blockquote>
 
-<h3>4. Complete MERN Stack Security Guide. - <a href="https://medium.com/@aj1762919/complete-mern-stack-security-guide-caff5d9d34c2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Should the CTO Stop Coding? - <a href="https://medium.com/@kamel_laimene/should-the-cto-stop-coding-a4eaefd579e2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abdullah Tahir`**
+✍️ **posted by `Kamel Laïmène`**
 
-<blockquote>Introduction:</blockquote>
+<blockquote>This statement, often heard in the tech industry, sparks a passionate debate. On one side, some believe that the CTO should step away from…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. What on earth is flat in Javascript? - <a href="https://medium.com/@jje.uribe/what-on-earth-is-flat-in-javascript-6e502e024188" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Blocking network requests using service worker - <a href="https://medium.com/@nmknikhilkashyap/blocking-network-requests-using-service-worker-f89291453817" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Javier`**
+✍️ **posted by `Nik-1207`**
 
-<blockquote>In the realm of functional programming there is an old and well-known principle called data flattening. If you’re like me, hearing this…</blockquote>
+<blockquote>I recently faced a situation where I had to implement a functionality in which user can block network requests on demand.</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>I have collected 50+ articles on this subject which I hope will help you learn better.</blockquote>
 
-<h3>4. Using Javascript Promise.allSettled() to apply multiple XSLT transformations - <a href="https://medium.com/@xsltforthemodernweb/using-javascript-promise-allsettled-to-apply-multiple-xslt-transformations-80aef53ab154" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. OneJS — A New React Framework is here ! - <a href="https://medium.com/@vipinmenon16/onejs-a-new-react-framework-is-here-b1b9e8e7100e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `XSLT for the Modern Web`**
+✍️ **posted by `Vipin Menon`**
 
-<blockquote>Javascript Promises provide methods to chain asynchronous which can be helpful for loading multiple XSLT stylesheets.</blockquote>
+<blockquote>Introduction to OneJS: Simplifying JavaScript Development</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -228,35 +228,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. AWS EC2 Hosting Guide: Deploying Your Node.js Application on AWS Free Tier - <a href="https://medium.com/@ananthumohan368/aws-ec2-hosting-guide-deploying-your-node-js-application-on-aws-free-tier-0b79f81e9aa5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ananthumohan`**
+
+<blockquote>Imagine you’ve built an amazing Node.js app, and now it’s time to share it with the world. But hosting it — well, that can feel…</blockquote>
+
+<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jack Herrington`**
 
 <blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
-<h3>2. Node.js is Not Single-Threaded - <a href="https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Node.js is Not Single-Threaded - <a href="https://medium.com/@tkachenko.hello/node-js-is-not-single-threaded-1383594dbd17" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Tkachenko Evgeny`**
 
 <blockquote>Node.js is known as a blazingly fast server platform with its revolutionary single-thread architecture, utilizing server resources more…</blockquote>
 
-<h3>3. Building a High-Performance Image Transformation Server with Node.js and Sharp -V1 - <a href="https://medium.com/@lakkannawalikar/building-a-high-performance-image-transformation-server-with-node-js-and-sharp-v1-de1fc089750c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. CORS: The Marriage Broker of the Web - <a href="https://medium.com/@Sameen.K.A/cors-the-marriage-broker-of-the-web-15b0394c7afa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lakkanna Walikar`**
+✍️ **posted by `Sameen K A`**
 
-<blockquote>In today’s digital landscape, optimizing images for various devices and use cases is crucial for delivering a great user experience. Let’s…</blockquote>
+<blockquote>Understand the CORS very simple real life example.</blockquote>
 
-<h3>4. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Blaine Bublitz`**
 
 <blockquote>It’s been a long road to gulp 5, but we’re finally here!</blockquote>
-
-<h3>5. Worker Threads : Multitasking in NodeJS - <a href="https://medium.com/@manikmudholkar831995/worker-threads-multitasking-in-nodejs-6028cdf35e9d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Manik Mudholkar`**
-
-<blockquote>Deep Dive into Worker threads</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
@@ -324,35 +324,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Cloud vs. Data Center vs. Basement: The Programmers’ Self Hosting Delusion With The Cloud - <a href="https://medium.com/@jankammerath/cloud-vs-data-center-vs-basement-the-programmers-self-hosting-delusion-with-the-cloud-2274dc3ccb58" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jan Kammerath`**
+✍️ **posted by `Joost Klitsie`**
 
-<blockquote>AWS is now 18 years old and Google’s first cloud compute service, App Engine, was released 16 years old. One might think that cloud…</blockquote>
+<blockquote>Ask not what you can do for your compiler, ask what your compiler can do for you. In this article I will show what Kotlin tools actually…</blockquote>
 
-<h3>2. Google Disturbs the Python Community?! Core Developers Forced to Leave After 30 Years… - <a href="https://medium.com/stackademic/google-disturbs-the-python-community-core-developers-forced-to-leave-after-30-years-79c3a968667a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Dylan Cooper`**
-
-<blockquote>01 Chaos in the Python Community After Core Developer Suspended</blockquote>
-
-<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Austin Starks`**
 
 <blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. Becoming a Laser-focused Software Engineer - <a href="https://medium.com/@tsecretdeveloper/becoming-a-laser-focused-software-engineer-61b0430babbc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 5 Amazing Plugins for an Eye-Catching Visual Studio Code UI - <a href="https://medium.com/towards-data-science/5-amazing-plugins-for-an-eye-catching-visual-studio-code-ui-ebce393a5e8c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Secret Developer`**
+✍️ **posted by `Vyacheslav Efimov`**
 
-<blockquote>Code all the things</blockquote>
+<blockquote>Make your code shine by transforming the IDE into a stunning coding environment</blockquote>
 
-<h3>5. On data structures: lists - <a href="https://medium.com/@raduzaharia/on-data-structures-lists-3dc856be1c9a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Google Disturbs the Python Community?! Core Developers Forced to Leave After 30 Years… - <a href="https://medium.com/stackademic/google-disturbs-the-python-community-core-developers-forced-to-leave-after-30-years-79c3a968667a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Radu Zaharia`**
+✍️ **posted by `Dylan Cooper`**
 
-<blockquote>Last time we started talking about data structures, and we took a quick look at the ones we will examine in this article series. Now, every…</blockquote>
+<blockquote>01 Chaos in the Python Community After Core Developer Suspended</blockquote>
+
+<h3>5. The Slow, Painful Death Of Agile and Jira - <a href="https://medium.com/entrepreneur-s-handbook/the-slow-painful-death-of-agile-and-jira-c8de04e4269a" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Joe Procopio`**
+
+<blockquote>Agile has stopped being agile, so it’s time for Agile to go and take Jira with it</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -388,17 +388,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Debugging The 50s: Shree’s Mindful Melodrama. - <a href="https://medium.com/@himahegde/debugging-the-50s-shrees-mindful-melodrama-1e84092ce17d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. From Bumble to Parenthood: A Journey of Firsts - <a href="https://medium.com/@selvarajah/from-bumble-to-parenthood-a-journey-of-firsts-fc531826b8bc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hima Hegde`**
+✍️ **posted by `Ian Selvarajah`**
 
-<blockquote>“Hey Siri! Find me inspirational good morning quotes”</blockquote>
+<blockquote>Dear Aidan,</blockquote>
 
-<h3>2. There’s Something Wrong With My Heart - <a href="https://medium.com/@felsull/theres-something-wrong-with-my-heart-7b9665cfa631" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I Took Revenge On Him And Swore My Dog To Secrecy - <a href="https://medium.com/good-vibes-club/i-took-revenge-on-him-and-swore-my-dog-to-secrecy-8376a45f5305" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Felicia C. Sullivan`**
+✍️ **posted by `Ana Brody`**
 
-<blockquote>What will I do when Felix is gone?</blockquote>
+<blockquote>It was all about principles and innocent lives</blockquote>
 
 <h3>3. Seven things almost no one does that will attract people to you - <a href="https://medium.com/@iamalexmathers/seven-things-almost-no-one-does-that-will-attract-people-to-you-52c8baebf18c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,25 +406,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>I’ve learned that a significant part of attraction is rooted in standing out from the crowd.</blockquote>
 
-<h3>4. Just Like a Real Girlfriend, but Better - <a href="https://medium.com/the-mad-river/just-like-a-real-girlfriend-but-better-7b90f2ceed32" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How Dare Someone Without Kids Try and Give Parents Advice - <a href="https://medium.com/the-parenting-portal/how-dare-someone-without-kids-try-and-give-parents-advice-99580e47181c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ema Dumitru`**
+✍️ **posted by `Ali Hall`**
 
-<blockquote>Poem</blockquote>
+<blockquote>Settle pettles, we were all young once, maybe we have some interesting insights</blockquote>
 
-<h3>5. The Intimate Romantic Lives of Autistic People Are Not a Myth - <a href="https://medium.com/the-unexpected-autistic-life/the-intimate-romantic-lives-of-autistic-people-are-not-a-myth-3c8d06c8c8c9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why I’m Proud My Niece Is Choosing a Life Without Children - <a href="https://medium.com/life-without-children/why-im-proud-my-niece-is-choosing-a-life-without-children-167514c58521" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gaby Rogut`**
+✍️ **posted by `Victoria Corindi 🌻`**
 
-<blockquote>We need to rethink social expectations for autistic people</blockquote>
+<blockquote>She’s rejecting expectations to pursue a life of her own design</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Save the expensive rebuild of apps using ValueNotifier in flutter - <a href="https://medium.com/@santhosh-adiga-u/save-the-expensive-rebuild-of-apps-using-valuenotifier-in-flutter-8e49205b16ac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Unlocking the Power of Swift’s Mirror Struct: Dynamic Reflection in Swift - <a href="https://medium.com/@serhankhan/unlocking-the-power-of-swifts-mirror-struct-dynamic-reflection-in-swift-253b72f44bc0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Santhosh Adiga U`**
+✍️ **posted by `Serhan Khan`**
 
-<blockquote>What is setState()?</blockquote>
+<blockquote>Understanding the Purpose, Structure, and Practical Use Cases of Mirror in Swift</blockquote>
 
 <h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Mastering Machine Coding Rounds for Android Development Interviews - <a href="https://medium.com/@rajagupta07042000/mastering-machine-coding-rounds-for-android-development-interviews-d7fc1ff17fef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Integrating HealthConnect to Access Exercise Data in Mobile Apps - <a href="https://medium.com/@yusufyildiz0441/integrating-healthconnect-to-access-exercise-data-in-mobile-apps-2ee91f500fac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhishek Gupta`**
+✍️ **posted by `Yusuf Yıldız`**
 
-<blockquote>Preparing for machine coding rounds in Android development interviews can be a challenging yet rewarding journey. These rounds assess your…</blockquote>
+<blockquote>Hellooo mobile app developers! ✌️ Today, I’m excited to dive into the world of HealthConnect and show you how to access exercise data in…</blockquote>
 
 <h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Mastering iPhone Shortcuts - <a href="https://medium.com/@OwyHasan/mastering-iphone-shortcuts-255cc9b7de47" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Lost in the Confusion: My Struggle Without the Software Development Life Cycle (SDLC)🚧 - <a href="https://medium.com/@vijaywritesofficial/lost-in-the-confusion-my-struggle-without-the-software-development-life-cycle-a7a810360483" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hasan`**
+✍️ **posted by `Vijay Writes Official`**
 
-<blockquote>Have you tried creating any shortcuts yet? If so, which ones are your favorites?</blockquote>
+<blockquote>Navigating Through Challenges and Discovering the Path to Success</blockquote>
 
 <h3>2. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +502,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Swift 6’s Concurrency Rules Make the Singleton Pattern a Risky Move, and What to Use Instead</blockquote>
 
-<h3>4. 18 Hidden NEW Features in iOS 18 You Didn’t Know About - <a href="https://medium.com/macoclock/18-hidden-new-features-in-ios-18-you-didnt-know-about-8d594b75f90a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. CI/CD on iOS Development using Xcode Cloud - <a href="https://medium.com/@pebruwantoro.doni/ci-cd-on-ios-development-using-xcode-cloud-5595bd5ecd51" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Useful Tech`**
+✍️ **posted by `Doni Pebruwantoro`**
 
-<blockquote>Think you know everything about iOS 18? Think Again</blockquote>
+<blockquote>This is my first time playing Xcode Cloud for CI/CD. CI/CID makes it easy for developers to iterate during the development process. Using…</blockquote>
 
 <h3>5. Jailbreak your Enemies with a Link: Remote Execution on iOS - <a href="https://medium.com/gitconnected/jailbreak-your-enemies-with-a-link-remote-execution-on-ios-710323cd4d95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Atomic ConfigMap Updates in Kubernetes: How Symlinks and Kubelet Make It Happen - <a href="https://medium.com/itnext/atomic-configmap-updates-in-kubernetes-how-symlinks-and-kubelet-make-it-happen-21a44338c247" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I finally had courage to publish my first book “DevOps Question bank” - <a href="https://medium.com/illumination/i-finally-had-courage-to-publish-my-first-book-devops-question-bank-fa18434123ef" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gulcan Topcu`**
+✍️ **posted by `Deep -- Cloud / DevOps Engineer`**
 
-<blockquote>TL;DR If you mount a ConfigMap as a volume, Kubernetes automatically updates the file system when the ConfigMap changes. However, if you’re…</blockquote>
+<blockquote>Story of my first Book</blockquote>
 
 <h3>2. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>All Infrastructure as Code tools face common fundamental challenges regardless of their supported configuration generation languages.</blockquote>
 
-<h3>4. Kubernetes Basics : Understanding Nodes, Pods, and Control Planes - <a href="https://medium.com/@hyk.hninyukhaing/kubernetes-basics-understanding-nodes-pods-and-control-planes-88ea079debf3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Observability in Kubernetes - <a href="https://medium.com/@techwithpatil/observability-in-kubernetes-5d7c11d54084" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hnin Yu Khaing`**
+✍️ **posted by `techwithpatil`**
 
-<blockquote>Nowadays, Users expect not to have downtime for the application they are using. On the other hand, developers want continuous integration…</blockquote>
+<blockquote>What Is Kubernetes Observability?</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
