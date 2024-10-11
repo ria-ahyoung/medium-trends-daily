@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/10)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/11)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -324,11 +324,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Introduction to DirectX 12 Graphics Engine : Part 1 - <a href="https://medium.com/@cybeaster/introduction-to-directx-12-graphics-engine-part-1-2ecdf5e6e4c0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Make the Switch from Software Engineer to ML Engineer - <a href="https://medium.com/towards-data-science/make-the-switch-from-software-engineer-to-ml-engineer-7a4948730c97" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kirill Valitskii`**
+✍️ **posted by `Kartik Singhal`**
 
-<blockquote>Over time, many game engines have evolved into complex systems with numerous components such as physics, audio, graphics, input, AI…</blockquote>
+<blockquote>7 steps that helped me transition from a software engineer to Machine Learning engineer</blockquote>
 
 <h3>2. The Rising Tide of Linux Ransomware: Are Your Systems Secure Enough? - <a href="https://medium.com/insightful-echoes/the-rising-tide-of-linux-ransomware-are-your-systems-secure-enough-98c99fc110ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -343,11 +343,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. Interview with MEDIUM: Celebrating 30 Years of Gullah Gullah Island — Simeon Daise - <a href="https://medium.com/@monajproductionsllc/interview-with-medium-celebrating-30-years-of-gullah-gullah-island-simeon-daise-0491703e91aa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Difference between physical and logical Data Structure. - <a href="https://medium.com/@elshafeim45/the-difference-between-physical-and-logical-data-structure-fac25288e99a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mona J. Entertainment`**
+✍️ **posted by `Mahmoud Salah Elshafei`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Hello everyone, in this article I am just going to give an introduction to physical vs logical Data structure.</blockquote>
 
 <h3>5. Nine Rules for Running Rust in the Browser - <a href="https://medium.com/towards-data-science/nine-rules-for-running-rust-in-the-browser-8228353649d1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -389,17 +389,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. 4 Types of Gaslighting in Families - <a href="https://medium.com/@drjonicewebb/4-types-of-gaslighting-in-families-4a7432c724ab" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 5 Clear Ways To Recognize Healthy Love - <a href="https://medium.com/@jamesmsama/5-clear-ways-to-recognize-healthy-love-487016a06940" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jonice Webb, Author of the Running On Empty Books`**
+✍️ **posted by `James Michael Sama`**
 
-<blockquote>Gaslighting is harmful, yes. But one of the worst kinds happens when your family acts as if your emotions are a burden or don’t matter.</blockquote>
+<blockquote>Look for these green flags.</blockquote>
 
-<h3>2. Could Counseling Fix My Marriage? - <a href="https://medium.com/the-virago/could-counseling-fix-my-marriage-06993f3170ef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How to Become Friends with Your Doctor - <a href="https://medium.com/fourth-wave/how-to-become-friends-with-your-doctor-70aaa885b6e2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Evolving Together`**
+✍️ **posted by `Jackie Rogers`**
 
-<blockquote>Something has to, right?</blockquote>
+<blockquote>And other stupid decisions</blockquote>
 
 <h3>3. I can turn you into poetry, but I cannot make you love me - <a href="https://medium.com/@aa.xien/i-can-turn-you-into-poetry-but-i-cannot-make-you-love-me-84adcf07e792" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,17 +407,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>4. “thank you for the oppurtunity I have to love.” - <a href="https://medium.com/@cherylkoo/thank-you-for-the-oppurtunity-i-have-to-love-8428985b25b6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 4 Types of Gaslighting in Families - <a href="https://medium.com/@drjonicewebb/4-types-of-gaslighting-in-families-4a7432c724ab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `Jonice Webb, Author of the Running On Empty Books`**
 
-<blockquote>I was listening to a podcast wherein listeners get to confess their secrets/things going on in their lives when I stumbled across this…</blockquote>
+<blockquote>Gaslighting is harmful, yes. But one of the worst kinds happens when your family acts as if your emotions are a burden or don’t matter.</blockquote>
 
-<h3>5. The Deadliest of Dante’s Seven Deadly Sins - <a href="https://medium.com/bouncin-and-behavin-blogs/the-deadliest-of-dantes-seven-deadly-sins-754f2a464263" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Fun, Fun, Funeral - <a href="https://medium.com/read-or-die-hq/fun-fun-funeral-0ecd33eb5226" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mai Provencio, LCSW`**
+✍️ **posted by `Rafael Moscatel`**
 
-<blockquote>And It’s More Common Than You Think</blockquote>
+<blockquote>Scotty sensed he wasn’t his parents’ biological son but was discouraged from seeking answers.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -453,11 +453,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Android Stack Weekly — Issue#145 - <a href="https://medium.com/canopas/android-stack-weekly-issue-145-d96b6bfdf850" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Jetpack compose: What Scaffold have and have not - <a href="https://medium.com/proandroiddev/jetpack-compose-what-scaffold-have-and-have-not-f06492eeb63b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Radhika S`**
+✍️ **posted by `Dobri Kostadinov`**
 
-<blockquote>Welcome to Android Weekly — a newsletter on new development and updates of Android universe curated by Canopas team, delivered every Monday</blockquote>
+<blockquote>Unlocking the Power of Scaffold: What It Can and Can’t Do in Jetpack Compose</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -471,11 +471,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>A Step-by-Step Guide to Running Llama 3.2 and Other Large Models on Android Using Ollama</blockquote>
 
-<h3>4. Internal working of Livedata — How does Livedata work internally? - <a href="https://medium.com/@androidrayz/internal-working-of-livedata-how-does-livedata-work-internally-ebf3234b40fc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Is your app ready for Gemini Nano? - <a href="https://medium.com/@suraj.raj/is-your-app-ready-for-gemini-nano-a872721b6a25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `SUMIT KUMAR`**
+✍️ **posted by `Suraj Raj`**
 
-<blockquote>In world of Android development livedata is most famous geek, creating apps that are responsive, lifecycle-aware, and easy to manage is an…</blockquote>
+<blockquote>Gemini Nano was unveiled in December 2023 as part of Google’s Gemini AI family. Lets look at it’s usability in your app.</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -517,23 +517,23 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Monitoring GitHub Repositories with Grafana - <a href="https://medium.com/@jeromexjamals06/monitoring-github-repositories-with-grafana-4a165f90b206" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Jerome X`**
+
+<blockquote>In this blog post, I’ll share my experience setting up Grafana to monitor my GitHub repositories. This project allows me to visualize…</blockquote>
+
+<h3>2. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Houssem Ben Braiek`**
 
 <blockquote>Achieving Google’s MLOps level 2 (or “Automation”) with only self-hosted open-source software (OSS) is an ambitious goal, but it’s…</blockquote>
 
-<h3>2. Machine Learning Operations (MLOps) For Beginners - <a href="https://medium.com/towards-data-science/machine-learning-operations-mlops-for-beginners-a5686bfe02b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Machine Learning Operations (MLOps) For Beginners - <a href="https://medium.com/towards-data-science/machine-learning-operations-mlops-for-beginners-a5686bfe02b2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Prasad Mahamulkar`**
 
 <blockquote>End-to-end Project Implementation</blockquote>
-
-<h3>3. How To Send AWS CloudTrail Events to An External SIEM Platform - <a href="https://medium.com/itnext/how-to-send-aws-cloudtrail-events-to-external-siem-a28e8e04061d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Andrew Blooman`**
-
-<blockquote>Enabling Detection & Response of AWS Logs For Security Teams</blockquote>
 
 <h3>4. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -561,17 +561,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>An inside look at my experience as a Kubernetes Release Team shadow, contributing to versions v1.29, v1.30, and v1.31.</blockquote>
 
-<h3>3. Fundamental challenges with Infrastructure as Code imply the language doesn’t matter - <a href="https://medium.com/itnext/fundamental-challenges-with-infrastructure-as-code-imply-the-language-doesnt-matter-41030475c296" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 9 Mind-Blowing Kubernetes Hacks - <a href="https://medium.com/@contact_81356/9-mind-blowing-kubernetes-hacks-104f4cf9f786" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Brian Grant`**
+✍️ **posted by `Ankush Madaan`**
 
-<blockquote>All Infrastructure as Code tools face common fundamental challenges regardless of their supported configuration generation languages.</blockquote>
+<blockquote>Introduction</blockquote>
 
-<h3>4. Internal Developer Platform: Insights from Conversations with Over 100 Experts - <a href="https://medium.com/itnext/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Scaling Infrastructure for Millions: From Challenges to Triumphs (Part 1) - <a href="https://medium.com/hotstar/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Artem Lajko`**
+✍️ **posted by `Ajaychoudhary`**
 
-<blockquote>Is an Internal Developer Platform the Next Right Step for You?</blockquote>
+<blockquote>Learn about how Disney+ Hotstar scaled the core infrastructure that powers all our services to deliver world class experience for millions.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -581,11 +581,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. STOP using Docker Desktop: Faster Alternative Nobody Uses - <a href="https://medium.com/gitconnected/stop-using-docker-desktop-faster-alternative-nobody-uses-d36a64af09a6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. From Bash to GitLab: Automate Your AWS Security Group Management - <a href="https://medium.com/@mayank-devops/from-bash-to-gitlab-automate-your-aws-security-group-management-b2eccaeafd80" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hayk Simonyan`**
+✍️ **posted by `Mayank Gupta`**
 
-<blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
+<blockquote>Working on cloud infrastructure comes with a unique set of challenges, especially when it comes to securing your resources from bad actors…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
