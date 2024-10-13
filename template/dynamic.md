@@ -18,11 +18,11 @@
 
 <blockquote>In this article, we’ll explore how to implement these design patterns in a React application using functional components and hooks. By the…</blockquote>
 
-<h3>4. Turn Your Image into a 3D CubeMap - <a href="https://medium.com/@Ashish_Negi/turn-your-image-into-a-3d-cubemap-370c632b1c21" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Access Your React App on Another Device in the Same Network in 5 steps - <a href="https://medium.com/@saivinai9050/how-to-access-your-react-app-on-another-device-in-the-same-network-in-5-steps-e3d2e5838ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashish Negi`**
+✍️ **posted by `Sai Vinai`**
 
-<blockquote>Easily transform images into 3D CubeMaps to enhance your projects with stunning visuals!</blockquote>
+<blockquote>If you want to access your React app on multiple devices within the same network (either Wi-Fi or Ethernet), here’s a guide to help you…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -70,29 +70,29 @@
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Rakshagarambha`**
-
-<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
-
-<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shailesh Chauhan`**
-
-<blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
-
-<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Erma Winter`**
 
 <blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
 
-<h3>5. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Consagoustech`**
+✍️ **posted by `Rakshagarambha`**
 
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
+
+<h3>4. Why Adobe XD Couldn’t Compete Against Figma? - <a href="https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Kumarisakshi`**
+
+<blockquote>Adobe XD and Figma are two of the most popular UI/UX design tools in the market today, each with its own set of strengths and weaknesses…</blockquote>
+
+<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shailesh Chauhan`**
+
+<blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
@@ -289,17 +289,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. All Island Startup Momentum - <a href="https://medium.com/@ianjbrowne/all-island-startup-momentum-41b4039ff468" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. OpenAI Unveils Swarm Framework: An Experimental AI Framework for Building, Orchestrating, and… - <a href="https://medium.com/@naumankhalid217/openai-unveils-swarm-framework-an-experimental-ai-framework-for-building-orchestrating-and-73ae4c736ab4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ian Browne`**
+✍️ **posted by `Nauman Khalid`**
 
-<blockquote>To make a startup successful beyond your borders means breaking the rules of physics. It requires bending space to bring markets closer…</blockquote>
+<blockquote>The Challenge of Multi-Agent Systems</blockquote>
 
-<h3>2. AI-Generated Images Are Taking Over Google Image Results - <a href="https://medium.com/generative-ai/ai-generated-images-are-taking-over-google-image-results-a53aed48e227" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Top 3 Pixel Art Zelda Games - <a href="https://medium.com/@xander51/the-top-3-pixel-art-zelda-games-38b16e9e0390" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jim Clyde Monge`**
+✍️ **posted by `Alex Rowe`**
 
-<blockquote>Google’s Image search result is now flooded with AI-generated images. Here’s how Google plans to mitigate this issue.</blockquote>
+<blockquote>You should probably just play all of them</blockquote>
 
 <h3>3. An Honest Recruiter Told Me Why Most Job Seekers Don’t Get Hired - <a href="https://medium.com/entrepreneur-s-handbook/an-honest-recruiter-told-me-why-most-job-seekers-dont-get-hired-2db543d9b21b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -307,31 +307,31 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>If you want a great job, you need some tough love. Here it is.</blockquote>
 
-<h3>4. Are Return-To-Office Mandates Really Just Mass Layoffs In Disguise? - <a href="https://medium.com/entrepreneur-s-handbook/are-return-to-office-mandates-really-just-mass-layoffs-in-disguise-d7c27dcb76d6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Cracking the Coding Interview - <a href="https://medium.com/@sahilbansal17/cracking-the-coding-interview-7f0bf0e9263b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joe Procopio`**
+✍️ **posted by `Sahil Bansal`**
 
-<blockquote>Amazon’s Recent RTO Mandate Is Not Going Over Well. Or Is It?</blockquote>
+<blockquote>5 Steps To Intuition Buliding.</blockquote>
 
-<h3>5. DOJ’s Ad Tech Case Will Come Down to Whether Google Has a Duty to Help its Rivals - <a href="https://medium.com/chamber-of-progress/dojs-ad-tech-case-will-come-down-to-whether-google-has-a-duty-to-help-its-rivals-0ed0294f7065" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How Uber Eats makes you think you want to order food - <a href="https://medium.com/user-experience-design-1/how-uber-eats-makes-you-think-you-want-to-order-food-c943a9dbfb93" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vidushi Dyall`**
+✍️ **posted by `Max Matsinger`**
 
-<blockquote>Trial showed that while ad tech competitors are unhappy, publishers and advertisers still benefitted</blockquote>
+<blockquote>Apps like Uber Eats aren’t just about convenience; they’re designed to make food delivery a habit you don’t even think about.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Heartbreak and Lessons: Reflections on a Six-Month Relationship - <a href="https://medium.com/@Chikamaduekwe/heartbreak-and-lessons-reflections-on-a-six-month-relationship-750d0e23b2ac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. About A Girl (The Ballad Of A Loser In Love) - <a href="https://medium.com/@shauryasawant5/about-a-girl-the-ballad-of-a-loser-in-love-0b2b0f62fe55" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chikadibia Jessica Maduekwe`**
+✍️ **posted by `Shaurya`**
 
 <blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>2. Love Is the Longest Farewell - <a href="https://medium.com/@johnfgorman/love-is-the-longest-farewell-3771f6911664" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Fake Fun At Work Made Me Miserable - <a href="https://medium.com/career-paths/fake-fun-at-work-made-me-miserable-7bde2686ee10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `John Gorman`**
+✍️ **posted by `Victoria Corindi 🌻`**
 
-<blockquote>Space, time, and what we do with what leaves us.</blockquote>
+<blockquote>When costume contests and party games backfire, it’s more than just awkward — it’s hurting morale</blockquote>
 
 <h3>3. I can turn you into poetry, but I cannot make you love me - <a href="https://medium.com/@aa.xien/i-can-turn-you-into-poetry-but-i-cannot-make-you-love-me-84adcf07e792" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -339,17 +339,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>4. Understanding Your Role in the BPD Relationship - <a href="https://medium.com/invisible-illness/understanding-your-role-in-the-bpd-relationship-0a54ecc4b4d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Ten Things to Type During Sexting - <a href="https://medium.com/the-pub/ten-things-to-type-during-sexting-0d93bb5934a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Annie Tanasugarn, PhD`**
+✍️ **posted by `Debdutta Pal`**
 
-<blockquote>Why they may choose you as their “Favorite Person”</blockquote>
+<blockquote>The anxious, socially awkward, and hopeless romantic edition</blockquote>
 
-<h3>5. Strange Readings - <a href="https://medium.com/the-interstitial/strange-readings-956e9a79e711" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Feeling Alone in Parenthood: When Marriage Doesn’t Mean Shared Parenting - <a href="https://medium.com/the-parenting-portal/feeling-alone-in-parenthood-when-marriage-doesnt-mean-shared-parenting-8bdaab376b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `J.D. Harms`**
+✍️ **posted by `Kelly Gawitt`**
 
-<blockquote>Little bits of resistance</blockquote>
+<blockquote>Breaking the resentment cycle</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -371,7 +371,7 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Flet’s New Mobile Packaging Architecture - <a href="https://medium.com/python-in-plain-english/flets-new-mobile-packaging-architecture-ca6a5ebc34d5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Flet’s New Mobile Packaging Architecture - <a href="https://medium.com/@ndonkohenri/flets-new-mobile-packaging-architecture-ca6a5ebc34d5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Henri Ndonko`**
 
@@ -385,11 +385,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Yet Another Approach to Deeplink Handling (flexible and typesafe) - <a href="https://medium.com/@antondudakov/yet-another-approach-to-deeplink-handling-flexible-and-typesafe-9e01716a9fa6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Complete Guide: Installing Ruby on Rails on Android with Termux - <a href="https://medium.com/@andrianrizkieffendi/complete-guide-installing-ruby-on-rails-on-android-with-termux-80b7398eed12" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anton Dudakov`**
+✍️ **posted by `Andrian Rizki`**
 
-<blockquote>Using power of KSP to generate Deeplink classes from the declared deeplinks</blockquote>
+<blockquote>Rails On Termux</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -397,17 +397,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>Ask not what you can do for your compiler, ask what your compiler can do for you. In this article I will show what Kotlin tools actually…</blockquote>
 
-<h3>3. How to Run Llama 3.2 on Android Phone - <a href="https://medium.com/@researchgraph/how-to-run-llama-3-2-on-android-phone-64be7783c89f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top 10 MVVM Mistakes We All Have Made - <a href="https://medium.com/proandroiddev/top-10-mvvm-mistakes-we-all-have-made-ab8fa322ce29" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Research Graph`**
+✍️ **posted by `Dobri Kostadinov`**
 
-<blockquote>A Step-by-Step Guide to Running Llama 3.2 and Other Large Models on Android Using Ollama</blockquote>
+<blockquote>Common Pitfalls in Implementing the Model-View-ViewModel Pattern in Android and How to Avoid Them</blockquote>
 
-<h3>4. Harnessing Custom Annotations in Android for Performance Monitoring - <a href="https://medium.com/@akshaykotecha79/harnessing-custom-annotations-in-android-for-performance-monitoring-03fb434f686a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 🕵️‍♂️ The Curious Case of the Synchronized Block: Optimizing Your Barcode Scanner App - <a href="https://medium.com/@aaarke/️-️-the-curious-case-of-the-synchronized-block-optimizing-your-barcode-scanner-app-242640e25ac2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Akshay Kotecha`**
+✍️ **posted by `roshan kumar`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Have you ever built a real-time feature in your app, like a barcode scanner, only to notice it starts freezing or lagging at the worst…</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -449,11 +449,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. F1 Practices and Platform Engineering: Why Slow and Steady Won’t Win You the Race - <a href="https://medium.com/@nilesh93/f1-practices-and-platform-engineering-why-slow-and-steady-wont-win-you-the-race-90e82df5095c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Monitoring GitHub Repositories with Grafana - <a href="https://medium.com/@jeromexjamals06/monitoring-github-repositories-with-grafana-4a165f90b206" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nilesh Jayanandana`**
+✍️ **posted by `Jerome X`**
 
-<blockquote>In the world of Formula 1 (F1), speed, precision, and agility are not just buzzwords — they’re a way of life. Every millisecond matters…</blockquote>
+<blockquote>In this blog post, I’ll share my experience setting up Grafana to monitor my GitHub repositories. This project allows me to visualize…</blockquote>
 
 <h3>2. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -467,11 +467,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>End-to-end Project Implementation</blockquote>
 
-<h3>4. Monitoring GitHub Repositories with Grafana - <a href="https://medium.com/@jeromexjamals06/monitoring-github-repositories-with-grafana-4a165f90b206" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Reviewbot — Boost Your Code Quality with Self-Hosted Automated Analysis and Review - <a href="https://medium.com/@dacarl.ji/reviewbot-boost-your-code-quality-with-self-hosted-automated-analysis-and-review-83d8a459eb70" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jerome X`**
+✍️ **posted by `Ji Carl`**
 
-<blockquote>In this blog post, I’ll share my experience setting up Grafana to monitor my GitHub repositories. This project allows me to visualize…</blockquote>
+<blockquote>Looking to build a self-hosted code review service? Try Reviewbot, now open-sourced!</blockquote>
 
 <h3>5. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -513,11 +513,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Running Web API with MS SQL Server and Redis in Docker using Docker Compose - <a href="https://medium.com/@bohdan.harabadzhyu/running-web-api-with-ms-sql-server-and-redis-in-docker-using-docker-compose-9a3271bea9ee" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. From Bash to GitLab: Automate Your AWS Security Group Management - <a href="https://medium.com/@mayank-devops/from-bash-to-gitlab-automate-your-aws-security-group-management-b2eccaeafd80" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bohdan Harabadzhyu`**
+✍️ **posted by `Mayank Gupta`**
 
-<blockquote>Advantages of Docker</blockquote>
+<blockquote>Working on cloud infrastructure comes with a unique set of challenges, especially when it comes to securing your resources from bad actors…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +531,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>End-to-end Project Implementation</blockquote>
 
-<h3>4. How to Deploy Machine Learning Models Using Docker and AWS: A Step-by-Step Guide - <a href="https://medium.com/@pranjalkhadka/how-to-deploy-machine-learning-models-using-docker-and-aws-a-step-by-step-guide-c5b17ee24b1e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Setting Up a Private Podman Registry and Linking It with Cloudflare Tunnel - <a href="https://medium.com/@waelmuhammed12/setting-up-a-local-podman-registry-and-linking-it-with-cloudflare-24893bf1d2c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pranjal Khadka`**
+✍️ **posted by `Wail Al-Asad`**
 
-<blockquote>Machine learning models are often developed in controlled environments where dependencies, libraries, and configurations are manually set…</blockquote>
+<blockquote>In today’s containerized world, container registries are essential for managing container images. While public registries like Docker Hub…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
