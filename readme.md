@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/14)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/15)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Learn React Hooks with Examples - <a href="https://medium.com/@kadaparaghavendra/react-hooks-with-examples-f129690c8f8b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Enhancing Data Privacy Protection in Indonesia: Integrating Next.js - <a href="https://medium.com/@muhammadsadewawicaksanawibowo/enhancing-data-privacy-protection-in-indonesia-integrating-next-js-595d9c46b4f3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Raghavendra`**
+✍️ **posted by `Muhammad Sadewa Wicaksana Wibowo`**
 
-<blockquote>Certainly! React hooks are functions that let you “hook into” React state and lifecycle features from function components. They were…</blockquote>
+<blockquote>This story start when in my current jobs there are regulations to add some security in data privacy because of the government regulations…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In this article, we’ll explore how to implement these design patterns in a React application using functional components and hooks. By the…</blockquote>
 
-<h3>4. Portals in React: Enhancing Your UI with Out-of-Bounds Rendering - <a href="https://medium.com/@ashutosh7246/portals-in-react-enhancing-your-ui-with-out-of-bounds-rendering-c73591686327" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Project — Mark Notes[MERN Stack] - <a href="https://medium.com/@vinayaksannaik01/project-mark-notes-mern-stack-55a96f699591" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashutosh`**
+✍️ **posted by `Vinayak Sannaik`**
 
-<blockquote>What Are Portals?</blockquote>
+<blockquote>High-level overview of the architecture and system design:</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -138,37 +138,37 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Erma Winter`**
-
-<blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
-
-<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Rakshagarambha`**
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. Why Adobe XD Couldn’t Compete Against Figma? - <a href="https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`**
-
-<blockquote>Adobe XD and Figma are two of the most popular UI/UX design tools in the market today, each with its own set of strengths and weaknesses…</blockquote>
-
-<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
 
+<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Erma Winter`**
+
+<blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
+
+<h3>5. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Consagoustech`**
+
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Mastering JavaScript Loops - <a href="https://medium.com/javascript-in-plain-english/mastering-javascript-loops-d0f0599ac02c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Exploring the Cache API: Supercharge Your Web App’s Performance - <a href="https://medium.com/javascript-in-plain-english/exploring-the-cache-api-supercharge-your-web-apps-performance-532df0018edd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hayk Simonyan`**
+✍️ **posted by `Hima Chitalia`**
 
-<blockquote>Learn how to use JavaScript loops like for, while, and do…while to handle repetitive tasks efficiently.</blockquote>
+<blockquote>When it comes to enhancing the performance of web applications, caching is one of the most effective techniques. The Cache API is a…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. Introduction to DOM Manipulation - <a href="https://medium.com/@nathanielmusa3/introduction-to-dom-manipulation-e0dcf58e77c1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Chapter 21:Mastering the Do While Loop and Nested Do While Loop in JavaScript: A Complete Guide - <a href="https://medium.com/javascript-in-plain-english/chapter-21-mastering-the-do-while-loop-and-nested-do-while-loop-in-javascript-a-complete-guide-4dbb1337f0ee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nathaniel musa`**
+✍️ **posted by `Aryan kumar`**
 
-<blockquote>The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the…</blockquote>
+<blockquote>Loops are fundamental building blocks in programming, and JavaScript offers several types of loops to manage repeated actions efficiently…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -324,76 +324,75 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Gaussian Naive Bayes, Explained: A Visual Guide with Code Examples for Beginners - <a href="https://medium.com/towards-data-science/gaussian-naive-bayes-explained-a-visual-guide-with-code-examples-for-beginners-04949cef383c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Ditch Git Checkout: Use Git Switch and Git Restore Instead - <a href="https://medium.com/itnext/ditch-git-checkout-use-git-switch-and-git-restore-instead-8b39cfc53b15" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Samy Baladram`**
+✍️ **posted by `Zachary Lee`**
 
-<blockquote>Bell-shaped assumptions for better predictions</blockquote>
+<blockquote>Simplify Your Version Control with These Modern Git Commands</blockquote>
 
-<h3>2. Decision Tree Regressor, Explained: A Visual Guide with Code Examples - <a href="https://medium.com/towards-data-science/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Nine Rules for Running Rust on Embedded Systems - <a href="https://medium.com/towards-data-science/nine-rules-for-running-rust-on-embedded-systems-b0c247ee877e" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Carl M. Kadie`**
+
+<blockquote>Practical Lessons from Porting range-set-blaze to no_std</blockquote>
+
+<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Austin Starks`**
+
+<blockquote>It literally took one try. I was shocked.</blockquote>
+
+<h3>4. Understanding Algorithm Complexity Through 7 Simple Examples of Choosing a Book to Read - <a href="https://medium.com/@emelian1917/understanding-algorithm-complexity-through-7-simple-examples-of-choosing-a-book-to-read-9d82688ca033" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Andy Terekhin`**
+
+<blockquote>When we talk about computers and programming, we often encounter algorithms. Algorithms are like instructions that help computers perform…</blockquote>
+
+<h3>5. Decision Tree Regressor, Explained: A Visual Guide with Code Examples - <a href="https://medium.com/towards-data-science/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Samy Baladram`**
 
 <blockquote>Trimming branches smartly with Cost-Complexity Pruning</blockquote>
 
-<h3>3. Why 500 LeetCode Problems Changed My Life - <a href="https://medium.com/code-like-a-girl/why-500-leetcode-problems-changed-my-life-3b4d5b366508" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Surabhi Gupta`**
-
-<blockquote>How I Prepared for DSA and Secured a Role at Microsoft</blockquote>
-
-<h3>4. Cracking the Coding Interview - <a href="https://medium.com/@sahilbansal17/cracking-the-coding-interview-7f0bf0e9263b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Sahil Bansal`**
-
-<blockquote>5 Steps To Intuition Buliding.</blockquote>
-
-<h3>5. The Rising Tide of Linux Ransomware: Are Your Systems Secure Enough? - <a href="https://medium.com/insightful-echoes/the-rising-tide-of-linux-ransomware-are-your-systems-secure-enough-98c99fc110ea" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Zammaar Malhi`**
-
-<blockquote>The Growing Menace of Linux Ransomware: Are You Ready?
-In the ever-evolving face of cybercrime, ransomware attacks are no longer restricted…</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. OpenAI Unveils Swarm Framework: An Experimental AI Framework for Building, Orchestrating, and… - <a href="https://medium.com/@naumankhalid217/openai-unveils-swarm-framework-an-experimental-ai-framework-for-building-orchestrating-and-73ae4c736ab4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I invented a way to help retail investors find the best stocks in the market. - <a href="https://medium.com/@austin-starks/i-invented-a-way-to-help-retail-investors-find-the-best-stocks-in-the-market-486322191440" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nauman Khalid`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>The Challenge of Multi-Agent Systems</blockquote>
+<blockquote>When trading stocks, many people tend to forget that a stock isn’t an abstract concept and a squiggly green line. They represent…</blockquote>
 
-<h3>2. The Top 3 Pixel Art Zelda Games - <a href="https://medium.com/@xander51/the-top-3-pixel-art-zelda-games-38b16e9e0390" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Apple Keeps Taking Us for a Ride - <a href="https://medium.com/@max_88458/how-apple-keeps-taking-us-for-a-ride-375a02ae654c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex Rowe`**
+✍️ **posted by `Maximilian Engel`**
 
-<blockquote>You should probably just play all of them</blockquote>
+<blockquote>Apple’s sales numbers might dip occasionally, but they remain impressive despite being stingy with specs that matter. Why? Apple’s…</blockquote>
 
-<h3>3. An Honest Recruiter Told Me Why Most Job Seekers Don’t Get Hired - <a href="https://medium.com/entrepreneur-s-handbook/an-honest-recruiter-told-me-why-most-job-seekers-dont-get-hired-2db543d9b21b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. AI: 99% of You Are NOT Ready for What’s Coming in 2027 - <a href="https://medium.com/limitless-investor/ai-99-of-you-are-not-ready-for-whats-coming-in-2027-8994ca390a12" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joe Procopio`**
+✍️ **posted by `Henrique Centieiro & Bee Lee`**
 
-<blockquote>If you want a great job, you need some tough love. Here it is.</blockquote>
+<blockquote>AI’s Insane Leap — You Likely Don’t Want to Be Left Behind</blockquote>
 
-<h3>4. Cracking the Coding Interview - <a href="https://medium.com/@sahilbansal17/cracking-the-coding-interview-7f0bf0e9263b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Scammed and Ashamed, Just Me and My Smart Phone - <a href="https://medium.com/the-narrative-arc/scammed-and-ashamed-just-me-and-my-smart-phone-4263dc100f5e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sahil Bansal`**
+✍️ **posted by `Debra G. Harman, MEd.`**
 
-<blockquote>5 Steps To Intuition Buliding.</blockquote>
+<blockquote>No one can hack me, no way! (way)</blockquote>
 
-<h3>5. How Uber Eats makes you think you want to order food - <a href="https://medium.com/user-experience-design-1/how-uber-eats-makes-you-think-you-want-to-order-food-c943a9dbfb93" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Understanding Loss and Loss Functions - <a href="https://medium.com/thedeephub/understanding-loss-and-loss-functions-c1839f110840" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Max Matsinger`**
+✍️ **posted by `Francesco Franco`**
 
-<blockquote>Apps like Uber Eats aren’t just about convenience; they’re designed to make food delivery a habit you don’t even think about.</blockquote>
+<blockquote>When you’re training supervised machine learning models, you often hear about a loss function that is minimized, that must be chosen, and…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. About A Girl (The Ballad Of A Loser In Love) - <a href="https://medium.com/@shauryasawant5/about-a-girl-the-ballad-of-a-loser-in-love-0b2b0f62fe55" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Society Isn’t Made for Singles Like Me - <a href="https://medium.com/the-random-nerdiness-collective/society-isnt-made-for-singles-like-me-207e57a1e905" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shaurya`**
+✍️ **posted by `Riley York`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>My single-serving life and how ‘The Single Tax’ stacks life against us</blockquote>
 
 <h3>2. Fake Fun At Work Made Me Miserable - <a href="https://medium.com/career-paths/fake-fun-at-work-made-me-miserable-7bde2686ee10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -401,17 +400,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>When costume contests and party games backfire, it’s more than just awkward — it’s hurting morale</blockquote>
 
-<h3>3. I can turn you into poetry, but I cannot make you love me - <a href="https://medium.com/@aa.xien/i-can-turn-you-into-poetry-but-i-cannot-make-you-love-me-84adcf07e792" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Dating the “Test and Apologize” Type - <a href="https://medium.com/heart-affairs/dating-the-test-and-apologize-type-0b532dab62bb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Xien`**
+✍️ **posted by `Dana DuBois`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>The test is in earnest. The apology never is. Or is it?</blockquote>
 
-<h3>4. Ten Things to Type During Sexting - <a href="https://medium.com/the-pub/ten-things-to-type-during-sexting-0d93bb5934a2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. My Mother, the Girl - <a href="https://medium.com/imogenes-notebook/my-mother-the-girl-96196267ceda" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Debdutta Pal`**
+✍️ **posted by `Ema Dumitru`**
 
-<blockquote>The anxious, socially awkward, and hopeless romantic edition</blockquote>
+<blockquote>A poem</blockquote>
 
 <h3>5. Feeling Alone in Parenthood: When Marriage Doesn’t Mean Shared Parenting - <a href="https://medium.com/the-parenting-portal/feeling-alone-in-parenthood-when-marriage-doesnt-mean-shared-parenting-8bdaab376b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -421,17 +420,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Automatically Get Type Safe Colors and Images in Xcode - <a href="https://medium.com/@jpmtech/automatically-get-type-safe-colors-and-images-in-xcode-8bff1a5f09cf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Working on backend as a seasoned Mobile Engineer - <a href="https://medium.com/stackademic/working-on-backend-as-a-seasoned-mobile-engineer-2e2aaf85b019" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chase`**
+✍️ **posted by `Waleed Arshad`**
 
-<blockquote>Using the built in auto-generated type safety can be a great way to reduce dependencies in your code base, and future-proof your projects…</blockquote>
+<blockquote>Backend engineers, in my personal opinion, are better product engineers — I might be wrong though</blockquote>
 
-<h3>2. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Roman Ismagilov`**
+✍️ **posted by `Gil Avraham`**
 
-<blockquote>This tutorial is structured to present the easiest and most impactful solutions first. The later sections cover solutions that are harder…</blockquote>
+<blockquote>End-to-end (E2E) testing of a mobile application can be challenging due to the many variables involved. Mobile apps rely on both a frontend…</blockquote>
 
 <h3>3. Advanced Flutter Techniques Every Mobile Developer Should Know - <a href="https://medium.com/@imsnehalsingh/advanced-flutter-techniques-every-mobile-developer-should-know-3e779cbc603c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,25 +438,25 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. UI and UX Capabilities: Who Comes Out on Top — Flutter or React Native? - <a href="https://medium.com/@shahzebkhalid97/ui-and-ux-capabilities-who-comes-out-on-top-flutter-or-react-native-646292bca335" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Automatically Get Type Safe Colors and Images in Xcode - <a href="https://medium.com/@jpmtech/automatically-get-type-safe-colors-and-images-in-xcode-8bff1a5f09cf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shahzebkhalid`**
+✍️ **posted by `Chase`**
 
-<blockquote>When deciding between React Native and Flutter, there are way too many factors to consider. You could look at it form a business…</blockquote>
+<blockquote>Using the built in auto-generated type safety can be a great way to reduce dependencies in your code base, and future-proof your projects…</blockquote>
 
-<h3>5. Most Free Promotion Advice Is Nonsense. Here’s What Worked For Us - <a href="https://medium.com/better-marketing/most-free-promotion-advice-is-nonsense-heres-what-worked-for-us-456ddc928a7c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ILFAT K`**
+✍️ **posted by `Roman Ismagilov`**
 
-<blockquote>Guys, I can’t stand those articles on free promotion anymore because they’re just full of bullshit.</blockquote>
+<blockquote>This tutorial is structured to present the easiest and most impactful solutions first. The later sections cover solutions that are harder…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Complete Guide: Installing Ruby on Rails on Android with Termux - <a href="https://medium.com/@andrianrizkieffendi/complete-guide-installing-ruby-on-rails-on-android-with-termux-80b7398eed12" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Bypassing Location Restrictions on a Android App Using Frida - <a href="https://medium.com/@omdubey170/hello-pentester-07209d5d8d42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrian Rizki`**
+✍️ **posted by `Omdubey`**
 
-<blockquote>Rails On Termux</blockquote>
+<blockquote>Hello, Pentester! In this post, I’ll take you through an intriguing journey of bypassing location restrictions in Android applications…</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -471,11 +470,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>Common Pitfalls in Implementing the Model-View-ViewModel Pattern in Android and How to Avoid Them</blockquote>
 
-<h3>4. 🕵️‍♂️ The Curious Case of the Synchronized Block: Optimizing Your Barcode Scanner App - <a href="https://medium.com/@aaarke/️-️-the-curious-case-of-the-synchronized-block-optimizing-your-barcode-scanner-app-242640e25ac2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Subcomposition in Jetpack Compose: How to Use Measurement Phase Data in Other Children - <a href="https://medium.com/@olivervicente/subcomposition-in-jetpack-compose-how-to-use-measurement-phase-data-in-other-children-3965d700af8b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `roshan kumar`**
+✍️ **posted by `Oliver Vicente`**
 
-<blockquote>Have you ever built a real-time feature in your app, like a barcode scanner, only to notice it starts freezing or lagging at the worst…</blockquote>
+<blockquote>Subcomposition in Jetpack Compose is an advanced concept that allows developers to use measurement data from composables that aren’t…</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -485,35 +484,35 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. iOS UI Tests impact analysis via code coverage tool - <a href="https://medium.com/@artsiomkarseka_35157/ios-ui-tests-impact-analysis-via-code-coverage-tool-acf4ede636dc" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Artsiom Karseka`**
-
-<blockquote>Streamlining UI tests selection in a project without QA team</blockquote>
-
-<h3>2. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `David Lewis`**
 
 <blockquote>Getting to know the latest flagship from Apple</blockquote>
 
-<h3>3. 18 Hidden NEW Features in iOS 18 You Didn’t Know About - <a href="https://medium.com/macoclock/18-hidden-new-features-in-ios-18-you-didnt-know-about-8d594b75f90a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 18 Hidden NEW Features in iOS 18 You Didn’t Know About - <a href="https://medium.com/macoclock/18-hidden-new-features-in-ios-18-you-didnt-know-about-8d594b75f90a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `The Useful Tech`**
 
 <blockquote>Think you know everything about iOS 18? Think Again</blockquote>
 
-<h3>4. Uncovering URLSession — Cookies Management (Part 1) 🍪 - <a href="https://medium.com/@yeltsingama/uncovering-urlsession-cookies-management-part-1-67405496c8a5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Excluding Files from iCloud Backups in iOS - <a href="https://medium.com/@giulio.caggegi/excluding-files-from-icloud-backups-in-ios-78f3c64f26da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yeltsin Gama`**
+✍️ **posted by `Giulio Caggegi`**
 
-<blockquote>When making an HTTP request using URLSession, more factors come into play than simply sending a URLRequest and handling a URLResponse…</blockquote>
+<blockquote>The Nitty-Gritty You Didn’t Know You Needed</blockquote>
 
-<h3>5. Jailbreak your Enemies with a Link: Remote Execution on iOS - <a href="https://medium.com/gitconnected/jailbreak-your-enemies-with-a-link-remote-execution-on-ios-710323cd4d95" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Jailbreak your Enemies with a Link: Remote Execution on iOS - <a href="https://medium.com/gitconnected/jailbreak-your-enemies-with-a-link-remote-execution-on-ios-710323cd4d95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jacob Bartlett`**
 
 <blockquote>The Trident Exploit Chain deep-dive</blockquote>
+
+<h3>5. Cleaner Guru iPhone App Review: Is it Safe, Free? Complaints? - <a href="https://medium.com/@best-software/cleaner-guru-iphone-app-review-is-it-safe-free-complaints-41ed35d5ba12" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Best Software (Mac, Windows, iOS)`**
+
+<blockquote>Cleaner Guru App: An In-Depth Review Based on Personal Experience</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
@@ -581,11 +580,11 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Building and Deploying a Dockerized Web Application - <a href="https://medium.com/@alexiscloud/building-and-deploying-a-dockerized-web-application-d8e251ef8d62" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Let’s create an Apache Web Server in a Docker Container - <a href="https://medium.com/devops-dev/lets-create-an-apache-web-server-in-a-docker-container-9eea68af26d0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aung Ko Htet`**
+✍️ **posted by `Alhaji Bah`**
 
-<blockquote>In today’s fast-paced development world, containerization has become a crucial skill for developers and DevOps professionals alike. In this…</blockquote>
+<blockquote>Level Up Solutions is a dynamic technology company that offers innovative web solutions to its clients. After careful analysis of improving…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -593,17 +592,17 @@ In the ever-evolving face of cybercrime, ransomware attacks are no longer restri
 
 <blockquote>Keep your containers vulnerability free and securely configured</blockquote>
 
-<h3>3. Machine Learning Operations (MLOps) For Beginners - <a href="https://medium.com/towards-data-science/machine-learning-operations-mlops-for-beginners-a5686bfe02b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. STOP using Docker Desktop: Faster Alternative Nobody Uses - <a href="https://medium.com/gitconnected/stop-using-docker-desktop-faster-alternative-nobody-uses-d36a64af09a6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prasad Mahamulkar`**
+✍️ **posted by `Hayk Simonyan`**
 
-<blockquote>End-to-end Project Implementation</blockquote>
+<blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Deploy MERN Stack App On AWS EC2 Using GitHub Actions - <a href="https://medium.com/@sijomthomas05/deploy-mern-stack-app-on-aws-ec2-using-github-actions-a189a6b88c55" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to install Docker in Ubuntu - <a href="https://medium.com/@s-zainrashid98/how-to-not-install-docker-in-ubuntu-84210e1c73bf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sijo M Thomas`**
+✍️ **posted by `Syed Zain Rashid`**
 
-<blockquote>In this blog post, we will walk through the process of deploying a MERN stack application on an AWS EC2 instance using GitHub Actions for…</blockquote>
+<blockquote>Why Docker?</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
