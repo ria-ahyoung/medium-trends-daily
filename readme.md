@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/17)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/18)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Create an Anime Dashboard with React, Jikan API, TailwindCSS & Chart.js Part — I - <a href="https://medium.com/@tarimbilal4/build-a-stunning-anime-dashboard-with-reactjs-using-jikan-api-tailwindcss-firebase-and-chart-js-a2750437f903" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. What is React? State? Props? Components? and Rendering? - <a href="https://medium.com/@edainalisil/what-is-react-state-components-and-rendering-829f86473384" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tahrim Bilal`**
+✍️ **posted by `Eda Işıl İnal`**
 
-<blockquote>Create a dynamic anime dashboard in ReactJS using Jikan API, TailwindCSS, Firebase for data, and Chart.js for interactive visualizations.</blockquote>
+<blockquote>What is React?</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -80,17 +80,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
 
-<h3>3. React Like a Pro: Mastering Best Practices in 2024 - <a href="https://medium.com/@apicraft/react-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React Concepts Put You In The Top 5% Of All React Developers (Ep 2) - <a href="https://medium.com/gitconnected/react-concepts-put-you-in-the-top-5-of-all-react-developers-ep-2-dd25ec774f8d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammed Tawfik`**
+✍️ **posted by `Imran Farooq`**
 
-<blockquote>React, the undisputed champion of web UI development, empowers you to build dynamic and user-centric interfaces. But with this power comes…</blockquote>
+<blockquote>So as promised in part 1 of this article’s series let’s now understand component instances and React elements with the help of the code…</blockquote>
 
-<h3>4. Use this way to integrate your New Relic browser agent in React App. - <a href="https://medium.com/@shahkarkhan/use-this-way-to-integrate-your-new-relic-browser-agent-in-react-app-5dabde4841ef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Modular Architecture with React and Atomic Design: Advanced Techniques and Hands-On… - <a href="https://medium.com/@abdulnasirolcan/mastering-modular-architecture-with-react-and-atomic-design-advanced-techniques-and-hands-on-93e649654a06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shahkar khan`**
+✍️ **posted by `Abdulnasır Olcan`**
 
-<blockquote>In the fast-paced world of web development, ensuring the performance and reliability of your applications is paramount. React, a popular…</blockquote>
+<blockquote>When structuring React applications, the Atomic Design Pattern offers a robust methodology for breaking down UIs into a hierarchical…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Basic GitHub OAuth Authentication with Next.js and next-auth - <a href="https://medium.com/gogrow/basic-github-oauth-authentication-with-next-js-and-next-auth-54c0947bc02b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building a Global Mute Toggle Button with Zustand, React, and Next.js - <a href="https://medium.com/@codermo/building-a-global-mute-toggle-button-with-zustand-react-and-next-js-4a38d8afea6d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pablo Haller`**
+✍️ **posted by `Mo Sharif`**
 
-<blockquote>Ever wondered how to easily set-up authentication with Next.js?</blockquote>
+<blockquote>Ever wanted to add a global mute/unmute button to your app without going through every single component to manage it? Let’s build a clean…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>React 19 is shaping up to be an important update, enhancing the performance and developer experience introduced in React 18. This new…</blockquote>
 
-<h3>4. From Zero to Hired: Crafting an AI-Powered Dev Blog Generator — Chapter 4 - <a href="https://medium.com/@ivanhuay/from-zero-to-hired-crafting-an-ai-powered-dev-blog-generator-chapter-4-cc99dcbad4e3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Integrating reCAPTCHA in Next.js 14: A Step-by-Step Guide - <a href="https://medium.com/@nisalrenuja/integrating-recaptcha-in-next-js-14-a-step-by-step-guide-7a25e61efa2a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ivan huayraña`**
+✍️ **posted by `Nisal Renuja Palliyaguru`**
 
-<blockquote>Chapter 4: Turning Raw Notes into Polished Blog Posts</blockquote>
+<blockquote>Google’s reCAPTCHA is a popular solution designed to protect websites from spam, bots, and abuse by distinguishing between human users and…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -138,11 +138,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why Adobe XD Couldn’t Compete Against Figma? - <a href="https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Erma Winter`**
+✍️ **posted by `Kumarisakshi`**
 
-<blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
+<blockquote>Adobe XD and Figma are two of the most popular UI/UX design tools in the market today, each with its own set of strengths and weaknesses…</blockquote>
 
 <h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -150,11 +150,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. Why Adobe XD Couldn’t Compete Against Figma? - <a href="https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kumarisakshi`**
+✍️ **posted by `Erma Winter`**
 
-<blockquote>Adobe XD and Figma are two of the most popular UI/UX design tools in the market today, each with its own set of strengths and weaknesses…</blockquote>
+<blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
 
 <h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -228,11 +228,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. How to Implement a Payment Module in NestJS - <a href="https://medium.com/@yassinejedidi10/how-to-implement-a-payment-module-in-nestjs-ad402aa7f83d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Secure Your Node.js Applications From Critical Vulnerabilities And Prevent Major Threats - <a href="https://medium.com/@kuldeepyadavky/secure-your-node-js-applications-from-critical-vulnerabilities-and-prevent-major-threats-3906f35111c6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yassinejdidi`**
+✍️ **posted by `Kuldeep Yadav`**
 
-<blockquote>introduction</blockquote>
+<blockquote>A Comprehensive Guide to Fortifying Your Node.js Applications Against Cyber Attacks (Top 10 Critical Vulnerabilities to Identify and…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Node.js has a vibrant ecosystem of npm packages that can significantly enhance your API development process. These packages provide…</blockquote>
 
-<h3>4. Why Deno is the Future of JavaScript Development (and Why You Should Ditch Node) - <a href="https://medium.com/javascript-in-plain-english/why-deno-is-the-future-of-javascript-development-and-why-you-should-ditch-node-1a124c427430" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Running Playwright Test Scripts in CloudifyTests Using Node.js - <a href="https://medium.com/@cloudifylab/running-playwright-test-scripts-in-cloudifytests-using-node-js-fc0f9281632f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Akash Thoriya`**
+✍️ **posted by `CloudifyLabs`**
 
-<blockquote>In the fast-paced world of web development, making the right technology choice can be the difference between smooth sailing and endless…</blockquote>
+<blockquote>CloudifyTests provides a robust cloud-based testing platform that allows developers to execute their tests effortlessly across multiple…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,17 +260,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Ng-News 24/41: effect()’s Future, Angular 💔 Playwright CT - <a href="https://medium.com/ng-news/ng-news-24-41-effect-s-future-angular-playwright-ct-deab07e3ac0c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to become a web3 developer, and learn Solidity, too —  2024 edition - <a href="https://medium.com/@port_dev/how-to-become-a-web3-developer-and-learn-solidity-too-2024-edition-14de16a5151a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ng-news`**
+✍️ **posted by `port`**
 
-<blockquote>The official Angular blog revealed that effects will stay in developer preview for version 19 but will allow Signal updates by default…</blockquote>
+<blockquote>tl;dr</blockquote>
 
-<h3>2. Announcing Deno 2 - <a href="https://medium.com/@denoland/announcing-deno-2-5ef6fa56a743" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. From Atomic Design to Relativistic Interfaces - <a href="https://medium.com/gitconnected/from-atomic-design-to-relativistic-interfaces-0751b0b46832" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deno`**
+✍️ **posted by `Bahul Neel Upadhyaya`**
 
-<blockquote>(Originally published on deno.com/blog.)</blockquote>
+<blockquote>The Future of UI Design?</blockquote>
 
 <h3>3. This New UI Framework Is An Absolute Game Changer😲 - <a href="https://medium.com/coding-beauty/new-shadcn-ui-c28c2251bbe6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,17 +278,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The new shadcn/ui framework completely transforms how we design and build modern web apps.</blockquote>
 
-<h3>4. New JS Operator No Longer Need Try-Catch? - <a href="https://medium.com/@bytefer/new-js-operators-no-longer-need-try-catch-2994a99ccfd3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Can a child experience trauma without knowing that the traumatic event was bad for them? - <a href="https://medium.com/@sajidabibi12546/can-a-child-experience-trauma-without-knowing-that-the-traumatic-event-was-bad-for-them-8962446d3720" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bytefer`**
+✍️ **posted by `Sajida Bibi`**
 
-<blockquote>Why Not Continue Using Traditional Try-Catch Statements?</blockquote>
+<blockquote>While trauma can occur after a single event, it most often develops slowly over years as the body is forced to endure situations that flood…</blockquote>
 
-<h3>5. Mastering Pipes and Filters: A Messaging System Pattern - <a href="https://medium.com/@nadaralp16/mastering-pipes-and-filters-a-messaging-system-pattern-adcfe7ec1c83" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Announcing Deno 2 - <a href="https://medium.com/@denoland/announcing-deno-2-5ef6fa56a743" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nadar Alpenidze`**
+✍️ **posted by `Deno`**
 
-<blockquote>Have you ever found yourself tangled in the complexity of building a processing pipeline, wrestling with how to correctly design a pipeline…</blockquote>
+<blockquote>(Originally published on deno.com/blog.)</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -420,11 +420,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Refactor Flutter Text Form Field Validation with Mixins - <a href="https://medium.com/@praiseajepe/refactor-flutter-text-form-field-validation-with-mixins-e8db182cb400" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Deep Linking Integration with Flutter - <a href="https://medium.com/@gizemgizgg/deep-linking-integration-with-flutter-7072a621b2ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Olawale Ajepe`**
+✍️ **posted by `Gizem Malçok`**
 
-<blockquote>In building mobile applications where input is being taken (through TextField or TextFormField) it is crucial to maintain efficient input…</blockquote>
+<blockquote>Hellooo 🎯🚀 💙 in this article you will learn how to make Deep link integration, one of the most important topics of Flutter.</blockquote>
 
 <h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -432,17 +432,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>End-to-end (E2E) testing of a mobile application can be challenging due to the many variables involved. Mobile apps rely on both a frontend…</blockquote>
 
-<h3>3. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat/flutter-vs-react-native-performance-benchmarks-you-cant-miss-️-2e31905df9b4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Advanced Flutter Techniques Every Mobile Developer Should Know - <a href="https://medium.com/@imsnehalsingh/advanced-flutter-techniques-every-mobile-developer-should-know-3e779cbc603c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Natesh Bhat`**
+✍️ **posted by `Snehal Singh 👩‍💻`**
 
-<blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
+<blockquote>Introduction</blockquote>
 
-<h3>4. TOP 3 App Ideas for Beginner Developers! - <a href="https://medium.com/@stevdza-san/top-3-app-ideas-for-beginner-developers-d74b9e249df7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Securely store data in Mobile operating systems using Flutter - <a href="https://medium.com/@mdminhaziftekhar/securely-store-data-in-mobile-operating-systems-using-flutter-a10fb8b7e3cc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stevdza-San`**
+✍️ **posted by `Md. Minhaz Iftekhar`**
 
-<blockquote>About</blockquote>
+<blockquote>Why should we care about data security in mobile applications?</blockquote>
 
 <h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Testing Coroutines — Simplified - <a href="https://medium.com/@waqasyounis334/testing-coroutines-simplified-ace686331bda" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Deep Linking Integration with Flutter - <a href="https://medium.com/@gizemgizgg/deep-linking-integration-with-flutter-7072a621b2ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Waqas Younis`**
+✍️ **posted by `Gizem Malçok`**
 
-<blockquote>I assume you know how coroutines work and how to get the most out of them.</blockquote>
+<blockquote>Hellooo 🎯🚀 💙 in this article you will learn how to make Deep link integration, one of the most important topics of Flutter.</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Is the native Android world is in trouble?</blockquote>
 
-<h3>4. runTest vs runBlocking — Simplified - <a href="https://medium.com/@waqasyounis334/runtest-vs-runblocking-simplified-fa0108c4641d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Automating Versioning and APK Naming in Gradle for Android Projects - <a href="https://medium.com/@binod.basnet777/automating-versioning-and-apk-naming-in-gradle-for-android-projects-c58e98298ef0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Waqas Younis`**
+✍️ **posted by `Binod Basnet`**
 
-<blockquote>As the name runBlocking suggests, it runs suspending code in blocking manner, means if there is a delay inside runBlocking block, it will…</blockquote>
+<blockquote>When developing Android applications, managing version codes and naming APK files efficiently can simplify your release process and ensure…</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Master SwiftUI StackViews: Visual Guide - <a href="https://medium.com/eclypse/master-swiftui-stackviews-visual-guide-2394eaa91564" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Coordinating Multiple Requests Easily with Async/Await - <a href="https://medium.com/@talbenasuli/coordinating-multiple-requests-easily-with-async-await-939eac4206e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deniz Nessa`**
+✍️ **posted by `Tal Ben Asuli`**
 
-<blockquote>StackViews in SwiftUI are probably the most frequently used UI element. Sometimes aligning the contents of a stack view to your…</blockquote>
+<blockquote>Hey iOS developers! In my previous article, I demonstrated how async/await can help us organize our code to be both cleaner and easier to…</blockquote>
 
 <h3>2. Owners of the Obsolete: Why My iPhone 6S Still Surprises Me in 2024 😲 - <a href="https://medium.com/macoclock/owners-of-the-obsolete-why-my-iphone-6s-still-surprises-me-in-2024-5cbcadea900a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +502,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Cleaner Guru App: An In-Depth Review Based on Personal Experience</blockquote>
 
-<h3>4. 5 Massive New Photos App Features in iOS 18 - <a href="https://medium.com/macoclock/5-massive-new-photos-app-features-in-ios-18-b4c1ba1ea1ed" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. What are some good games that can give you that nostalgic childhood feel? - <a href="https://medium.com/@www.shazim.nawaz/what-are-some-good-games-that-can-give-you-that-nostalgic-childhood-feel-41fa514c983e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Useful Tech`**
+✍️ **posted by `Shazim`**
 
-<blockquote>The Photos App Has Got Its Biggest Upgrade Yet</blockquote>
+<blockquote>Nostalgic gaming</blockquote>
 
 <h3>5. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Building a Helm-Based Microservice Architecture with Centralized Charts - <a href="https://medium.com/@yanphearak.program/building-a-helm-based-microservice-architecture-with-centralized-charts-bc1e55a925ba" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Securing Argo CD in a Multi-Tenant Environment with Application Projects - <a href="https://medium.com/containers-101/securing-argo-cd-in-a-multi-tenant-environment-with-application-projects-39ad30893fd5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yan Phearak`**
+✍️ **posted by `Kostis Kapelonis`**
 
-<blockquote>Managing microservices can be challenging due to the number of services, configurations, and dependencies involved. Helm, a package manager…</blockquote>
+<blockquote>One of Argo CD’s standout features is its powerful user interface (UI) that shows the live status of all applications and the respective…</blockquote>
 
 <h3>2. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. The challenge presented by Secrets in declarative configuration - <a href="https://medium.com/itnext/the-challenge-presented-by-secrets-in-declarative-configuration-193a4d12b08e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Securing Continuous Delivery: Argo CD Threat Detection - <a href="https://medium.com/exness-blog/securing-continuous-delivery-argo-cd-threat-detection-6296f97c9197" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Brian Grant`**
+✍️ **posted by `Mikhail Larin`**
 
-<blockquote>What drives the complexity around the handling of secrets in declarative configuration and what approaches are recommended.</blockquote>
+<blockquote>Explore the techniques our SOC team employs to detect threats in Argo CD</blockquote>
 
 <h3>5. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
