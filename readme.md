@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/20)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/21)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Start Your React Journey with This Simple To-Do Board Project - <a href="https://medium.com/@erangaibj/start-your-react-journey-with-this-simple-to-do-board-project-aba7206c41fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React Essentials: Stale State and Hooks Pitfalls - <a href="https://medium.com/@karim-mokhtar/react-essentials-stale-state-and-hooks-pitfalls-804c8ff174fb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Eranga Irugal Bandara Jayakody`**
+✍️ **posted by `Karim Mokhtar`**
 
-<blockquote>Are you ready to kick off your React journey and build something exciting from scratch? If you’re a complete beginner, the best way to…</blockquote>
+<blockquote>Discover common pitfalls of stale state and hooks in React and learn best practices for optimizing component performance.</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>So as promised in part 1 of this article’s series let’s now understand component instances and React elements with the help of the code…</blockquote>
 
-<h3>4. JSX — The Syntax Extension That Powers React - <a href="https://medium.com/@ofelipedbr/jsx-the-syntax-extension-that-powers-react-ea4b55a18db3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. When to Use Cookies, When to Use Local Storage? - <a href="https://medium.com/abp-community/cookies-vs-local-storage-d31a3132ad4e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Felipe Dumont`**
+✍️ **posted by `Alper Ebiçoğlu`**
 
-<blockquote>JSX stands for JavaScript XML, and it’s the syntax React uses to describe what the UI should look like. It might look like HTML, but it’s…</blockquote>
+<blockquote>When you want to save client-side data on browsers, you can use Cookies or Local Storage of the browser. While these methods look similar…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. AWS: How to Deploy a Simple Next.js Application to an S3 Bucket - <a href="https://medium.com/stackademic/aws-how-to-deploy-a-simple-next-js-application-to-an-s3-bucket-5aaf92766b49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Does Our ‘Well-Running’ Service Really Need Next.js? - <a href="https://medium.com/@devva.kim/does-our-well-running-service-really-need-next-js-ef2b094b2bf5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ishara Amarasekera`**
+✍️ **posted by `Deva Kim`**
 
-<blockquote>Step-by-step instructions for hosting your Next.js website using Amazon S3 and CloudFront</blockquote>
+<blockquote>A Reflection on the Need for Adopting Next.js, Focusing on Web Browser Rendering Concepts</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>React 19 is shaping up to be an important update, enhancing the performance and developer experience introduced in React 18. This new…</blockquote>
 
-<h3>4. Key Updates in Next.js 15 - <a href="https://medium.com/@onix_react/key-updates-in-next-js-15-b19bde244a69" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Locking Web Pages in Nextjs: App-Lock Style Security - <a href="https://medium.com/@raiyanmemon/locking-web-pages-in-nextjs-app-lock-style-security-d161b67fe544" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Onix React`**
+✍️ **posted by `Raiyan Memon`**
 
-<blockquote>This continuation highlights the key updates and enhancements introduced in Next.js 15, aimed at improving development workflows, boosting…</blockquote>
+<blockquote>We will explore how to implement a web page lock that functions similarly to an app lock.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Pretty Slow / Ugly Fast: How to Optimize your TS/JS Code in 19 Different Ways - <a href="https://medium.com/@andrew.redican.mejia/pretty-slow-ugly-fast-how-to-optimize-your-ts-js-code-in-19-different-ways-181ecaf4fc58" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering TypeScript Functions: From Basics to Advanced Techniques - <a href="https://medium.com/@prabhatkumarjena16/mastering-typescript-functions-from-basics-to-advanced-techniques-e3d02c8a0140" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrew Redican`**
+✍️ **posted by `prabhat kumar jena`**
 
-<blockquote>Photo by paolo candelo on Unsplash</blockquote>
+<blockquote>Welcome to our comprehensive guide on Functions in TypeScript! In this blog, we’ll explore the versatile world of functions in TypeScript…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,11 +214,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
-<h3>4. Why TypeScript: A Beginner’s Journey to Understanding Types and References - <a href="https://medium.com/@sanjanarajbk/why-typescript-a-beginners-journey-to-understanding-types-and-references-a90682449f16" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Pretty Slow / Ugly Fast: How to Optimize your TS/JS Code in 19 Different Ways - <a href="https://medium.com/@andrew.redican.mejia/pretty-slow-ugly-fast-how-to-optimize-your-ts-js-code-in-19-different-ways-181ecaf4fc58" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sanjana Raj BK`**
+✍️ **posted by `Andrew Redican`**
 
-<blockquote>Initially, when I started working with TypeScript, I questioned the need for all the extra checks. It felt like it was slowing me down…</blockquote>
+<blockquote>Photo by paolo candelo on Unsplash</blockquote>
 
 <h3>5. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -228,11 +228,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. How I Replicated BookMyShow’s Queue System for Coldplay Ticket Booking - <a href="https://medium.com/@patelsohailp7/how-i-replicated-bookmyshows-queue-system-for-coldplay-ticket-booking-22191b86d8a4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding Distributed Locking: Why It’s Important and How to Implement It with Redis and Node.js - <a href="https://medium.com/@devharshgupta.com/understanding-distributed-locking-why-its-important-and-how-to-implement-it-with-redis-and-node-js-0fcfe799a1cb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Patelsohailp`**
+✍️ **posted by `Harsh Gupta`**
 
-<blockquote>We’ve all felt the pain of waiting on BookMyShow for Coldplay tickets, only to watch them sell out before we even get a chance. In this…</blockquote>
+<blockquote>In distributed systems, ensuring data consistency and preventing race conditions is a challenging task, especially when multiple processes…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Node.js has a vibrant ecosystem of npm packages that can significantly enhance your API development process. These packages provide…</blockquote>
 
-<h3>4. MERN API Development: Building and Testing API Endpoints in Node.js and Express - <a href="https://medium.com/@anthonysebastinj/api-development-101-building-and-testing-api-endpoints-in-node-js-and-express-e312037d6bb3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Node.js 23 Release: Bridging the Gap with Bun.js Features - <a href="https://medium.com/@sabiqt/node-js-23-release-bridging-the-gap-with-bun-js-features-05ce02f8fa0d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anthony Sebastin J`**
+✍️ **posted by `Sabiqt`**
 
-<blockquote>A Practical Approach to Building and Testing APIs for Developers</blockquote>
+<blockquote>The latest release of Node.js 23 brings some exciting features to the table, particularly addressing one of the pain points that Bun.js had…</blockquote>
 
 <h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -324,35 +324,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Makefiles For Threesomes - <a href="https://medium.com/@sebastiancarlos/makefiles-for-threesomes-f470f373a1a7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Leveraging Smaller LLMs for Enhanced Retrieval-Augmented Generation (RAG) - <a href="https://medium.com/towards-data-science/leveraging-smaller-llms-for-enhanced-retrieval-augmented-generation-rag-bc320e71223d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sebastian Carlos`**
+✍️ **posted by `Alex Punnen`**
 
-<blockquote>Linux might not be the biggest tool in my toolbox, but as a seasoned swinger, Makefiles add the missing spark to “make” things happen.</blockquote>
+<blockquote>Llama-3.2–1 B-Instruct and LanceDB</blockquote>
 
-<h3>2. Take-off from Biology to Bioinformatics: A Practical Guide for Newcomers - <a href="https://medium.com/the-quantastic-journal/from-biology-to-bioinformatics-advice-for-newcomers-d6363080f80e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Implementing “Modular RAG” with Haystack and Hypster - <a href="https://medium.com/towards-data-science/implementing-modular-rag-with-haystack-and-hypster-d2f0ecc88b8f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Daniel G. Camblor`**
+✍️ **posted by `Gilad Rubin`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Transforming RAG Systems into LEGO-like Reconfigurable Frameworks</blockquote>
 
-<h3>3. This New UI Framework Is An Absolute Game Changer😲 - <a href="https://medium.com/coding-beauty/new-shadcn-ui-c28c2251bbe6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tari Ibaba`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>The new shadcn/ui framework completely transforms how we design and build modern web apps.</blockquote>
+<blockquote>It literally took one try. I was shocked.</blockquote>
 
-<h3>4. 4 Things I Learned About Learning While Coaching at a Boot Camp - <a href="https://medium.com/psychology-of-workplaces/4-things-i-learned-about-learning-while-coaching-at-a-boot-camp-0a7099545109" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I spent 3 years building the best algorithmic trading platform for retail investors. - <a href="https://medium.com/@austin-starks/i-spent-3-years-building-the-best-algorithmic-trading-platform-for-retail-investors-3c9ad5e1ee40" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Somerfield`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>How learning is elevated by application and community</blockquote>
+<blockquote>My business started off as a passion project.</blockquote>
 
-<h3>5. Neighbors Count: Boosting Document Embeddings with Contextual Encoding - <a href="https://medium.com/gitconnected/neighbors-count-boosting-document-embeddings-with-contextual-encoding-bc31bf1dd301" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why AOT beat JIT compilers - <a href="https://medium.com/@jankammerath/why-aot-beat-jit-compilers-740ae4e4ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Salvatore Raieli`**
+✍️ **posted by `Jan Kammerath`**
 
-<blockquote>Harnessing Neighboring Documents to Elevate Retrieval Accuracy through Context-Aware Embeddings</blockquote>
+<blockquote>The steady rise in popularity of Rust and Go as well as the continued importance of C and C++ have spurred new discussions on AOT and JIT…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -420,11 +420,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Deep Linking Integration with Flutter - <a href="https://medium.com/@gizemgizgg/deep-linking-integration-with-flutter-7072a621b2ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Refactoring Flutter Text Form Field Validation with Mixins and GetX: - <a href="https://medium.com/@rohitsurage/refactoring-flutter-text-form-field-validation-with-mixins-and-getx-2f539d92d68f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gizem Malçok`**
+✍️ **posted by `Rohit surage`**
 
-<blockquote>Hellooo 🎯🚀 💙 in this article you will learn how to make Deep link integration, one of the most important topics of Flutter.</blockquote>
+<blockquote>Flutter Text Form Field Validation with Mixins and GetX.</blockquote>
 
 <h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -432,17 +432,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>End-to-end (E2E) testing of a mobile application can be challenging due to the many variables involved. Mobile apps rely on both a frontend…</blockquote>
 
-<h3>3. Advanced Flutter Techniques Every Mobile Developer Should Know - <a href="https://medium.com/@imsnehalsingh/advanced-flutter-techniques-every-mobile-developer-should-know-3e779cbc603c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat/flutter-vs-react-native-performance-benchmarks-you-cant-miss-️-2e31905df9b4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Snehal Singh 👩‍💻`**
+✍️ **posted by `Natesh Bhat`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Analyzing App Startup and Shutdown in Android 15: New Update - <a href="https://medium.com/proandroiddev/analyzing-app-startup-and-shutdown-in-android-15-new-update-7605369ae891" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Implementing Background Tasks in React Native with react-native-background-actions - <a href="https://medium.com/@mehkar/implementing-background-tasks-in-react-native-with-react-native-background-actions-d1b02a1d8e06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tomáš Repčík`**
+✍️ **posted by `Mehmet Karataş`**
 
-<blockquote>Using Android 15, the new ApplicationStartInfo</blockquote>
+<blockquote>Background tasks are one of the most important features in mobile devices. In React Native, one of the most reliable ways to handle this is…</blockquote>
 
 <h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Solve Production Crashes Like Pros — Crash Assembly - <a href="https://medium.com/inside-wallapop/solve-production-crashes-like-pros-crash-assembly-16b856a9ec54" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding Initializers in Swift - <a href="https://medium.com/@nishant.taneja/understanding-initializers-in-swift-80abd59dd038" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mostfa Essam`**
+✍️ **posted by `Nishant Taneja`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>An overview of Initializers in Swift: Learn their types and how to use them for safe object creation in iOS.</blockquote>
 
 <h3>2. Owners of the Obsolete: Why My iPhone 6S Still Surprises Me in 2024 😲 - <a href="https://medium.com/macoclock/owners-of-the-obsolete-why-my-iphone-6s-still-surprises-me-in-2024-5cbcadea900a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -496,17 +496,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>While technology has leaped forward since 2015, Apple’s iPhone 6S remains surprisingly competent. I’ll walk through the features that still…</blockquote>
 
-<h3>3. Cleaner Guru iPhone App Review: Is it Safe, Free? Complaints? - <a href="https://medium.com/@best-software/cleaner-guru-iphone-app-review-is-it-safe-free-complaints-41ed35d5ba12" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 18 Hidden NEW Features in iOS 18 You Didn’t Know About - <a href="https://medium.com/macoclock/18-hidden-new-features-in-ios-18-you-didnt-know-about-8d594b75f90a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Best Software (Mac, Windows, iOS)`**
+✍️ **posted by `The Useful Tech`**
 
-<blockquote>Cleaner Guru App: An In-Depth Review Based on Personal Experience</blockquote>
+<blockquote>Think you know everything about iOS 18? Think Again</blockquote>
 
-<h3>4. Five Subtle Behaviors of People Who Struggle to Achieve Success - <a href="https://medium.com/@bilawalzawar50/five-subtle-behaviors-of-people-who-struggle-to-achieve-success-77c12a3ad7ee" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Gaza man says Yahya Sinwar was killed in his evacuated house - <a href="https://medium.com/@ahmadhassan_850/gaza-man-says-yahya-sinwar-was-killed-in-his-evacuated-house-9427ef7e4d2f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Zawar Ahmad`**
+✍️ **posted by `Ahmad Hassan`**
 
-<blockquote>Success</blockquote>
+<blockquote>In recent days, the ongoing conflict in Gaza has taken a dramatic turn, as reports surfaced regarding the death of Yahya Sinwar, a…</blockquote>
 
 <h3>5. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. 15 Most Know Rules For Working With Docker Effectively - <a href="https://medium.com/@azeynalli1990/15-most-know-rules-for-working-with-docker-effectively-59acc59e64db" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Modular Backstage Plugins: Solving the Monolithic Plugin Problem - <a href="https://medium.com/@sonu.sonu75/modular-backstage-plugins-solving-the-monolithic-plugin-problem-b1e52211cbc3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ali Zeynalli`**
+✍️ **posted by `Sonu`**
 
-<blockquote>Docker is by far one of the most popular tools in DevOps world. If you work with containers, you will most probably have to deal with…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -528,17 +528,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Achieving Google’s MLOps level 2 (or “Automation”) with only self-hosted open-source software (OSS) is an ambitious goal, but it’s…</blockquote>
 
-<h3>3. Machine Learning Operations (MLOps) For Beginners - <a href="https://medium.com/towards-data-science/machine-learning-operations-mlops-for-beginners-a5686bfe02b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Docker pros are shrinking images by 99%: The hidden techniques you can’t afford to miss - <a href="https://medium.com/aws-in-plain-english/docker-pros-are-shrinking-images-by-99-the-hidden-techniques-you-cant-afford-to-miss-a70ee26b4cbf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prasad Mahamulkar`**
+✍️ **posted by `Dipanshu ‎`**
 
-<blockquote>End-to-end Project Implementation</blockquote>
+<blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Site Reliability Engineering (SRE) - <a href="https://medium.com/@munikanthtech/site-reliability-engineering-sre-489c019d4153" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Build Your Own AWS VPC — Simple Terraform Deployment Steps! - <a href="https://medium.com/@sagarkpanda/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Munikanth`**
+✍️ **posted by `Sagar`**
 
-<blockquote>Site Reliability Engineering (SRE) is all about making sure that software and systems run smoothly without breaking. It combines ideas from…</blockquote>
+<blockquote>Part I - VPC Essentials: Core Components, Their Relationships,  setup and automate with Terraform.</blockquote>
 
 <h3>5. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Running Chaos Experiments in Kubernetes with Chaos Mesh: A Hands-on Guide - <a href="https://medium.com/@mrinalraviponnambath/running-chaos-experiments-in-kubernetes-with-chaos-mesh-a-hands-on-guide-ed02db94b5df" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Evolving Role of Event-Driven Architectures in Automation - <a href="https://medium.com/@wim.henderickx/the-evolving-role-of-event-driven-architectures-in-automation-fd7312bc491e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mrinal P Ravi`**
+✍️ **posted by `Wim Henderickx`**
 
-<blockquote>Chaos Mesh is a powerful and flexible chaos engineering platform that allows you to simulate real-world failures within Kubernetes</blockquote>
+<blockquote>In today’s ever-changing business landscape, efficiency transcends mere ambition to become a fundamental necessity. Automation stands at…</blockquote>
 
 <h3>2. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Automated TLS Certificate Renewals for Ingress using Let’s Encrypt + Cert Manager with Federated… - <a href="https://medium.com/@rbharadwaj16/automated-tls-certificate-renewals-for-ingress-using-lets-encrypt-cert-manager-with-federated-1c37d527da80" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Pass KCSA (Kubernetes and Cloud Native Security Associate) Exam - <a href="https://medium.com/@nvsajeeva/how-to-pass-kcsa-kubernetes-and-cloud-native-security-associate-exam-a7d4b47d72f4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Raghavendra Bharadwaj`**
+✍️ **posted by `Sajeeva Lakmal`**
 
-<blockquote>As a Solutions Architect at Getronics, I am constantly on the look out for possible options to automate Infrastructure and Application…</blockquote>
+<blockquote>About me</blockquote>
 
 <h3>5. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Xdebug Configuration — PhpStorm / Docker Desktop - <a href="https://medium.com/ekino-france/xdebug-configuration-phpstorm-docker-desktop-817da3005556" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Docker Commands Cheat sheet - <a href="https://medium.com/@ammaurya46/docker-commands-cheat-sheet-5a3d4435b645" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arthur Gorden`**
+✍️ **posted by `Amit Maurya`**
 
-<blockquote>Xdebug is a powerful tool, but can be hard to configure. Let’s try to demystify this with a tutorial for PhpStorm and a PHP Docker…</blockquote>
+<blockquote>This is the Day 20 of the #90DaysofDevOps challenge in which we are going to summarize all the Docker commands in a single blog i.e you can…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Docker 101: A Beginner’s Guide to Docker - <a href="https://medium.com/@ebenyemiriam17/docker-101-a-beginners-guide-to-docker-36cf4c2f2959" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. LocalStack for Snowflake: Developing and Testing locally - <a href="https://medium.com/@pandeysudhendu/localstack-for-snowflake-developing-and-testing-locally-37c55c4cb5d8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Loni Tande`**
+✍️ **posted by `Sudhendu`**
 
-<blockquote>I watched a video that said one of the primary causes of imposter syndrome among developers is not knowing how to use Docker. I found that…</blockquote>
+<blockquote>In this blog post, we’ll introduce LocalStack for Snowflake, explore its features, provide code samples, and discuss its advantages…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
