@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/22)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/23)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Preventing .env Leaks: How AWS SSM and CodeBuild Helps to Secure the React App - <a href="https://medium.com/@r.bhavesh2002/preventing-env-leaks-how-aws-ssm-and-codebuild-helps-to-secure-the-react-app-f5025d2a782e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TypeScript in React Applications: Understanding Types and Interfaces - <a href="https://medium.com/@ysisodiya113/typescript-in-react-applications-understanding-types-and-interfaces-e90a881ece1b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bhavesh`**
+✍️ **posted by `Yash Sisodiya`**
 
-<blockquote>When deploying React JS applications, managing environment variables securely becomes a crucial task. In one of our projects, we…</blockquote>
+<blockquote>Discover how TypeScript enhances React development by introducing static types for better code quality and maintainability. This guide…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In React, performance optimization is crucial for ensuring a smooth and efficient user experience. One common performance pitfall is…</blockquote>
 
-<h3>4. 50 important React.js interview questions - <a href="https://medium.com/@adarshahelvar/50-important-react-js-interview-questions-272e0e1cc140" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The ultimate Electron app with Next.js and React Server Components - <a href="https://medium.com/@kirill.konshin/the-ultimate-electron-app-with-next-js-and-react-server-components-a5c0cabda72b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Adarsha`**
+✍️ **posted by `Kirill Konshin`**
 
-<blockquote>Basic Level:</blockquote>
+<blockquote>Combining Next.js and Electron app to use React Server Components without opening ports or running HTTP server even on localhost.</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How Your Next Next.Js Project Could Cost You $1000 - <a href="https://medium.com/@as850082/how-your-next-next-js-project-could-cost-you-1000-22b3a8eb6fad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. What’s New in Next.js 15? - <a href="https://medium.com/@calebpr/whats-new-in-next-js-15-c768b75faec4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhishek`**
+✍️ **posted by `Caleb`**
 
-<blockquote>Many new developers today are choosing to build their personal projects with Next.js rather than vanilla JavaScript (obviously) or even…</blockquote>
+<blockquote>The latest release, Next.js 15, is here, and it’s packed with exciting updates that aim to make development smoother, faster, and more…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The surprising reasons behind OpenAI’s move and what it means for the future of web development</blockquote>
 
-<h3>4. React vs. Next.js: Which One to Choose for Your Project? - <a href="https://medium.com/code-like-a-girl/react-vs-next-js-which-one-to-choose-for-your-project-c79f1702a383" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Active Links In Nextjs - <a href="https://medium.com/@raiyanmemon/active-links-in-nextjs-83889b7e07bd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nipuni S Ranathunga`**
+✍️ **posted by `Raiyan Memon`**
 
-<blockquote>Hello everyone 👋, Are you ready to explore the world of modern web development?</blockquote>
+<blockquote>Custom styling on the active link is crucial for UX, allowing users to identify their current page easily.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Why {} + [] and [] + {} Produce Different Results in JavaScript - <a href="https://medium.com/javascript-in-plain-english/why-and-produce-different-results-in-javascript-0da67e60302b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Navigating Click Events: Handling Hidden Inputs in Safari vs. Chrome - <a href="https://medium.com/@fibianmejia/navigating-click-events-handling-hidden-inputs-in-safari-vs-chrome-139bce1e29b2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Awwwesssooooome`**
+✍️ **posted by `Fabian Mejia`**
 
-<blockquote>JavaScript is a flexible and dynamic language, full of implicit type conversions and unique rules. One particular point of confusion…</blockquote>
+<blockquote>Learn to trigger hidden inputs programmatically in web apps, comparing behaviors in Chrome and Safari, and navigate cross-browser…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. How to send a follow-up call to users in a Symfony app using Twilio - <a href="https://medium.com/@davidfagb/how-to-send-a-follow-up-call-to-users-in-a-symfony-app-using-twilio-212b1f00706f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Local Storage vs. Session Storage: Choosing the Right Token Storage for Your Web Application - <a href="https://medium.com/javascript-in-plain-english/local-storage-vs-session-storage-choosing-the-right-token-storage-for-your-web-application-f091d3f57cc2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Fagbuyiro`**
+✍️ **posted by `Hima Chitalia`**
 
-<blockquote>When you observe that a user visits your website but does not return after registration, you can reach out to them through various…</blockquote>
+<blockquote>In web development, handling user authentication securely is crucial. When you’re building a front-end application, you might rely on…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -292,11 +292,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/@varadaraj277/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tippu Fisal Sheriff`**
+✍️ **posted by `Varadaraj Acharya`**
 
-<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
+<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
 
 <h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -304,11 +304,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. Test Automation for Desktop Hybrid Applications: CEF vs WebView2 - <a href="https://medium.com/@marwan.alabassiry/test-automation-for-desktop-hybrid-applications-cef-vs-webview2-0360512854e7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Marwan Alabassiry`**
+✍️ **posted by `Tippu Fisal Sheriff`**
 
-<blockquote>In today’s fast-paced digital world, hybrid desktop applications — blending the power of native desktop apps with the versatility of web…</blockquote>
+<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
 
 <h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -316,11 +316,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
 
-<h3>5. Capturing XHR and Fetch POST Requests in Android WebView - <a href="https://medium.com/@nachare.reena8/capturing-xhr-and-fetch-post-requests-in-android-webview-9191979e8d9b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Test Automation for Desktop Hybrid Applications: CEF vs WebView2 - <a href="https://medium.com/@marwan.alabassiry/test-automation-for-desktop-hybrid-applications-cef-vs-webview2-0360512854e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Reena Rote`**
+✍️ **posted by `Marwan Alabassiry`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>In today’s fast-paced digital world, hybrid desktop applications — blending the power of native desktop apps with the versatility of web…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Streamlining Backstage Development: A Modular Approach to Plugin Architecture - <a href="https://medium.com/@sonu.sonu75/modular-backstage-plugins-solving-the-monolithic-plugin-problem-b1e52211cbc3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Product Engineering: Deploying All Flavours of Frontends in Linux Instances - <a href="https://medium.com/@philipokiokio/product-engineering-deploying-all-flavours-of-frontends-in-linux-instances-0e0e5d36fe49" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sonu`**
+✍️ **posted by `Philip Okiokio`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>If you are a front-end engineer I think you might find this a little different, new and may be shocking, if you are a product decision…</blockquote>
 
 <h3>2. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Build Your Own AWS VPC — Simple Terraform Deployment Steps! - <a href="https://medium.com/@sagarkpanda/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploying Infrastructure & Application using GitOps - <a href="https://medium.com/@thejogi/deploying-infrastructure-application-using-gitops-862fc89b6325" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sagar`**
+✍️ **posted by `The Jogi Developer`**
 
-<blockquote>Part I - VPC Essentials: Core Components, Their Relationships,  setup and automate with Terraform.</blockquote>
+<blockquote>Combining Terraform & ArgoCD to continously deploy application along with its infrastructure needs.</blockquote>
 
 <h3>5. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Connecting to Docker in Android - <a href="https://medium.com/@michalankiersztajn/connecting-to-docker-in-android-39f88b3e39db" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Restricting Excessive Pod Scheduling using “topologySpreadConstraints” - <a href="https://medium.com/@2211pushkaragnihotri/restricting-excessive-pod-scheduling-using-topologyspreadconstraints-99a5e984f1a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michal Ankiersztajn`**
+✍️ **posted by `Pushkar Agnihotri`**
 
-<blockquote>Connect your Android app to localhost API built with docker with the power of ADB port forwarding!</blockquote>
+<blockquote>In Kubernetes, managing the distribution of pods across nodes is crucial for achieving high availability and resource efficiency. One…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Optimizing build process to Minimize TIBCO BWCE container size - <a href="https://medium.com/@shahenshaikh786/optimizing-build-process-to-minimize-tibco-bwce-container-size-240114a81d4b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploy a Streamlit application on Google Cloud Run (with CI/CD) - <a href="https://medium.com/@the.agata.pieniak/deploy-a-streamlit-application-on-google-cloud-run-with-ci-cd-b66ce18e9f8b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shahenshaikh`**
+✍️ **posted by `Agata Pieniak`**
 
-<blockquote>We have observed that the default base image script provided uses Debian image, which creates large memory footprint.</blockquote>
+<blockquote>Cloud Run is a fully managed serverless platform on Google Cloud Platform (GCP) that lets you run containerized applications without…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
