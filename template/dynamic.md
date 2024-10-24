@@ -1,10 +1,11 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. TypeScript in React Applications: Understanding Types and Interfaces - <a href="https://medium.com/@ysisodiya113/typescript-in-react-applications-understanding-types-and-interfaces-e90a881ece1b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How To Learn React JS Easy Way — - <a href="https://medium.com/@er.ritikpal/how-to-learn-react-js-easy-way-7970ceeb6905" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yash Sisodiya`**
+✍️ **posted by `Ritikpal`**
 
-<blockquote>Discover how TypeScript enhances React development by introducing static types for better code quality and maintainability. This guide…</blockquote>
+<blockquote>Hey Guys, 
+Hope you all doing well ! , if you want to learn React and you are confused from where to begin — Let me tell you an easy step…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -18,17 +19,17 @@
 
 <blockquote>In React, performance optimization is crucial for ensuring a smooth and efficient user experience. One common performance pitfall is…</blockquote>
 
-<h3>4. The ultimate Electron app with Next.js and React Server Components - <a href="https://medium.com/@kirill.konshin/the-ultimate-electron-app-with-next-js-and-react-server-components-a5c0cabda72b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kirill Konshin`**
-
-<blockquote>Combining Next.js and Electron app to use React Server Components without opening ports or running HTTP server even on localhost.</blockquote>
-
-<h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wayne`**
 
 <blockquote>React 19 will be another milestone release after the introduction of hooks!</blockquote>
+
+<h3>5. React Design Patterns - <a href="https://medium.com/@dotexedev/react-design-patterns-349c6644315f" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ahsan Iftikhar`**
+
+<blockquote>Discover how to apply design patterns in your React applications.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
@@ -82,11 +83,11 @@
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. The Top 10 UI UX Trends to Watch in 2024 - <a href="https://medium.com/@ermawinter08/the-top-10-ui-uxtrends-to-watch-in-2024-40e18e6993e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/magnetic/ux-ui-design-trends-in-2023-efdc94ea0fb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Erma Winter`**
+✍️ **posted by `David Bailey`**
 
-<blockquote>User Interface (UI) and User Experience (UX) are crucial aspects of any digital product in today’s tech-driven world. As we step into 2024…</blockquote>
+<blockquote>We designers are a curious species — tirelessly seeking and sharing ideas that help develop our craft and the things we make. UX design…</blockquote>
 
 <h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +115,11 @@
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. Local Storage vs. Session Storage: Choosing the Right Token Storage for Your Web Application - <a href="https://medium.com/javascript-in-plain-english/local-storage-vs-session-storage-choosing-the-right-token-storage-for-your-web-application-f091d3f57cc2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Master These 10 One-Line JavaScript Techniques for SDE-2 Interview Success! - <a href="https://medium.com/@javaScriptwithvinay/master-these-10-one-line-javascript-techniques-for-sde-2-interview-success-d39f55bfd65b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hima Chitalia`**
+✍️ **posted by `JavaScript With Vinay`**
 
-<blockquote>In web development, handling user authentication securely is crucial. When you’re building a front-end application, you might rely on…</blockquote>
+<blockquote>1. Array Filtering in One Line</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -160,17 +161,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Understanding Distributed Locking: Why It’s Important and How to Implement It with Redis and Node.js - <a href="https://medium.com/@devharshgupta.com/understanding-distributed-locking-why-its-important-and-how-to-implement-it-with-redis-and-node-js-0fcfe799a1cb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Node.js vs Deno vs Bun: Fastify Hello World Performance - <a href="https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-fastify-hello-world-performance-cdf50ce9123f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Harsh Gupta`**
+✍️ **posted by `Mayank C`**
 
-<blockquote>In distributed systems, ensuring data consistency and preventing race conditions is a challenging task, especially when multiple processes…</blockquote>
+<blockquote>Find out how the latest versions of Node.js, Deno, and Bun performs for simple fastify hello world server</blockquote>
 
-<h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jack Herrington`**
+✍️ **posted by `Games24x7 Blogs`**
 
-<blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
+<blockquote>The prom-client (Prometheus Client) is the most popular library for Node.js, with approximately 2 million weekly downloads. This library…</blockquote>
 
 <h3>3. 10 Best npm Packages for Node.js API Development (PART — 2) - <a href="https://medium.com/@habtesoft/10-best-npm-packages-for-node-js-api-development-part-2-bf714587832d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,25 +179,25 @@
 
 <blockquote>Node.js has a vibrant ecosystem of npm packages that can significantly enhance your API development process. These packages provide…</blockquote>
 
-<h3>4. Node.js 23 Release: Bridging the Gap with Bun.js Features - <a href="https://medium.com/@sabiqt/node-js-23-release-bridging-the-gap-with-bun-js-features-05ce02f8fa0d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Node.js vs Deno vs Bun: Express Hello World Performance - <a href="https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-express-hello-world-performance-9f35b610985a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sabiqt`**
+✍️ **posted by `Mayank C`**
 
-<blockquote>The latest release of Node.js 23 brings some exciting features to the table, particularly addressing one of the pain points that Bun.js had…</blockquote>
+<blockquote>Find out how the latest versions of Node.js, Deno, and Bun performs for simple express hello world server</blockquote>
 
-<h3>5. Announcing Gulp v5 - <a href="https://medium.com/gulpjs/announcing-gulp-v5-c67d077dbdb7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Blaine Bublitz`**
+✍️ **posted by `Jack Herrington`**
 
-<blockquote>It’s been a long road to gulp 5, but we’re finally here!</blockquote>
+<blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Frontend Weekly Digest #384 (14–20 October 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-384-14-20-october-2024-b8970dd2194a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Interviewer: Talk About Your Understanding of Session, Cookie, Token, and JWT - <a href="https://medium.com/@junfeng0828/the-http-protocol-is-a-stateless-protocol-that-is-every-time-the-server-receives-a-request-b9c4f31bfbb3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fresh Frontend Links`**
+✍️ **posted by `Dylan Smith`**
 
-<blockquote>Web-development</blockquote>
+<blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
 
 <h3>2. From Atomic Design to Relativistic Interfaces - <a href="https://medium.com/gitconnected/from-atomic-design-to-relativistic-interfaces-0751b0b46832" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +211,11 @@
 
 <blockquote>The new shadcn/ui framework completely transforms how we design and build modern web apps.</blockquote>
 
-<h3>4. A Beginner's Guide to Django: Build Your First Web Application in Python - <a href="https://medium.com/@Samishaikh7277/a-beginners-guide-to-django-build-your-first-web-application-in-python-43aba10c5697" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Angular Terminologies - <a href="https://medium.com/@lakshminarayananr/angular-terminologies-b5dace1c61ee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Samishaikh`**
+✍️ **posted by `Lakshminarayanan R`**
 
-<blockquote>If you're looking to build robust web applications with Python, chances are you've come across Django. As one of the most popular…</blockquote>
+<blockquote>Important Angular Terminologies</blockquote>
 
 <h3>5. Announcing Deno 2 - <a href="https://medium.com/@denoland/announcing-deno-2-5ef6fa56a743" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -256,81 +257,81 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. ETL Pipelines in Python: Best Practices and Techniques - <a href="https://medium.com/towards-data-science/etl-pipelines-in-python-best-practices-and-techniques-0c148452cc68" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Robin von Malottki`**
-
-<blockquote>Strategies for Enhancing Generalizability, Scalability, and Maintainability in Your ETL Pipelines</blockquote>
-
-<h3>2. Implementing “Modular RAG” with Haystack and Hypster - <a href="https://medium.com/towards-data-science/implementing-modular-rag-with-haystack-and-hypster-d2f0ecc88b8f" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Gilad Rubin`**
-
-<blockquote>Transforming RAG Systems into LEGO-like Reconfigurable Frameworks</blockquote>
-
-<h3>3. I used OpenAI’s o1 model to develop a trading strategy. It is DESTROYING the market - <a href="https://medium.com/datadriveninvestor/i-used-openais-o1-model-to-develop-a-trading-strategy-it-is-destroying-the-market-576a6039e8fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Claude’s new 3.5 Sonnet outperformed OpenAI’s O1-mini. I’m shocked. - <a href="https://medium.com/@austin-starks/claudes-new-3-5-sonnet-outperformed-openai-s-o1-mini-i-m-shocked-58c9ee1993ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Austin Starks`**
 
-<blockquote>It literally took one try. I was shocked.</blockquote>
+<blockquote>A side-by-side comparison of Claude’s updated 3.5 Sonnet model</blockquote>
 
-<h3>4. Leveraging Smaller LLMs for Enhanced Retrieval-Augmented Generation (RAG) - <a href="https://medium.com/towards-data-science/leveraging-smaller-llms-for-enhanced-retrieval-augmented-generation-rag-bc320e71223d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. We Have Finally Found A Solution To An Extremely Energy Efficient AI - <a href="https://medium.com/gitconnected/we-have-finally-found-a-solution-to-an-extremely-energy-efficient-ai-73ed2537e53f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex Punnen`**
+✍️ **posted by `Dr. Ashish Bamania`**
 
-<blockquote>Llama-3.2–1 B-Instruct and LanceDB</blockquote>
+<blockquote>A deep dive into the L-Mul/ Linear complexity multiplication algorithm that makes our existing AI models faster and super energy-efficient</blockquote>
 
-<h3>5. Why AOT beat JIT compilers - <a href="https://medium.com/@jankammerath/why-aot-beat-jit-compilers-740ae4e4ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 5 Linux Command Tricks That Will Change Your Life as a Programmer - <a href="https://medium.com/gitconnected/5-linux-command-tricks-that-will-change-your-life-as-a-programmer-825a4524218a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jan Kammerath`**
+✍️ **posted by `CyCoderX`**
 
-<blockquote>The steady rise in popularity of Rust and Go as well as the continued importance of C and C++ have spurred new discussions on AOT and JIT…</blockquote>
+<blockquote>Boost your productivity with these powerful Linux commands for developers!</blockquote>
+
+<h3>4. Impressive Open-Source Projects That Only A Few Programmers Know - <a href="https://medium.com/gitconnected/impressive-open-source-projects-that-only-a-few-programmers-know-c0f6b81d15fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shalitha Suranga`**
+
+<blockquote>Priceless open-source innovations that impress any programmer</blockquote>
+
+<h3>5. Believe In Yourself: Do LLMs Internally Know What Is True? - <a href="https://medium.com/gitconnected/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Salvatore Raieli`**
+
+<blockquote>Leveraging Internal Representations to Detect and Understand Errors in Large Language Models</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Road to My AWS Community Builder Application in January 2025! - <a href="https://medium.com/@okparaosi17/road-to-my-aws-community-builder-application-in-january-2025-f4626330076d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Osinachi Okpara`**
-
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
-
-<h3>2. I Don’t Know About You, but I’m Feeling Tired - <a href="https://medium.com/@erikpmvermeulen/i-dont-know-about-you-but-i-m-feeling-tired-63565ba5c82e" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Erik P.M. Vermeulen, PhD`**
-
-<blockquote>Although I think I’ve found a solution (and it isn’t AI)</blockquote>
-
-<h3>3. AI: 99% of You Are NOT Ready for What’s Coming in 2027 - <a href="https://medium.com/limitless-investor/ai-99-of-you-are-not-ready-for-whats-coming-in-2027-8994ca390a12" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Henrique Centieiro & Bee Lee`**
-
-<blockquote>AI’s Insane Leap — You Likely Don’t Want to Be Left Behind</blockquote>
-
-<h3>4. I spent 3 years building the best algorithmic trading platform for retail investors. - <a href="https://medium.com/@austin-starks/i-spent-3-years-building-the-best-algorithmic-trading-platform-for-retail-investors-3c9ad5e1ee40" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Claude’s new 3.5 Sonnet outperformed OpenAI’s O1-mini. I’m shocked. - <a href="https://medium.com/@austin-starks/claudes-new-3-5-sonnet-outperformed-openai-s-o1-mini-i-m-shocked-58c9ee1993ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Austin Starks`**
 
-<blockquote>My business started off as a passion project.</blockquote>
+<blockquote>A side-by-side comparison of Claude’s updated 3.5 Sonnet model</blockquote>
 
-<h3>5. How To Fall For a Startup Job Scam - <a href="https://medium.com/entrepreneur-s-handbook/how-to-fall-for-a-startup-job-scam-a31410c46484" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. We Have Finally Found A Solution To An Extremely Energy Efficient AI - <a href="https://medium.com/gitconnected/we-have-finally-found-a-solution-to-an-extremely-energy-efficient-ai-73ed2537e53f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Joe Procopio`**
+✍️ **posted by `Dr. Ashish Bamania`**
 
-<blockquote>Sometimes a job scam is really just a job you don’t want</blockquote>
+<blockquote>A deep dive into the L-Mul/ Linear complexity multiplication algorithm that makes our existing AI models faster and super energy-efficient</blockquote>
+
+<h3>3. We Are Watching The Death Of Tesla - <a href="https://medium.com/predict/we-are-watching-the-death-of-tesla-04639adfdb7b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Will Lockett`**
+
+<blockquote>Tesla’s Cybercab is worse than vapourware; it’s a damning insight into a dying giant.</blockquote>
+
+<h3>4. Impressive Open-Source Projects That Only A Few Programmers Know - <a href="https://medium.com/gitconnected/impressive-open-source-projects-that-only-a-few-programmers-know-c0f6b81d15fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shalitha Suranga`**
+
+<blockquote>Priceless open-source innovations that impress any programmer</blockquote>
+
+<h3>5. Believe In Yourself: Do LLMs Internally Know What Is True? - <a href="https://medium.com/gitconnected/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Salvatore Raieli`**
+
+<blockquote>Leveraging Internal Representations to Detect and Understand Errors in Large Language Models</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. at the end of the day, it’s a miracle we ever met - <a href="https://medium.com/@cherylkoo/at-the-end-of-the-day-its-a-miracle-we-ever-met-c889472feed3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. was it love? or simply just convenience? - <a href="https://medium.com/@lynwrites_/was-it-love-or-simply-just-convenience-1e44641df9d3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `letters from rosie`**
 
-<blockquote>Image and inspiration from Pinterest</blockquote>
+<blockquote>“Mahal mo lang ako kapag pagod na ako.”</blockquote>
 
-<h3>2. How I’m No Longer Haunted by the Ghosts of Friendships Past - <a href="https://medium.com/thought-thinkers/how-im-no-longer-haunted-by-the-ghosts-of-friendships-past-e57d6667fb04" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Ethical Non-Monogamy - <a href="https://medium.com/illumination/ethical-non-monogamy-b28839150a9f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sarah Paris`**
+✍️ **posted by `Jen Leggio`**
 
-<blockquote>A spooky tale about self-discovery and letting go of expectations</blockquote>
+<blockquote>There’s More Love Than You Think — And It’s All I Want</blockquote>
 
 <h3>3. My Friend Cassie Attracted Men Like I Never Could - <a href="https://medium.com/long-after-the-thrill/my-friend-cassie-attracted-men-like-i-never-could-80c3b383bbca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,25 +339,25 @@
 
 <blockquote>It wasn’t until I was older, I understood why.</blockquote>
 
-<h3>4. Young Boy Blues - <a href="https://medium.com/hope-healing-and-humour/young-boy-blues-0ce82e7971e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Responding to Silence - <a href="https://medium.com/scribe/responding-to-silence-3592b42f7b1a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shanmu Raja`**
+✍️ **posted by `Ema Dumitru`**
 
-<blockquote>Caretaking in medicine</blockquote>
+<blockquote>Poem</blockquote>
 
-<h3>5. Why I’ll Never Stop Being Single for a ‘Good Enough’ Partner - <a href="https://medium.com/bitchy/why-ill-never-stop-being-single-for-a-good-enough-partner-82bdb8437684" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How I’m No Longer Haunted by the Ghosts of Friendships Past - <a href="https://medium.com/thought-thinkers/how-im-no-longer-haunted-by-the-ghosts-of-friendships-past-e57d6667fb04" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nadia Huq`**
+✍️ **posted by `Sarah Paris`**
 
-<blockquote>Only true contentment is worth sacrificing my time and freedom.</blockquote>
+<blockquote>A spooky tale about self-discovery and letting go of expectations</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Widget Refactoring in Flutter: Utilizing Helper Functions vs. Independent Widgets - <a href="https://medium.com/@eebrahimjoy/widget-refactoring-in-flutter-utilizing-helper-functions-vs-independent-widgets-fca3fa36f55e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Functional Programming in Dart - <a href="https://medium.com/@syedabdulbasit7/functional-programming-in-dart-3b011810038d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ebrahim Joy`**
+✍️ **posted by `Syed Abdul Basit`**
 
-<blockquote>Table of Contents</blockquote>
+<blockquote>A Deep Dive into Network Responses 🌐 to Handle API Responses with Dart.</blockquote>
 
 <h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -370,11 +371,11 @@
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Using SQLite for Data Logging in React Native Apps - <a href="https://medium.com/@mehkar/using-sqlite-for-data-logging-in-react-native-apps-2432291172f4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Tesla Phone: What to Expect from Elon Musk’s Next Innovation? - <a href="https://medium.com/@softradix2022/tesla-phone-what-to-expect-from-elon-musks-next-innovation-a82e20b94831" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehmet Karataş`**
+✍️ **posted by `SoftRadix Technologies`**
 
-<blockquote>Efficient data logging is key for tracking user activity and performance in mobile apps. In React Native, SQLite is a lightweight database…</blockquote>
+<blockquote>Discover the potential of a Tesla phone! This blog explores the exciting features, design, and impact of Elon Musk’s rumored smartphone.</blockquote>
 
 <h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -384,11 +385,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Hack Application Pattern Lock - <a href="https://medium.com/@k3r0/hack-application-pattern-lock-5ade6b8128dc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Tubi’s New Android Player Architecture Supports All Playback Scenarios - <a href="https://medium.com/tubi-engineering/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kyrillos nady`**
+✍️ **posted by `zxzx25952`**
 
-<blockquote>Is locking your phone or any application using a pattern lock truly safe from cracking?</blockquote>
+<blockquote>Xin Zheng and Shaowei Chang</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -402,11 +403,11 @@
 
 <blockquote>Because who got time to register parameter names and all of their typeMaps</blockquote>
 
-<h3>4. What is Flutter, and how do you get started with it for fun Android development? - <a href="https://medium.com/@gdgcMET/what-is-flutter-and-how-do-you-get-started-with-it-for-fun-android-development-9b652a4aeac8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Navigate Early Development | Simplify Data Storage - <a href="https://medium.com/@jtbsorensen/navigate-early-development-simplify-data-storage-c76013878cb4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `GDG on Campus MET`**
+✍️ **posted by `Jan-Terje Sørensen`**
 
-<blockquote>An easy guide to Flutter for easy Android development.</blockquote>
+<blockquote>You’re full of fresh ideas and ready to start developing your new application. You have a vision for the features you want to implement and…</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,11 +417,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Introducing react-native-whip-whep - <a href="https://medium.com/swmansion/introducing-react-native-whip-whep-ac9e5588d4da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to use Cursor for iOS development - <a href="https://medium.com/@dimillian/how-to-use-cursor-for-ios-development-54b912c23941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Justyna Gręda`**
+✍️ **posted by `Thomas Ricouard`**
 
-<blockquote>An SDK supporting WHIP and WHEP protocols for React Native, Android, and iOS.</blockquote>
+<blockquote>Recently, there’s been much talk and fuss about AI, and whether or not it can improve your development workflow. I wanted to touch base…</blockquote>
 
 <h3>2. Owners of the Obsolete: Why My iPhone 6S Still Surprises Me in 2024 😲 - <a href="https://medium.com/macoclock/owners-of-the-obsolete-why-my-iphone-6s-still-surprises-me-in-2024-5cbcadea900a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -428,17 +429,17 @@
 
 <blockquote>While technology has leaped forward since 2015, Apple’s iPhone 6S remains surprisingly competent. I’ll walk through the features that still…</blockquote>
 
-<h3>3. 18 Hidden NEW Features in iOS 18 You Didn’t Know About - <a href="https://medium.com/macoclock/18-hidden-new-features-in-ios-18-you-didnt-know-about-8d594b75f90a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 5 Massive New Photos App Features in iOS 18 - <a href="https://medium.com/macoclock/5-massive-new-photos-app-features-in-ios-18-b4c1ba1ea1ed" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `The Useful Tech`**
 
-<blockquote>Think you know everything about iOS 18? Think Again</blockquote>
+<blockquote>The Photos App Has Got Its Biggest Upgrade Yet</blockquote>
 
-<h3>4. Do’s and Don’ts of refactoring - <a href="https://medium.com/@mega-blog/dos-and-don-ts-of-refactoring-a9c8c643d5cf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Thoughts on Kotlin Multi Platform (KMP) - <a href="https://medium.com/@benadepoju/thoughts-on-kotlin-multi-platform-kmp-04df1f109473" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MEGA`**
+✍️ **posted by `Benjamin`**
 
-<blockquote>The problem</blockquote>
+<blockquote>What its like getting started with Kotlin Multi-Platform</blockquote>
 
 <h3>5. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -448,17 +449,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Product Engineering: Deploying All Flavours of Frontends in Linux Instances - <a href="https://medium.com/@philipokiokio/product-engineering-deploying-all-flavours-of-frontends-in-linux-instances-0e0e5d36fe49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. DevOps and Cloud Engineering Learning Path 2024: A Comprehensive Roadmap - <a href="https://medium.com/@piyush.sachdeva055/devops-and-cloud-engineering-learning-path-2024-a-comprehensive-roadmap-ff647da2e086" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Philip Okiokio`**
+✍️ **posted by `Piyush Sachdeva`**
 
-<blockquote>If you are a front-end engineer I think you might find this a little different, new and may be shocking, if you are a product decision…</blockquote>
+<blockquote>Introduction</blockquote>
 
-<h3>2. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Ending Microservices Chaos - <a href="https://medium.com/gitconnected/ending-microservices-chaos-c1babe7bd061" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Houssem Ben Braiek`**
+✍️ **posted by `Alvin Lee`**
 
-<blockquote>Achieving Google’s MLOps level 2 (or “Automation”) with only self-hosted open-source software (OSS) is an ambitious goal, but it’s…</blockquote>
+<blockquote>How Architecture Governance Keeps Your Microservices on Track</blockquote>
 
 <h3>3. Docker pros are shrinking images by 99%: The hidden techniques you can’t afford to miss - <a href="https://medium.com/aws-in-plain-english/docker-pros-are-shrinking-images-by-99-the-hidden-techniques-you-cant-afford-to-miss-a70ee26b4cbf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,25 +467,25 @@
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Deploying Infrastructure & Application using GitOps - <a href="https://medium.com/@thejogi/deploying-infrastructure-application-using-gitops-862fc89b6325" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Uploading SARIF Reports to GitHub - <a href="https://medium.com/@enriquelopezmanas/uploading-sarif-reports-to-github-91a8001e6794" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Jogi Developer`**
+✍️ **posted by `Enrique López-Mañas`**
 
-<blockquote>Combining Terraform & ArgoCD to continously deploy application along with its infrastructure needs.</blockquote>
+<blockquote>Recently I wanted to add Lint reports to a repository on GitHub. The goal is to report potential Lint violations when new code is…</blockquote>
 
-<h3>5. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrew Blooman`**
+✍️ **posted by `Houssem Ben Braiek`**
 
-<blockquote>Keep your containers vulnerability free and securely configured</blockquote>
+<blockquote>Achieving Google’s MLOps level 2 (or “Automation”) with only self-hosted open-source software (OSS) is an ambitious goal, but it’s…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. The Evolving Role of Event-Driven Architectures in Automation - <a href="https://medium.com/@wim.henderickx/the-evolving-role-of-event-driven-architectures-in-automation-fd7312bc491e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Modular Monoliths: Enable the Network Layer from the Start - <a href="https://medium.com/@tpierrain/modular-monoliths-enable-the-network-layer-from-the-start-92a12e12d051" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wim Henderickx`**
+✍️ **posted by `Thomas Pierrain. (υѕe caѕe drιven)`**
 
-<blockquote>In today’s ever-changing business landscape, efficiency transcends mere ambition to become a fundamental necessity. Automation stands at…</blockquote>
+<blockquote>TLDR; To ensure effective module separation in a modular monolith, activate network transport at runtime and in production from the…</blockquote>
 
 <h3>2. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -498,11 +499,11 @@
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. How to Pass KCSA (Kubernetes and Cloud Native Security Associate) Exam - <a href="https://medium.com/@nvsajeeva/how-to-pass-kcsa-kubernetes-and-cloud-native-security-associate-exam-a7d4b47d72f4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. DevOps and Cloud Engineering Learning Path 2024: A Comprehensive Roadmap - <a href="https://medium.com/@piyush.sachdeva055/devops-and-cloud-engineering-learning-path-2024-a-comprehensive-roadmap-ff647da2e086" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sajeeva Lakmal`**
+✍️ **posted by `Piyush Sachdeva`**
 
-<blockquote>About me</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -530,11 +531,11 @@
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Deploy a Streamlit application on Google Cloud Run (with CI/CD) - <a href="https://medium.com/@the.agata.pieniak/deploy-a-streamlit-application-on-google-cloud-run-with-ci-cd-b66ce18e9f8b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Creating an assets image for Sitecore module from SCS serialization package - <a href="https://medium.com/@jackspektor/creating-an-assets-image-for-sitecore-module-from-scs-serialization-package-6c67259df9bf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Agata Pieniak`**
+✍️ **posted by `Jack Spektor`**
 
-<blockquote>Cloud Run is a fully managed serverless platform on Google Cloud Platform (GCP) that lets you run containerized applications without…</blockquote>
+<blockquote>This article would explain the steps needed to create custom Sitecore module in form of Docker assets image.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
