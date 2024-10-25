@@ -33,11 +33,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. What’s New in Next.js 15? - <a href="https://medium.com/@calebpr/whats-new-in-next-js-15-c768b75faec4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to create a Next.js + Express web application and on a single server - <a href="https://medium.com/@samchandgaonkar/how-to-create-a-next-js-express-web-application-and-on-a-single-server-d6ba91d745ac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Caleb`**
+✍️ **posted by `Samadhan Chandgaonkar`**
 
-<blockquote>The latest release, Next.js 15, is here, and it’s packed with exciting updates that aim to make development smoother, faster, and more…</blockquote>
+<blockquote>(Only the basics)</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -51,11 +51,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>The surprising reasons behind OpenAI’s move and what it means for the future of web development</blockquote>
 
-<h3>4. Active Links In Nextjs - <a href="https://medium.com/@raiyanmemon/active-links-in-nextjs-83889b7e07bd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Advanced Caching Strategies with Workbox: Beyond StaleWhileRevalidate - <a href="https://medium.com/animall-engineering/advanced-caching-strategies-with-workbox-beyond-stalewhilerevalidate-d000f1d27d0a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Raiyan Memon`**
+✍️ **posted by `Libin V Babu`**
 
-<blockquote>Custom styling on the active link is crucial for UX, allowing users to identify their current page easily.</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -83,11 +83,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/magnetic/ux-ui-design-trends-in-2023-efdc94ea0fb7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Guide to Empathy Mapping in UX/UI - <a href="https://medium.com/@kumarisakshi9595/a-guide-to-empathy-mapping-in-ux-ui-7eeae0570ebe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Bailey`**
+✍️ **posted by `Kumarisakshi`**
 
-<blockquote>We designers are a curious species — tirelessly seeking and sharing ideas that help develop our craft and the things we make. UX design…</blockquote>
+<blockquote>In the field of UX/UI design, empathy mapping is a powerful tool that allows designers to better understand and connect with their users…</blockquote>
 
 <h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -97,11 +97,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Navigating Click Events: Handling Hidden Inputs in Safari vs. Chrome - <a href="https://medium.com/@fibianmejia/navigating-click-events-handling-hidden-inputs-in-safari-vs-chrome-139bce1e29b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 15 Crucial Syntax Rules You Should Observe When Writing JavaScript Code - <a href="https://medium.com/@CodingAdventure/15-crucial-syntax-rules-you-should-observe-when-writing-javascript-code-915f4b684b80" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fabian Mejia`**
+✍️ **posted by `Coding Adventure`**
 
-<blockquote>Learn to trigger hidden inputs programmatically in web apps, comparing behaviors in Chrome and Safari, and navigate cross-browser…</blockquote>
+<blockquote>JavaScript is one of the most popular programming languages for web development, but writing clean and error-free code requires a solid…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -115,11 +115,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. Master These 10 One-Line JavaScript Techniques for SDE-2 Interview Success! - <a href="https://medium.com/@javaScriptwithvinay/master-these-10-one-line-javascript-techniques-for-sde-2-interview-success-d39f55bfd65b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript Performance Tuning: Implementing Throttling in TypeScript - <a href="https://medium.com/@fibianmejia/javascript-performance-tuning-implementing-throttling-in-typescript-ef5a5622c462" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript With Vinay`**
+✍️ **posted by `Fabian Mejia`**
 
-<blockquote>1. Array Filtering in One Line</blockquote>
+<blockquote>Optimize event handling in JavaScript with a custom TypeScript throttling function to boost performance and prevent bottlenecks.</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -129,11 +129,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Typescript 0 to 100 part 1 . - <a href="https://medium.com/@dillirajtimalsina354/typescript-0-to-100-part-1-0c3302345eb1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 Bad Habits to Break When Writing TypeScript - <a href="https://medium.com/javascript-in-plain-english/10-bad-habits-to-break-when-writing-typescript-3a05ba92a92b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dillirajtimalsina`**
+✍️ **posted by `Awwwesssooooome`**
 
-<blockquote>Typed vs Non-Typed Languages</blockquote>
+<blockquote>As TypeScript continues to mature, some practices that once seemed reasonable may no longer be optimal. Below are 10 common bad habits in…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -147,11 +147,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
-<h3>4. Mastering TypeScript Functions: From Basics to Advanced Techniques - <a href="https://medium.com/@prabhatkumarjena16/mastering-typescript-functions-from-basics-to-advanced-techniques-e3d02c8a0140" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Typescript 0 to 100 part 1 . - <a href="https://medium.com/@dillirajtimalsina354/typescript-0-to-100-part-1-0c3302345eb1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `prabhat kumar jena`**
+✍️ **posted by `Dillirajtimalsina`**
 
-<blockquote>Welcome to our comprehensive guide on Functions in TypeScript! In this blog, we’ll explore the versatile world of functions in TypeScript…</blockquote>
+<blockquote>Typed vs Non-Typed Languages</blockquote>
 
 <h3>5. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -161,11 +161,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Node.js vs Deno vs Bun: Fastify Hello World Performance - <a href="https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-fastify-hello-world-performance-cdf50ce9123f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Create Dynamic PDFs Using Node.js: Puppeteer vs Pdfmake - <a href="https://medium.com/@poonamdaxini/create-dynamic-pdfs-using-node-js-puppeteer-vs-pdfmake-7c02ea1b0577" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mayank C`**
+✍️ **posted by `Poonam Dakshini`**
 
-<blockquote>Find out how the latest versions of Node.js, Deno, and Bun performs for simple fastify hello world server</blockquote>
+<blockquote>In Node I found two popular libs to generate pdf.</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -179,11 +179,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Node.js has a vibrant ecosystem of npm packages that can significantly enhance your API development process. These packages provide…</blockquote>
 
-<h3>4. Node.js vs Deno vs Bun: Express Hello World Performance - <a href="https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-express-hello-world-performance-9f35b610985a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. What’s New in Next.js 15: A Comprehensive Comparison with Next.js 14 - <a href="https://medium.com/@hiteshchauhan2023/whats-new-in-next-js-15-a-comprehensive-comparison-with-next-js-14-5b536d2f91e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mayank C`**
+✍️ **posted by `Hitesh Chauhan`**
 
-<blockquote>Find out how the latest versions of Node.js, Deno, and Bun performs for simple express hello world server</blockquote>
+<blockquote>Next.js has been at the forefront of modern web development, offering robust features and an intuitive developer experience. With the…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -193,11 +193,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Interviewer: Talk About Your Understanding of Session, Cookie, Token, and JWT - <a href="https://medium.com/@junfeng0828/the-http-protocol-is-a-stateless-protocol-that-is-every-time-the-server-receives-a-request-b9c4f31bfbb3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Ng-News 24/42: Q&A Session, linkedSignal(), resource() - <a href="https://medium.com/ng-news/ng-news-24-42-q-a-session-linkedsignal-resource-7a754bb8177c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dylan Smith`**
+✍️ **posted by `ng-news`**
 
-<blockquote>My articles are open to everyone; non-member readers can read the full article by clicking this link.</blockquote>
+<blockquote>The Angular Q&A covered Incremental Hydration and the progress on modernizing testing tools. `linkedSignal` and `resource()` will be the…</blockquote>
 
 <h3>2. From Atomic Design to Relativistic Interfaces - <a href="https://medium.com/gitconnected/from-atomic-design-to-relativistic-interfaces-0751b0b46832" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -211,11 +211,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>The new shadcn/ui framework completely transforms how we design and build modern web apps.</blockquote>
 
-<h3>4. Angular Terminologies - <a href="https://medium.com/@lakshminarayananr/angular-terminologies-b5dace1c61ee" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building ultra fast websites - <a href="https://medium.com/@yananas/how-is-this-website-so-fast-f81409e2f2a5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lakshminarayanan R`**
+✍️ **posted by `Yan Niznik`**
 
-<blockquote>Important Angular Terminologies</blockquote>
+<blockquote>Discover how McMaster-Carr achieves incredibly fast page loads through advanced performance techniques.</blockquote>
 
 <h3>5. Announcing Deno 2 - <a href="https://medium.com/@denoland/announcing-deno-2-5ef6fa56a743" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -225,11 +225,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/@varadaraj277/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building Hybrid Applications in LabVIEW: Combining Traditional and Modern Approaches - <a href="https://medium.com/@thomas.zilliox/building-hybrid-applications-in-labview-combining-traditional-and-modern-approaches-6c184952ca92" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Varadaraj Acharya`**
+✍️ **posted by `Thomas Zilliox`**
 
-<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
+<blockquote>Hybrid applications were originally proposed as a solution to building apps that could run across multiple platforms, like Android and iOS…</blockquote>
 
 <h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -237,11 +237,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Seamlessly Switching Between Native App and WebView in iOS Mobile Testing with Appium - <a href="https://medium.com/@aqsazia48/seamlessly-switching-between-native-app-and-webview-in-ios-mobile-testing-with-appium-a8353026308b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tippu Fisal Sheriff`**
+✍️ **posted by `Aqsa Zia`**
 
-<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
+<blockquote>When you’re testing hybrid apps on iOS using Appium, it’s essential to know how to interact with both native components (buttons, text…</blockquote>
 
 <h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -249,25 +249,25 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
 
-<h3>5. Test Automation for Desktop Hybrid Applications: CEF vs WebView2 - <a href="https://medium.com/@marwan.alabassiry/test-automation-for-desktop-hybrid-applications-cef-vs-webview2-0360512854e7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/stackademic/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Marwan Alabassiry`**
+✍️ **posted by `Varadaraj Acharya`**
 
-<blockquote>In today’s fast-paced digital world, hybrid desktop applications — blending the power of native desktop apps with the versatility of web…</blockquote>
+<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Claude’s new 3.5 Sonnet outperformed OpenAI’s O1-mini. I’m shocked. - <a href="https://medium.com/@austin-starks/claudes-new-3-5-sonnet-outperformed-openai-s-o1-mini-i-m-shocked-58c9ee1993ea" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Time Series — From Analyzing the Past to Predicting the Future - <a href="https://medium.com/towards-data-science/time-series-from-analyzing-the-past-to-predicting-the-future-249ab99ec52d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Austin Starks`**
+✍️ **posted by `Farzad Nobar`**
 
-<blockquote>A side-by-side comparison of Claude’s updated 3.5 Sonnet model</blockquote>
+<blockquote>How to learn from the past with time series.</blockquote>
 
-<h3>2. We Have Finally Found A Solution To An Extremely Energy Efficient AI - <a href="https://medium.com/gitconnected/we-have-finally-found-a-solution-to-an-extremely-energy-efficient-ai-73ed2537e53f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How To Be a Software Developer I Want to Work With - <a href="https://medium.com/code-like-a-girl/how-to-be-a-software-developer-i-want-to-work-with-7cdf2fa6bf43" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dr. Ashish Bamania`**
+✍️ **posted by `Victoria Corindi 🌻`**
 
-<blockquote>A deep dive into the L-Mul/ Linear complexity multiplication algorithm that makes our existing AI models faster and super energy-efficient</blockquote>
+<blockquote>Key qualities I look for to drive success in high-impact projects</blockquote>
 
 <h3>3. 5 Linux Command Tricks That Will Change Your Life as a Programmer - <a href="https://medium.com/gitconnected/5-linux-command-tricks-that-will-change-your-life-as-a-programmer-825a4524218a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -275,31 +275,31 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Boost your productivity with these powerful Linux commands for developers!</blockquote>
 
-<h3>4. Impressive Open-Source Projects That Only A Few Programmers Know - <a href="https://medium.com/gitconnected/impressive-open-source-projects-that-only-a-few-programmers-know-c0f6b81d15fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Side Project Dilemma: Why Developers Often Miss The Mark On Monetization - <a href="https://medium.com/@jankammerath/the-side-project-dilemma-why-developers-often-miss-the-mark-on-monetization-c24ea3641f64" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shalitha Suranga`**
+✍️ **posted by `Jan Kammerath`**
 
-<blockquote>Priceless open-source innovations that impress any programmer</blockquote>
+<blockquote>It’s portrayed as the developer’s ultimate dream. Building that one software that generates passive income and brings financial freedom. It…</blockquote>
 
-<h3>5. Believe In Yourself: Do LLMs Internally Know What Is True? - <a href="https://medium.com/gitconnected/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Salvatore Raieli`**
-
-<blockquote>Leveraging Internal Representations to Detect and Understand Errors in Large Language Models</blockquote>
-
-<br/>
-<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Claude’s new 3.5 Sonnet outperformed OpenAI’s O1-mini. I’m shocked. - <a href="https://medium.com/@austin-starks/claudes-new-3-5-sonnet-outperformed-openai-s-o1-mini-i-m-shocked-58c9ee1993ea" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Austin Starks`**
-
-<blockquote>A side-by-side comparison of Claude’s updated 3.5 Sonnet model</blockquote>
-
-<h3>2. We Have Finally Found A Solution To An Extremely Energy Efficient AI - <a href="https://medium.com/gitconnected/we-have-finally-found-a-solution-to-an-extremely-energy-efficient-ai-73ed2537e53f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. We Have Finally Found A Solution To An Extremely Energy Efficient AI - <a href="https://medium.com/gitconnected/we-have-finally-found-a-solution-to-an-extremely-energy-efficient-ai-73ed2537e53f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Dr. Ashish Bamania`**
 
 <blockquote>A deep dive into the L-Mul/ Linear complexity multiplication algorithm that makes our existing AI models faster and super energy-efficient</blockquote>
+
+<br/>
+<h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
+<h3>1. Apple Speaks the Truth About AI. It’s Not Good. - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/apple-speaks-the-truth-about-ai-its-not-good-8f72621cb82d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ignacio de Gregorio`**
+
+<blockquote>Are We Being Lied To?</blockquote>
+
+<h3>2. Are You a New Parent Struggling to Relate to Your Old, Childless Friends? - <a href="https://medium.com/frazzled/are-you-a-new-parent-struggling-to-relate-to-your-old-childless-friends-37df0e433ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Amarie Skrip`**
+
+<blockquote>There’s an App for that</blockquote>
 
 <h3>3. We Are Watching The Death Of Tesla - <a href="https://medium.com/predict/we-are-watching-the-death-of-tesla-04639adfdb7b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -307,31 +307,31 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Tesla’s Cybercab is worse than vapourware; it’s a damning insight into a dying giant.</blockquote>
 
-<h3>4. Impressive Open-Source Projects That Only A Few Programmers Know - <a href="https://medium.com/gitconnected/impressive-open-source-projects-that-only-a-few-programmers-know-c0f6b81d15fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Leave a Tech Job - <a href="https://medium.com/onebigthought/how-to-leave-a-tech-job-d9e3557ffdac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shalitha Suranga`**
+✍️ **posted by `Judd Antin`**
 
-<blockquote>Priceless open-source innovations that impress any programmer</blockquote>
+<blockquote>Transitioning out of tech, into your next career is exciting and scary. Here’s all the advice I give people trying to do it.</blockquote>
 
-<h3>5. Believe In Yourself: Do LLMs Internally Know What Is True? - <a href="https://medium.com/gitconnected/believe-in-yourself-do-llms-internally-know-what-is-true-4d0d08ec45b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How To Be a Software Developer I Want to Work With - <a href="https://medium.com/code-like-a-girl/how-to-be-a-software-developer-i-want-to-work-with-7cdf2fa6bf43" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Salvatore Raieli`**
+✍️ **posted by `Victoria Corindi 🌻`**
 
-<blockquote>Leveraging Internal Representations to Detect and Understand Errors in Large Language Models</blockquote>
+<blockquote>Key qualities I look for to drive success in high-impact projects</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. was it love? or simply just convenience? - <a href="https://medium.com/@lynwrites_/was-it-love-or-simply-just-convenience-1e44641df9d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My Wife Keeps Bringing Up the Past - <a href="https://medium.com/@jojoali930/my-wife-keeps-bringing-up-the-past-a46909bea82c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `letters from rosie`**
+✍️ **posted by `Joe Chiang 江効儒`**
 
-<blockquote>“Mahal mo lang ako kapag pagod na ako.”</blockquote>
+<blockquote>and what I did about it.</blockquote>
 
-<h3>2. Ethical Non-Monogamy - <a href="https://medium.com/illumination/ethical-non-monogamy-b28839150a9f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Mindful Meanings: On the Difference Between “Nice” and “Kind” - <a href="https://medium.com/deep-sweet-valuable/mindful-meanings-on-the-difference-between-nice-and-kind-dba80f1902f3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jen Leggio`**
+✍️ **posted by `M Salim`**
 
-<blockquote>There’s More Love Than You Think — And It’s All I Want</blockquote>
+<blockquote>Perception vs. Intention and the impact to self and others</blockquote>
 
 <h3>3. My Friend Cassie Attracted Men Like I Never Could - <a href="https://medium.com/long-after-the-thrill/my-friend-cassie-attracted-men-like-i-never-could-80c3b383bbca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -339,25 +339,25 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>It wasn’t until I was older, I understood why.</blockquote>
 
-<h3>4. Responding to Silence - <a href="https://medium.com/scribe/responding-to-silence-3592b42f7b1a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Are You a New Parent Struggling to Relate to Your Old, Childless Friends? - <a href="https://medium.com/frazzled/are-you-a-new-parent-struggling-to-relate-to-your-old-childless-friends-37df0e433ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ema Dumitru`**
+✍️ **posted by `Amarie Skrip`**
 
-<blockquote>Poem</blockquote>
+<blockquote>There’s an App for that</blockquote>
 
-<h3>5. How I’m No Longer Haunted by the Ghosts of Friendships Past - <a href="https://medium.com/thought-thinkers/how-im-no-longer-haunted-by-the-ghosts-of-friendships-past-e57d6667fb04" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. I Don’t Know Why My Wife Changed Completely After I Played a Little with Her… - <a href="https://medium.com/@Don-Penned-It/i-dont-know-why-my-wife-changed-completely-after-i-played-a-little-with-her-658fd3745ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sarah Paris`**
+✍️ **posted by `Don Penned It`**
 
-<blockquote>A spooky tale about self-discovery and letting go of expectations</blockquote>
+<blockquote>…by Driving Away.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Functional Programming in Dart - <a href="https://medium.com/@syedabdulbasit7/functional-programming-in-dart-3b011810038d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. IoC in Flutter: How to Choose an Approach for Dependency Management in a Project - <a href="https://medium.com/@dieselok161/ioc-in-flutter-how-to-choose-an-approach-for-dependency-management-in-a-project-001e93b25633" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Syed Abdul Basit`**
+✍️ **posted by `Rinat`**
 
-<blockquote>A Deep Dive into Network Responses 🌐 to Handle API Responses with Dart.</blockquote>
+<blockquote>Hello everyone! My name is Rinat, I am a Tech Lead of the Flutter practice at tekmates. In 2 years in the Central Asian market, we have…</blockquote>
 
 <h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -371,11 +371,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Tesla Phone: What to Expect from Elon Musk’s Next Innovation? - <a href="https://medium.com/@softradix2022/tesla-phone-what-to-expect-from-elon-musks-next-innovation-a82e20b94831" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kunsthaus visitor guide: A story of gut-driven method nerdery - <a href="https://medium.com/dreipol/kunsthaus-visitor-guide-a-story-of-gut-driven-method-nerdery-73e5b753e51f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `SoftRadix Technologies`**
+✍️ **posted by `Florian Wille`**
 
-<blockquote>Discover the potential of a Tesla phone! This blog explores the exciting features, design, and impact of Elon Musk’s rumored smartphone.</blockquote>
+<blockquote>How to move ahead in a project without proper research while keeping risk at a minimum.</blockquote>
 
 <h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -467,11 +467,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Uploading SARIF Reports to GitHub - <a href="https://medium.com/@enriquelopezmanas/uploading-sarif-reports-to-github-91a8001e6794" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. We Threw Away 13 Years of Work for EKS - <a href="https://medium.com/gumgum-tech/we-threw-away-13-years-of-work-for-eks-b0fd8f53917c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Enrique López-Mañas`**
+✍️ **posted by `Andrew George`**
 
-<blockquote>Recently I wanted to add Lint reports to a repository on GitHub. The goal is to report potential Lint violations when new code is…</blockquote>
+<blockquote>Thirteen years of running in EC2.</blockquote>
 
 <h3>5. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -513,11 +513,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Restricting Excessive Pod Scheduling using “topologySpreadConstraints” - <a href="https://medium.com/@2211pushkaragnihotri/restricting-excessive-pod-scheduling-using-topologyspreadconstraints-99a5e984f1a3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Configuring GeoServer with Docker 2024 - <a href="https://medium.com/@limeira.felipe94/configuring-geoserver-with-docker-2024-fae3341e0473" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pushkar Agnihotri`**
+✍️ **posted by `Felipe Limeira 🌍`**
 
-<blockquote>In Kubernetes, managing the distribution of pods across nodes is crucial for achieving high availability and resource efficiency. One…</blockquote>
+<blockquote>In this tutorial, you will learn how to set up and run GeoServer using Docker and Docker Compose.</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +531,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Creating an assets image for Sitecore module from SCS serialization package - <a href="https://medium.com/@jackspektor/creating-an-assets-image-for-sitecore-module-from-scs-serialization-package-6c67259df9bf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Init Containers: A Deep Dive - <a href="https://medium.com/@ezgitastan/init-containers-a-deep-dive-ebbd5d96e624" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jack Spektor`**
+✍️ **posted by `EzgiTastan`**
 
-<blockquote>This article would explain the steps needed to create custom Sitecore module in form of Docker assets image.</blockquote>
+<blockquote>Init containers are designed to handle setup and initialization tasks before the main application containers start in a Pod. They…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
