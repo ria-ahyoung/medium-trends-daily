@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/25)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/10/26)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,12 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. How To Learn React JS Easy Way — - <a href="https://medium.com/@er.ritikpal/how-to-learn-react-js-easy-way-7970ceeb6905" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My Experience with Microfrontends: A Comprehensive Guide - <a href="https://medium.com/@ranuranjan25/my-experience-with-microfrontends-a-comprehensive-guide-33bdbc34ff04" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ritikpal`**
+✍️ **posted by `Ranuranjan`**
 
-<blockquote>Hey Guys, 
-Hope you all doing well ! , if you want to learn React and you are confused from where to begin — Let me tell you an easy step…</blockquote>
+<blockquote>Over the past three years, I’ve had the opportunity to work extensively with microfrontends, an architectural approach that has transformed…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -87,25 +86,25 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>In React, performance optimization is crucial for ensuring a smooth and efficient user experience. One common performance pitfall is…</blockquote>
 
-<h3>4. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Is gRPC an Alternative to REST for Front-end Developers? - <a href="https://medium.com/@metalabtech/is-grpc-an-alternative-to-rest-for-front-end-developers-de40edb8e19d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Metalab`**
+
+<blockquote>A deep dive on the pros and cons of gRPC with a code tutorial on how to set it up using NextJS 15 and React 19</blockquote>
+
+<h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wayne`**
 
 <blockquote>React 19 will be another milestone release after the introduction of hooks!</blockquote>
 
-<h3>5. React Design Patterns - <a href="https://medium.com/@dotexedev/react-design-patterns-349c6644315f" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ahsan Iftikhar`**
-
-<blockquote>Discover how to apply design patterns in your React applications.</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How to create a Next.js + Express web application and on a single server - <a href="https://medium.com/@samchandgaonkar/how-to-create-a-next-js-express-web-application-and-on-a-single-server-d6ba91d745ac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React vs. Next.js: Which One to Choose for Your Project? - <a href="https://medium.com/code-like-a-girl/react-vs-next-js-which-one-to-choose-for-your-project-c79f1702a383" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Samadhan Chandgaonkar`**
+✍️ **posted by `Nipuni S Ranathunga`**
 
-<blockquote>(Only the basics)</blockquote>
+<blockquote>Hello everyone 👋, Are you ready to explore the world of modern web development?</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -119,11 +118,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>The surprising reasons behind OpenAI’s move and what it means for the future of web development</blockquote>
 
-<h3>4. Advanced Caching Strategies with Workbox: Beyond StaleWhileRevalidate - <a href="https://medium.com/animall-engineering/advanced-caching-strategies-with-workbox-beyond-stalewhilerevalidate-d000f1d27d0a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Sharing encrypted Laravel cookies with Next.js - <a href="https://medium.com/studocu-techblog/sharing-encrypted-laravel-cookies-with-next-js-8d270c19df6a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Libin V Babu`**
+✍️ **posted by `Pablo Montenegro`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>I often have friends asking me, “Pablo, how do you manage to stay so calm and collected in the face of complex technical challenges?” Well…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -139,29 +138,29 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
 
-<h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Consagoustech`**
-
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
-
-<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Rakshagarambha`**
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. A Guide to Empathy Mapping in UX/UI - <a href="https://medium.com/@kumarisakshi9595/a-guide-to-empathy-mapping-in-ux-ui-7eeae0570ebe" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Kumarisakshi`**
-
-<blockquote>In the field of UX/UI design, empathy mapping is a powerful tool that allows designers to better understand and connect with their users…</blockquote>
-
-<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+
+<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Consagoustech`**
+
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+
+<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Design Studio`**
+
+<blockquote>Picture the world of UI and UX design as an ever-evolving ecosystem. In this ecosystem, new trends emerge at a rapid pace and users’…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
@@ -293,11 +292,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Building Hybrid Applications in LabVIEW: Combining Traditional and Modern Approaches - <a href="https://medium.com/@thomas.zilliox/building-hybrid-applications-in-labview-combining-traditional-and-modern-approaches-6c184952ca92" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thomas Zilliox`**
+✍️ **posted by `Tippu Fisal Sheriff`**
 
-<blockquote>Hybrid applications were originally proposed as a solution to building apps that could run across multiple platforms, like Android and iOS…</blockquote>
+<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
 
 <h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -305,11 +304,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. Seamlessly Switching Between Native App and WebView in iOS Mobile Testing with Appium - <a href="https://medium.com/@aqsazia48/seamlessly-switching-between-native-app-and-webview-in-ios-mobile-testing-with-appium-a8353026308b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Test Automation for Desktop Hybrid Applications: CEF vs WebView2 - <a href="https://medium.com/@marwan.alabassiry/test-automation-for-desktop-hybrid-applications-cef-vs-webview2-0360512854e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aqsa Zia`**
+✍️ **posted by `Marwan Alabassiry`**
 
-<blockquote>When you’re testing hybrid apps on iOS using Appium, it’s essential to know how to interact with both native components (buttons, text…</blockquote>
+<blockquote>In today’s fast-paced digital world, hybrid desktop applications — blending the power of native desktop apps with the versatility of web…</blockquote>
 
 <h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -317,11 +316,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
 
-<h3>5. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/stackademic/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Capturing XHR and Fetch POST Requests in Android WebView - <a href="https://medium.com/@nachare.reena8/capturing-xhr-and-fetch-post-requests-in-android-webview-9191979e8d9b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Varadaraj Acharya`**
+✍️ **posted by `Reena Rote`**
 
-<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
@@ -395,11 +394,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>and what I did about it.</blockquote>
 
-<h3>2. Mindful Meanings: On the Difference Between “Nice” and “Kind” - <a href="https://medium.com/deep-sweet-valuable/mindful-meanings-on-the-difference-between-nice-and-kind-dba80f1902f3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I Became Boring and It Was the Best Thing I Could Have Done - <a href="https://medium.com/invisible-illness/i-became-boring-and-it-was-the-best-thing-i-could-have-done-6a38a99672cc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `M Salim`**
+✍️ **posted by `Fleurine Tideman`**
 
-<blockquote>Perception vs. Intention and the impact to self and others</blockquote>
+<blockquote>My teenage self would hate me</blockquote>
 
 <h3>3. My Friend Cassie Attracted Men Like I Never Could - <a href="https://medium.com/long-after-the-thrill/my-friend-cassie-attracted-men-like-i-never-could-80c3b383bbca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,11 +406,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>It wasn’t until I was older, I understood why.</blockquote>
 
-<h3>4. Are You a New Parent Struggling to Relate to Your Old, Childless Friends? - <a href="https://medium.com/frazzled/are-you-a-new-parent-struggling-to-relate-to-your-old-childless-friends-37df0e433ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Are You Fed Up With Your Relationship Script but Not Sure How to Flip it? - <a href="https://medium.com/modern-women/are-you-fed-up-with-your-relationship-script-but-not-sure-how-to-flip-it-271911545532" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Amarie Skrip`**
+✍️ **posted by `Danielle Benvenuto`**
 
-<blockquote>There’s an App for that</blockquote>
+<blockquote>When being let down stopped feeling good, I started doing this.</blockquote>
 
 <h3>5. I Don’t Know Why My Wife Changed Completely After I Played a Little with Her… - <a href="https://medium.com/@Don-Penned-It/i-dont-know-why-my-wife-changed-completely-after-i-played-a-little-with-her-658fd3745ca7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -421,11 +420,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. IoC in Flutter: How to Choose an Approach for Dependency Management in a Project - <a href="https://medium.com/@dieselok161/ioc-in-flutter-how-to-choose-an-approach-for-dependency-management-in-a-project-001e93b25633" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. What’s New in React Native 0.76: Performance, Style, and DevTools Boost with Examples - <a href="https://medium.com/@hamzailyas/whats-new-in-react-native-0-76-performance-style-and-devtools-boost-with-examples-a8ac8d2e505c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rinat`**
+✍️ **posted by `Hamza Ilyas`**
 
-<blockquote>Hello everyone! My name is Rinat, I am a Tech Lead of the Flutter practice at tekmates. In 2 years in the Central Asian market, we have…</blockquote>
+<blockquote>React Native 0.76 has introduced several exciting updates that make app development easier and more efficient. Whether you’re a beginner or…</blockquote>
 
 <h3>2. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,11 +438,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Kunsthaus visitor guide: A story of gut-driven method nerdery - <a href="https://medium.com/dreipol/kunsthaus-visitor-guide-a-story-of-gut-driven-method-nerdery-73e5b753e51f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Creating a Dynamic Form Factory in Flutter using the Riverpod and Flutter Form Builder packages - <a href="https://medium.com/@savavlad/creating-a-dynamic-form-factory-in-flutter-using-the-riverpod-and-flutter-form-builder-packages-0df75d4f7716" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Florian Wille`**
+✍️ **posted by `Vlad S`**
 
-<blockquote>How to move ahead in a project without proper research while keeping risk at a minimum.</blockquote>
+<blockquote>Recently, in one of our apps, we had to implment a dinamic forms functionality.</blockquote>
 
 <h3>5. Properly handling text scaling in Flutter - <a href="https://medium.com/@pomis172/properly-handling-text-scaling-in-flutter-313fe717816c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -453,11 +452,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Tubi’s New Android Player Architecture Supports All Playback Scenarios - <a href="https://medium.com/tubi-engineering/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Spice Up Your React-Native App with Product Flavors - <a href="https://medium.com/@shiv.tiwari_49812/how-to-spice-up-your-react-native-app-with-product-flavors-8d476b2f5830" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `zxzx25952`**
+✍️ **posted by `Shiv Tiwari`**
 
-<blockquote>Xin Zheng and Shaowei Chang</blockquote>
+<blockquote>Because who doesn’t want their app served in multiple flavors?</blockquote>
 
 <h3>2. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -471,11 +470,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Because who got time to register parameter names and all of their typeMaps</blockquote>
 
-<h3>4. Navigate Early Development | Simplify Data Storage - <a href="https://medium.com/@jtbsorensen/navigate-early-development-simplify-data-storage-c76013878cb4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. What’s New in React Native 0.76: Performance, Style, and DevTools Boost with Examples - <a href="https://medium.com/@hamzailyas/whats-new-in-react-native-0-76-performance-style-and-devtools-boost-with-examples-a8ac8d2e505c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jan-Terje Sørensen`**
+✍️ **posted by `Hamza Ilyas`**
 
-<blockquote>You’re full of fresh ideas and ready to start developing your new application. You have a vision for the features you want to implement and…</blockquote>
+<blockquote>React Native 0.76 has introduced several exciting updates that make app development easier and more efficient. Whether you’re a beginner or…</blockquote>
 
 <h3>5. Why I Misjudged the Samsung Galaxy Fold6 - <a href="https://medium.com/deep-sweet-valuable/why-i-misjudged-the-samsung-galaxy-fold6-366c3665d27f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -485,17 +484,17 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. How to use Cursor for iOS development - <a href="https://medium.com/@dimillian/how-to-use-cursor-for-ios-development-54b912c23941" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Thomas Ricouard`**
+
+<blockquote>I’ve recently migrated Ice Cubes, my open-source SwiftUI Mastodon client to use file system folders instead of Xcode groups.</blockquote>
+
+<h3>2. How to use Cursor for iOS development - <a href="https://medium.com/@dimillian/how-to-use-cursor-for-ios-development-54b912c23941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Thomas Ricouard`**
 
 <blockquote>Recently, there’s been much talk and fuss about AI, and whether or not it can improve your development workflow. I wanted to touch base…</blockquote>
-
-<h3>2. Owners of the Obsolete: Why My iPhone 6S Still Surprises Me in 2024 😲 - <a href="https://medium.com/macoclock/owners-of-the-obsolete-why-my-iphone-6s-still-surprises-me-in-2024-5cbcadea900a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Aditya Darekar`**
-
-<blockquote>While technology has leaped forward since 2015, Apple’s iPhone 6S remains surprisingly competent. I’ll walk through the features that still…</blockquote>
 
 <h3>3. 5 Massive New Photos App Features in iOS 18 - <a href="https://medium.com/macoclock/5-massive-new-photos-app-features-in-ios-18-b4c1ba1ea1ed" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -503,17 +502,17 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>The Photos App Has Got Its Biggest Upgrade Yet</blockquote>
 
-<h3>4. Thoughts on Kotlin Multi Platform (KMP) - <a href="https://medium.com/@benadepoju/thoughts-on-kotlin-multi-platform-kmp-04df1f109473" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Advanced Clean Architecture in SwiftUI: Maximizing Generics and Dependency Injection - <a href="https://medium.com/@jislam150/advanced-clean-architecture-in-swiftui-maximizing-generics-and-dependency-injection-084e0c516924" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Benjamin`**
+✍️ **posted by `Islam Md. Zahirul`**
 
-<blockquote>What its like getting started with Kotlin Multi-Platform</blockquote>
+<blockquote>Leverage advanced generics, protocols, and dependency injection to build scalable, maintainable, and testable SwiftUI applications.</blockquote>
 
-<h3>5. Unnecessarily complicated — iPhone 16 Pro Max - <a href="https://medium.com/macoclock/unnecessarily-complicated-iphone-16-pro-max-92e7f9e51353" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Owners of the Obsolete: Why My iPhone 6S Still Surprises Me in 2024 😲 - <a href="https://medium.com/macoclock/owners-of-the-obsolete-why-my-iphone-6s-still-surprises-me-in-2024-5cbcadea900a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Lewis`**
+✍️ **posted by `Aditya Darekar`**
 
-<blockquote>Getting to know the latest flagship from Apple</blockquote>
+<blockquote>While technology has leaped forward since 2015, Apple’s iPhone 6S remains surprisingly competent. I’ll walk through the features that still…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
@@ -599,11 +598,11 @@ Hope you all doing well ! , if you want to learn React and you are confused fr
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Init Containers: A Deep Dive - <a href="https://medium.com/@ezgitastan/init-containers-a-deep-dive-ebbd5d96e624" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Hands-On: Deploy Your First App with Docker and Minikube - <a href="https://medium.com/code-like-a-girl/kubernetes-minikube-example-df3f68081fc2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `EzgiTastan`**
+✍️ **posted by `Rakia Ben Sassi`**
 
-<blockquote>Init containers are designed to handle setup and initialization tasks before the main application containers start in a Pod. They…</blockquote>
+<blockquote>A step-by-step guide to deploying a spring boot app with Docker and Kubernetes on your local machine</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
