@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Mastering ReactJS: Your Key to Standing Out in the Job Market - <a href="https://medium.com/@kribasai2000/mastering-reactjs-your-key-to-standing-out-in-the-job-market-54cca707dbfc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 8 Mistakes to Avoid When Using React Hooks - <a href="https://medium.com/@skchawala/8-mistakes-to-avoid-when-using-react-hooks-bba0a53510b5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kribasai`**
+✍️ **posted by `Satish Kumar`**
 
-<blockquote>ReactJS, the popular front-end library developed by Facebook, has revolutionized web development. Its robust features and ability to create…</blockquote>
+<blockquote>React Hooks Top Mistakes and Their Fixes</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -32,7 +32,7 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Next.js 15: The Web Development Game-Changer You Need to Know About - <a href="https://medium.com/@harisk2922/next-js-15-the-web-development-game-changer-you-need-to-know-about-04a0db03aea3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Next.js 15: The Web Development Game-Changer You Need to Know About - <a href="https://medium.com/stackademic/next-js-15-the-web-development-game-changer-you-need-to-know-about-04a0db03aea3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Haris Khan`**
 
@@ -50,11 +50,11 @@
 
 <blockquote>The surprising reasons behind OpenAI’s move and what it means for the future of web development</blockquote>
 
-<h3>4. Build your Web Components Faster with AI - <a href="https://medium.com/@tarzzotech/build-your-web-components-faster-with-ai-4191292876b3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Faire Tech Talk: Scaling for Growth — our monorepo, Next.js, - <a href="https://medium.com/faire-the-craft/faire-tech-talk-scaling-for-growth-our-monorepo-next-js-37e55f66e0ab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vijayasekhar Deepak`**
+✍️ **posted by `Jeff Hodnett`**
 
-<blockquote>Not a Member? Read for FREE here.</blockquote>
+<blockquote>How we build frontend and mobile systems for growth at Faire</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Javascript Call Stack & How it works - <a href="https://medium.com/@balasuriyakalindu/javascript-call-stack-how-it-works-e77bc81dcc8d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. JavaScript Interview Faqs For Javascript Developers Worldwide (ep1) - <a href="https://medium.com/gitconnected/javascript-interview-faqs-for-javascript-developers-worldwide-ep1-610e49816e11" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kalindu Thenuka Balasuriya`**
+✍️ **posted by `Imran Farooq`**
 
-<blockquote>The JavaScript call stack is a mechanism that keeps track of the currently executing functions in a JavaScript program. This call stack…</blockquote>
+<blockquote>Hello Readers welcome to the new series named “Frequently Asked JavaScript Interview Questions For Javascript Developers Worldwide”.</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,17 +114,17 @@
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. Understanding the Difference Between var, let, and const in JavaScript - <a href="https://medium.com/codex/understanding-the-difference-between-var-let-and-const-in-javascript-64a294225b0e" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Rahul Kumar`**
-
-<blockquote>JavaScript offers three ways to declare variables: var, let, and const. Each has its own rules, behavior, and use cases, impacting scope…</blockquote>
-
-<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`**
 
 <blockquote>Hi. My name is Daisy, a software Engineer and I love JavaScript. It is a versatile language as there’s so much to do with it (in…</blockquote>
+
+<h3>5. 33 Concepts Every JavaScript Developer Should Know - <a href="https://medium.com/@codingwinner/33-concepts-every-javascript-developer-should-know-ef225a72ed7f" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Codingwinner`**
+
+<blockquote>I have collected 50+ articles on this subject which I hope will help you learn better.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
@@ -160,13 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. The Environmental Impact of Mining for
-Battery Metals - <a href="https://medium.com/@kashifmeo0306/the-environmental-impact-of-mining-for-battery-metals-22c1fb3aca66" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Deep Dive into Distributed Tracing: Implementing OpenTelemetry with Grafana Tempo in a Node.js - <a href="https://medium.com/@robin5002234/a-deep-dive-into-distributed-tracing-implementing-opentelemetry-with-grafana-tempo-in-a-node-js-00bba55018c4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `M Kashif`**
+✍️ **posted by `Rezowanur Rahman Robin`**
 
-<blockquote>The rise of renewable energy and electric vehicles (EVs) has increased demand for batteries,
-particularly those made from lithium, cobalt…</blockquote>
+<blockquote>Distributed tracing has become an essential tool in modern application monitoring, allowing developers to track and analyze requests as…</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -180,11 +178,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>After months of effort, I fixed a tricky Node.js memory leak. Learn the tools and steps that led to success! 🚀</blockquote>
 
-<h3>4. Protecting Server and Database with Throttling in NestJS - <a href="https://medium.com/@scriptgalih/protecting-server-and-database-with-throttling-in-nestjs-272b7948f5ae" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building a CLI app in Node.js - <a href="https://medium.com/@deepak.kumar852182/building-a-cli-app-in-node-js-5ac6fd88f82b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Galih Setyawan`**
+✍️ **posted by `Deepak Kumar`**
 
-<blockquote>In the digital era, modern applications often face traffic spikes, whether from users or bots attempting to access the system continuously…</blockquote>
+<blockquote>Command Line Interface (CLI) applications are essential tools for developers, providing a faster, more efficient way to execute tasks…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -212,11 +210,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>Use new APIs to boost your projects</blockquote>
 
-<h3>4. From Undefined to Unstoppable: JavaScript Errors - <a href="https://medium.com/@kr14nov/from-undefined-to-unstoppable-javascript-errors-a3d290bb6c72" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Angular 19 — linkedSignal Deep Dive - <a href="https://medium.com/@ingila185/angular-19-linkedsignal-deep-dive-c7be699420c9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Karan Rawal`**
+✍️ **posted by `Ingila`**
 
-<blockquote>JavaScript powers the web, turning static pages into interactive experiences. But with great power comes… great errors.</blockquote>
+<blockquote>Angular 19 is on the horizon, and it’s bringing a host of exciting new features to the table. One of the most notable additions is the…</blockquote>
 
 <h3>5. Trump vs Harris — Who has a better website? - <a href="https://medium.com/@michalmalewicz/trump-vs-harris-who-has-a-better-website-b9fcde363f47" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -354,11 +352,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Project Miniclient — Navigation - <a href="https://medium.com/tide-engineering-team/project-miniclient-navigation-9d907345c6d1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Flock: Flutter’s New Fork — A Revolutionary Step in Cross-Platform Development - <a href="https://medium.com/@jamsheermoidu/flock-flutters-new-fork-a-revolutionary-step-in-cross-platform-development-ebe254ab3d92" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oleksandr Leushchenko`**
+✍️ **posted by `Jamsheer Moidu`**
 
-<blockquote>Part of the Project Miniclient series. Dive into two types of navigation — catch up on the introduction if you missed the beginning!</blockquote>
+<blockquote>As Flutter continues to dominate the cross-platform development landscape, a groundbreaking fork called Flock has emerged, promising to…</blockquote>
 
 <h3>2. Socket & Plug Design Kit: A Scalable, Collaborative Model for Mobile Development - <a href="https://medium.com/mobile-app-development-publication/socket-plug-design-kit-a-scalable-collaborative-model-for-mobile-development-4572afb99821" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -372,11 +370,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>This list is for all mobile developers who use the modern UI framework Jetpack Compose for building their app’s UI. You can either use this…</blockquote>
 
-<h3>4. Here is What I Learned About Form Validation While Building My Flutter App - <a href="https://medium.com/@selinnamak/here-is-what-i-learned-about-form-validation-while-building-my-flutter-app-aa181e01bf16" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Configuring FCM for Expo Push Notifications: A Complete Guide - <a href="https://medium.com/@amnamubarakk/configuring-fcm-for-expo-push-notifications-a-complete-guide-a4522d7a7f1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Selin Namak`**
+✍️ **posted by `Amna Mubarak`**
 
-<blockquote>Hi Flutter Developers 👊 Today I want to talk about something I experienced while developing an application with Flutter. While working on…</blockquote>
+<blockquote>Push notifications are essential for engaging users and keeping them updated with your app’s latest content. In this guide, we’ll walk…</blockquote>
 
 <h3>5. The Complexity of Mobile E2E Testing: A Common Dilemma - <a href="https://medium.com/@hello_73712/the-complexity-of-mobile-e2e-testing-a-common-dilemma-b08495f7f8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -468,11 +466,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Building a Service Mesh Lab: Setting Up Istio with Kiali, Prometheus, and Grafana on a Local… - <a href="https://medium.com/@wilgnerlopes/building-a-service-mesh-lab-setting-up-istio-with-kiali-prometheus-and-grafana-on-a-local-f58ed394869f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building a Real-Time CI/CD Pipeline with Jenkins, Ansible, and Kubernetes - <a href="https://medium.com/@mehdi.chebbah/building-a-real-time-ci-cd-pipeline-with-jenkins-ansible-and-kubernetes-f6f48f40e17f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wilgner Lopes`**
+✍️ **posted by `Mehdi Chebbah`**
 
-<blockquote>Microservices architecture has become increasingly popular, and managing the complex network of services can be challenging. Istio is a…</blockquote>
+<blockquote>In today’s fast-paced development environment, implementing a robust CI/CD pipeline is crucial for maintaining efficient software delivery…</blockquote>
 
 <h3>5. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -482,11 +480,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Building a Service Mesh Lab: Setting Up Istio with Kiali, Prometheus, and Grafana on a Local… - <a href="https://medium.com/@wilgnerlopes/building-a-service-mesh-lab-setting-up-istio-with-kiali-prometheus-and-grafana-on-a-local-f58ed394869f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Deploying a Cost-Effective Kubernetes Cluster with NUC PCs and Google Distributed Cloud software… - <a href="https://medium.com/mlb-technology/deploying-a-cost-effective-kubernetes-cluster-with-nuc-pcs-and-google-distributed-cloud-software-cbb65105cdbc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Wilgner Lopes`**
+✍️ **posted by `Kevin Backman`**
 
-<blockquote>Microservices architecture has become increasingly popular, and managing the complex network of services can be challenging. Istio is a…</blockquote>
+<blockquote>Since 2017 MLB has held the Little League Classic at Journey Bank Ballpark at historic Bowman Field in Williamsport, PA. This game is held…</blockquote>
 
 <h3>2. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -500,11 +498,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Deploying a Cost-Effective Kubernetes Cluster with NUC PCs and Google Distributed Cloud software… - <a href="https://medium.com/mlb-technology/deploying-a-cost-effective-kubernetes-cluster-with-nuc-pcs-and-google-distributed-cloud-software-cbb65105cdbc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Preparing for Kubernetes CKAD with Debugging Tips - <a href="https://medium.com/@bounouh.fedi/preparing-for-kubernetes-ckad-with-debugging-tips-8a0b977f242b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kevin Backman`**
+✍️ **posted by `Fedi Bounouh`**
 
-<blockquote>Since 2017 MLB has held the Little League Classic at Journey Bank Ballpark at historic Bowman Field in Williamsport, PA. This game is held…</blockquote>
+<blockquote>In Kubernetes, understanding resource configurations is critical, but so is knowing how to debug issues when things go wrong. Here, we’ll…</blockquote>
 
 <h3>5. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -514,11 +512,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Building Secure Docker Images with Trivy - <a href="https://medium.com/@jxtSamFrimpong/building-secure-docker-images-with-trivy-53104b9faa9f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Using NoSQL Workbench with LocalStack and DynamoDB for Local Development - <a href="https://medium.com/@stevenmeek/using-nosql-workbench-with-localstack-and-dynamodb-for-local-development-266cebfb3995" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `jxtSamFrimpong`**
+✍️ **posted by `Steven Meek`**
 
-<blockquote>If you’re here, I assume you’ve been caught in the web of cloud security and vulnerabilities, much like I was recently. During a routine…</blockquote>
+<blockquote>Localstack is a wonderful tool for developers who wish to build applications that work with AWS but prefer not to start development…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -532,11 +530,11 @@ particularly those made from lithium, cobalt…</blockquote>
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Building a Production-Ready Rails Boilerplate with Docker, PostgreSQL, and AWS - <a href="https://medium.com/@ronakabhattrz/building-a-production-ready-rails-boilerplate-with-docker-postgresql-and-aws-4e20a25bb45a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Creating a Food Delivery Application with Spring Boot, Docker, and RabbitMQ - <a href="https://medium.com/@sancakliumit/creating-a-food-delivery-application-with-spring-boot-docker-and-rabbitmq-9ad9e379c20e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ronak Bhatt`**
+✍️ **posted by `Ümit Sancaklı`**
 
-<blockquote>As the complexity of web applications grows, so does the importance of having a solid, scalable foundation. In this guide, we’ll walk…</blockquote>
+<blockquote>Let’s dive into building a simple food delivery app using Spring Boot, RabbitMQ, and Docker to manage real-time food orders without the…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
