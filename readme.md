@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/05)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/06)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. A Beginner’s Handbook to Software Development - <a href="https://medium.com/technogise/beginners-handbook-to-software-development-4a95ff75f605" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Next.js 14+ Environment variables validation using Zod - <a href="https://medium.com/@akhunters/next-js-14-environment-variables-validation-using-zod-6e1dd95c3406" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nupurbanakar`**
+✍️ **posted by `Avinash Kumar`**
 
-<blockquote>Welcome to the Developer’s Handbook! During my internship, I initially struggled with navigating official documentation and articles. It…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,17 +86,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>As developers, it’s tempting to overuse console.log() to quickly debug code. While it might seem like the fastest way to diagnose issues…</blockquote>
 
-<h3>4. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Beginner’s Handbook to Software Development - <a href="https://medium.com/technogise/beginners-handbook-to-software-development-4a95ff75f605" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Nupurbanakar`**
+
+<blockquote>Welcome to the Developer’s Handbook! During my internship, I initially struggled with navigating official documentation and articles. It…</blockquote>
+
+<h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Wayne`**
 
 <blockquote>React 19 will be another milestone release after the introduction of hooks!</blockquote>
-
-<h3>5. React Design Patterns - <a href="https://medium.com/@dotexedev/react-design-patterns-349c6644315f" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ahsan Iftikhar`**
-
-<blockquote>Discover how to apply design patterns in your React applications.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. JavaScript Interview Faqs For Javascript Developers Worldwide (ep1) - <a href="https://medium.com/gitconnected/javascript-interview-faqs-for-javascript-developers-worldwide-ep1-610e49816e11" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Beyond console.log | Exploring JavaScript Console Alternatives - <a href="https://medium.com/@pwned/beyond-console-log-exploring-javascript-console-alternatives-8662b6a309d9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Imran Farooq`**
+✍️ **posted by `pwned`**
 
-<blockquote>Hello Readers welcome to the new series named “Frequently Asked JavaScript Interview Questions For Javascript Developers Worldwide”.</blockquote>
+<blockquote>When it comes to debugging JavaScript code, the console.log statement is the go-to for most developers. However, the console object in…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2024 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,25 +182,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>JavaScript is a versatile and powerful language that is essential for modern web development. Here are super hacks that will make you a…</blockquote>
 
-<h3>4. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Writing Elegant, Structured Code with JavaScript Callback Mechanism and Functional Programming - <a href="https://medium.com/javascript-in-plain-english/writing-elegant-structured-code-with-javascript-callback-mechanism-and-functional-programming-36fbeb3d1831" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Awwwesssooooome`**
+
+<blockquote>In JavaScript, the callback mechanism is a commonly used technique, especially in asynchronous programming. The core idea behind a callback…</blockquote>
+
+<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`**
 
 <blockquote>Hi. My name is Daisy, a software Engineer and I love JavaScript. It is a versatile language as there’s so much to do with it (in…</blockquote>
 
-<h3>5. 33 Concepts Every JavaScript Developer Should Know - <a href="https://medium.com/@codingwinner/33-concepts-every-javascript-developer-should-know-ef225a72ed7f" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Codingwinner`**
-
-<blockquote>I have collected 50+ articles on this subject which I hope will help you learn better.</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Transform Your Frontend Development: Effortlessly Cut Down on Code with NSwag’s Automated API… - <a href="https://medium.com/@rafaelrodriguez111294/transform-your-frontend-development-effortlessly-cut-down-on-code-with-nswags-automated-api-599f55831cdd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Type vs Interface in Typescript - <a href="https://medium.com/@biswajitdekaofficial/type-vs-interface-in-typescript-6a2c6febd536" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rafael Rodriguez`**
+✍️ **posted by `Biswajit Deka`**
 
-<blockquote>In today’s fast-paced world of web development, integrating backend APIs with frontend applications often presents challenges that can be…</blockquote>
+<blockquote>TypeScript provides us with two ways to define types: type and interface. At a glance, both can appear quite similar and can often be used…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,11 +214,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
-<h3>4. Level Up Your JavaScript: Why Beginners Must Try TypeScript - <a href="https://medium.com/@hammadafzal1111/level-up-your-javascript-why-beginners-must-try-typescript-c249dcd5bc09" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Property Decorators in TypeScript: Add Some Magic to Your Code - <a href="https://medium.com/@billyhansweno/mastering-property-decorators-in-typescript-add-some-magic-to-your-code-ed54ca262224" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hammad Afzal`**
+✍️ **posted by `Weno Hans`**
 
-<blockquote>Transform your coding experience and prevent hidden bugs!</blockquote>
+<blockquote>Imagine being able to add behavior to a property without changing a single line of its main code — almost like casting a spell. Sounds…</blockquote>
 
 <h3>5. How ts-pattern can improve your code readability? - <a href="https://medium.com/@tauantcamargo/how-ts-pattern-can-improve-your-code-readability-d64996841646" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -228,11 +228,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. A Deep Dive into Distributed Tracing: Implementing OpenTelemetry with Grafana Tempo in a Node.js - <a href="https://medium.com/@robin5002234/a-deep-dive-into-distributed-tracing-implementing-opentelemetry-with-grafana-tempo-in-a-node-js-00bba55018c4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Next.js 14+ Environment variables validation using Zod - <a href="https://medium.com/@akhunters/next-js-14-environment-variables-validation-using-zod-6e1dd95c3406" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rezowanur Rahman Robin`**
+✍️ **posted by `Avinash Kumar`**
 
-<blockquote>Distributed tracing has become an essential tool in modern application monitoring, allowing developers to track and analyze requests as…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>After months of effort, I fixed a tricky Node.js memory leak. Learn the tools and steps that led to success! 🚀</blockquote>
 
-<h3>4. Building a CLI app in Node.js - <a href="https://medium.com/@deepak.kumar852182/building-a-cli-app-in-node-js-5ac6fd88f82b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploying NodeJS Apps on Namecheap Shared Hosting — A cautionary tale - <a href="https://medium.com/@outbackhank/deploying-nodejs-apps-on-namecheap-shared-hosting-a-cautionary-tale-9bf895b83dee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deepak Kumar`**
+✍️ **posted by `Hank Bloodshadow`**
 
-<blockquote>Command Line Interface (CLI) applications are essential tools for developers, providing a faster, more efficient way to execute tasks…</blockquote>
+<blockquote>Preamble: G’day, I’m Hank. My internet presence is mostly noted for humorous social media content with my friends on YouTube, Twitch and…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Frontend Weekly Digest #386 (28 October — 3 November 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-386-28-october-3-november-2024-388e6c81f4b4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Fixing Our OPcache Config Sped Up Our PHP Application By 3x - <a href="https://medium.com/one-utility-bill-engineering/fixing-our-opcache-config-sped-up-our-php-application-by-3x-871c6fe49be1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fresh Frontend Links`**
+✍️ **posted by `Joe Alamo-Keilty`**
 
-<blockquote>Web-development</blockquote>
+<blockquote>Using OPcache with Atomic Deployments? You might be making the same mistake</blockquote>
 
 <h3>2. Why we never hired a designer - <a href="https://medium.com/ux-planet/why-we-never-hired-a-designer-40ee7b2d17a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Say goodbye to try-catch</blockquote>
 
-<h3>4. Why Your API is ‘Broken by Design’ Without JSON Schema - <a href="https://medium.com/@apalshah/why-your-api-is-broken-by-design-without-json-schema-9f406216c903" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding the Request-Response Cycle - <a href="https://medium.com/@Saidat-Taiwo/understanding-the-request-response-cycle-95868e614e10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Apal Shah`**
+✍️ **posted by `Saidat Taiwo`**
 
-<blockquote>People might argue that JSON Schema is overkill or outdated. But in this article, we’ll explore that it is not the case and understand how…</blockquote>
+<blockquote>Whenever you click a link, load a page, or submit a form online, you’re starting a rapid conversation between your device and a web server…</blockquote>
 
 <h3>5. Trump vs Harris — Who has a better website? - <a href="https://medium.com/@michalmalewicz/trump-vs-harris-who-has-a-better-website-b9fcde363f47" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,17 +356,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Capex & Opex supercycles — Part-II - <a href="https://medium.com/@MohapatraHemant/capex-opex-supercycles-part-ii-888ecf29f025" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Optimism Airdrop » Claim free OP tokens - <a href="https://medium.com/@kegwer_68008/optimism-airdrop-claim-free-op-tokens-1d6192e5cbee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hemant Mohapatra`**
+✍️ **posted by `Joe Parys Crypto`**
 
-<blockquote>frameworks for where we are in the AI cycle</blockquote>
+<blockquote>The crypto community is buzzing about the Optimism airdrop, a fantastic opportunity for users to receive free tokens while supporting a…</blockquote>
 
-<h3>2. Agents Are Coming Back From The Dead - <a href="https://medium.com/towards-artificial-intelligence/agents-are-coming-back-from-the-dead-50c929ab8387" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. When Good Ideas Go Bad, and Why Everyone Hates Your Product - <a href="https://medium.com/managing-digital-products/when-good-ideas-go-bad-and-why-everyone-hates-your-product-ce83fea9021b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rafe Brena, Ph.D.`**
+✍️ **posted by `Daria Kowalski`**
 
-<blockquote>They stayed buried for 20 years</blockquote>
+<blockquote>Here’s the story of how we messed up big time, turning a brilliant idea into a user’s nightmare — and the hard lessons we learned…</blockquote>
 
 <h3>3. Apple Speaks the Truth About AI. It’s Not Good. - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/apple-speaks-the-truth-about-ai-its-not-good-8f72621cb82d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,31 +374,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Are We Being Lied To?</blockquote>
 
-<h3>4. Scientists Have Already Found AI’s Hard Limitation - <a href="https://medium.com/@grantpiperwriting/scientists-have-already-found-ais-hard-limitation-ed47a92559fd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Untimely Death of Product Management - <a href="https://medium.com/entrepreneur-s-handbook/the-untimely-death-of-product-management-c5813f89074a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Grant Piper`**
+✍️ **posted by `Joe Procopio`**
 
-<blockquote>That was fast</blockquote>
+<blockquote>Tech Executives Ask: Why Have Product Managers When You Can Just Keep Using AI?</blockquote>
 
-<h3>5. When Did Technology Become a Troublemaker for Collaboration and Relationships? - <a href="https://medium.com/@erikpmvermeulen/when-did-technology-become-a-troublemaker-for-collaboration-and-relationships-f341cc67b065" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. User experience without intentional limitations creates chaos - <a href="https://medium.com/user-experience-design-1/user-experience-without-intentional-limitations-creates-chaos-b7106f0105e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Erik P.M. Vermeulen, PhD`**
+✍️ **posted by `Simo Herold`**
 
-<blockquote>And what will happen to us now?</blockquote>
+<blockquote>Apply defined constraints in favor of the user’s well-being.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Why do I keep wishing this message was from you? - <a href="https://medium.com/@creii/why-do-i-keep-wishing-this-message-was-from-you-d0d8f14a3c67" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. “it’s okay to grieve over someone who still exists.” - <a href="https://medium.com/@cherylkoo/its-okay-to-grieve-over-someone-who-still-exists-e18c883e41d6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `creii`**
+✍️ **posted by `cher`**
 
-<blockquote>There's something about you that now I can't remember, it's the same damn thing that made my heart surrender.</blockquote>
+<blockquote>“Grief, I’ve learned, is really just love. It’s all the love you want to give but cannot. – Jamie Anderson</blockquote>
 
-<h3>2. Our Love’s Labyrinth - <a href="https://medium.com/write-under-the-moon/our-loves-labyrinth-e6e599c9669c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. My Immigrant Family is Pro-Trump, And I Still Don’t Get It - <a href="https://medium.com/deep-sweet-valuable/my-immigrant-family-is-pro-trump-and-i-still-dont-get-it-95e8d8be1c34" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jibril 📚`**
+✍️ **posted by `Stefanie Morejon`**
 
-<blockquote>My relationship with her inside the metaphorical jar</blockquote>
+<blockquote>Navigating Conversational Minefields at the Dinner Table</blockquote>
 
 <h3>3. Your actions told me to stop. - <a href="https://medium.com/@dilekogluzeynep9/your-actions-told-me-to-stop-e133c7472b86" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,17 +406,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>So ı did…</blockquote>
 
-<h3>4. When Time Changes Everything - <a href="https://medium.com/long-sweet-valuable/when-time-changes-everything-1e9b1bbe1028" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Some people take the words you say home with them… - <a href="https://medium.com/@dilekogluzeynep9/some-people-take-the-words-you-say-home-with-them-058a77154300" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `WittyWanderer`**
+✍️ **posted by `zeynep`**
 
-<blockquote>Meeting an Old Friend After Years</blockquote>
+<blockquote>Have you ever thought about how much a sentence you say can hurt someone?</blockquote>
 
-<h3>5. A Footpath Through the Wood - <a href="https://medium.com/poetaph/a-footpath-through-the-wood-d12d41f82787" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Truth About My Biological Origins - <a href="https://medium.com/the-springboard/the-truth-about-my-biological-origins-f592c1e2312d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `James Lloyd`**
+✍️ **posted by `Dan Piraro`**
 
-<blockquote>A long-distance poem of walking home</blockquote>
+<blockquote>Thoughts on my trip down the birth canal</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Securing AI workloads in the Cloud and On-prem - <a href="https://medium.com/@cloudwithusama/securing-ai-workloads-in-the-cloud-and-on-prem-53f8d36dc647" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Fixing Our OPcache Config Sped Up Our PHP Application By 3x - <a href="https://medium.com/one-utility-bill-engineering/fixing-our-opcache-config-sped-up-our-php-application-by-3x-871c6fe49be1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Usama Malik`**
+✍️ **posted by `Joe Alamo-Keilty`**
 
-<blockquote>This article will explain the security challenges associated with AI workloads both in cloud and on-prem environments and offer solutions.</blockquote>
+<blockquote>Using OPcache with Atomic Deployments? You might be making the same mistake</blockquote>
 
 <h3>2. Ending Microservices Chaos - <a href="https://medium.com/gitconnected/ending-microservices-chaos-c1babe7bd061" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -532,13 +532,13 @@ Get more useful information conveniently right here. 🤓
 
 ✍️ **posted by `Harendra`**
 
-<blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB + Always Free</blockquote>
+<blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. In-depth Understanding of SSL and Its Working Principle - <a href="https://medium.com/@tonylixu/in-depth-understanding-of-ssl-and-its-working-principle-55c8be73453a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Connecting EC2 Instances to S3 Buckets via Private Network Securely - <a href="https://medium.com/@cloudwithusama/connecting-ec2-instances-to-s3-buckets-via-private-network-securely-587c8b496e65" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tony`**
+✍️ **posted by `Usama Malik`**
 
-<blockquote>SSL stands for Secure Sockets Layer, a security protocol. SSL and its successor, Transport Layer Security (TLS), are security protocols…</blockquote>
+<blockquote>This article will provide a step-by-step guide to establishing a secure and private connection between AWS EC2 Instances and S3 buckets.</blockquote>
 
 <h3>5. Can We Reach Google’s MLOps Level 2 With Solely Self-hosted OSS? - <a href="https://medium.com/towards-artificial-intelligence/can-we-reach-googles-mlops-level-2-with-solely-self-hosted-oss-e61562c8883e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Building a Real-Time CI/CD Pipeline with Jenkins, Ansible, and Kubernetes - <a href="https://medium.com/@mehdi.chebbah/building-a-real-time-ci-cd-pipeline-with-jenkins-ansible-and-kubernetes-f6f48f40e17f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Create kubeconfig for your Kubernetes cluster with limited read access. - <a href="https://medium.com/@atifjaved02/create-kubeconfig-for-your-cluster-with-limited-read-access-1be574241c8c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehdi Chebbah`**
+✍️ **posted by `Atif Javed`**
 
-<blockquote>In today’s fast-paced development environment, implementing a robust CI/CD pipeline is crucial for maintaining efficient software delivery…</blockquote>
+<blockquote>To create a kubeconfig file that provides read-only access to a Kubernetes cluster using a Service Account (SA), we need to create a…</blockquote>
 
 <h3>2. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Kubernetes Tip for Today ⓵⓹ - <a href="https://medium.com/@amanpathakdevops/kubernetes-tip-for-today-⓵⓹-e4e5665c7e4f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Leveraging Istio and Kiali for Enhanced Kubernetes Cluster Management - <a href="https://medium.com/@baazigames/leveraging-istio-and-kiali-for-enhanced-kubernetes-cluster-management-4696c5b266b5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aman Pathak`**
+✍️ **posted by `Baazi Games`**
 
-<blockquote>Hi All, hope you are doing well. This is the fifteenth(15th) tip in regards to DevOps & Cloud where today I will be going to share tips…</blockquote>
+<blockquote>In the rapidly evolving world of cloud-native applications, managing micro-services at scale is increasingly complex. Kubernetes has become…</blockquote>
 
 <h3>5. Behind the Scenes: My Journey as a Kubernetes Release Team Shadow - <a href="https://medium.com/code-like-a-girl/behind-the-scenes-my-journey-as-a-kubernetes-release-team-shadow-630be70effb0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Using NoSQL Workbench with LocalStack and DynamoDB for Local Development - <a href="https://medium.com/@stevenmeek/using-nosql-workbench-with-localstack-and-dynamodb-for-local-development-266cebfb3995" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kubernetes/K8s Guide - <a href="https://medium.com/towards-general-intelligence/kubernetes-k8s-guide-bc8188a53924" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Steven Meek`**
+✍️ **posted by `ListenToTheUniverse`**
 
-<blockquote>Localstack is a wonderful tool for developers who wish to build applications that work with AWS but prefer not to start development…</blockquote>
+<blockquote>Introduction to Kubernetes</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Creating a Food Delivery Application with Spring Boot, Docker, and RabbitMQ - <a href="https://medium.com/@sancakliumit/creating-a-food-delivery-application-with-spring-boot-docker-and-rabbitmq-9ad9e379c20e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Redis Cache with Spring Boot in Windows - <a href="https://medium.com/@prasanta-paul/redis-cache-with-spring-boot-in-windows-f4f0a453d174" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ümit Sancaklı`**
+✍️ **posted by `Prasanta Paul`**
 
-<blockquote>Let’s dive into building a simple food delivery app using Spring Boot, RabbitMQ, and Docker to manage real-time food orders without the…</blockquote>
+<blockquote>This article covers step-by-step process to setup Redis Cache in Windows machine for Spring Boot Application with JSON serialization.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
