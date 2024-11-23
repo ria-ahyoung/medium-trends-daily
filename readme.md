@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/22)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/23)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Middleware in Next.js is often overlooked — but it’s a game-changer once you understand its potential. If you’re not using it yet, you…</blockquote>
 
-<h3>4. NextJS: Using Stripe to build a credit system for your SaaS App - <a href="https://medium.com/@jsteinb/nextjs-using-stripe-to-build-a-credit-system-for-your-saas-app-3562e1608c25" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Tech Tidbits : @next/codemod CLI Feature - <a href="https://medium.com/@prabhu.ranganathan/tech-tidbits-next-codemod-cli-feature-443ceedd113c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jordan Steinberg`**
+✍️ **posted by `Prabhu Ranganathan`**
 
-<blockquote>If you’re building a Web App, chances are you’ve already thought about how you’re going to monetize it. You’ve heard about the different…</blockquote>
+<blockquote>A minute to remember : Little-Known Facts That Will Amaze You</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -132,11 +132,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. How the HNG Internship Will Help Me Achieve My Tech Service Goals - <a href="https://medium.com/@adebayooluwaseun19838/how-the-hng-internship-will-help-me-achieve-my-tech-service-goals-3156f202cbb6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oluwaseun Adebayo`**
+✍️ **posted by `Rakshagarambha`**
 
-<blockquote>Embarking on the journey through the HNG Internship has been a pivotal experience in my career. As I strive to provide top-tier tech…</blockquote>
+<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
 <h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -144,23 +144,23 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
 
-<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Rakshagarambha`**
-
-<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
-
-<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/magnetic/ux-ui-design-trends-in-2023-efdc94ea0fb7" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Magnetic Notes`**
-
-<blockquote>We designers are a curious species — tirelessly seeking and sharing ideas that help develop our craft and the things we make. UX design…</blockquote>
-
-<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+
+<h3>4. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `UX Planet`**
+
+<blockquote>Picture the world of UI and UX design as an ever-evolving ecosystem. In this ecosystem, new trends emerge at a rapid pace and users’…</blockquote>
+
+<h3>5. 5 Must-Know UI/UX Design Trends to Skyrocket Conversions in 2023 - <a href="https://medium.com/design-bootcamp/5-must-know-ui-ux-design-trends-to-skyrocket-conversions-in-2023-3ad170752a26" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Bootcamp`**
+
+<blockquote>Introduction</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
@@ -176,17 +176,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. Event-Driven Architecture in Node.js - <a href="https://medium.com/javascript-in-plain-english/event-driven-architecture-in-node-js-0656ee826088" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I Spoke to 643 Software Developers: Here are 3 Issues ALL Developers Struggle With and How to… - <a href="https://medium.com/@brianjenney/i-spoke-to-643-software-developers-here-are-3-issues-all-developers-struggle-with-and-how-to-355979e96e69" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Brian Jenney`**
 
-<blockquote>Building Reactive Systems</blockquote>
+<blockquote>Over the last 2 years, I’ve spoken with 643 developers from every corner of the planet. 160 hours of yapping on the phone with many of you…</blockquote>
 
-<h3>4. Building Reusable Components in React: A Step-by-Step Guide with example - <a href="https://medium.com/javascript-in-plain-english/building-reusable-components-in-react-a-step-by-step-guide-with-example-0e8eece72271" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Logging in JavaScript: Tips and Best Practices - <a href="https://medium.com/gitconnected/mastering-logging-in-javascript-tips-and-best-practices-d451507d92b2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>In the world of React, reusability is one of the most important thing for an efficient and maintainable code. Creating reusable components…</blockquote>
+<blockquote>Good logging is like having a map while debugging your application. Without it, you’re lost, especially when a bug surfaces in production…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Downcasting in TypeScript: How to Avoid the ts(2352) Error? - <a href="https://medium.com/@maciej.osytek/downcasting-in-typescript-how-to-avoid-the-ts-2352-error-632a7b122b16" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 Advanced TypeScript Techniques to Level Up Your Code - <a href="https://medium.com/@asierr/10-advanced-typescript-techniques-to-level-up-your-code-d3209737282b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Maciej Osytek`**
+✍️ **posted by `asierr.dev`**
 
-<blockquote>TypeScript is a powerful language that helps developers write reliable and safe applications thanks to its robust type system. One of the…</blockquote>
+<blockquote>TypeScript has become the go-to language for building scalable and maintainable web applications. While many developers are familiar with…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,11 +214,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
-<h3>4. Building Microservices with NestJS, TCP and Typescript - <a href="https://medium.com/@anshusharma98204/building-microservices-with-nestjs-tcp-and-typescript-704707eafd0d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Downcasting in TypeScript: How to Avoid the ts(2352) Error? - <a href="https://medium.com/@maciej.osytek/downcasting-in-typescript-how-to-avoid-the-ts-2352-error-632a7b122b16" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anshu Sharma`**
+✍️ **posted by `Maciej Osytek`**
 
-<blockquote>As our projects get bigger and bigger, we need more and more advanced architecture. Therefore, as a software engineer, I would like to…</blockquote>
+<blockquote>TypeScript is a powerful language that helps developers write reliable and safe applications thanks to its robust type system. One of the…</blockquote>
 
 <h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -266,11 +266,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…</blockquote>
 
-<h3>2. The Heartwarming Story Behind CSS’s New Logo and the Color That Changed the Web - <a href="https://medium.com/mikewcurtis/the-heartwarming-story-behind-csss-new-logo-and-the-color-that-changed-the-web-bb72fd8019fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The You Design System`**
+✍️ **posted by `Isaac Adams`**
 
-<blockquote>#rebeccapurple — A tribute to the girl who wanted a “big girl” name. ❤️</blockquote>
+<blockquote>In part two of this series, we cover how to scale a web application platform to support 1M daily visitors.</blockquote>
 
 <h3>3. This Man Controls 40% of the Internet and It’s a Problem - <a href="https://medium.com/notes-and-theories/this-man-controls-40-of-the-internet-and-its-a-problem-1b37a66e6185" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,17 +278,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Meet Matt Mullenweg.</blockquote>
 
-<h3>4. Quantum Computing and Its Types - <a href="https://medium.com/@Usmanshafii/quantum-computing-and-its-types-80d023bf6022" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Taming Font Size Chaos in React Native: The My11Circle Solution - <a href="https://medium.com/@Games24x7Tech/taming-font-size-chaos-in-react-native-the-my11circle-solution-8f76afd8ce78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Usman`**
+✍️ **posted by `Games24x7 Blogs`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Discover how to maintain consistent font sizes in React Native and WebView, enhancing user experience across devices — insights from…</blockquote>
 
-<h3>5. Battling the API Bottleneck: How to Revitalize Slow Scripts and Reclaim Lost Hours - <a href="https://medium.com/code-like-a-girl/battling-the-api-bottleneck-how-to-revitalize-slow-scripts-and-reclaim-lost-hours-0d7d463b7d99" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How To Build Your Own NAS Software (From Scratch) - <a href="https://medium.com/chifi-media/how-to-build-your-own-nas-software-from-scratch-b62579fbc93a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Code Like A Girl`**
+✍️ **posted by `chifi`**
 
-<blockquote>Try these three methods on large datasets for improved performance.</blockquote>
+<blockquote>Creating a complex web-service to share files within my household.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -324,11 +324,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. The End of AI: A Theoretical Contemplation - <a href="https://medium.com/@loseheart110/the-end-of-ai-a-theoretical-contemplation-70cd7c9f076b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Software Testing Books on Sale, 2024 - <a href="https://medium.com/pragmatic-programmers/software-testing-books-on-sale-2024-d77b32710427" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `LoseHeart110`**
+✍️ **posted by `The Pragmatic Programmers`**
 
-<blockquote>End Of AI</blockquote>
+<blockquote>Black Friday Deals from The Pragmatic Bookshelf</blockquote>
 
 <h3>2. Traditional ML Still Reigns: Why LLMs Struggle in Clinical Prediction? - <a href="https://medium.com/gitconnected/traditional-ml-still-reigns-why-llms-struggle-in-clinical-prediction-0717b72bd37e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -342,11 +342,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring my most loved Software Architecture patterns and their practical applications.</blockquote>
 
-<h3>4. Just For Fun Programming Books on Sale - <a href="https://medium.com/pragmatic-programmers/just-for-fun-programming-books-on-sale-a9e0d8942d03" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The End of AI: A Theoretical Contemplation - <a href="https://medium.com/@loseheart110/the-end-of-ai-a-theoretical-contemplation-70cd7c9f076b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Pragmatic Programmers`**
+✍️ **posted by `LoseHeart110`**
 
-<blockquote>More Black Friday Deals from The Pragmatic Bookshelf</blockquote>
+<blockquote>End Of AI</blockquote>
 
 <h3>5. Vision Transformers Completely Redefine How AI Perceives The Real World - <a href="https://medium.com/gitconnected/vision-transformers-completely-redefine-how-ai-perceives-the-real-world-e3a06b826760" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -362,11 +362,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>You can’t stop these issues from blowing up your MVP, you can only hope to contain them</blockquote>
 
-<h3>2. Polygenic Risk Scores Might Be Bullshit - <a href="https://medium.com/@fperrywilson/polygenic-risk-scores-might-be-bullshit-a87dbced4e77" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `F. Perry Wilson, MD MSCE`**
+✍️ **posted by `Isaac Adams`**
 
-<blockquote>A reminder that accuracy in a group does not equal accuracy for an individual.</blockquote>
+<blockquote>In part two of this series, we cover how to scale a web application platform to support 1M daily visitors.</blockquote>
 
 <h3>3. My Favourite Software Architecture Patterns - <a href="https://medium.com/gitconnected/my-favourite-software-architecture-patterns-0e57073b4be1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,31 +374,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring my most loved Software Architecture patterns and their practical applications.</blockquote>
 
-<h3>4. 4 Game-Changing Apps for MacOS - <a href="https://medium.com/macoclock/4-game-changing-apps-for-macos-7788377e757f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Potential Stablecoin & Crypto Policy Changes in the Year Ahead - <a href="https://medium.com/@edward_zerohash/potential-stablecoin-crypto-policy-changes-in-the-year-ahead-9f5e389219b4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Edward Woodford`**
 
-<blockquote>If you are looking for the best MacOS apps, you have come to the right place.</blockquote>
+<blockquote>As a builder in the space since 2017, it is an understatement to say that we have gone through several cycles of sentiment! I often say…</blockquote>
 
-<h3>5. ChatGPT Turns 2: What Happens Next? - <a href="https://medium.com/the-generator/chatgpt-turns-2-what-happens-next-b9578d93b26d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Some Games Should Stay in the Past - <a href="https://medium.com/@xander51/some-games-should-stay-in-the-past-c879088af71d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Generator`**
+✍️ **posted by `Alex Rowe`**
 
-<blockquote>The Race for AI Dominance</blockquote>
+<blockquote>My super problematic childhood faves</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. The 5 Most Revealing Signs You’re in a Toxic Relationship - <a href="https://medium.com/on-the-couch/the-5-most-revealing-signs-youre-in-a-toxic-relationship-fa8cc6a93127" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. What TF Even is Love? - <a href="https://medium.com/@ravanjies/what-even-is-love-5cac04440d1b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `On The Couch`**
+✍️ **posted by `Olaitan Joy Damilola (Ravanjie)`**
 
-<blockquote>Shifting the focus from your partner to yourself.</blockquote>
+<blockquote>I’ve been thinking a lot about what it means to be a friend. Throughout this year, and for large chunks of my life, I’ve felt like a shit…</blockquote>
 
-<h3>2. Yes, I’d Break Up With My Boyfriend for Refusing a Vasectomy - <a href="https://medium.com/the-virago/yes-id-break-up-with-my-boyfriend-for-refusing-a-vasectomy-3d2563e16951" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Small Death - <a href="https://medium.com/thought-thinkers/a-small-death-eb223b38bf42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Virago`**
+✍️ **posted by `Thought Thinkers`**
 
-<blockquote>I’m tired of single-handedly carrying the burden of birth control</blockquote>
+<blockquote>Is there ever such a thing?</blockquote>
 
 <h3>3. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,17 +406,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Maturity is when you don’t force people to choose you. Maturity is when you’ve accepted that such is life, and that not everything will go…</blockquote>
 
-<h3>4. If You’re On Your Phone, I Don’t Want to Have Dinner With You - <a href="https://medium.com/@andycmurphy1/if-youre-on-your-phone-i-don-t-want-to-have-dinner-with-you-fc1f21716dbc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. An Uncomfortable Truth from Robert Greene That Completely Changed How I Approach Life - <a href="https://medium.com/@andycmurphy1/an-uncomfortable-truth-from-robert-greene-that-completely-changed-how-i-approach-life-b9beb6f9338e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Andy Murphy`**
 
-<blockquote>Life is too short to play second best</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. Choosing Hope Over Fear: A True Story of Courage and Community - <a href="https://medium.com/publishous/choosing-hope-over-fear-a-true-story-of-courage-and-community-f14db1e9075a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Yes, I’d Break Up With My Boyfriend for Refusing a Vasectomy - <a href="https://medium.com/the-virago/yes-id-break-up-with-my-boyfriend-for-refusing-a-vasectomy-3d2563e16951" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Publishous`**
+✍️ **posted by `The Virago`**
 
-<blockquote>Maybe our motivation matters</blockquote>
+<blockquote>I’m tired of single-handedly carrying the burden of birth control</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -484,29 +484,29 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Practice in Public`**
+
+<blockquote>From quitting five times to restarting again — why I’m determined to keep going.</blockquote>
+
+<h3>2. 5 Insane iOS 18 Features You’re Not Using Right - <a href="https://medium.com/@evilgeek/5-insane-ios-18-features-youre-not-using-right-adf47b501300" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `The Evil Geek`**
+
+<blockquote>Apple gives us; we take it for granted!</blockquote>
+
+<h3>3. Understanding the @frozen Attribute in Swift: A Guide for Developers - <a href="https://medium.com/@shobhakartiwari/understanding-the-frozen-attribute-in-swift-a-guide-for-developers-bbb98cf8c235" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shobhakar Tiwari`**
+
+<blockquote>In Swift, the @frozen attribute is a powerful feature used to mark enums as immutable in terms of their possible cases, providing both…</blockquote>
+
+<h3>4. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Thomas Ricouard`**
 
 <blockquote>I’ve recently migrated Ice Cubes, my open-source SwiftUI Mastodon client to use file system folders instead of Xcode groups.</blockquote>
-
-<h3>2. Top 5 AI Tools for iOS Developers - <a href="https://medium.com/stackademic/top-5-ai-tools-for-ios-developers-5ee9f39558ac" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Stackademic`**
-
-<blockquote>To improve your workflow speed & efficiency</blockquote>
-
-<h3>3. From Noida to the USA: An iOS Developer’s Journey - <a href="https://medium.com/@shobhakartiwari/from-noida-to-the-usa-an-ios-developers-journey-a95ddfdb256c" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shobhakar Tiwari`**
-
-<blockquote>An iOS Developer’s Journey</blockquote>
-
-<h3>4. How I Built My Own AI-Powered iPhone Setup Without Apple Intelligence - <a href="https://medium.com/macoclock/how-i-built-my-own-ai-powered-iphone-setup-without-apple-intelligence-16445a6d2e60" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mac O’Clock`**
-
-<blockquote>Apple may be catching up to the AI hype, but its latest features still don’t impress me much. For now, I’m sticking with my own AI-powered…</blockquote>
 
 <h3>5. How to use Cursor for iOS development - <a href="https://medium.com/@dimillian/how-to-use-cursor-for-ios-development-54b912c23941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -522,11 +522,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>On November 18, 2024, after addressing some bugs and deploying the fixes to the staging environment, an unexpected warning appeared in…</blockquote>
 
-<h3>2. Why AI/ML Software Development Must Operate at Production-Level Standards - <a href="https://medium.com/ai-advances/why-ai-ml-software-development-must-operate-at-production-level-standards-9411ae4c058c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `AI Advances`**
+✍️ **posted by `Isaac Adams`**
 
-<blockquote>New AI/ML applications force us to rethink how we organize DevOps and MLOps</blockquote>
+<blockquote>In part two of this series, we cover how to scale a web application platform to support 1M daily visitors.</blockquote>
 
 <h3>3. How I Am Using a Lifetime 100% Free Server - <a href="https://medium.com/@harendra21/how-i-am-using-a-lifetime-100-free-server-bd241e3a347a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,17 +534,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. AWS Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for… - <a href="https://medium.com/cloud-devops-security-ai-career-talk/aws-introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-765a0c44f792" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Master AWS Lambda Versions & Aliases: Build Production-Ready Deployment Pipelines - <a href="https://medium.com/@joudwawad/master-aws-lambda-versions-aliases-build-production-ready-deployment-pipelines-1bad89c48870" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Cloud, DevOps, Security & AI Career Talk`**
+✍️ **posted by `Joud W. Awad`**
 
-<blockquote>AWS has introduced the ability for Amazon CloudFront to use private resources in Amazon Virtual Private Cloud (VPC) as origins. This update…</blockquote>
+<blockquote>Learn how to manage AWS Lambda Versions & Aliases and create production-ready deployment pipelines using AWS CodePipeline & CodeDeploy.</blockquote>
 
-<h3>5. Ending Microservices Chaos - <a href="https://medium.com/gitconnected/ending-microservices-chaos-c1babe7bd061" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why AI/ML Software Development Must Operate at Production-Level Standards - <a href="https://medium.com/ai-advances/why-ai-ml-software-development-must-operate-at-production-level-standards-9411ae4c058c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>How Architecture Governance Keeps Your Microservices on Track</blockquote>
+<blockquote>New AI/ML applications force us to rethink how we organize DevOps and MLOps</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. History of the Microscope - <a href="https://medium.com/@King11/history-of-the-microscope-75faa7367d32" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Many Types of Tissue Paper - <a href="https://medium.com/@King11/the-many-types-of-tissue-paper-9cfb83ce401e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Baber Azam`**
 
-<blockquote>A Window into the Invisible World</blockquote>
+<blockquote>The Essential Role of Tissue Paper in Daily Life</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. 1. Hashimoto's Thyroiditis: An autoimmune disorder where the immune system attacks the thyroid… - <a href="https://medium.com/@King11/1-hashimotos-thyroiditis-an-autoimmune-disorder-where-the-immune-system-attacks-the-thyroid-c27d87773cff" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 5 Kubernetes Concepts That Every Developer Needs To Know - <a href="https://medium.com/@kamaljp/5-kubernetes-concepts-that-every-developer-needs-to-know-23265c0e56dd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Baber Azam`**
+✍️ **posted by `Qrious Kamal`**
 
-<blockquote>Causes of Hypothyroidism</blockquote>
+<blockquote>Developers Don’t Need to Learn K8S is one Main Concept</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
