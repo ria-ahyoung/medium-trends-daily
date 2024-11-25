@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/24)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/25)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Why We Need Front-End FrameWorks - <a href="https://medium.com/@nodeninja/why-we-need-front-end-frameworks-8572b66f3924" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering React Hooks: A Step-by-Step Guide for Beginners - <a href="https://medium.com/@jyothisree327/mastering-react-hooks-a-step-by-step-guide-for-beginners-46a5b62028f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ameer Hamza`**
+✍️ **posted by `Jyothisree`**
 
-<blockquote>Unlocking the Power of React JS: A Comprehensive Introduction</blockquote>
+<blockquote>From useState to useMemo, learn React Hooks with practical insights and simple examples to optimize your applications</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,12 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Next.js State Management Patterns With React Server Components (Ep 4) - <a href="https://medium.com/@imranfarooq0306/next-js-state-management-patterns-with-react-server-components-ep-4-c06c073ed517" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Server Components with revalidatePath: A New Era to Replace State Management in Next.js - <a href="https://medium.com/@qaffaf/server-components-with-revalidatepath-a-new-era-to-replace-state-management-in-next-js-7c13a874ba8d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Imran Farooq`**
+✍️ **posted by `Asem Qaffaf`**
 
-<blockquote>Welcome to Episode 4! In this session, we’ll dive into the concept of *state*. What exactly is state? Why does it matter? And what are some…</blockquote>
+<blockquote>In web development, managing state can be complex. 
+Traditional libraries like Redux and Zustand have been used to keep different parts of…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +119,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Middleware in Next.js is often overlooked — but it’s a game-changer once you understand its potential. If you’re not using it yet, you…</blockquote>
 
-<h3>4. LeetCode Clone — ChallengeHive - <a href="https://medium.com/@jazimabbas/leetcode-clone-challengehive-d5f952dbd984" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Next.js Security Tips: Protect Your Applications Like a Pro 🛡️ - <a href="https://medium.com/@ahmedfaarrag/next-js-security-tips-protect-your-applications-like-a-pro-️-1141955bcf92" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jazim Abbas`**
+✍️ **posted by `Ahmed farrag`**
 
-<blockquote>Creating a coding platform like LeetCode using Next.js, TypeScript, TailwindCSS, Sandpack, and other modern tools!</blockquote>
+<blockquote>Next.js empowers developers to create fast, dynamic applications, but it demands a strong focus on security. Server Components have…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +197,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. 10 Advanced TypeScript Techniques to Level Up Your Code - <a href="https://medium.com/@asierr/10-advanced-typescript-techniques-to-level-up-your-code-d3209737282b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 Practices and Solutions for Tricky TypeScript Challenges - <a href="https://medium.com/@ignatovich.dm/10-practices-and-solutions-for-tricky-typescript-challenges-221fc3ad2ec3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `asierr.dev`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>TypeScript has become the go-to language for building scalable and maintainable web applications. While many developers are familiar with…</blockquote>
+<blockquote>As TypeScript adoption grows, many developers encounter issues ranging from understanding the type system to tackling advanced use cases…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,17 +215,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
-<h3>4. Downcasting in TypeScript: How to Avoid the ts(2352) Error? - <a href="https://medium.com/@maciej.osytek/downcasting-in-typescript-how-to-avoid-the-ts-2352-error-632a7b122b16" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 10 Advanced TypeScript Techniques to Level Up Your Code - <a href="https://medium.com/@asierr/10-advanced-typescript-techniques-to-level-up-your-code-d3209737282b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Maciej Osytek`**
+✍️ **posted by `asierr.dev`**
 
-<blockquote>TypeScript is a powerful language that helps developers write reliable and safe applications thanks to its robust type system. One of the…</blockquote>
+<blockquote>TypeScript has become the go-to language for building scalable and maintainable web applications. While many developers are familiar with…</blockquote>
 
-<h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gabriela Iriart`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>NonNullable<T> in TypeScript is a utility type that plays a significant role in enhancing code safety and clarity. This is particularly…</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -324,11 +325,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Data Science in Marketing: Hands-on Propensity Modelling with Python - <a href="https://medium.com/towards-data-science/data-science-in-marketing-hands-on-propensity-modelling-with-python-3fbedac654ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I Quit Learning Python and Became a Better Developer - <a href="https://medium.com/@abdur-rahman/i-quit-learning-python-and-became-a-better-developer-027e10496f30" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards Data Science`**
+✍️ **posted by `Abdur Rahman`**
 
-<blockquote>All the code you need to predict the likelihood of a customer purchasing your product</blockquote>
+<blockquote>My secret to becoming the top 1% Python developer</blockquote>
 
 <h3>2. Introducing GattinoPleths: New Choropleths For Gattino - <a href="https://medium.com/chifi-media/introducing-gattinopleths-new-choropleths-for-gattino-1478f04a9287" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -336,17 +337,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Finally unveiling my choropleth extension for my Gattino plotting library.</blockquote>
 
-<h3>3. My Favourite Software Architecture Patterns - <a href="https://medium.com/gitconnected/my-favourite-software-architecture-patterns-0e57073b4be1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Python is No More The King of Data Science - <a href="https://medium.com/stackademic/is-python-still-the-king-of-data-science-476f1e3191b3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>Exploring my most loved Software Architecture patterns and their practical applications.</blockquote>
+<blockquote>5 Reasons Why Python is Losing Its Crown</blockquote>
 
-<h3>4. Elon Musk and Artificial Intelligence: The Pioneer for this Timid Progress - <a href="https://medium.com/@loseheart110/elon-musk-and-artificial-intelligence-the-pioneer-for-this-timid-progress-46b4771d2c3b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to become Data Scientist in 2025 - <a href="https://medium.com/mr-plan-publication/how-to-become-data-scientist-in-2025-f99d65d2cf6e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `LoseHeart110`**
+✍️ **posted by `Mr. Plan ₿ Publication`**
 
-<blockquote>Elon Musk with AI</blockquote>
+<blockquote>Want to become a Data Scientist?</blockquote>
 
 <h3>5. Why it’s so hard to write good libraries - <a href="https://medium.com/modern-software-engineering/why-its-so-hard-to-write-good-libraries-9d3f45a193a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,17 +357,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Your Cat’s Guide to Activation Functions in Neural Networks - <a href="https://medium.com/towards-artificial-intelligence/your-cats-guide-to-activation-functions-in-neural-networks-9199cebe5e0d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Introducing the Portal Hyperway - <a href="https://medium.com/@portalgaming/introducing-the-portal-hyperway-b29450ece229" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards AI`**
+✍️ **posted by `Portal`**
 
-<blockquote>So activation functions. What do we know about them, except for the mystery of horrible naming conventions (more on that later 🧐) and why…</blockquote>
+<blockquote>The Portal Hyperway is the united network of users and liquidity, underpinning our mission to solve fragmentation in Web3.</blockquote>
 
-<h3>2. The Digital Empires Under the Seas - <a href="https://medium.com/@gilescrouch/the-digital-empires-under-the-seas-82de736277e9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I Grew Up with NO INTERNET — Here’s What Happened! - <a href="https://medium.com/@khalilliouane/i-grew-up-with-no-internet-heres-what-happened-6c7e136badca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Giles Crouch | Digital Anthropologist`**
+✍️ **posted by `Khalil Liouane`**
 
-<blockquote>Far from the minds of most of us, the geopolitics of undersea internet cables are playing out in increasingly important ways.</blockquote>
+<blockquote>I have this love-hate relationship with technology.</blockquote>
 
 <h3>3. My Favourite Software Architecture Patterns - <a href="https://medium.com/gitconnected/my-favourite-software-architecture-patterns-0e57073b4be1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,17 +375,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring my most loved Software Architecture patterns and their practical applications.</blockquote>
 
-<h3>4. The Puppet Master Without Strings: How I Learned to Influence - <a href="https://medium.com/managing-digital-products/the-puppet-master-without-strings-how-i-learned-to-influence-18026d603ecb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 3 Men Show!! Our Miniature Satellite Journey - <a href="https://medium.com/@rd893918/3-men-show-our-miniature-satellite-journey-27dfbdd7708a" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Rahul Das`**
+
+<blockquote>From Inception to Culmination of a Miniature Satellite.</blockquote>
+
+<h3>5. The Puppet Master Without Strings: How I Learned to Influence - <a href="https://medium.com/managing-digital-products/the-puppet-master-without-strings-how-i-learned-to-influence-18026d603ecb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Product Coalition`**
 
 <blockquote>You know that feeling when you’re supposed to lead a team but have as much authority as a substitute teacher on the last day of school…</blockquote>
-
-<h3>5. Do People Actually Hate ‘Forrest Gump’? A Statistical Analysis - <a href="https://medium.com/fan-fare/do-people-actually-hate-forrest-gump-a-statistical-analysis-4ac933bb53db" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Fanfare`**
-
-<blockquote>Examining the legacy of ‘Forrest Gump.’</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -420,11 +421,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Use Generative AI in React Native: Create Mistral AI Mobile app - <a href="https://medium.com/@malikchohra/use-generative-ai-in-react-native-create-mistral-ai-mobile-app-417a63da8c2f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Android 16 “Baklava” Features and Innovations - <a href="https://medium.com/@mehkar/android-16-baklava-features-and-innovations-c09cdcdcf010" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Malik Chohra`**
+✍️ **posted by `Mehmet Karataş`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Android 16, codenamed “Baklava”, offers a host of features to make life easier for users and give developers new possibilities. This is…</blockquote>
 
 <h3>2. Clean Architecture Struggles to Scale in Mobile Development - <a href="https://medium.com/@elye-project/clean-architecture-struggles-to-scale-in-mobile-development-85971471ac7a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +439,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>React Native’s new architecture is here! Get no delays and extreme app performance! 🚀</blockquote>
 
-<h3>4. Kotlin Data Types Defined: In-Depth Explanation: - <a href="https://medium.com/@mirzaadil/kotlin-data-types-defined-in-depth-explanation-4ebe363daf6d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Seamlessly Navigating and Returning: A Guide to Using Flutter’s InAppWebView - <a href="https://medium.com/@lazy_mind/seamlessly-navigating-and-returning-a-guide-to-using-flutters-inappwebview-081cff6237af" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mirza Adil`**
+✍️ **posted by `Suraj Kandel`**
 
-<blockquote>Kotlin is a modern programming language, created by JetBrains, that increases developer productivity and provides a safe coding approach.</blockquote>
+<blockquote>In many applications, there’s often a need to integrate existing web pages directly into the app to provide seamless access to web content…</blockquote>
 
 <h3>5. Enable Composable Views Sharing Across Modules Without Dependency Constraint - <a href="https://medium.com/mobile-app-development-publication/enable-composable-views-sharing-across-modules-without-dependency-constraint-a7290257d987" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +485,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Every iOS developer must understand how State Management works in SwiftUI. - <a href="https://medium.com/@nirosha.iosdeveloper/every-ios-developer-must-understand-how-state-management-works-in-swiftui-b3957188b3fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding The Composable Architecture (TCA) in Swift - <a href="https://medium.com/@siddharthkothari007/understanding-the-composable-architecture-tca-in-swift-cf683c9c3602" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nirosha Srinivasan`**
+✍️ **posted by `Kothari Siddharth`**
 
-<blockquote>Dear iOS developer, it’s the right time to transition from UIKit to SwiftUI. This post will help you understand why state management is…</blockquote>
+<blockquote>TCA introduced by Point-Free , is inspired by functional programming principles and aims to provide a structured and predictable way to…</blockquote>
 
 <h3>2. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,17 +503,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Apple gives us; we take it for granted!</blockquote>
 
-<h3>4. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Beginner’s Guide to State Property Wrappers in SwiftUI - <a href="https://medium.com/@nirosha.iosdeveloper/every-ios-developer-must-understand-how-state-management-works-in-swiftui-b3957188b3fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Nirosha Srinivasan`**
+
+<blockquote>Dear iOS developer, it’s the right time to transition from UIKit to SwiftUI. This post will help you understand why state management is…</blockquote>
+
+<h3>5. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Thomas Ricouard`**
 
 <blockquote>I’ve recently migrated Ice Cubes, my open-source SwiftUI Mastodon client to use file system folders instead of Xcode groups.</blockquote>
-
-<h3>5. How to use Cursor for iOS development - <a href="https://medium.com/@dimillian/how-to-use-cursor-for-ios-development-54b912c23941" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Thomas Ricouard`**
-
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
