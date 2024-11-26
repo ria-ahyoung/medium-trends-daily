@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. You’re Using Context Providers the Wrong Way! Here’s How to Fix It - <a href="https://medium.com/@landonwjohnson/youre-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. ReactJS and Higher-Order Functions: A Beginner’s Guide with Easy Analogies. - <a href="https://medium.com/@skylar_lorena/reactjs-and-higher-order-functions-a-beginners-guide-with-easy-analogies-08e0a4e1b35b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Landon Johnson`**
+✍️ **posted by `Skylar Lorena`**
 
-<blockquote>If you’re cramming both state and logic into your Context Providers, you’re setting yourself up for trouble. It may seem like a convenient…</blockquote>
+<blockquote>If you’re stepping into ReactJS, you’ve likely heard the term higher-order functions (HOFs). It might sound complicated, but here’s the…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -18,11 +18,11 @@
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Mastering React Hooks: A Step-by-Step Guide for Beginners - <a href="https://medium.com/@jyothisree327/mastering-react-hooks-a-step-by-step-guide-for-beginners-46a5b62028f2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building an Online Marketplace: A Journey in Full-Stack Development - <a href="https://medium.com/@bhatianeha/building-an-online-marketplace-a-journey-in-full-stack-development-5ff7fb8965d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jyothisree`**
+✍️ **posted by `Neha Bhatia`**
 
-<blockquote>From useState to useMemo, learn React Hooks with practical insights and simple examples to optimize your applications</blockquote>
+<blockquote>In this blog, I want to share the process of creating my latest project, an Online Marketplace. It’s a web application where users can buy…</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -97,11 +97,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. JavaScript Memory Management: Best Practices - <a href="https://medium.com/@vitaliykorzenkoua/javascript-memory-management-best-practices-93cfb2666a9d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. JavaScript: The Language That Powers the Web - <a href="https://medium.com/@nodeninja/javascript-the-language-that-powers-the-web-699994493422" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vitaliy Korzhenko`**
+✍️ **posted by `Ameer Hamza`**
 
-<blockquote>Effective memory management is crucial for building efficient JavaScript applications, ensuring they run smoothly without unnecessary…</blockquote>
+<blockquote>A beginner Friendly guide to understanding What javascript is and what It can do</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -115,11 +115,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Over the last 2 years, I’ve spoken with 643 developers from every corner of the planet. 160 hours of yapping on the phone with many of you…</blockquote>
 
-<h3>4. Mastering the JavaScript `for…in` Loop: Everything You Need to Know - <a href="https://medium.com/@ashwini-paraye/mastering-the-javascript-for-in-loop-everything-you-need-to-know-f59a141d2bf6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Revolutionize Custom Core Banking Software Development with Jmix - <a href="https://medium.com/@mavidev/revolutionize-custom-core-banking-software-development-with-jmix-cfa3f6989d12" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashwini Paraye`**
+✍️ **posted by `Mavidev Software And Consulting Co.`**
 
-<blockquote>The JavaScript for...in loop is a powerful tool for iterating over the keys (property names) of an object. While it is an effective way to…</blockquote>
+<blockquote>In today’s fast-paced world, enterprise application development is more critical than ever, especially in industries like finance and…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -141,11 +141,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. 10 Bad TypeScript Habits To Break In 2024 - <a href="https://medium.com/gitconnected/10-bad-typescript-habits-to-break-in-2024-4301c67f2ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
 <h3>4. 10 Advanced TypeScript Techniques to Level Up Your Code - <a href="https://medium.com/@asierr/10-advanced-typescript-techniques-to-level-up-your-code-d3209737282b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -153,11 +153,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>TypeScript has become the go-to language for building scalable and maintainable web applications. While many developers are familiar with…</blockquote>
 
-<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 10 Bad TypeScript Habits To Break In 2024 - <a href="https://medium.com/gitconnected/10-bad-typescript-habits-to-break-in-2024-4301c67f2ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nabendu Biswas`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
+<blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -193,11 +193,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. All The Code Snippets You Need At One Place — CSSnippets - <a href="https://medium.com/@dev.shefali7/all-the-code-snippets-you-need-at-one-place-cssnippets-77ddc3c4d87b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Frontend Weekly Digest #389 (18–24 November 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-389-18-24-november-2024-201719594cf1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `devShefali`**
+✍️ **posted by `Fresh Frontend Links`**
 
-<blockquote>CSSnippets offers curated, reusable code snippets for developers. Build stylish web components like buttons, forms, dropdowns, and more.</blockquote>
+<blockquote>Web-development</blockquote>
 
 <h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -211,11 +211,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…</blockquote>
 
-<h3>4. New CSS Features in 2024: 6 Shiny CSS Features You Might Not Know About - <a href="https://medium.com/@bruno.mazza87/new-css-features-in-2024-6-shiny-css-features-you-might-not-know-about-8a23c4eab502" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. UX Choice that wastes 575 000 000 hours per year - <a href="https://medium.com/@michalmalewicz/ux-choice-that-wastes-575-000-000-hours-per-year-95d84a23ada8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bruno Mazza`**
+✍️ **posted by `Michal Malewicz`**
 
-<blockquote>Every now and then, an exciting new feature makes its way from the CSS specifications into our browsers, giving developers new amazing…</blockquote>
+<blockquote>Fixing the cookie banners process and Web Design best practices</blockquote>
 
 <h3>5. How To Build Your Own NAS Software (From Scratch) - <a href="https://medium.com/chifi-media/how-to-build-your-own-nas-software-from-scratch-b62579fbc93a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -257,11 +257,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. I Quit Learning Python and Became a Better Developer - <a href="https://medium.com/@abdur-rahman/i-quit-learning-python-and-became-a-better-developer-027e10496f30" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. OpenAI’s new Operator agent will change EVERYTHING - <a href="https://medium.com/coding-beauty/new-openai-operator-agent-0bbbdde30b8e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abdur Rahman`**
+✍️ **posted by `Coding Beauty`**
 
-<blockquote>My secret to becoming the top 1% Python developer</blockquote>
+<blockquote>OpenAI is planning something huge… an AI agent is coming.</blockquote>
 
 <h3>2. Introducing GattinoPleths: New Choropleths For Gattino - <a href="https://medium.com/chifi-media/introducing-gattinopleths-new-choropleths-for-gattino-1478f04a9287" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -275,11 +275,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>5 Reasons Why Python is Losing Its Crown</blockquote>
 
-<h3>4. How to become Data Scientist in 2025 - <a href="https://medium.com/mr-plan-publication/how-to-become-data-scientist-in-2025-f99d65d2cf6e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How AI Changes Our Everyday Life - <a href="https://medium.com/@loseheart110/how-ai-changes-our-everyday-life-1e71f74e34a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. Plan ₿ Publication`**
+✍️ **posted by `LoseHeart110`**
 
-<blockquote>Want to become a Data Scientist?</blockquote>
+<blockquote>AI change our life</blockquote>
 
 <h3>5. Why it’s so hard to write good libraries - <a href="https://medium.com/modern-software-engineering/why-its-so-hard-to-write-good-libraries-9d3f45a193a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -289,75 +289,75 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Introducing the Portal Hyperway - <a href="https://medium.com/@portalgaming/introducing-the-portal-hyperway-b29450ece229" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The End Of Merit In The Recruiting Process - <a href="https://medium.com/entrepreneur-s-handbook/the-end-of-merit-in-the-recruiting-process-344d7d0323b0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Portal`**
+✍️ **posted by `Entrepreneurship Handbook`**
 
-<blockquote>The Portal Hyperway is the united network of users and liquidity, underpinning our mission to solve fragmentation in Web3.</blockquote>
+<blockquote>When “vibes” take priority over experience and ingenuity, everyone loses</blockquote>
 
-<h3>2. I Grew Up with NO INTERNET — Here’s What Happened! - <a href="https://medium.com/@khalilliouane/i-grew-up-with-no-internet-heres-what-happened-6c7e136badca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Shazam’s UX delivers instant gratification - <a href="https://medium.com/user-experience-design-1/how-shazams-ux-delivers-instant-gratification-04a42c29a8c2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Khalil Liouane`**
+✍️ **posted by `UX Collective`**
 
-<blockquote>I have this love-hate relationship with technology.</blockquote>
+<blockquote>Shazam has mastered the art of instant song recognition, creating a UX that feels magical with just one tap. Discover how Shazam’s design…</blockquote>
 
-<h3>3. My Favourite Software Architecture Patterns - <a href="https://medium.com/gitconnected/my-favourite-software-architecture-patterns-0e57073b4be1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. This Man Controls 40% of the Internet and It’s a Problem - <a href="https://medium.com/notes-and-theories/this-man-controls-40-of-the-internet-and-its-a-problem-1b37a66e6185" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Notes`**
 
-<blockquote>Exploring my most loved Software Architecture patterns and their practical applications.</blockquote>
+<blockquote>Meet Matt Mullenweg.</blockquote>
 
-<h3>4. 3 Men Show!! Our Miniature Satellite Journey - <a href="https://medium.com/@rd893918/3-men-show-our-miniature-satellite-journey-27dfbdd7708a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Important SQL Interview Questions with Answers - <a href="https://medium.com/@data_analyst/important-sql-interview-questions-with-answers-8dbf18cd5886" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rahul Das`**
+✍️ **posted by `Data Analytics ✨`**
 
-<blockquote>From Inception to Culmination of a Miniature Satellite.</blockquote>
+<blockquote>SQL (Structured Query Language) is a must-have skill for anyone aspiring to work with data.</blockquote>
 
-<h3>5. The Puppet Master Without Strings: How I Learned to Influence - <a href="https://medium.com/managing-digital-products/the-puppet-master-without-strings-how-i-learned-to-influence-18026d603ecb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Product Coalition`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>You know that feeling when you’re supposed to lead a team but have as much authority as a substitute teacher on the last day of school…</blockquote>
+<blockquote>Benchmarks & Final Cut Pro 11 workout!</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Likeable people aren’t nice (they’re this..) - <a href="https://medium.com/@iamalexmathers/likeable-people-arent-nice-they-re-this-af3ca0e60c8d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. When You Feel “Stuck” in the Anger Stage of Grief - <a href="https://medium.com/invisible-illness/when-you-feel-stuck-in-the-anger-stage-of-grief-514d3b60d177" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex Mathers`**
+✍️ **posted by `Invisible Illness`**
 
-<blockquote>This was the most liberating thing I did</blockquote>
+<blockquote>Mourning childhood trauma and loss can be catalysts for healing.</blockquote>
 
-<h3>2. Pastoral Scenes of Courtship - <a href="https://medium.com/the-interstitial/pastoral-scenes-of-courtship-6e88a43d8708" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `The Interstitial`**
-
-<blockquote>a romcom, of sorts</blockquote>
-
-<h3>3. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `cher`**
 
 <blockquote>Maturity is when you don’t force people to choose you. Maturity is when you’ve accepted that such is life, and that not everything will go…</blockquote>
 
-<h3>4. This Wound Needs More Salt - <a href="https://medium.com/the-mad-river/this-wound-needs-more-salt-23dedbedb1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. How Fetlife Proved That The Male Loneliness Epidemic Is Men’s Fault - <a href="https://medium.com/@ossiana.tepfenhart/how-fetlife-proved-that-the-male-loneliness-epidemic-is-mens-fault-fda6126a49db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Mad River`**
+✍️ **posted by `Ossiana Tepfenhart`**
 
-<blockquote>Poem</blockquote>
+<blockquote>I was doubtful. Now I’m not.</blockquote>
 
-<h3>5. Why Breaking Down Walls Can Build Lasting Memories - <a href="https://medium.com/deep-sweet-valuable/why-breaking-down-walls-can-build-lasting-memories-f07c8263c389" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Do You Write? - <a href="https://medium.com/@felsull/why-do-you-write-4ce45a4df245" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deep. Sweet. Valuable.`**
+✍️ **posted by `Felicia C. Sullivan`**
 
-<blockquote>A Shift In Focus Can Make All The Difference</blockquote>
+<blockquote>Tell me it’s not about appeasing algorithms and making millions.</blockquote>
+
+<h3>5. That Day I Went Crazy and Ended My Marriage - <a href="https://medium.com/@keralataylor/that-day-i-went-crazy-and-ended-my-marriage-38484072ace5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Kerala Taylor`**
+
+<blockquote>The all-too-familiar story that denies women their fury and pain</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Android 16 “Baklava” Features and Innovations - <a href="https://medium.com/@mehkar/android-16-baklava-features-and-innovations-c09cdcdcf010" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. iOS Developer: A Roadmap for Success - <a href="https://medium.com/@shobhakartiwari/ios-developer-a-roadmap-for-success-da2dec670c8a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehmet Karataş`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Android 16, codenamed “Baklava”, offers a host of features to make life easier for users and give developers new possibilities. This is…</blockquote>
+<blockquote>Becoming a successful iOS developer requires a mix of strategy, dedication, and adaptability. Here’s a concise guide to help you plan and…</blockquote>
 
 <h3>2. Clean Architecture Struggles to Scale in Mobile Development - <a href="https://medium.com/@elye-project/clean-architecture-struggles-to-scale-in-mobile-development-85971471ac7a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -371,11 +371,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>React Native’s new architecture is here! Get no delays and extreme app performance! 🚀</blockquote>
 
-<h3>4. Seamlessly Navigating and Returning: A Guide to Using Flutter’s InAppWebView - <a href="https://medium.com/@lazy_mind/seamlessly-navigating-and-returning-a-guide-to-using-flutters-inappwebview-081cff6237af" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Blocks of Object Relationships: Structural Design Patterns Simplified - <a href="https://medium.com/@mucahiterenozkur/building-blocks-of-object-relationships-structural-design-patterns-simplified-3fb2df485b73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Suraj Kandel`**
+✍️ **posted by `Mücahit Eren Özkur`**
 
-<blockquote>In many applications, there’s often a need to integrate existing web pages directly into the app to provide seamless access to web content…</blockquote>
+<blockquote>A cheat sheet for Adapter, Bridge, Composite, Decorator, Facade, Flyweight and Proxy patterns.</blockquote>
 
 <h3>5. Enable Composable Views Sharing Across Modules Without Dependency Constraint - <a href="https://medium.com/mobile-app-development-publication/enable-composable-views-sharing-across-modules-without-dependency-constraint-a7290257d987" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -385,11 +385,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Test smarter, not harder: new testing strategies documentation - <a href="https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Improve Your Android Skills With Dove Letter - <a href="https://medium.com/@skydoves/improve-your-android-skills-with-dove-letter-438d8834411a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Android Developers`**
+✍️ **posted by `Jaewoong Eum`**
 
-<blockquote>A significant update to our official documentation on testing strategies will help you create more robust apps across form factors.</blockquote>
+<blockquote>Improving specific skills takes time and dedication — there’s no shortcut or “one-day mastery” to becoming a better software engineer. True…</blockquote>
 
 <h3>2. Boredom sends me to Android & Windows, frustration brings me back to Apple - <a href="https://medium.com/macoclock/boredom-sends-me-to-android-windows-frustration-brings-me-back-to-apple-52e2be847328" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -403,11 +403,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>In modern mobile development, cross-platform frameworks are gaining popularity because they offer key advantages, such as reducing the…</blockquote>
 
-<h3>4. Android 16 “Baklava” Features and Innovations - <a href="https://medium.com/@mehkar/android-16-baklava-features-and-innovations-c09cdcdcf010" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Elevating Your Jetpack Compose UI with GraphicsLayer - <a href="https://medium.com/proandroiddev/elevating-your-jetpack-compose-ui-with-graphicslayer-2565bb90fef8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehmet Karataş`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Android 16, codenamed “Baklava”, offers a host of features to make life easier for users and give developers new possibilities. This is…</blockquote>
+<blockquote>Explore the Power of Layer-based transformations and effects</blockquote>
 
 <h3>5. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -417,17 +417,17 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Understanding The Composable Architecture (TCA) in Swift - <a href="https://medium.com/@siddharthkothari007/understanding-the-composable-architecture-tca-in-swift-cf683c9c3602" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. PreferenceKey in SwiftUI: - <a href="https://medium.com/@malak.samir2001/preferencekey-in-swiftui-47379b3d494c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kothari Siddharth`**
+✍️ **posted by `Malak Samir`**
 
-<blockquote>TCA introduced by Point-Free , is inspired by functional programming principles and aims to provide a structured and predictable way to…</blockquote>
+<blockquote>A Comprehensive Guide</blockquote>
 
-<h3>2. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Practice in Public`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>From quitting five times to restarting again — why I’m determined to keep going.</blockquote>
+<blockquote>Benchmarks & Final Cut Pro 11 workout!</blockquote>
 
 <h3>3. 5 Insane iOS 18 Features You’re Not Using Right - <a href="https://medium.com/@evilgeek/5-insane-ios-18-features-youre-not-using-right-adf47b501300" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -435,25 +435,25 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Apple gives us; we take it for granted!</blockquote>
 
-<h3>4. A Beginner’s Guide to State Property Wrappers in SwiftUI - <a href="https://medium.com/@nirosha.iosdeveloper/every-ios-developer-must-understand-how-state-management-works-in-swiftui-b3957188b3fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top 15 Swift Code Guidelines - <a href="https://medium.com/@shobhakartiwari/top-15-swift-code-guidelines-375ac2cc2f79" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nirosha Srinivasan`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Dear iOS developer, it’s the right time to transition from UIKit to SwiftUI. This post will help you understand why state management is…</blockquote>
+<blockquote>For iOS Interview Questions Follow and check out my Github and Linked in Profile : Shobhakar Github Profile</blockquote>
 
-<h3>5. Why you should use Xcode 16 buildable folders instead of groups - <a href="https://medium.com/@dimillian/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-6f438611914d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Thomas Ricouard`**
+✍️ **posted by `Practice in Public`**
 
-<blockquote>I’ve recently migrated Ice Cubes, my open-source SwiftUI Mastodon client to use file system folders instead of Xcode groups.</blockquote>
+<blockquote>From quitting five times to restarting again — why I’m determined to keep going.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Deploying Containerized Applications - <a href="https://medium.com/@ukponoobott/deploying-containerized-applications-387875a8a2d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Introducing ShapeBlock: Deploy Like a Pro, on Your Own Infrastructure - <a href="https://medium.com/@lakshminp/introducing-shapeblock-deploy-like-a-pro-on-your-own-infrastructure-60c0537738c3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ukpono Obott`**
+✍️ **posted by `Lakshmi Narasimhan`**
 
-<blockquote>A Practical Implementation Using Docker Compose</blockquote>
+<blockquote>Shapeblock is a deployment platform combining the ease of Heroku and Railway which helps you deploy your apps on your own infrastructure.</blockquote>
 
 <h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -467,11 +467,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. The term "moter bike" was apparently a misspelling or typo for "motorbike" or "motorcycle." - <a href="https://medium.com/@ranausman5016871/the-term-moter-bike-was-apparently-a-misspelling-or-typo-for-motorbike-or-motorcycle-c42d247c6185" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Blue-Green Data Flow Explained: Unlocking Seamless Access to Your Streaming Data - <a href="https://medium.com/@simon.thelin90/blue-green-data-flow-explained-unlocking-seamless-access-to-your-streaming-data-b495e8a5086b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Muhammad Usman ghani`**
+✍️ **posted by `Simon Thelin`**
 
-<blockquote>Super bike</blockquote>
+<blockquote>In my previous post, Blue-Green Data Deployment Strategies: Transforming How We Handle Data Engineering, I explored how Blue-Green…</blockquote>
 
 <h3>5. Why AI/ML Software Development Must Operate at Production-Level Standards - <a href="https://medium.com/ai-advances/why-ai-ml-software-development-must-operate-at-production-level-standards-9411ae4c058c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -481,12 +481,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Setting up multi-node K3s cluster using Vagrant - <a href="https://medium.com/@saumiks/setting-up-multi-node-k3s-cluster-using-vagrant-5ac870567a8c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Super-Scaling Open Policy Agent with Batch Queries - <a href="https://medium.com/gusto-engineering/super-scaling-open-policy-agent-with-batch-queries-4fb9c0484ce4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Saumik Satapathy`**
+✍️ **posted by `Gusto Engineering`**
 
-<blockquote>What is K3s?
-K3s is a simple, lightweight Kubernetes distribution designed for situations where compute resources may be limited or where a…</blockquote>
+<blockquote>Restructuring Open Policy Agent requests and a low-level breakthrough enables considerable throughput increase while retaining…</blockquote>
 
 <h3>2. Twenty years of home lab - <a href="https://medium.com/@norlin.t/twenty-years-of-home-lab-b62cd838b511" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -494,17 +493,17 @@ K3s is a simple, lightweight Kubernetes distribution designed for situations whe
 
 <blockquote>I moved to a house (from a rented apartment) during the summer, and while going through the tough ritual of getting rid of stuff, I opened…</blockquote>
 
-<h3>3. Build a local Kubernetes cluster with free SSL and DNS management - <a href="https://medium.com/itnext/build-a-local-kubernetes-cluster-with-free-ssl-and-dns-management-1ee2025b7ae8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>This article demonstrates how to build a production-ready Kubernetes cluster using K3S with a complete stack for handling external traffic…</blockquote>
+<blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. EKS Pod Identity: The Next Step Beyond OIDC and IRSA - <a href="https://medium.com/cwan-engineering/eks-pod-identity-the-next-step-beyond-oidc-and-irsa-728f0a13f756" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Ultimate KubeCon 2024 Recap: The CNCF Ambassadors’ Edition - <a href="https://medium.com/@horovits/the-ultimate-kubecon-2024-recap-the-cncf-ambassadors-edition-1362959030c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cwan-engineering`**
+✍️ **posted by `Dotan Horovits (@horovits)`**
 
-<blockquote>Overview</blockquote>
+<blockquote>Catch up on KubeCon’s highlights and takeaways from the experts who know the cloud-native space inside out — the CNCF Ambassadors</blockquote>
 
 <h3>5. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -514,11 +513,11 @@ K3s is a simple, lightweight Kubernetes distribution designed for situations whe
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Deploying Containerized Applications - <a href="https://medium.com/@ukponoobott/deploying-containerized-applications-387875a8a2d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why NGINX IngressController Isn’t the Best Choice for Production Workloads - <a href="https://medium.com/@talhakhalid101/why-nginx-ingresscontroller-isnt-the-best-choice-for-production-workloads-dfc641da3e2c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ukpono Obott`**
+✍️ **posted by `Talha Khaild`**
 
-<blockquote>A Practical Implementation Using Docker Compose</blockquote>
+<blockquote>I haven’t used nginx as a Kubernetes IngressController since 2020. So, the information here may be outdated. However, recent issues…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -532,11 +531,11 @@ K3s is a simple, lightweight Kubernetes distribution designed for situations whe
 
 <blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
 
-<h3>4. Michigan, fondly referred to as "The Great Lakes State," is a diverse and vibrant destination with… - <a href="https://medium.com/@King11/michigan-fondly-referred-to-as-the-great-lakes-state-is-a-diverse-and-vibrant-destination-with-a5694b1f932d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Best Heavy-Duty Machines: Power and Efficiency in One - <a href="https://medium.com/@bharamawan/best-heavy-duty-machines-power-and-efficiency-in-one-060b965a0bb7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Baber Azam`**
+✍️ **posted by `Bharam Awan`**
 
-<blockquote>Exploring the Great Lakes State Michigan</blockquote>
+<blockquote>Heavy-duty machines are essentials in various forms of industries as they provide the muscles required to carry out large operations that…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
