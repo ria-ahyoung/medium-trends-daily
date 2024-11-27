@@ -32,12 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Server Components with revalidatePath: A New Era to Replace State Management in Next.js - <a href="https://medium.com/@qaffaf/server-components-with-revalidatepath-a-new-era-to-replace-state-management-in-next-js-7c13a874ba8d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Deep Dive into next.config.js: Understanding the output Option in Next.js. - <a href="https://medium.com/javascript-in-plain-english/deep-dive-into-next-config-js-understanding-the-output-option-in-next-js-0d068090475b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Asem Qaffaf`**
+✍️ **posted by `JavaScript in Plain English`**
 
-<blockquote>In web development, managing state can be complex. 
-Traditional libraries like Redux and Zustand have been used to keep different parts of…</blockquote>
+<blockquote>The output option in next.config.js plays an increasingly vital role. In this post, we’ll dive into how the output option works with the…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -51,11 +50,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Middleware in Next.js is often overlooked — but it’s a game-changer once you understand its potential. If you’re not using it yet, you…</blockquote>
 
-<h3>4. Next.js Security Tips: Protect Your Applications Like a Pro 🛡️ - <a href="https://medium.com/@ahmedfaarrag/next-js-security-tips-protect-your-applications-like-a-pro-️-1141955bcf92" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Next.js: The Secret Sauce for Modern Websites - <a href="https://medium.com/@dlayeshi.silva/next-js-the-secret-sauce-for-modern-websites-55c7e4b3f52e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmed farrag`**
+✍️ **posted by `Layeshi Silva`**
 
-<blockquote>Next.js empowers developers to create fast, dynamic applications, but it demands a strong focus on security. Server Components have…</blockquote>
+<blockquote>Have you ever wondered how some websites load instantly, feel super smooth, and magically appear on the first page of Google? Chances are…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -97,11 +96,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. JavaScript: The Language That Powers the Web - <a href="https://medium.com/@nodeninja/javascript-the-language-that-powers-the-web-699994493422" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 common JavaScript coding challenges - <a href="https://medium.com/@codeymaze/10-common-javascript-coding-challenges-1342327dc26d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ameer Hamza`**
+✍️ **posted by `CodeyMaze`**
 
-<blockquote>A beginner Friendly guide to understanding What javascript is and what It can do</blockquote>
+<blockquote>JavaScript is one of the most versatile and widely used programming languages. For both beginners and experienced developers, solving…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -115,11 +114,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Over the last 2 years, I’ve spoken with 643 developers from every corner of the planet. 160 hours of yapping on the phone with many of you…</blockquote>
 
-<h3>4. Revolutionize Custom Core Banking Software Development with Jmix - <a href="https://medium.com/@mavidev/revolutionize-custom-core-banking-software-development-with-jmix-cfa3f6989d12" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript: The Language That Powers the Web - <a href="https://medium.com/@nodeninja/javascript-the-language-that-powers-the-web-699994493422" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mavidev Software And Consulting Co.`**
+✍️ **posted by `Ameer Hamza`**
 
-<blockquote>In today’s fast-paced world, enterprise application development is more critical than ever, especially in industries like finance and…</blockquote>
+<blockquote>A beginner Friendly guide to understanding What javascript is and what It can do</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -129,11 +128,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. 10 Practices and Solutions for Tricky TypeScript Challenges - <a href="https://medium.com/@ignatovich.dm/10-practices-and-solutions-for-tricky-typescript-challenges-221fc3ad2ec3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TypeScript — nominal typing and branded types - <a href="https://medium.com/@maciej.osytek/typescript-nominal-typing-and-branded-types-38ec8160f7b4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Maciej Osytek`**
 
-<blockquote>As TypeScript adoption grows, many developers encounter issues ranging from understanding the type system to tackling advanced use cases…</blockquote>
+<blockquote>Nominal typing is based on type declarations, not on their structure. This means that two types are compatible only when explicitly…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -147,25 +146,25 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. 10 Advanced TypeScript Techniques to Level Up Your Code - <a href="https://medium.com/@asierr/10-advanced-typescript-techniques-to-level-up-your-code-d3209737282b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 10 Practices and Solutions for Tricky TypeScript Challenges - <a href="https://medium.com/@ignatovich.dm/10-practices-and-solutions-for-tricky-typescript-challenges-221fc3ad2ec3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `asierr.dev`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>TypeScript has become the go-to language for building scalable and maintainable web applications. While many developers are familiar with…</blockquote>
+<blockquote>As TypeScript adoption grows, many developers encounter issues ranging from understanding the type system to tackling advanced use cases…</blockquote>
 
-<h3>5. 10 Bad TypeScript Habits To Break In 2024 - <a href="https://medium.com/gitconnected/10-bad-typescript-habits-to-break-in-2024-4301c67f2ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Gabriela Iriart`**
 
-<blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
+<blockquote>NonNullable<T> in TypeScript is a utility type that plays a significant role in enhancing code safety and clarity. This is particularly…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. "Cosmic Titans: Black Holes and Their Secrets - <a href="https://medium.com/@kainatahmad24/cosmic-titans-black-holes-and-their-secrets-d7d8e763a9f7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How She Succeeded In Getting What She Wanted - <a href="https://medium.com/@rananoman786001/how-she-succeeded-in-getting-what-she-wanted-2f291811f8be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kainatahmad`**
+✍️ **posted by `Rana Noman`**
 
-<blockquote>Black holes</blockquote>
+<blockquote>There is a young lady who regularly comes to my lectures and classes. She had to change buses three times; it took her one and a half hours…</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -179,11 +178,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Learn to implement real-time notifications in NestJS using Server-Sent Events, a simpler, efficient alternative to WebSockets.</blockquote>
 
-<h3>4. Easily Validate Uploaded Files in NestJS - <a href="https://medium.com/@nonso-mgbechi/easily-validate-uploaded-files-in-nestjs-9559e74a8f56" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Title: From Junior to Senior: Mastering Debugging Beyond console.log - <a href="https://medium.com/@1asumeasume1/title-from-junior-to-senior-mastering-debugging-beyond-console-log-fbc287b1553b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nonso Mgbechi`**
+✍️ **posted by `Asumeasume`**
 
-<blockquote>I recently had to implement APIs that accept an array of files and manipulate them in NestJS. These files could be of different mime types…</blockquote>
+<blockquote>As a junior developer, the humble console.log is your best friend. It's simple, effective, and easy to use. But as you grow into a senior…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -193,11 +192,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Frontend Weekly Digest #389 (18–24 November 2024) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-389-18-24-november-2024-201719594cf1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Handshake: ECDH between Ruby on Rails and Web Crypto APIs - <a href="https://medium.com/runtime-revolution/handshake-ecdh-between-ruby-on-rails-and-web-crypto-apis-995a982ab4be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fresh Frontend Links`**
+✍️ **posted by `Runtime Revolution`**
 
-<blockquote>Web-development</blockquote>
+<blockquote>The handshake process plays a pivotal role in establishing a foundation of trust and encryption. One such robust and efficient method is…</blockquote>
 
 <h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -211,11 +210,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…</blockquote>
 
-<h3>4. UX Choice that wastes 575 000 000 hours per year - <a href="https://medium.com/@michalmalewicz/ux-choice-that-wastes-575-000-000-hours-per-year-95d84a23ada8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Google’s Gemini AI Now in Chrome DevTools - <a href="https://medium.com/@kristiyan.velkov/googles-gemini-ai-now-in-chrome-devtools-7672962804da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michal Malewicz`**
+✍️ **posted by `Kristiyan Velkov`**
 
-<blockquote>Fixing the cookie banners process and Web Design best practices</blockquote>
+<blockquote>Google has integrated its advanced AI model, Gemini, into Chrome’s developer tools. This feature brings a powerful ally to developers…</blockquote>
 
 <h3>5. How To Build Your Own NAS Software (From Scratch) - <a href="https://medium.com/chifi-media/how-to-build-your-own-nas-software-from-scratch-b62579fbc93a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -275,11 +274,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>5 Reasons Why Python is Losing Its Crown</blockquote>
 
-<h3>4. How AI Changes Our Everyday Life - <a href="https://medium.com/@loseheart110/how-ai-changes-our-everyday-life-1e71f74e34a4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Google dorking the right way. - <a href="https://medium.com/the-first-digit/google-dorking-the-right-way-27b0eeb31212" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `LoseHeart110`**
+✍️ **posted by `OSINT Team`**
 
-<blockquote>AI change our life</blockquote>
+<blockquote>Using Dekon GUI Tool for Bug Bounty Hunting to get big payouts in less time and less effort.</blockquote>
 
 <h3>5. Why it’s so hard to write good libraries - <a href="https://medium.com/modern-software-engineering/why-its-so-hard-to-write-good-libraries-9d3f45a193a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -295,55 +294,55 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>When “vibes” take priority over experience and ingenuity, everyone loses</blockquote>
 
-<h3>2. How Shazam’s UX delivers instant gratification - <a href="https://medium.com/user-experience-design-1/how-shazams-ux-delivers-instant-gratification-04a42c29a8c2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Diary of a Brand: the Dallas Cowboys - <a href="https://medium.com/embedded-brand-strategy/diary-of-a-brand-the-dallas-cowboys-49fd3497c106" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Embedded Brand Strategy`**
+
+<blockquote>How the Cowboys built the most valuable brand in sports</blockquote>
+
+<h3>3. AI Has Officially Hit A Dead End - <a href="https://medium.com/predict/ai-has-officially-hit-a-dead-end-cf260ae5b2de" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Predict`**
+
+<blockquote>And the repercussions will be catastrophic.</blockquote>
+
+<h3>4. Machine Learning in Plain English: How Machines Think Like Us - <a href="https://medium.com/python-in-plain-english/machine-learning-in-plain-english-how-machines-think-like-us-e3faecb7ff2e" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Python in Plain English`**
+
+<blockquote>Discover the Basics of Machine Learning Without the Jargon</blockquote>
+
+<h3>5. Death, taxes and milli-Ems - <a href="https://medium.com/user-experience-design-1/death-taxes-and-milli-ems-d2466ef3465b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `UX Collective`**
 
-<blockquote>Shazam has mastered the art of instant song recognition, creating a UX that feels magical with just one tap. Discover how Shazam’s design…</blockquote>
-
-<h3>3. This Man Controls 40% of the Internet and It’s a Problem - <a href="https://medium.com/notes-and-theories/this-man-controls-40-of-the-internet-and-its-a-problem-1b37a66e6185" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Notes`**
-
-<blockquote>Meet Matt Mullenweg.</blockquote>
-
-<h3>4. Important SQL Interview Questions with Answers - <a href="https://medium.com/@data_analyst/important-sql-interview-questions-with-answers-8dbf18cd5886" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Data Analytics ✨`**
-
-<blockquote>SQL (Structured Query Language) is a must-have skill for anyone aspiring to work with data.</blockquote>
-
-<h3>5. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mac O’Clock`**
-
-<blockquote>Benchmarks & Final Cut Pro 11 workout!</blockquote>
+<blockquote>The traumatic shift to proportional measurements systems in digital design</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. When You Feel “Stuck” in the Anger Stage of Grief - <a href="https://medium.com/invisible-illness/when-you-feel-stuck-in-the-anger-stage-of-grief-514d3b60d177" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Healing Prescription for My Holiday Heartache - <a href="https://medium.com/the-narrative-arc/a-healing-prescription-for-my-holiday-heartache-1c2a114d6e7e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Invisible Illness`**
+✍️ **posted by `The Narrative Arc`**
 
-<blockquote>Mourning childhood trauma and loss can be catalysts for healing.</blockquote>
+<blockquote>Welcoming change while honoring pain of the past</blockquote>
 
-<h3>2. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I Must Go Now - <a href="https://medium.com/the-interstitial/i-must-go-now-6fa40e41f52f" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `The Interstitial`**
+
+<blockquote>A story about lawnmower maintenance</blockquote>
+
+<h3>3. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `cher`**
 
 <blockquote>Maturity is when you don’t force people to choose you. Maturity is when you’ve accepted that such is life, and that not everything will go…</blockquote>
 
-<h3>3. How Fetlife Proved That The Male Loneliness Epidemic Is Men’s Fault - <a href="https://medium.com/@ossiana.tepfenhart/how-fetlife-proved-that-the-male-loneliness-epidemic-is-mens-fault-fda6126a49db" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Grief Isn’t Kinder To The Childfree — It’s Just More Subtle - <a href="https://medium.com/life-without-children/grief-isnt-kinder-to-the-childfree-it-s-just-more-subtle-faecffc04dc6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ossiana Tepfenhart`**
+✍️ **posted by `Life Without Children`**
 
-<blockquote>I was doubtful. Now I’m not.</blockquote>
-
-<h3>4. Why Do You Write? - <a href="https://medium.com/@felsull/why-do-you-write-4ce45a4df245" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Felicia C. Sullivan`**
-
-<blockquote>Tell me it’s not about appeasing algorithms and making millions.</blockquote>
+<blockquote>How my sister grieves differently from me</blockquote>
 
 <h3>5. That Day I Went Crazy and Ended My Marriage - <a href="https://medium.com/@keralataylor/that-day-i-went-crazy-and-ended-my-marriage-38484072ace5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -353,11 +352,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. iOS Developer: A Roadmap for Success - <a href="https://medium.com/@shobhakartiwari/ios-developer-a-roadmap-for-success-da2dec670c8a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers - <a href="https://medium.com/itnext/top-5-problems-google-leaves-to-third-party-vendors-for-android-developers-3c11ddebb76b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shobhakar Tiwari`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Becoming a successful iOS developer requires a mix of strategy, dedication, and adaptability. Here’s a concise guide to help you plan and…</blockquote>
+<blockquote>Critical Gaps in Android Development: Where Google Relies on Third-Party Solutions</blockquote>
 
 <h3>2. Clean Architecture Struggles to Scale in Mobile Development - <a href="https://medium.com/@elye-project/clean-architecture-struggles-to-scale-in-mobile-development-85971471ac7a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -371,17 +370,17 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>React Native’s new architecture is here! Get no delays and extreme app performance! 🚀</blockquote>
 
-<h3>4. Building Blocks of Object Relationships: Structural Design Patterns Simplified - <a href="https://medium.com/@mucahiterenozkur/building-blocks-of-object-relationships-structural-design-patterns-simplified-3fb2df485b73" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mücahit Eren Özkur`**
-
-<blockquote>A cheat sheet for Adapter, Bridge, Composite, Decorator, Facade, Flyweight and Proxy patterns.</blockquote>
-
-<h3>5. Enable Composable Views Sharing Across Modules Without Dependency Constraint - <a href="https://medium.com/mobile-app-development-publication/enable-composable-views-sharing-across-modules-without-dependency-constraint-a7290257d987" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Enable Composable Views Sharing Across Modules Without Dependency Constraint - <a href="https://medium.com/mobile-app-development-publication/enable-composable-views-sharing-across-modules-without-dependency-constraint-a7290257d987" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mobile App Development Publication`**
 
 <blockquote>An Aligned Autonomy Scaling Mobile Development Approach</blockquote>
+
+<h3>5. Flutter Vs React Native : Performance Benchmarks you can’t miss ! 🔥⚡️ - <a href="https://medium.com/@nateshmbhat/flutter-vs-react-native-performance-benchmarks-you-cant-miss-️-2e31905df9b4" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Natesh Bhat`**
+
+<blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
@@ -397,17 +396,17 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>A look at the reasons for switching between Apple and other devices, and why I always end up back using Apple.</blockquote>
 
-<h3>3. A Developer’s Roadmap to Mastering Kotlin Multiplatform - <a href="https://medium.com/proandroiddev/a-developers-roadmap-to-mastering-kotlin-multiplatform-e4e03aef765f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Test smarter, not harder: new testing strategies documentation - <a href="https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Android Developers`**
 
-<blockquote>In modern mobile development, cross-platform frameworks are gaining popularity because they offer key advantages, such as reducing the…</blockquote>
+<blockquote>A significant update to our official documentation on testing strategies will help you create more robust apps across form factors.</blockquote>
 
-<h3>4. Elevating Your Jetpack Compose UI with GraphicsLayer - <a href="https://medium.com/proandroiddev/elevating-your-jetpack-compose-ui-with-graphicslayer-2565bb90fef8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers - <a href="https://medium.com/itnext/top-5-problems-google-leaves-to-third-party-vendors-for-android-developers-3c11ddebb76b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Explore the Power of Layer-based transformations and effects</blockquote>
+<blockquote>Critical Gaps in Android Development: Where Google Relies on Third-Party Solutions</blockquote>
 
 <h3>5. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -417,11 +416,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. PreferenceKey in SwiftUI: - <a href="https://medium.com/@malak.samir2001/preferencekey-in-swiftui-47379b3d494c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Best iPhone Features on the iOS 18 Update - <a href="https://medium.com/@OwyHasan/best-iphone-features-on-the-ios-18-update-cd9eaa7f9440" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Malak Samir`**
+✍️ **posted by `Hasan`**
 
-<blockquote>A Comprehensive Guide</blockquote>
+<blockquote>Let’s explore the standout highlights of this game-changing update.</blockquote>
 
 <h3>2. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -435,11 +434,11 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <blockquote>Apple gives us; we take it for granted!</blockquote>
 
-<h3>4. Top 15 Swift Code Guidelines - <a href="https://medium.com/@shobhakartiwari/top-15-swift-code-guidelines-375ac2cc2f79" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Implementing a Share Functionality in Kotlin Multiplatform (KMP) Android/IOS - <a href="https://medium.com/@adman.shadman/implementing-a-share-functionality-in-a-kotlin-multiplatform-kmp-android-ios-8f2bbf3e117f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shobhakar Tiwari`**
+✍️ **posted by `Shadman Adman`**
 
-<blockquote>For iOS Interview Questions Follow and check out my Github and Linked in Profile : Shobhakar Github Profile</blockquote>
+<blockquote>Step 1: Define a Shared Interface</blockquote>
 
 <h3>5. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -481,35 +480,35 @@ Traditional libraries like Redux and Zustand have been used to keep different pa
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Super-Scaling Open Policy Agent with Batch Queries - <a href="https://medium.com/gusto-engineering/super-scaling-open-policy-agent-with-batch-queries-4fb9c0484ce4" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Gusto Engineering`**
-
-<blockquote>Restructuring Open Policy Agent requests and a low-level breakthrough enables considerable throughput increase while retaining…</blockquote>
-
-<h3>2. Twenty years of home lab - <a href="https://medium.com/@norlin.t/twenty-years-of-home-lab-b62cd838b511" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Twenty years of home lab - <a href="https://medium.com/@norlin.t/twenty-years-of-home-lab-b62cd838b511" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Tony Norlin`**
 
 <blockquote>I moved to a house (from a rented apartment) during the summer, and while going through the tough ritual of getting rid of stuff, I opened…</blockquote>
 
-<h3>3. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Stackademic`**
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. The Ultimate KubeCon 2024 Recap: The CNCF Ambassadors’ Edition - <a href="https://medium.com/@horovits/the-ultimate-kubecon-2024-recap-the-cncf-ambassadors-edition-1362959030c1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Step into World of CILIUM: A Day 0 Kickoff Guide - <a href="https://medium.com/@dinesh.pundkar/world-of-cilium-a-day-0-kickoff-guide-aaf203d4be0c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dotan Horovits (@horovits)`**
+✍️ **posted by `Dinesh Pundkar`**
 
-<blockquote>Catch up on KubeCon’s highlights and takeaways from the experts who know the cloud-native space inside out — the CNCF Ambassadors</blockquote>
+<blockquote>Last week, I attended a Kubernetes technical meetup and discovered an intriguing tool called Cilium. Throughout the session, one word kept…</blockquote>
 
-<h3>5. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Pinterest Engineering Blog`**
 
 <blockquote>Alex Wang; Software Engineer I | Lei Pan; Software Engineer II | Raymond Lee; Senior Software Engineer | Saurabh Vishwas Joshi; Senior…</blockquote>
+
+<h3>5. Build a local Kubernetes cluster with free SSL and DNS management - <a href="https://medium.com/itnext/build-a-local-kubernetes-cluster-with-free-ssl-and-dns-management-1ee2025b7ae8" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `ITNEXT`**
+
+<blockquote>This article demonstrates how to build a production-ready Kubernetes cluster using K3S with a complete stack for handling external traffic…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
