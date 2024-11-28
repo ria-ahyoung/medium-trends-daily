@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/27)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/28)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. ReactJS and Higher-Order Functions: A Beginner’s Guide with Easy Analogies. - <a href="https://medium.com/@skylar_lorena/reactjs-and-higher-order-functions-a-beginners-guide-with-easy-analogies-08e0a4e1b35b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React Development: Exploring React 19 Features - <a href="https://medium.com/@brahim.sourny/react-development-exploring-react-19-features-a3f7f8256253" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Skylar Lorena`**
+✍️ **posted by `Sabo`**
 
-<blockquote>If you’re stepping into ReactJS, you’ve likely heard the term higher-order functions (HOFs). It might sound complicated, but here’s the…</blockquote>
+<blockquote>React has long been a cornerstone of modern web development, empowering developers to build dynamic, responsive, and scalable user…</blockquote>
 
 <h3>2. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Building an Online Marketplace: A Journey in Full-Stack Development - <a href="https://medium.com/@bhatianeha/building-an-online-marketplace-a-journey-in-full-stack-development-5ff7fb8965d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Comprehensive Guide to Securing Your API for Web and Mobile Applications Using ExpressJS - <a href="https://medium.com/@landonwjohnson/a-comprehensive-guide-to-securing-your-api-for-web-and-mobile-applications-using-expressjs-12123cfedf06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Neha Bhatia`**
+✍️ **posted by `Landon Johnson`**
 
-<blockquote>In this blog, I want to share the process of creating my latest project, an Online Marketplace. It’s a web application where users can buy…</blockquote>
+<blockquote>Securing your API is critical if you are going to have your own custom API built from the ground up.</blockquote>
 
 <h3>5. React 19 is coming, what’s new? - <a href="https://medium.com/stackademic/react-19-is-coming-whats-new-79e2d4b948e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Deep Dive into next.config.js: Understanding the output Option in Next.js. - <a href="https://medium.com/javascript-in-plain-english/deep-dive-into-next-config-js-understanding-the-output-option-in-next-js-0d068090475b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 3 Best Next.js ORM - <a href="https://medium.com/startup-nextjs/3-best-next-js-orm-885a9d1ece2d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Startup Nextjs`**
 
-<blockquote>The output option in next.config.js plays an increasingly vital role. In this post, we’ll dive into how the output option works with the…</blockquote>
+<blockquote>Selecting the right Object-Relational Mapping (ORM) tool can significantly impact your Next.js project’s performance and development…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Middleware in Next.js is often overlooked — but it’s a game-changer once you understand its potential. If you’re not using it yet, you…</blockquote>
 
-<h3>4. Next.js: The Secret Sauce for Modern Websites - <a href="https://medium.com/@dlayeshi.silva/next-js-the-secret-sauce-for-modern-websites-55c7e4b3f52e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top 5 Modern UI Libraries for Next.js Using TailwindCSS - <a href="https://medium.com/@probir-sarkar/top-5-modern-ui-libraries-for-next-js-using-tailwindcss-64f685457b2d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Layeshi Silva`**
+✍️ **posted by `Probir Sarkar`**
 
-<blockquote>Have you ever wondered how some websites load instantly, feel super smooth, and magically appear on the first page of Google? Chances are…</blockquote>
+<blockquote>When building modern web applications with Next.js, one of the most crucial aspects is the user interface (UI). TailwindCSS, a…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. 10 common JavaScript coding challenges - <a href="https://medium.com/@codeymaze/10-common-javascript-coding-challenges-1342327dc26d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Alternative to AbortController for Handling Async Timeouts in JavaScript - <a href="https://medium.com/@vnkelkar11/alternative-to-abortcontroller-for-handling-async-timeouts-in-javascript-4075ee61348b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `CodeyMaze`**
+✍️ **posted by `Varun Kelkar`**
 
-<blockquote>JavaScript is one of the most versatile and widely used programming languages. For both beginners and experienced developers, solving…</blockquote>
+<blockquote>In the world of asynchronous JavaScript, understanding how to handle timeouts and cancellations isn’t just about tools like AbortController…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Over the last 2 years, I’ve spoken with 643 developers from every corner of the planet. 160 hours of yapping on the phone with many of you…</blockquote>
 
-<h3>4. JavaScript: The Language That Powers the Web - <a href="https://medium.com/@nodeninja/javascript-the-language-that-powers-the-web-699994493422" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Real-Time Pagination: A Guide to Efficient News Feeds - <a href="https://medium.com/@rishabhjairath/mastering-real-time-pagination-a-guide-to-efficient-news-feeds-51e817688e6d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ameer Hamza`**
+✍️ **posted by `Rishabh Jairath`**
 
-<blockquote>A beginner Friendly guide to understanding What javascript is and what It can do</blockquote>
+<blockquote>Delivering real-time updates is crucial for applications like news feeds and social media platforms. We need efficient pagination strategy…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. TypeScript — nominal typing and branded types - <a href="https://medium.com/@maciej.osytek/typescript-nominal-typing-and-branded-types-38ec8160f7b4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Writing Clean Senior TypeScript Code: Avoiding Common Mistakes - <a href="https://medium.com/@bhagyasudaraka98/writing-clean-senior-typescript-code-avoiding-common-mistakes-a31c6cfaf294" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Maciej Osytek`**
+✍️ **posted by `Bhagya Wijenayake`**
 
-<blockquote>Nominal typing is based on type declarations, not on their structure. This means that two types are compatible only when explicitly…</blockquote>
+<blockquote>TypeScript has revolutionized how developers approach JavaScript projects by introducing static typing, which simplifies debugging and…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,25 +214,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. 10 Practices and Solutions for Tricky TypeScript Challenges - <a href="https://medium.com/@ignatovich.dm/10-practices-and-solutions-for-tricky-typescript-challenges-221fc3ad2ec3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. TypeScript — nominal typing and branded types - <a href="https://medium.com/@maciej.osytek/typescript-nominal-typing-and-branded-types-38ec8160f7b4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Maciej Osytek`**
 
-<blockquote>As TypeScript adoption grows, many developers encounter issues ranging from understanding the type system to tackling advanced use cases…</blockquote>
+<blockquote>Nominal typing is based on type declarations, not on their structure. This means that two types are compatible only when explicitly…</blockquote>
 
-<h3>5. The Power of NonNullable<T> in TypeScript - <a href="https://medium.com/@gabrielairiart.gi/the-power-of-nonnullable-t-in-typescript-9cf156beb8da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 10 Bad TypeScript Habits To Break In 2024 - <a href="https://medium.com/gitconnected/10-bad-typescript-habits-to-break-in-2024-4301c67f2ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gabriela Iriart`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>NonNullable<T> in TypeScript is a utility type that plays a significant role in enhancing code safety and clarity. This is particularly…</blockquote>
+<blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. How She Succeeded In Getting What She Wanted - <a href="https://medium.com/@rananoman786001/how-she-succeeded-in-getting-what-she-wanted-2f291811f8be" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. GraphQL vs REST in Node.js: A Comprehensive Comparison for Real-World Applications - <a href="https://medium.com/@hemangibavasiya08/graphql-vs-rest-in-node-js-a-comprehensive-comparison-for-real-world-applications-f67b80daf480" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rana Noman`**
+✍️ **posted by `Hemangibavasiya`**
 
-<blockquote>There is a young lady who regularly comes to my lectures and classes. She had to change buses three times; it took her one and a half hours…</blockquote>
+<blockquote>The debate between GraphQL and REST is one of the most engaging discussions in API development. While REST has been the backbone of web…</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,49 +356,49 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. The End Of Merit In The Recruiting Process - <a href="https://medium.com/entrepreneur-s-handbook/the-end-of-merit-in-the-recruiting-process-344d7d0323b0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How I abled to get users/admins PII Disclosure - <a href="https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Entrepreneurship Handbook`**
+✍️ **posted by `Ahmad Yussef`**
 
-<blockquote>When “vibes” take priority over experience and ingenuity, everyone loses</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>2. Diary of a Brand: the Dallas Cowboys - <a href="https://medium.com/embedded-brand-strategy/diary-of-a-brand-the-dallas-cowboys-49fd3497c106" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How to Get Great Pictures in Inclement Weather - <a href="https://medium.com/live-view/how-to-get-great-pictures-in-inclement-weather-e13a98f38b53" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Embedded Brand Strategy`**
+✍️ **posted by `Live View`**
 
-<blockquote>How the Cowboys built the most valuable brand in sports</blockquote>
+<blockquote>Tips and Gear Suggestions for Seasonal Change</blockquote>
 
-<h3>3. AI Has Officially Hit A Dead End - <a href="https://medium.com/predict/ai-has-officially-hit-a-dead-end-cf260ae5b2de" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Predict`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>And the repercussions will be catastrophic.</blockquote>
+<blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. Machine Learning in Plain English: How Machines Think Like Us - <a href="https://medium.com/python-in-plain-english/machine-learning-in-plain-english-how-machines-think-like-us-e3faecb7ff2e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Best choice for Google: Sell Chrome to Hedera Council for Veto right & settle with DOJ - <a href="https://medium.com/@shayansa/best-choice-for-google-sell-chrome-to-hedera-council-for-veto-right-settle-with-doj-b81a955d3fab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Python in Plain English`**
+✍️ **posted by `Shawn S.`**
 
-<blockquote>Discover the Basics of Machine Learning Without the Jargon</blockquote>
+<blockquote>How Google and Hedera could change the world</blockquote>
 
-<h3>5. Death, taxes and milli-Ems - <a href="https://medium.com/user-experience-design-1/death-taxes-and-milli-ems-d2466ef3465b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Don’t Erase a Scientist’s Blackboard Without Permission - <a href="https://medium.com/novelty-writing/dont-erase-a-scientist-s-blackboard-without-permission-4dedecc5ec43" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `UX Collective`**
+✍️ **posted by `Break Time`**
 
-<blockquote>The traumatic shift to proportional measurements systems in digital design</blockquote>
+<blockquote>If blackboards were to vanish overnight, the group most devastated would likely be mathematicians and physicists.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. A Healing Prescription for My Holiday Heartache - <a href="https://medium.com/the-narrative-arc/a-healing-prescription-for-my-holiday-heartache-1c2a114d6e7e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Real Adventure of a Lifetime - <a href="https://medium.com/@wilwen/the-real-adventure-of-a-lifetime-b62bede674cc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Narrative Arc`**
+✍️ **posted by `William Wen`**
 
-<blockquote>Welcoming change while honoring pain of the past</blockquote>
+<blockquote>Recently we lost Allyson to cancer. She was my wife, our sons’ mother, her parents’ daughter, and her brothers’ sister. She was loved by…</blockquote>
 
-<h3>2. I Must Go Now - <a href="https://medium.com/the-interstitial/i-must-go-now-6fa40e41f52f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Reasons Women Don’t Report Sexual Harassment and Rape - <a href="https://medium.com/bouncin-and-behavin-blogs/the-reasons-women-dont-report-sexual-harassment-and-rape-0615efff0325" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Interstitial`**
+✍️ **posted by `Bouncin’ and Behavin’ Blogs`**
 
-<blockquote>A story about lawnmower maintenance</blockquote>
+<blockquote>The Power Differential is a Major Factor</blockquote>
 
 <h3>3. Maturing is when you don’t force people to choose you. - <a href="https://medium.com/@cherylkoo/maturing-is-when-you-dont-force-people-to-choose-you-c8f2a7198676" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,17 +406,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Maturity is when you don’t force people to choose you. Maturity is when you’ve accepted that such is life, and that not everything will go…</blockquote>
 
-<h3>4. Grief Isn’t Kinder To The Childfree — It’s Just More Subtle - <a href="https://medium.com/life-without-children/grief-isnt-kinder-to-the-childfree-it-s-just-more-subtle-faecffc04dc6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. no reason, nothing to do, i just wanted to see you. - <a href="https://medium.com/@cherylkoo/no-reason-nothing-to-do-i-just-wanted-to-see-you-fc701e113704" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Life Without Children`**
+✍️ **posted by `cher`**
 
-<blockquote>How my sister grieves differently from me</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. That Day I Went Crazy and Ended My Marriage - <a href="https://medium.com/@keralataylor/that-day-i-went-crazy-and-ended-my-marriage-38484072ace5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. I Must Go Now - <a href="https://medium.com/the-interstitial/i-must-go-now-6fa40e41f52f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kerala Taylor`**
+✍️ **posted by `The Interstitial`**
 
-<blockquote>The all-too-familiar story that denies women their fury and pain</blockquote>
+<blockquote>A story about lawnmower maintenance</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Introducing ShapeBlock: Deploy Like a Pro, on Your Own Infrastructure - <a href="https://medium.com/@lakshminp/introducing-shapeblock-deploy-like-a-pro-on-your-own-infrastructure-60c0537738c3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Python Tips — Efficient Methods for Sending 100k Requests - <a href="https://medium.com/@tonylixu/python-tips-efficient-methods-for-sending-100k-requests-06fccdb0e2fb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lakshmi Narasimhan`**
+✍️ **posted by `Tony`**
 
-<blockquote>Shapeblock is a deployment platform combining the ease of Heroku and Railway which helps you deploy your apps on your own infrastructure.</blockquote>
+<blockquote>Imagine you have a file containing 100,000 URLs, and your goal is to send an HTTP request to each one, then print the status codes from…</blockquote>
 
 <h3>2. Part 2: From 1 to 1M — Scaling a Full-Stack Web Application Platform to Handle 1M Daily Visitors - <a href="https://medium.com/@isaac.adams/part-2-from-1-to-1m-scaling-a-full-stack-web-application-platform-to-handle-1m-daily-visitors-24994ef1532b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. Blue-Green Data Flow Explained: Unlocking Seamless Access to Your Streaming Data - <a href="https://medium.com/@simon.thelin90/blue-green-data-flow-explained-unlocking-seamless-access-to-your-streaming-data-b495e8a5086b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Shifting LEFT (security) - <a href="https://medium.com/@rem5/shifting-left-security-eeb83e0f5dc1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Simon Thelin`**
+✍️ **posted by `Rob Gil`**
 
-<blockquote>In my previous post, Blue-Green Data Deployment Strategies: Transforming How We Handle Data Engineering, I explored how Blue-Green…</blockquote>
+<blockquote>There are really two kinds of vulnerabilities. Software flaws and Configuration flaws. NIST 800–53 likes to classify these in different…</blockquote>
 
 <h3>5. Why AI/ML Software Development Must Operate at Production-Level Standards - <a href="https://medium.com/ai-advances/why-ai-ml-software-development-must-operate-at-production-level-standards-9411ae4c058c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Why NGINX IngressController Isn’t the Best Choice for Production Workloads - <a href="https://medium.com/@talhakhalid101/why-nginx-ingresscontroller-isnt-the-best-choice-for-production-workloads-dfc641da3e2c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Conscious and Subconscious Terms Differentiated - <a href="https://medium.com/@syedsaleemabbas941/conscious-and-subconscious-terms-differentiated-374088c314f1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Talha Khaild`**
+✍️ **posted by `Syed Saleem Abbas`**
 
-<blockquote>I haven’t used nginx as a Kubernetes IngressController since 2020. So, the information here may be outdated. However, recent issues…</blockquote>
+<blockquote>You must remember that these are not two minds. They are merely two spheres of activity within one mind. Your conscious mind is the…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -592,17 +592,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Keep your containers vulnerability free and securely configured</blockquote>
 
-<h3>3. Docker pros are shrinking images by 99%: The hidden techniques you can’t afford to miss - <a href="https://medium.com/aws-in-plain-english/docker-pros-are-shrinking-images-by-99-the-hidden-techniques-you-cant-afford-to-miss-a70ee26b4cbf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 25 Docker Commands That Will Make You a Better Developer - <a href="https://medium.com/stackademic/25-docker-commands-that-will-make-you-a-better-developer-2f97a036c6a1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `AWS in Plain English`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>Unlock the secrets to lightning-fast deployments and slashed costs — before your competitors do</blockquote>
+<blockquote>Containerize Efficiently, Code Confidently</blockquote>
 
-<h3>4. Best Heavy-Duty Machines: Power and Efficiency in One - <a href="https://medium.com/@bharamawan/best-heavy-duty-machines-power-and-efficiency-in-one-060b965a0bb7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. HOW TO REPROGRAM YOUR BRAIN TO ENJOY HARD HABITS - <a href="https://medium.com/@sattarshazia876/how-to-reprogram-your-brain-to-enjoy-hard-habits-c87393cabc1f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bharam Awan`**
+✍️ **posted by `Shazia Sattar`**
 
-<blockquote>Heavy-duty machines are essentials in various forms of industries as they provide the muscles required to carry out large operations that…</blockquote>
+<blockquote>You can make hard habits more attractive if you can learn to associate them with a positive experience. Sometimes, all you need is a slight…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
