@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/11/30)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/01)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -100,11 +100,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Consolidating Next.js Logging: From Winston to Google Cloud - <a href="https://medium.com/towards-data-engineering/consolidating-next-js-logging-from-winston-to-google-cloud-bdb99f27fb04" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Create a Conversational AI Voice Agent with OpenAI Realtime API A Step-by-Step Guide for… - <a href="https://medium.com/@lonare/how-to-create-a-conversational-ai-voice-agent-with-openai-realtime-api-a-step-by-step-guide-for-fa879dd6743c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards Data Engineering`**
+✍️ **posted by `Lonare`**
 
-<blockquote>This article will walk you through centralizing your Next.js logs in the cloud using Google Cloud Logging and Winston.</blockquote>
+<blockquote>Building a conversational AI voice agent has become incredibly accessible thanks to OpenAI’s real-time APIs. In this article, we’ll create…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>I’ve worked on Next.js applications that scaled to over 100k monthly active users and landing pages with millions of monthly visitors. In…</blockquote>
 
-<h3>4. Angular vs. Next.js: Which Framework Should You Choose? - <a href="https://medium.com/@bella_rose/angular-vs-next-js-which-framework-should-you-choose-62fc7398d0d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Consolidating Next.js Logging: From Winston to Google Cloud - <a href="https://medium.com/towards-data-engineering/consolidating-next-js-logging-from-winston-to-google-cloud-bdb99f27fb04" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bella Rose (Software Engineer)`**
+✍️ **posted by `Towards Data Engineering`**
 
-<blockquote>Choosing the Right Framework for Your Project</blockquote>
+<blockquote>This article will walk you through centralizing your Next.js logs in the cloud using Google Cloud Logging and Winston.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Learn to implement real-time notifications in NestJS using Server-Sent Events, a simpler, efficient alternative to WebSockets.</blockquote>
 
-<h3>4. Unveiling JavaScript MutationObserver: Harnessing the Power of Dynamic DOM Monitoring - <a href="https://medium.com/javascript-in-plain-english/unveiling-javascript-mutationobserver-harnessing-the-power-of-dynamic-dom-monitoring-65cd63511e99" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. DynamoDB Data Browser - <a href="https://medium.com/@ankit-aabad/dynamodb-data-browser-cb7c1e94e731" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Ankit Aabad`**
 
-<blockquote>Reacting to DOM Changes: Attributes, Text, Elements, and Real-World Applications (With a Bonus!)</blockquote>
+<blockquote>Early sneak peek into an alternative GUI client for DDB</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -292,11 +292,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/stackademic/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Solving WebView Lifecycle Crashes in Android: A Lifecycle-Aware Approach with Sealed Classes and… - <a href="https://medium.com/@drjansari/solving-webview-lifecycle-crashes-in-android-a-lifecycle-aware-approach-with-sealed-classes-and-d457db391461" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stackademic`**
+✍️ **posted by `Dipen Jansari`**
 
-<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -304,11 +304,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/stackademic/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tippu Fisal Sheriff`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
+<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
 
 <h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -316,11 +316,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
 
-<h3>5. Capturing XHR and Fetch POST Requests in Android WebView - <a href="https://medium.com/@nachare.reena8/capturing-xhr-and-fetch-post-requests-in-android-webview-9191979e8d9b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Real-Time Data Exchange in WebView Using addJavascriptInterface in Android Jetpack Compose - <a href="https://medium.com/@TippuFisalSheriff/real-time-data-exchange-in-webview-using-addjavascriptinterface-in-android-jetpack-compose-bd16f6f79199" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Reena Rote`**
+✍️ **posted by `Tippu Fisal Sheriff`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>In today’s mobile development landscape, bridging native code and web content is more crucial than ever. Android’s WebView provides a…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
@@ -342,31 +342,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. Trapped in the Net: Where is a Foundation Model for Graphs? - <a href="https://medium.com/towards-data-science/trapped-in-the-net-where-is-a-foundation-model-for-graphs-6154bd688d4c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 2024 Black Friday and Cyber Monday Deals for Developers - <a href="https://medium.com/@tsecretdeveloper/2024-black-friday-and-cyber-monday-deals-for-developers-03a57775043d" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `The Secret Developer`**
+
+<blockquote>The deals for Black Friday and Cyber Monday have started! That means we should open up our wallets and pay money for things we might (or…</blockquote>
+
+<h3>5. Trapped in the Net: Where is a Foundation Model for Graphs? - <a href="https://medium.com/towards-data-science/trapped-in-the-net-where-is-a-foundation-model-for-graphs-6154bd688d4c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Towards Data Science`**
 
 <blockquote>Disconnected from the other modalities graphs wait for their AI revolution: is it coming?</blockquote>
 
-<h3>5. Python is No More The King of Data Science - <a href="https://medium.com/stackademic/is-python-still-the-king-of-data-science-476f1e3191b3" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Stackademic`**
-
-<blockquote>5 Reasons Why Python is Losing Its Crown</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Forget ChatGPT & Claude: Here Are 6 (New & Free) AI Tools That Will Blow Your Mind - <a href="https://medium.com/swlh/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-c94dbf1af702" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Built by Fire, Forged by Iron: Africa’s Forgotten Role in the World’s Greatest Inventions - <a href="https://medium.com/@vusi_thembekwayo/built-by-fire-forged-by-iron-africas-forgotten-role-in-the-world-s-greatest-inventions-62d905703edd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Startup`**
+✍️ **posted by `Vusi Thembekwayo`**
 
-<blockquote>These aren’t just “cool”. They’re the kind of AI tools that give you an edge.</blockquote>
+<blockquote>Shift Happens: The Economy of Innovation</blockquote>
 
-<h3>2. Audiobooks vs. Podcasts - <a href="https://medium.com/@NirZicherman/audiobooks-vs-podcasts-4b7d1fc3cca4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Lost in Translation: Lessons from a Tokyo AI Assistance Encounter - <a href="https://medium.com/design-bootcamp/lost-in-translation-lessons-from-a-tokyo-ai-assistance-encounter-52e9e04e30cf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nir Zicherman`**
+✍️ **posted by `Bootcamp`**
 
-<blockquote>On the convergence of formats</blockquote>
+<blockquote>Shibuya Station, Tokyo — a crossroads of innovation and everyday life.</blockquote>
 
 <h3>3. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,31 +374,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. 2024 Black Friday and Cyber Monday Deals for Developers - <a href="https://medium.com/@tsecretdeveloper/2024-black-friday-and-cyber-monday-deals-for-developers-03a57775043d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Forget ChatGPT & Claude: Here Are 6 (New & Free) AI Tools That Will Blow Your Mind - <a href="https://medium.com/swlh/forget-chatgpt-claude-here-are-6-new-free-ai-tools-that-will-blow-your-mind-c94dbf1af702" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Secret Developer`**
+✍️ **posted by `The Startup`**
 
-<blockquote>The deals for Black Friday and Cyber Monday have started! That means we should open up our wallets and pay money for things we might (or…</blockquote>
+<blockquote>These aren’t just “cool”. They’re the kind of AI tools that give you an edge.</blockquote>
 
-<h3>5. How Can Self-Driving Cars Work Better? - <a href="https://medium.com/towards-data-science/how-can-self-driving-cars-work-better-b3b9ba035d38" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. We’re Dying. Here’s How to Make Better Decisions. - <a href="https://medium.com/westenberg/were-dying-here-s-how-to-make-better-decisions-b9af7a304876" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards Data Science`**
+✍️ **posted by `Westenberg`**
 
-<blockquote>The far-reaching implications of Waymo’s EMMA and other end-to-end driving systems</blockquote>
+<blockquote>The night my friend died, I spent 20 minutes debating whether to order takeout or just scavenge through my fridge for leftovers. I’d…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. same Christmas, different us - <a href="https://medium.com/@cherylkoo/same-christmas-different-us-615330888e15" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I am haunted by the ghost of someone who’s still alive - <a href="https://medium.com/@i043logs/i-am-haunted-by-the-ghost-of-someone-whos-still-alive-488de3e35d45" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `oceanburned 𓇼`**
 
-<blockquote>Here comes the end of year Christmas event as usual. Compared to last year, my introverted self is almost half less interested than I was…</blockquote>
+<blockquote>I buried you already, so why do you keep returning to haunt me?</blockquote>
 
-<h3>2. Marriage Isn’t a Spreadsheet: Balancing Love and Bank Accounts - <a href="https://medium.com/a-little-stoic-wisdom/marriage-isnt-a-spreadsheet-balancing-love-and-bank-accounts-c891acb38ab7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Student Who Tested My Limits - <a href="https://medium.com/the-life-of-a-mexican-high-school-teacher/the-student-who-tested-my-limits-5fb7d5e7f013" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pragmatic Wisdom`**
+✍️ **posted by `A Teacher’s Life`**
 
-<blockquote>What sharing means when money gets personal</blockquote>
+<blockquote>When lines are crossed, and roles get blurred</blockquote>
 
 <h3>3. My Nanny is a Sugar Baby - <a href="https://medium.com/lust-ing/my-nanny-is-a-sugar-baby-28d1d586ffc0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,25 +406,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>and I was shook at first, but then I understood.</blockquote>
 
-<h3>4. The Return Of Internet Use Stigma - <a href="https://medium.com/@ossiana.tepfenhart/the-return-of-internet-use-stigma-88a47851cc47" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I was eating meat pie outside when my brother's dog rushed out of the house. - <a href="https://medium.com/@George-Clinton/i-was-eating-meat-pie-outside-when-my-brothers-dog-rushed-out-of-the-house-d09344315755" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ossiana Tepfenhart`**
+✍️ **posted by `Drey`**
 
-<blockquote>“I’d never use online dating! Only creeps are there!”</blockquote>
+<blockquote>It came and sat close to my feet, looking at me with beggi-beggi eyes.</blockquote>
 
-<h3>5. An Investment Gamble Built My Future and Taught Me Regret - <a href="https://medium.com/the-narrative-arc/an-investment-gamble-built-my-future-and-taught-me-regret-81e91c16b9e1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Marriage Isn’t a Spreadsheet: Balancing Love and Bank Accounts - <a href="https://medium.com/a-little-stoic-wisdom/marriage-isnt-a-spreadsheet-balancing-love-and-bank-accounts-c891acb38ab7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Narrative Arc`**
+✍️ **posted by `Pragmatic Wisdom`**
 
-<blockquote>A single stock purchase provided life lessons about wealth, choices, and letting go</blockquote>
+<blockquote>What sharing means when money gets personal</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Year 3 in Mobile Development: Growth, Challenges, and Triumphs - <a href="https://medium.com/@KennethMathari/year-3-in-mobile-development-growth-challenges-and-triumphs-d893894d54a6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers - <a href="https://medium.com/itnext/top-5-problems-google-leaves-to-third-party-vendors-for-android-developers-3c11ddebb76b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kenneth Mathari`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>When I first sat down to write about my third year in mobile development, I hesitated. This year has been a whirlwind of challenges —…</blockquote>
+<blockquote>Critical Gaps in Android Development: Where Google Relies on Third-Party Solutions</blockquote>
 
 <h3>2. Clean Architecture Struggles to Scale in Mobile Development - <a href="https://medium.com/@elye-project/clean-architecture-struggles-to-scale-in-mobile-development-85971471ac7a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Enough Talk ! Numbers are here ! 🔥 Get detailed memory, CPU , app size and frame rate comparisons between Flutter and React Native</blockquote>
 
-<h3>4. Add Swipe to Dismiss to any View using SwiftUI - <a href="https://medium.com/@jpmtech/add-swipe-to-dismiss-to-any-view-using-swiftui-262fb53f8bf5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Learning a New Platform as a Mobile Developer: My Approach - <a href="https://medium.com/@shobhakartiwari/learning-a-new-platform-as-a-mobile-developer-my-approach-3078b02a5ab3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chase`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Adding drag gestures all over your code can get messy. In this article, we will go over an easy and clean way to add a swipe to dismiss…</blockquote>
+<blockquote>As mobile developers, there often comes a point where we need to step out of our comfort zone and learn a new platform — be it switching…</blockquote>
 
 <h3>5. Enable Composable Views Sharing Across Modules Without Dependency Constraint - <a href="https://medium.com/mobile-app-development-publication/enable-composable-views-sharing-across-modules-without-dependency-constraint-a7290257d987" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Kotlin 2.1.0 Released: A Major Update with Exciting Features - <a href="https://medium.com/@android-world/kotlin-2-1-0-released-a-major-update-with-exciting-features-2649bd734e21" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Solving WebView Lifecycle Crashes in Android: A Lifecycle-Aware Approach with Sealed Classes and… - <a href="https://medium.com/@drjansari/solving-webview-lifecycle-crashes-in-android-a-lifecycle-aware-approach-with-sealed-classes-and-d457db391461" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Android-World`**
+✍️ **posted by `Dipen Jansari`**
 
-<blockquote>Kotlin, the popular statically typed programming language, has just released its latest version, Kotlin 2.1.0. This highly anticipated…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Boredom sends me to Android & Windows, frustration brings me back to Apple - <a href="https://medium.com/macoclock/boredom-sends-me-to-android-windows-frustration-brings-me-back-to-apple-52e2be847328" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -464,17 +464,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>A look at the reasons for switching between Apple and other devices, and why I always end up back using Apple.</blockquote>
 
-<h3>3. Test smarter, not harder: new testing strategies documentation - <a href="https://medium.com/androiddevelopers/test-smarter-not-harder-new-testing-strategies-documentation-255973814ae3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Ultimate Guide to Writing Clean Jetpack Compose - <a href="https://medium.com/simform-engineering/the-ultimate-guide-to-writing-clean-jetpack-compose-254db92cb4df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Android Developers`**
+✍️ **posted by `Simform Engineering`**
 
-<blockquote>A significant update to our official documentation on testing strategies will help you create more robust apps across form factors.</blockquote>
+<blockquote>A Step-by-Step Approach to Crafting Elegant and Maintainable Compose</blockquote>
 
-<h3>4. Developing Android Widgets with Flutter - <a href="https://medium.com/@lucas.buchalla.sesti/developing-android-widgets-with-flutter-5ace7abad501" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. My Journey from Google’s Guide to App Architecture to Clean Architecture - <a href="https://medium.com/@motefa1/my-journey-from-googles-guide-to-app-architecture-to-clean-architecture-3d2ff606efd4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lucas Buchalla Sesti`**
+✍️ **posted by `Mohamed Atef`**
 
-<blockquote>Enhancing User Experience with Custom Home Screen Widgets</blockquote>
+<blockquote>As an Android engineer, what do you prefer for your app’s architecture: Google’s Guide to App Architecture or Clean Architecture?</blockquote>
 
 <h3>5. Compilers are better than humans - <a href="https://medium.com/@joostklitsie/compilers-are-better-than-humans-216e84e2dda4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,17 +484,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. SwiftUI “Back” Button Woes? Customize It! - <a href="https://medium.com/@avitsadok/swiftui-back-button-woes-customize-it-eccd38323957" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why ‘weak' is Slower than ‘strong'? - <a href="https://medium.com/@shobhakartiwari/why-weak-is-slower-than-strong-e6c805784ed8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Avi Tsadok`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Apple has done a tremendous job with SwiftUI. And still, customizing the back button is still an issue. Let’s deal with it together.</blockquote>
+<blockquote>Welcome to another interesting iOS topic WEAK vs STRONG!</blockquote>
 
-<h3>2. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Building a WatchOS Companion App for Flutter - <a href="https://medium.com/@Toglefritz/building-a-watchos-companion-app-for-flutter-08f80ea8cb1b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Scott Hatfield`**
 
-<blockquote>Benchmarks & Final Cut Pro 11 workout!</blockquote>
+<blockquote>Implementing a Reusable Communication Framework for Flutter and WatchOS</blockquote>
 
 <h3>3. 5 Insane iOS 18 Features You’re Not Using Right - <a href="https://medium.com/@evilgeek/5-insane-ios-18-features-youre-not-using-right-adf47b501300" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,17 +502,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Apple gives us; we take it for granted!</blockquote>
 
-<h3>4. Starting a New Life with Goddo AI: Generating AI Supermodels Without Interruptions - <a href="https://medium.com/@ezagor/starting-a-new-life-with-goddo-ai-generating-ai-supermodels-without-interruptions-79033c90584e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React Native + Unity 3D Tutorial - <a href="https://medium.com/@ibjects/react-native-unity-3d-tutorial-6ef230df81a8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ezagor`**
+✍️ **posted by `Chaudhry Talha 🇵🇸`**
 
-<blockquote>Learn How to Seamlessly Create Stunning AI Supermodels with Goddo AI</blockquote>
+<blockquote>Create a Unity 3D and react-native hybrid game-embedded mobile app</blockquote>
 
-<h3>5. Restarting My Dreams at 36: The Sixth Attempt at iOS App Development - <a href="https://medium.com/practice-in-public/restarting-my-dreams-at-36-the-sixth-attempt-at-ios-app-development-88403c27184c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The amazing M4 Pro Mac mini Stress Test - <a href="https://medium.com/macoclock/the-amazing-m4-pro-mac-mini-stress-test-44bfbdae631d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Practice in Public`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>From quitting five times to restarting again — why I’m determined to keep going.</blockquote>
+<blockquote>Benchmarks & Final Cut Pro 11 workout!</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Deploy Virtual Kubernetes Clusters on EKS, AKS, and GKE - <a href="https://medium.com/itnext/deploy-virtual-kubernetes-clusters-on-eks-aks-and-gke-215bc7a07f56" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I Need Kubernetes, and You Probably Need It Too! - <a href="https://medium.com/@rphilogene/i-need-kubernetes-and-you-probably-need-it-too-9e5937a4f412" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Romaric Philogène`**
 
-<blockquote>Step-by-Step Guide to Installing vCluster on Managed Kubernetes Services</blockquote>
+<blockquote>This article is a response to I Didn’t Need Kubernetes, and You Probably Don’t Either</blockquote>
 
 <h3>2. Twenty years of home lab - <a href="https://medium.com/@norlin.t/twenty-years-of-home-lab-b62cd838b511" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. Audit Logs in Kubernetes - <a href="https://medium.com/@thekubeguy/audit-logs-in-kubernetes-26eec1267acb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Guide to Creating Users in Kubernetes - <a href="https://medium.com/@ajmusgrove/guide-to-creating-users-in-the-local-kubernetes-cluster-494d862077ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The kube guy`**
+✍️ **posted by `Arthur Musgrove`**
 
-<blockquote>I’m back after a very long time….</blockquote>
+<blockquote>This guide is for Kubernetes creating and using users in their local Kubernetes cluster. This will allow testing access controls that…</blockquote>
 
 <h3>5. Ray Batch Inference at Pinterest (Part 3) - <a href="https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Announcing the Public Primex Keeper Client: Host and Earn Rewards - <a href="https://medium.com/primex-finance/announcing-the-public-primex-keeper-client-host-and-earn-rewards-94d3bab86310" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Docker for Beginners: Unlock the Power of Containerized Apps 🚀🐳 - <a href="https://medium.com/@pratikkumar399/docker-for-beginners-unlock-the-power-of-containerized-apps-7c55e45fabd9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `primex.finance`**
+✍️ **posted by `Jinchuruki`**
 
-<blockquote>In addition to Traders, Lenders, and Farmers, Keepers play a critical role in the Primex ecosystem. In fact, they ensure the protocol’s…</blockquote>
+<blockquote>A beginner’s guide to docker in leymann language</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Containerize Efficiently, Code Confidently</blockquote>
 
-<h3>4. Awesome Things You Can Do with Docker in Your Home Lab - <a href="https://medium.com/devops-dev/awesome-things-you-can-do-with-docker-in-your-home-lab-caa7505f3b4a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. AWS Lambda deployment of a Container Image - <a href="https://medium.com/@rangapv/aws-lambda-deployment-of-a-container-image-7ea1799da876" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevOps.dev`**
+✍️ **posted by `Rangaswamy P V`**
 
-<blockquote>Get the potential of your home lab with Docker — build, experiment, and innovate like never before.</blockquote>
+<blockquote>In this article you will learn how-to deploy a Python package as a container image in a AWS Lambda serverless platform</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
