@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/15)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/16)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -80,11 +80,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
 
-<h3>3. Advanced React Patterns and Best Practices - <a href="https://medium.com/@rashmipatil24/advanced-react-patterns-and-best-practices-74cd09a7c2d9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 7 ReactJs Projects to Become a Better Developer - <a href="https://medium.com/javascript-in-plain-english/7-reactjs-projects-to-become-a-better-developer-98ca544bdf84" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rashmi Patil`**
+✍️ **posted by `JavaScript in Plain English`**
 
-<blockquote>Patterns and Practices</blockquote>
+<blockquote>ReactJs is an Awesome Javascript library that makes building websites interactive and dynamic. It is useful for every developer, whenever…</blockquote>
 
 <h3>4. How to use Lottie Animation in a React App - <a href="https://medium.com/@prateek.kumar_04/how-to-use-lottie-animation-in-a-react-app-c572656d2eeb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,35 +164,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. The Ultimate Guide to JavaScript Promises for Developers - <a href="https://medium.com/@mostafizur99/the-ultimate-guide-to-javascript-promises-for-developers-cee668f6e3fd" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mostafizur Rahman`**
-
-<blockquote>Asynchronous programming is an essential part of JavaScript, enabling developers to handle tasks like fetching data from an API, reading…</blockquote>
-
-<h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ravi Sharma`**
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. 10 Weird Facts About JavaScript You’ve Never Heard Before - <a href="https://medium.com/@arnoldgunter/10-weird-facts-about-javascript-youve-never-heard-before-6ccb14628121" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 10 Weird Facts About JavaScript You’ve Never Heard Before - <a href="https://medium.com/@arnoldgunter/10-weird-facts-about-javascript-youve-never-heard-before-6ccb14628121" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Arnold Gunter`**
 
 <blockquote>Trust me —  even senior devs haven't</blockquote>
 
-<h3>4. The Versatility of JavaScript: A True Multipurpose Programming Language - <a href="https://medium.com/quality-rs45/the-versatility-of-javascript-a-true-multipurpose-programming-language-cc7f6b9dd684" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Little Known Parts of JavaScript — Scopes - <a href="https://medium.com/@vamsik23/little-known-parts-of-javascript-scopes-b98c527beb10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Quality RS45`**
+✍️ **posted by `vamsi`**
 
-<blockquote>Because of the variety of its usage, JavaScript can be }, classified as a multifunctional or a versatile language.</blockquote>
+<blockquote>Want to learn about scopes, and how variable declarations would effect the scope. Then you are at the right place. In this article we will…</blockquote>
 
-<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Daisy Kirui`**
 
 <blockquote>Hi. My name is Daisy, a software Engineer and I love JavaScript. It is a versatile language as there’s so much to do with it (in…</blockquote>
+
+<h3>5. The Role of JavaScript in Front-End Web Development - <a href="https://medium.com/@saifullahanwar00040/the-role-of-javascript-in-front-end-web-development-682833e5c0e6" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `SAIFULLAH ANWAR10141`**
+
+<blockquote>Interactive User Interfaces</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
@@ -324,35 +324,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Backend Trends for 2025: What Every Dev Should Watch (or Ignore) - <a href="https://medium.com/@all.technology.stories/backend-trends-for-2025-what-every-dev-should-watch-or-ignore-d68d81bc546e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 2024 Bestsellers Countdown: Number Ten - <a href="https://medium.com/pragmatic-programmers/2024-bestsellers-countdown-number-ten-3886d1cdfb8e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Maxime`**
+✍️ **posted by `The Pragmatic Programmers`**
 
-<blockquote>Big changes are coming — are you ready to adapt?</blockquote>
+<blockquote>Server-Driven Web Apps with htmx: Any Language, Less Code, Simpler Code by R. Mark Volkmann</blockquote>
 
-<h3>2. Quick Search of Hidden Photos With Optimization Approaches - <a href="https://medium.com/code-like-a-girl/quick-search-of-hidden-photos-with-optimization-approaches-57dcdbbc90be" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How a Programmer Looks for a Job - <a href="https://medium.com/javascript-in-plain-english/how-a-programmer-looks-for-a-job-08547fc082ce" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `JavaScript in Plain English`**
+
+<blockquote>I want to share my observations on how to find a new job faster.</blockquote>
+
+<h3>3. How I Became Unemployable as a Software Engineer & What I Learned - <a href="https://medium.com/career-programming/how-i-became-unemployable-as-a-software-engineer-what-i-learned-c58ad8d46b09" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Career Programming`**
+
+<blockquote>Being a developer is a creative, highly-paid profession that can even be fun, but it’s also still a job. Here’s what you need to know.</blockquote>
+
+<h3>4. This Question Took Me Ridiculously Long To Solve As A Python Beginner - <a href="https://medium.com/@zlliu/this-question-took-me-ridiculously-long-to-solve-as-a-python-beginner-1815bfd1bba9" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Liu Zuo Lin`**
+
+<blockquote>Read Free…</blockquote>
+
+<h3>5. Quick Search of Hidden Photos With Optimization Approaches - <a href="https://medium.com/code-like-a-girl/quick-search-of-hidden-photos-with-optimization-approaches-57dcdbbc90be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Code Like A Girl`**
 
 <blockquote>A dramatic performance improvement of my original photo search app.</blockquote>
-
-<h3>3. I Removed VS Code, and My Productivity Improved Tremendously - <a href="https://medium.com/code-like-a-girl/i-removed-vs-code-and-my-productivity-improved-tremendously-7d145a7ec1b4" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Code Like A Girl`**
-
-<blockquote>A Journey from Clunky to Efficient: How The New IDE Transformed My Workflow</blockquote>
-
-<h3>4. ChatGPT will now play Youtube videos in chats! - <a href="https://medium.com/@JimTheAIWhisperer/chatgpt-will-now-play-youtube-videos-in-chats-71536648bb5b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jim the AI Whisperer`**
-
-<blockquote>Watch and learn, with YouTube videos right in ChatGPT output</blockquote>
-
-<h3>5. A Memory for All Transformers: Sharing to Perform Better - <a href="https://medium.com/gitconnected/a-memory-for-all-transformers-sharing-to-perform-better-82f7f51a58c1" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Level Up Coding`**
-
-<blockquote>Unlocking Collective Intelligence: How Shared Memory Enhances Transformer Efficiency and Performance</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Trendyol Maestro Plugin - <a href="https://medium.com/trendyol-tech/trendyol-maestro-plugin-ef2771b377a9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - <a href="https://medium.com/@zubairbaloch813649/ever-tried-ever-failed-no-matter-try-again-fail-again-fail-better-94c183f1a3a5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Trendyol Tech`**
+✍️ **posted by `Zubair`**
 
-<blockquote>Let’s explore the Trendyol Maestro Plugin together, and dive into some in-depth examples.</blockquote>
+<blockquote>Great quote by Samuel Beckett! “Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.” Such a quote points out how…</blockquote>
 
 <h3>2. Crossplatform architecture for an app’s core. Simple. Linear. Scalable - <a href="https://medium.com/@genovich/crossplatform-architecture-for-an-apps-core-simple-linear-scalable-3373106d2a1d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Netflix, one of the largest streaming services in the world, powers millions of hours of streaming content every day. Its Android app plays…</blockquote>
 
-<h3>4. Top 5 Productivity Apps You Need to Try! - <a href="https://medium.com/@emilborbely/top-5-productivity-apps-you-need-to-try-a27a14f9d40f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I’ve Landing Android Dev Jobs Without a Degree Or Bootcamp By Creating My Own Lane! - <a href="https://medium.com/@cohen.n.raphael/ive-landing-android-dev-jobs-without-a-degree-or-bootcamp-by-creating-my-own-lane-c4adea689210" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Emil B`**
+✍️ **posted by `Rafa`**
 
-<blockquote>Hi everyone! Today I’m bringing you something really exciting: my personal list of the top 5 productivity apps that will make your life…</blockquote>
+<blockquote>My Journey to Success!</blockquote>
 
 <h3>5. Screenshot testing in Jetpack Compose - <a href="https://medium.com/proandroiddev/screenshot-testing-in-jetpack-compose-bbed440ea19a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. From Smart to Smarter: Elevating Apple IQ Even More - <a href="https://medium.com/@boberito/from-smart-to-smarter-elevating-apple-iq-even-more-c864cebb70c9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 5 Essential iOS 18 Shortcuts You Need for a Better Daily Workflow - <a href="https://medium.com/macoclock/5-essential-ios-18-shortcuts-you-need-for-a-better-daily-workflow-e7c2812e2254" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bob Gendler`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>The next bit of Apple Intelligence is now shipping we now have Image Wand, Image Playground, Genmoji, ChatGPT integration, and a little…</blockquote>
+<blockquote>Are You Still Manually Doing These Tasks? 😂</blockquote>
 
 <h3>2. Integrating Extensions into Large-Scale iOS apps - <a href="https://medium.com/lyft-engineering/integrating-extensions-into-large-scale-ios-apps-8f15dc5f3be9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +502,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Stop using your iPhone in Beginner Mode</blockquote>
 
-<h3>4. Developing iOS lock screen widgets with Flutter - <a href="https://medium.com/@lucas.buchalla.sesti/developing-ios-lock-screen-widgets-with-flutter-73adcb5500fe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. iOS to AI Engineer: Your Roadmap - <a href="https://medium.com/@shobhakartiwari/ios-to-ai-engineer-roadmap-00e5ed8c4084" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lucas Buchalla Sesti`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Interactive Widgets for lock screen on iOS: A Complete Guide with Flutter</blockquote>
+<blockquote>In recent years, Artificial Intelligence (AI) has emerged as one of the most sought-after fields, transforming industries and creating…</blockquote>
 
 <h3>5. How to Overcome a Sync Nightmare: A Developer’s Story - <a href="https://medium.com/code-like-a-girl/how-to-overcome-a-sync-nightmare-a-developers-story-3d0b26e64779" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Kubernetes v1.32 from Canonical - <a href="https://medium.com/itnext/kubernetes-v1-32-from-canonical-c3dfc872a452" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Seamless Cluster Creation & Management: Announcing Canonical Kubernetes Platform - <a href="https://medium.com/itnext/seamless-cluster-creation-management-announcing-canonical-kubernetes-platform-a6a03f345ca5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ITNEXT`**
 
-<blockquote>Kubernetes v1.32 went out some hours ago. This release marks an important milestone for Canonicals Kubernetes offering. It is the first…</blockquote>
+<blockquote>With the release of the shiny new 1.32 stable version, the Canonical Kubernetes Platform solidifies itself as a dependable solution for…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. How do I deploy my Laravel applications using Github Action? - <a href="https://medium.com/@achyutneupane/how-do-i-deploy-my-laravel-applications-using-github-action-ebb2c0a79e8f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Observability Series: A Step-by-Step Guide to Logs, Traces, and Metrics - <a href="https://medium.com/gitconnected/observability-series-a-step-by-step-guide-to-logs-traces-and-metrics-9860d7c46220" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Achyut Neupane`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Learn how to deploy your Laravel application using GitHub Actions to cPanel. This is a basic approach which anyone can copy-paste and run.</blockquote>
+<blockquote>The ability to comprehend and assess a system’s state using the data it produces is known as observability.</blockquote>
 
 <h3>5. Making GitHub Actions Workflows More Modular and Efficient: A Deep Dive into My Setup - <a href="https://medium.com/azure-terraformer/making-github-actions-workflows-more-modular-and-efficient-a-deep-dive-into-my-setup-cb390223cdbb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Kubernetes v1.32 from Canonical - <a href="https://medium.com/itnext/kubernetes-v1-32-from-canonical-c3dfc872a452" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Seamless Cluster Creation & Management: Announcing Canonical Kubernetes Platform - <a href="https://medium.com/itnext/seamless-cluster-creation-management-announcing-canonical-kubernetes-platform-a6a03f345ca5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ITNEXT`**
 
-<blockquote>Kubernetes v1.32 went out some hours ago. This release marks an important milestone for Canonicals Kubernetes offering. It is the first…</blockquote>
+<blockquote>With the release of the shiny new 1.32 stable version, the Canonical Kubernetes Platform solidifies itself as a dependable solution for…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. Django and Microservices Architecture: Deploying Microservices with Docker and Kubernetes [Part… - <a href="https://medium.com/@mathur.danduprolu/django-and-microservices-architecture-deploying-microservices-with-docker-and-kubernetes-part-aad1fb9710bc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Here is an article that provides the comprehensive problems associated with the life in the… - <a href="https://medium.com/@meozahid47/here-is-an-article-that-provides-the-comprehensive-problems-associated-with-the-life-in-the-7b9374e9d67b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mathur Danduprolu`**
+✍️ **posted by `Zahid Meo`**
 
-<blockquote>Welcome to Part 5 of the Django and Microservices Architecture series! In previous blogs, we covered foundational topics such as database…</blockquote>
+<blockquote>Village Life: Problems and Opportunities in Rural Societies</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
