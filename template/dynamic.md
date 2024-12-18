@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How I Reduced AWS Costs by 100x - <a href="https://medium.com/@whitetown/how-i-reduced-aws-costs-by-100x-at-cloomba-7fe4de3a559f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to use Supabase Auth in Next.js without middleware and load pages faster - <a href="https://medium.com/@jamesleeht/how-to-use-supabase-auth-in-next-js-without-extra-latency-and-make-pages-load-faster-33a045d15c78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `WhiteTown`**
+✍️ **posted by `jamesleeht`**
 
-<blockquote>Success story</blockquote>
+<blockquote>Prevent unnecessary calls to the Supabase auth server when using Next.js server components</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Not a member? Read for free here!</blockquote>
 
-<h3>4. Why We Transitioned: A Comparison of Next.js vs Astro - <a href="https://medium.com/@stankovicd.mina/why-we-transitioned-a-comparison-of-next-js-vs-astro-ab8fcc839484" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Next.js Hydration Errors Caused by Google Chrome Extensions - <a href="https://medium.com/javascript-in-plain-english/next-js-hydration-errors-caused-by-google-chrome-extensions-2a426ae529d3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mina Stankovic`**
+✍️ **posted by `JavaScript in Plain English`**
 
-<blockquote>In this article, we’ll explore the key reasons behind two significant transitions in our project: moving from Next.js to Astro for…</blockquote>
+<blockquote>Next.js is hydration errors, particularly when these errors are triggered by Google Chrome extensions.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -64,11 +64,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
-<h3>1. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top UI/UX Design Trends to Watch in 2025 - <a href="https://medium.com/@design-studio/top-ui-ux-design-trends-to-watch-in-2025-75d46042cb07" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rakshagarambha`**
+✍️ **posted by `Design Studio`**
 
-<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
+<blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
 <h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -76,23 +76,23 @@
 
 <blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
 
-<h3>3. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Rakshagarambha`**
+
+<blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
+
+<h3>4. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Shailesh Chauhan`**
 
 <blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
 
-<h3>4. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. 7 UX/UI Design Trends in 2024: Innovations in User Experience - <a href="https://medium.com/ux-planet/7-ux-ui-design-trends-in-2023-innovations-in-user-experience-236e7b104f05" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `UX Planet`**
 
 <blockquote>Picture the world of UI and UX design as an ever-evolving ecosystem. In this ecosystem, new trends emerge at a rapid pace and users’…</blockquote>
-
-<h3>5. 5 Must-Know UI/UX Design Trends to Skyrocket Conversions in 2023 - <a href="https://medium.com/design-bootcamp/5-must-know-ui-ux-design-trends-to-skyrocket-conversions-in-2023-3ad170752a26" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Bootcamp`**
-
-<blockquote>Introduction</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
@@ -294,11 +294,11 @@
 
 <blockquote>After months of development, OpenEX is dropping a game-changing Web3 product this 🎄 Christmas!</blockquote>
 
-<h3>2. Do LLMs Really Understand Math? No. - <a href="https://medium.com/gitconnected/do-llms-really-understand-maths-no-dbd46cf464fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Fueling Our Economy with Hydrogen - <a href="https://medium.com/@avi-loeb/fueling-our-economy-with-hydrogen-70b6cf7ad2f3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Avi Loeb`**
 
-<blockquote>A deep dive into the latest research showing that current leading AI models are not capable of understanding and solving maths.</blockquote>
+<blockquote>Hydrogen is the most abundant element in the cosmos. The reason is simple. Its nucleus was already made a second after the Big Bang, when…</blockquote>
 
 <h3>3. How I Became Unemployable as a Software Engineer & What I Learned - <a href="https://medium.com/career-programming/how-i-became-unemployable-as-a-software-engineer-what-i-learned-c58ad8d46b09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -312,25 +312,25 @@
 
 <blockquote>AI commercialization is a game of musical chairs and the music has stopped. For now.</blockquote>
 
-<h3>5. The Rise and (Overstated) Fall of Radio. A Statistical Analysis - <a href="https://medium.com/fan-fare/the-rise-and-overstated-fall-of-radio-a-statistical-analysis-93963ba5e70c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How a Beatles #1 Hit Only Sold 1,000 Copies: The Beatles vs America - <a href="https://medium.com/rock-nheavy/how-a-beatles-1-hit-only-sold-1-000-copies-the-beatles-vs-america-f9337837eec4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fanfare`**
+✍️ **posted by `Rock n’ Heavy`**
 
-<blockquote>Examining radio’s rapid adoption and surprising cultural endurance.</blockquote>
+<blockquote>In 1963, the Beatles sold fewer than 5,000 records in America until JFK’s assassination made them a symbol of hope.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Middle-Aged Man Chose Suicide Over Non-Stop Demands From His 18-Year-Old Bank Robber Wife - <a href="https://medium.com/@historianandrew/middle-aged-man-chose-suicide-over-non-stop-demands-from-his-18-year-old-bank-robber-wife-21504d7d2182" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. when words hurt, courage heals. - <a href="https://medium.com/@telastory/when-words-hurt-courage-heals-485d9c34aa34" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrew Martin`**
+✍️ **posted by `tel ୨ৎ`**
 
-<blockquote>A hapless man with a much younger wife ended up taking his own life after her nonstop requests wouldn’t stop even when she was behind bars</blockquote>
+<blockquote>the flower of courage—iris</blockquote>
 
-<h3>2. We Went to Couples Counseling After 40 Years of Marriage - <a href="https://medium.com/fourth-wave/we-went-to-couples-counseling-after-40-years-of-marriage-0c69835e557a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why We Can Be Scared To Heal Our Trauma - <a href="https://medium.com/invisible-illness/why-we-can-be-scared-to-heal-our-trauma-6a7c1db2c13b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fourth Wave`**
+✍️ **posted by `Invisible Illness`**
 
-<blockquote>Here’s what I learned on the couch</blockquote>
+<blockquote>5 fears that keep us “stuck” in our pain.</blockquote>
 
 <h3>3. Making “Social” Social Again - <a href="https://medium.com/@ev/making-social-social-again-0126fa5c6ce8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,25 +338,25 @@
 
 <blockquote>Announcing Mozi</blockquote>
 
-<h3>4. i want you to remember me as the girl who got away - <a href="https://medium.com/@cherylkoo/i-want-you-to-remember-me-as-the-girl-who-got-away-e9053e040884" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How Do I Say I Miss You in a Way That Makes Your Heart Ache as Mine Does? - <a href="https://medium.com/@saikikeshi/how-do-i-say-i-miss-you-in-a-way-that-makes-your-heart-ache-as-mine-does-ec827e865814" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `life in letters`**
 
-<blockquote>Sometime in the far future, when you’re feeling particularly nolstagic and wish to replay your younger years in your head, I want you to…</blockquote>
+<blockquote>A Heart Full of Love, and the Echoes of Loss</blockquote>
 
-<h3>5. Building Bridges Across Political Divides — A Family’s Journey to Understanding - <a href="https://medium.com/age-of-empathy/building-bridges-across-political-divides-a-familys-journey-to-understanding-cbe3e74fe0ed" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why You Should Talk to People You Disagree With on Politics - <a href="https://medium.com/wise-well/why-you-should-talk-to-people-you-disagree-with-on-politics-7c90a546780f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Age of Empathy`**
+✍️ **posted by `Wise & Well`**
 
-<blockquote>We tackled tough topics and found hope.</blockquote>
+<blockquote>You may not change minds, but you (and they) are likely to feel better, and you just might learn something</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. How to use Ticker in Flutter? - <a href="https://medium.com/@ibrahimbode41/how-to-use-ticker-in-flutter-802609df949b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My 6 Favourite Updates in Flutter 3.27 - <a href="https://medium.com/@debasmitasarkar.93/my-6-favourite-updates-in-flutter-3-27-892d8f0c943e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ibrahim Bode`**
+✍️ **posted by `Debasmita Sarkar`**
 
-<blockquote>Hi, my name is Ibrahim. Today, I will discuss the Ticker class in Flutter and how we can implement it.</blockquote>
+<blockquote>Flutter 3.27 has dropped with a slew of cool improvements! Here are my top 6 favourites, along with examples and tips.</blockquote>
 
 <h3>2. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -370,11 +370,11 @@
 
 <blockquote>Understand the Strengths of Retrofit and Ktor to Choose the Best Networking Solution for Your Android Projects</blockquote>
 
-<h3>4. SwiftUI Animation: Creating an Interactive Button with TimelineView - <a href="https://medium.com/@sviatoslav.kliuchev/swiftui-animation-creating-an-interactive-button-with-timelineview-bd12812c72e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. My Journey as a Mobile Application Developer - <a href="https://medium.com/@panduka-wedisinghe/my-journey-as-a-mobile-application-developer-2e11fe937005" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sviatoslav`**
+✍️ **posted by `Panduka Wedisinghe`**
 
-<blockquote>Hi there! Since I started working on a side project in SwiftUI, I’ve been sharing my journey and the things I do every day while working on…</blockquote>
+<blockquote>In 2016, I embarked on a remarkable journey into mobile application development, starting as a junior Android developer. Since then, I’ve…</blockquote>
 
 <h3>5. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -418,11 +418,11 @@ Lower Latency: Enhanced support…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. 5 Essential iOS 18 Shortcuts You Need for a Better Daily Workflow - <a href="https://medium.com/macoclock/5-essential-ios-18-shortcuts-you-need-for-a-better-daily-workflow-e7c2812e2254" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mach IPC Security on macOS - <a href="https://medium.com/@karol-mazurek/mach-ipc-security-on-macos-63ee350cb59b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Karol Mazurek`**
 
-<blockquote>Are You Still Manually Doing These Tasks? 😂</blockquote>
+<blockquote>Introduction to Mach IPC and System Services security</blockquote>
 
 <h3>2. Integrating Extensions into Large-Scale iOS apps - <a href="https://medium.com/lyft-engineering/integrating-extensions-into-large-scale-ios-apps-8f15dc5f3be9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -430,17 +430,17 @@ Lower Latency: Enhanced support…</blockquote>
 
 <blockquote>Written by Artur Stepaniuk and Max Husar</blockquote>
 
-<h3>3. 12 iOS 18 Settings You Should Change Right NOW for a Superior Experience - <a href="https://medium.com/macoclock/12-ios-18-settings-you-should-change-right-now-for-a-superior-experience-1994d847fcce" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. iOS 18.2 Released — 25+ Amazing New Features You NEED To Try Now! - <a href="https://medium.com/macoclock/ios-18-2-released-25-amazing-new-features-you-need-to-try-now-edd799bf22d5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mac O’Clock`**
 
-<blockquote>Stop using your iPhone in Beginner Mode</blockquote>
+<blockquote>Generate AI images & emojis “offline” with Apple Intelligence!</blockquote>
 
-<h3>4. iOS to AI Engineer: Your Roadmap - <a href="https://medium.com/@shobhakartiwari/ios-to-ai-engineer-roadmap-00e5ed8c4084" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploy Flutter iOS App to Apple TestFlight Using GitHub Actions and Command Line - <a href="https://medium.com/@calvin.qut/deploy-flutter-ios-app-to-apple-testflight-using-github-actions-and-command-line-1824dbe754e3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shobhakar Tiwari`**
+✍️ **posted by `Calvin Ren`**
 
-<blockquote>In recent years, Artificial Intelligence (AI) has emerged as one of the most sought-after fields, transforming industries and creating…</blockquote>
+<blockquote>In this guide, I will walk you through the process of setting up a build environment to deploy a Flutter iOS application to Apple…</blockquote>
 
 <h3>5. How to Overcome a Sync Nightmare: A Developer’s Story - <a href="https://medium.com/code-like-a-girl/how-to-overcome-a-sync-nightmare-a-developers-story-3d0b26e64779" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -450,11 +450,11 @@ Lower Latency: Enhanced support…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Seamless Cluster Creation & Management: Announcing Canonical Kubernetes Platform - <a href="https://medium.com/itnext/seamless-cluster-creation-management-announcing-canonical-kubernetes-platform-a6a03f345ca5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Foundation of Modern DataOps with Databricks - <a href="https://medium.com/dbsql-sme-engineering/the-foundation-of-modern-dataops-with-databricks-68e36f5d72e8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `DBSQL SME Engineering`**
 
-<blockquote>With the release of the shiny new 1.32 stable version, the Canonical Kubernetes Platform solidifies itself as a dependable solution for…</blockquote>
+<blockquote>The Secret to Unlocking Databricks’ Full Potential</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -468,11 +468,11 @@ Lower Latency: Enhanced support…</blockquote>
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. The Foundation of Modern DataOps with Databricks - <a href="https://medium.com/dbsql-sme-engineering/the-foundation-of-modern-dataops-with-databricks-68e36f5d72e8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Seamless Cluster Creation & Management: Announcing Canonical Kubernetes Platform - <a href="https://medium.com/itnext/seamless-cluster-creation-management-announcing-canonical-kubernetes-platform-a6a03f345ca5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DBSQL SME Engineering`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>The Secret to Unlocking Databricks’ Full Potential</blockquote>
+<blockquote>With the release of the shiny new 1.32 stable version, the Canonical Kubernetes Platform solidifies itself as a dependable solution for…</blockquote>
 
 <h3>5. Making GitHub Actions Workflows More Modular and Efficient: A Deep Dive into My Setup - <a href="https://medium.com/azure-terraformer/making-github-actions-workflows-more-modular-and-efficient-a-deep-dive-into-my-setup-cb390223cdbb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -482,11 +482,11 @@ Lower Latency: Enhanced support…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Seamless Cluster Creation & Management: Announcing Canonical Kubernetes Platform - <a href="https://medium.com/itnext/seamless-cluster-creation-management-announcing-canonical-kubernetes-platform-a6a03f345ca5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Migrate your applications to Kubernetes using Istio - <a href="https://medium.com/@galloro.giovanni/migrate-your-applications-to-kubernetes-using-istio-7c36592add7e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Giovanni Galloro`**
 
-<blockquote>With the release of the shiny new 1.32 stable version, the Canonical Kubernetes Platform solidifies itself as a dependable solution for…</blockquote>
+<blockquote>How Istio can help you to migrate your applications to Kubernetes</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -500,11 +500,11 @@ Lower Latency: Enhanced support…</blockquote>
 
 <blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
 
-<h3>4. Here is an article that provides the comprehensive problems associated with the life in the… - <a href="https://medium.com/@meozahid47/here-is-an-article-that-provides-the-comprehensive-problems-associated-with-the-life-in-the-7b9374e9d67b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. AWS Well-Architected EKS (Kubernetes) Cluster - <a href="https://medium.com/mycloudseries/aws-well-architected-eks-kubernetes-cluster-92220c084fdf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Zahid Meo`**
+✍️ **posted by `MyCloudSeries`**
 
-<blockquote>Village Life: Problems and Opportunities in Rural Societies</blockquote>
+<blockquote>Well Architected Framework for Kubernetes Workload</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
