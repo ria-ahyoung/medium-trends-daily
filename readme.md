@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/25)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/26)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,12 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Introduction to the Series
-Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@haricharan30082005/introduction-to-the-series-welcome-to-day-1-of-the-30-day-react-js-7156c64d072c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Essence Of React - <a href="https://medium.com/@jatin121dhiman/the-essence-of-react-6d63d5920677" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hari`**
+✍️ **posted by `Jatin Dhiman`**
 
-<blockquote>Whether you’re a seasoned developer or just starting, this series is structured to suit learners at every level. Each day, we’ll focus on…</blockquote>
+<blockquote>React is a powerful JavaScript library for building user interfaces. While modern React applications often use tools like webpack or Vite…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -87,11 +86,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Like many developers, I assumed its sole purpose was performance…</blockquote>
 
-<h3>4. Unlocking the Power of Advanced React Patterns - <a href="https://medium.com/@clicktogain/unlocking-the-power-of-advanced-react-patterns-517d64bb9778" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. TheDevelopment Roadmap: Front end - <a href="https://medium.com/@Acer249/thedevelopment-roadmap-front-end-297e64cd1d06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Click To Gain`**
+✍️ **posted by `Acer`**
 
-<blockquote>React.js has become a cornerstone of modern web development, known for its simplicity and flexibility. While mastering the basics can take…</blockquote>
+<blockquote>Web development</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -151,11 +150,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
-<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Guide to Empathy Mapping in UX/UI - <a href="https://medium.com/@kumarisakshi9595/a-guide-to-empathy-mapping-in-ux-ui-7eeae0570ebe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Consagoustech`**
+✍️ **posted by `Kumarisakshi`**
 
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+<blockquote>In the field of UX/UI design, empathy mapping is a powerful tool that allows designers to better understand and connect with their users…</blockquote>
 
 <h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -165,11 +164,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Java Developer - <a href="https://medium.com/@nirmalkumar_86247/java-developer-4acc7c0733e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. JSX: The Syntax That Changed React Development Forever - <a href="https://medium.com/@shubhampatil02/jsx-the-syntax-that-changed-react-development-forever-58d9e4fa922c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nirmal Kumar`**
+✍️ **posted by `Shubham Sanjaykumar patil`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>What is JSX?</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -183,15 +182,15 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Trust me —  even senior devs haven't</blockquote>
 
-<h3>4. Essential Tips for Mastering JavaScript - <a href="https://medium.com/@rohitsri670/essential-tips-for-mastering-javascript-2ec81f751347" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Call, Bind and Apply : Pollyfills and How it works - <a href="https://medium.com/@sahtushar30/call-bind-and-apply-pollyfills-and-how-it-works-82f778c9f906" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rohit Sri`**
+✍️ **posted by `Tushar Sah`**
 
-<blockquote>10 Tips to Master JavaScript and Enhance Your Web Development Skills</blockquote>
+<blockquote>Understanding call, apply, and bind in JavaScript</blockquote>
 
-<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisykirui/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Daisy Kirui`**
+✍️ **posted by `Daisy Jelagat`**
 
 <blockquote>Hi. My name is Daisy, a software Engineer and I love JavaScript. It is a versatile language as there’s so much to do with it (in…</blockquote>
 
@@ -229,11 +228,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Why I Built 21no.de’s Realtime Pub/Sub - <a href="https://medium.com/@kyberneees/my-vision-for-real-time-communication-why-i-built-21no-des-df50c15f0150" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Cursor based pagination - <a href="https://medium.com/@pranavks1309/cursor-based-pagination-42d5dfc67a75" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rolando Santamaría Masó`**
+✍️ **posted by `Pranav K S`**
 
-<blockquote>Realtime Pub/Sub revolutionizes real-time app development powered by WebSockets. Built by developers, for developers.</blockquote>
+<blockquote>Before we begin with the cursor based pagination ,</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -247,11 +246,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Express.js has been the backbone of Node.js web development for years, but are you truly harnessing its full potential? Most developers…</blockquote>
 
-<h3>4. Web3 DevOps project PART 1: Writing Dockerfiles - <a href="https://medium.com/@davidkraslan/web3-devops-project-part-1-writing-dockerfiles-81d81727581c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Node.js : Day 9 - <a href="https://medium.com/@rahul319sinha/node-js-day-9-0f6417b40838" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Kraslan`**
+✍️ **posted by `Rahul Kumar`**
 
-<blockquote>Why do we need the Dockerfiles? In our case we want to run the application, smart contract and other services in managed Kubernetes cluster…</blockquote>
+<blockquote>Middleware, Types of middleware, Middleware Ordering and Chaining of middleware</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -389,23 +388,23 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. 2024 Year In Review - <a href="https://medium.com/@wilwen/2024-year-in-review-776f5cfc6697" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My Friend Thought I Shouldn't Get Married - <a href="https://medium.com/@annietrevaskis/my-friend-thought-i-shouldnt-get-married-effede09a8f9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `William Wen`**
+✍️ **posted by `Annie Trevaskis`**
 
-<blockquote>Allyson is usually the one who writes our family’s year in review with Christmas cards. As she is no longer with us, it’s up to me this…</blockquote>
+<blockquote>This is what happened next</blockquote>
 
-<h3>2. Unpacking Conflict Avoidance in Your Relationship - <a href="https://medium.com/invisible-illness/unpacking-conflict-avoidance-in-your-relationship-67b0c09e3547" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Does He Like Me — Or My Dog? - <a href="https://medium.com/@robin_wilding/does-he-like-me-or-my-dog-b57df623fbe0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Invisible Illness`**
+✍️ **posted by `Robin Wilding 💎`**
 
-<blockquote>How childhood trauma can lead to a fear of conflict.</blockquote>
+<blockquote>It’s a dog-park crush, but on who?</blockquote>
 
-<h3>3. Making “Social” Social Again - <a href="https://medium.com/@ev/making-social-social-again-0126fa5c6ce8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. How Men Quickly Conclude a Woman is Only Good for ‘Fun’ and not ‘Forever’ - <a href="https://medium.com/write-a-catalyst/how-men-quickly-conclude-a-woman-is-only-good-for-fun-and-not-forever-c59b95d1196b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ev Williams`**
+✍️ **posted by `Write A Catalyst`**
 
-<blockquote>Announcing Mozi</blockquote>
+<blockquote>This is Brutal but Very True</blockquote>
 
 <h3>4. The 9 Sexiest Things Men Wear According To Women - <a href="https://medium.com/@Theacademyofmen/the-9-sexiest-things-men-wear-according-to-women-3e5ca06eda1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -413,19 +412,19 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Putting these on will have women asking you to take them off</blockquote>
 
-<h3>5. ‘Marguerite’, the Moving Quest for the Sublime - <a href="https://medium.com/counterarts/movie-marguerite-quest-sublime-812c6edbc304" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Let 2025 Be the End of Get Rich Quick Scams & Influencer Shill “Content” - <a href="https://medium.com/@felsull/let-2025-be-the-end-of-get-rich-quick-scams-influencer-shill-content-cf26263a744d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Counter Arts`**
+✍️ **posted by `Felicia C. Sullivan`**
 
-<blockquote>“Because we all need illusions to live, Marguerite is like us.”</blockquote>
+<blockquote>Let’s create a community. Let’s create work that means something.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Jetpack compose — One Line trick for your ‘LazyColumn’ - <a href="https://medium.com/proandroiddev/jetpack-compose-one-line-trick-for-your-lazycolumn-9da58fde7d9a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Rendering Markdown with Code Syntax Highlighting in Compose/Android - <a href="https://medium.com/@equipintelligence/rendering-markdown-with-code-syntax-highlighting-in-compose-android-f8cda0647c87" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Shubham Panchal`**
 
-<blockquote>Make sure you are using this in your Jetpack Compose ‘LazyColumn’</blockquote>
+<blockquote>Mini Tutorial: Using Markwon to create a Markdown rendering app</blockquote>
 
 <h3>2. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,11 +438,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Flutter 3.27 has dropped with a slew of cool improvements! Here are my top 6 favourites, along with examples and tips.</blockquote>
 
-<h3>4. Swift’s Triple Self: self, Self, and Self.self - <a href="https://medium.com/@shobhakartiwari/swifts-triple-self-self-self-and-self-self-99970389aaf8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Flutter. Make stunning glassmorphic designs with glossy - <a href="https://medium.com/easy-flutter/flutter-make-stunning-glassmorphic-designs-with-glossy-ad1fb11e24b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shobhakar Tiwari`**
+✍️ **posted by `Easy Flutter`**
 
-<blockquote>One that often confuses newcomers is the difference between Self (with a capital S) and self (with a lowercase s). Let's break it down in…</blockquote>
+<blockquote>Universal formula of good design</blockquote>
 
 <h3>5. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -453,11 +452,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Jetpack compose — One Line trick for your ‘LazyColumn’ - <a href="https://medium.com/proandroiddev/jetpack-compose-one-line-trick-for-your-lazycolumn-9da58fde7d9a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How I Made a Game Engine Using MVI in Kotlin - <a href="https://medium.com/proandroiddev/how-i-made-a-game-engine-using-mvi-in-kotlin-4472d758ad05" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Make sure you are using this in your Jetpack Compose ‘LazyColumn’</blockquote>
+<blockquote>In this article Nikita’ll tell you a story about how he created a multiplatform game engine using MVI in Kotlin</blockquote>
 
 <h3>2. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -465,23 +464,23 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Building apps for iOS and Android is fun. Although I have written software for numerous platforms over the past decades, building apps for…</blockquote>
 
-<h3>3. How I Made a Game Engine Using MVI in Kotlin - <a href="https://medium.com/proandroiddev/how-i-made-a-game-engine-using-mvi-in-kotlin-4472d758ad05" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Android version history - <a href="https://medium.com/@mythilikaruna2020/android-version-history-b8aa3aa4430d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Vijay`**
 
-<blockquote>In this article Nikita’ll tell you a story about how he created a multiplatform game engine using MVI in Kotlin</blockquote>
+<blockquote>Part -3</blockquote>
 
-<h3>4. Range Rover: Luxury SUVs With Unmatched Elegance - <a href="https://medium.com/@Mrlazy/range-rover-luxury-suvs-with-unmatched-elegance-cedd9354b32a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mrlazy`**
-
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
-
-<h3>5. Crossplatform architecture for an app’s core. Simple. Linear. Scalable - <a href="https://medium.com/@genovich/crossplatform-architecture-for-an-apps-core-simple-linear-scalable-3373106d2a1d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Crossplatform architecture for an app’s core. Simple. Linear. Scalable - <a href="https://medium.com/@genovich/crossplatform-architecture-for-an-apps-core-simple-linear-scalable-3373106d2a1d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Vladimir Genovich`**
 
 <blockquote>This is just the beginning</blockquote>
+
+<h3>5. Instagram: Your Complete Guide to Social Media Success - <a href="https://medium.com/@Mrlazy/instagram-your-complete-guide-to-social-media-success-5cea95ecdeec" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mrlazy`**
+
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
@@ -517,17 +516,17 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering Kubernetes Networking: Types, Setup, and Best Practices - <a href="https://medium.com/@ali_hamza/mastering-kubernetes-networking-types-setup-and-best-practices-4274ed2cba94" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ali Hamza`**
+
+<blockquote>Unlock the full potential of Kubernetes with a deep dive into networking types, setup strategies, and expert best practices.</blockquote>
+
+<h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `InfoSec Write-ups`**
 
 <blockquote>Ineffable Cryptography: The science behind a new era of cybersecurity</blockquote>
-
-<h3>2. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Product Coalition`**
-
-<blockquote>Curious about life as a SaaS founder? Killian’s story shows it’s about more than just servers and coding.</blockquote>
 
 <h3>3. How I Am Using a Lifetime 100% Free Server - <a href="https://medium.com/@harendra21/how-i-am-using-a-lifetime-100-free-server-bd241e3a347a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -535,17 +534,17 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. Bash Crash Course: Script Building 101 (Part B) - <a href="https://medium.com/devops-dev/bash-crash-course-script-building-101-part-b-aad785152d0d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Identifying AWS Cost-Saving Opportunities in stopped ec2 instances - <a href="https://medium.com/@ppriyanjith/identifying-aws-cost-saving-opportunities-in-stopped-ec2-instances-c66f0ced4718" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevOps.dev`**
+✍️ **posted by `Padma Priyanjith`**
 
-<blockquote>In case you want to save the output of a command instead of displaying it on the screen, there exist several operators to redirect a…</blockquote>
+<blockquote>I was very much interested on cost saving side of AWS as I have seen most of the time most of the companies were wasting 30% of their money…</blockquote>
 
-<h3>5. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jake Page`**
+✍️ **posted by `Product Coalition`**
 
-<blockquote>Anyone who’s ever had to research and source technical B2B tooling is well-used to deciphering the pricing sections of products websites…</blockquote>
+<blockquote>Curious about life as a SaaS founder? Killian’s story shows it’s about more than just servers and coding.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
@@ -581,11 +580,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Devops : - <a href="https://medium.com/@saimsc1999/devops-b2db6f661a29" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Docker / What is Docker? - <a href="https://medium.com/@vigneshbsc222/docker-what-is-docker-61c5b55a8d14" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Writer Sai`**
+✍️ **posted by `Vignesh Narayanan`**
 
-<blockquote>Devops</blockquote>
+<blockquote>What is docker</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -599,11 +598,11 @@ Welcome to Day 1 of the 30-Day React.js - <a href="https://medium.com/@harichara
 
 <blockquote>Docker is the most revolutionary tech when it comes to containerization. Mainly because it’s fast and ensures that the app runs flawlessly…</blockquote>
 
-<h3>4. Web3 DevOps project PART 1: Writing Dockerfiles - <a href="https://medium.com/@davidkraslan/web3-devops-project-part-1-writing-dockerfiles-81d81727581c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Help people Who is helpless? - <a href="https://medium.com/@Manoj_7355/how-to-help-people-who-is-helpless-3f963401cb9c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Kraslan`**
+✍️ **posted by `Manoj Mahto`**
 
-<blockquote>Why do we need the Dockerfiles? In our case we want to run the application, smart contract and other services in managed Kubernetes cluster…</blockquote>
+<blockquote>Helping the helpless involves providing them with support, resources, and understanding in ways that respect their dignity and empower…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
