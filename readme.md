@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/29)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2024/12/30)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Handling Multi-Level Lists in Markdown Using NextJS or NuxtJS - <a href="https://medium.com/@azzamjiul/handling-multi-level-lists-in-markdown-using-nextjs-or-nuxtjs-f559ac3342c0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to add the Forbidden page in NextJS 15? - <a href="https://medium.com/@menaiala/how-to-add-the-forbidden-page-in-nextjs-15-573b1f2e3498" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Azzam Jihad Ulhaq`**
+✍️ **posted by `Ala Eddine Menai`**
 
-<blockquote>Learn how to create your own markdown parser in JavaScript that handles multi-level lists without relying on third-party libraries…</blockquote>
+<blockquote>A new experimental feature in NextJS 15.1.0.</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. “Mastering JavaScript Promises: Simplifying Asynchronous Programming” - <a href="https://medium.com/@kanaksingh2218/mastering-javascript-promises-simplifying-asynchronous-programming-9334ddbed717" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 11 Hidden JavaScript Tricks Every Developer Should Know 💡 - <a href="https://medium.com/@clicktogain/11-hidden-javascript-tricks-every-developer-should-know-fd4f3d854b60" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kanaksingh`**
+✍️ **posted by `Click To Gain`**
 
-<blockquote>Understanding JavaScript Promises:</blockquote>
+<blockquote>Hello, developers! JavaScript is a vast and versatile language, and while many of us use its core features daily, there are several hidden…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Read it here for free</blockquote>
 
-<h3>4. The Most Difficult JavaScript Interview Question #3 - <a href="https://medium.com/@vitaliykorzenkoua/the-most-difficult-javascript-interview-question-3-00c6ba552b28" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Closures in JavaScript: A Friendly Guide - <a href="https://medium.com/@shanmugarajak92/understanding-closures-in-javascript-a-friendly-guide-6fe1aef27210" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vitaliy Korzhenko`**
+✍️ **posted by `Shanmugaraja K`**
 
-<blockquote>Can You Solve This?</blockquote>
+<blockquote>Hey there, JavaScript enthusiast! Today, I want to chat with you about something that might sound intimidating at first but is actually…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -292,11 +292,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Building a Flutter Payslip Viewer with In-App WebView and Sharing Options - <a href="https://medium.com/@codewithraj/building-a-flutter-payslip-viewer-with-in-app-webview-and-sharing-options-e5f8283a6dfa" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Modern WebView Alternative: AndroidX Browser for Jetpack Compose - <a href="https://medium.com/@mubaraknative/a-modern-webview-alternative-androidx-browser-for-jetpack-compose-0e99f84cf28a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Raj Jani`**
+✍️ **posted by `Mubarak Native`**
 
-<blockquote>Hey there, Flutter enthusiasts! Have you ever wanted to integrate a feature-rich WebView into your app that lets users seamlessly view and…</blockquote>
+<blockquote>Welcome back! In this article, we are going to learn what is androidx.browser library, and how it is the best way to display web content in…</blockquote>
 
 <h3>2. Everything about WebView in Flutter - <a href="https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -304,11 +304,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Webviews is an important part of mobile applications as it lets us access the website in our application itself rather than taking us to a…</blockquote>
 
-<h3>3. A Modern WebView Alternative: AndroidX Browser for Jetpack Compose - <a href="https://medium.com/@mubaraknative/a-modern-webview-alternative-androidx-browser-for-jetpack-compose-0e99f84cf28a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Solving WebView Lifecycle Crashes in Android: A Lifecycle-Aware Approach with Sealed Classes and… - <a href="https://medium.com/@drjansari/solving-webview-lifecycle-crashes-in-android-a-lifecycle-aware-approach-with-sealed-classes-and-d457db391461" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mubarak Native`**
+✍️ **posted by `Dipen Jansari`**
 
-<blockquote>Welcome back! In this article, we are going to learn what is androidx.browser library, and how it is the best way to display web content in…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>4. Debugging IOS Webviews on Safari browser - <a href="https://medium.com/@atifqamar29/debugging-ios-webviews-on-safari-browser-822def097497" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -316,25 +316,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Please refer to my blog below for Two-way communication between the iOS Webview App with WKWebView and the React App</blockquote>
 
-<h3>5. Solving WebView Lifecycle Crashes in Android: A Lifecycle-Aware Approach with Sealed Classes and… - <a href="https://medium.com/@drjansari/solving-webview-lifecycle-crashes-in-android-a-lifecycle-aware-approach-with-sealed-classes-and-d457db391461" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Data Exchange with WebViews in React Native: A Practical Guide - <a href="https://medium.com/stackademic/data-exchange-with-webviews-in-react-native-a-practical-guide-3658d79421c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dipen Jansari`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>In this tutorial, you’ll learn how to seamlessly integrate webviews into your React Native applications. We’ll explore techniques for…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. The POJO class and the Java Bean class - <a href="https://medium.com/@pawanphanieswar/the-pojo-class-and-the-java-bean-class-0d586212a86f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Using the Page Object Model design pattern in Angular applications - <a href="https://medium.com/@borzifrancesco/using-the-page-object-model-design-pattern-in-angular-applications-62c2fa42afb1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Perla Pawan Phanieswar`**
+✍️ **posted by `Francesco Borzì`**
 
-<blockquote>In this blog, you will know everything about POJO class and Java BEAN class, with examples and rules along with their differences.</blockquote>
+<blockquote>Clean Code, Clean Tests</blockquote>
 
-<h3>2. No One Codes Alone: Redefining Collaboration in STEM’s Future - <a href="https://medium.com/stem-parenting/no-one-codes-alone-redefining-collaboration-in-stems-future-663a41ecd772" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Overstaffing Is the Fastest Way to Sink Your Software Project - <a href="https://medium.com/@rico-fritzsche/overstaffing-is-the-fastest-way-to-sink-your-software-project-d2d9c0545c36" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `STEM Parenting`**
+✍️ **posted by `Rico Fritzsche`**
 
-<blockquote>How my path as a software engineer and a parent revealed the power of teamwork — and why STEM needs it now</blockquote>
+<blockquote>Why More Developers Won’t Save You — Unleash Domain Expertise, Cloud Mastery, and AI-Powered Code for Real Results</blockquote>
 
 <h3>3. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/@austin-starks/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -342,17 +342,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
 
-<h3>4. India vs Australia Boxing Day Test: A Thrilling Encounter at the MCG with Controversy and Mourning - <a href="https://medium.com/@LazyVibes/india-vs-australia-boxing-day-test-a-thrilling-encounter-at-the-mcg-with-controversy-and-mourning-c59533dc3e59" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Luffy in Pokemon - <a href="https://medium.com/@mfayazahamed2000/luffy-in-pokemon-30911e5206f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lazy Vibes`**
+✍️ **posted by `Luffy`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Part 5</blockquote>
 
-<h3>5. Visualizing The Monty Hall Problem - <a href="https://medium.com/science-spectrum/visualizing-the-monty-hall-problem-77b8a443fd91" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. When My Toddler Debugged My Day Life Lessons from My Little Ones - <a href="https://medium.com/the-live-love-laugh-pub/when-my-toddler-debugged-my-day-life-lessons-from-my-little-ones-cce453c1cb8b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Science Spectrum`**
+✍️ **posted by `The Live. Love. Laugh. Pub`**
 
-<blockquote>A clear diagram to help you understand this counter-intuitive solution</blockquote>
+<blockquote>A humorous take on how parenting feels like programming — full of bugs, endless loops, and delightful moments of unexpected brilliance.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -388,11 +388,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Luffy in Pokemon - <a href="https://medium.com/@mfayazahamed2000/luffy-in-pokemon-30911e5206f2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Wow…She is Rich and Beautiful, and She Wants to Marry Me?!?! - <a href="https://medium.com/never-stop-writing/wow-she-is-rich-and-beautiful-and-she-wants-to-marry-me-69f028fc86e1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Luffy`**
+✍️ **posted by `Never Stop Writing`**
 
-<blockquote>Part 5</blockquote>
+<blockquote>It’s my lucky day! It’s my lucky day!</blockquote>
 
 <h3>2. The World Leaves Us Wanting - <a href="https://medium.com/written-with-love/the-world-leaves-us-wanting-31bfd10cac9c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -400,31 +400,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>That’s how they sell you something</blockquote>
 
-<h3>3. First 14 Things A Woman Notices About A Man | What Attracts Women To Men - <a href="https://medium.com/@OG_Anaya_/first-14-things-a-woman-notices-about-a-man-what-attracts-women-to-men-5445af83f7d8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The 9 Sexiest Things Men Wear According To Women - <a href="https://medium.com/@Theacademyofmen/the-9-sexiest-things-men-wear-according-to-women-3e5ca06eda1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `𝑫𝒓. 𝑨𝒏𝒂𝒚𝒂 ❥`**
+✍️ **posted by `The Academy Of Men | Data Driven Dating`**
 
-<blockquote>- Psychology Thread -</blockquote>
+<blockquote>Putting these on will have women asking you to take them off</blockquote>
 
-<h3>4. The Truth About Grief — What I Learned from Childhood Loss - <a href="https://medium.com/middle-pause/the-truth-about-grief-what-i-learned-from-childhood-loss-e2a07928b608" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Luffy and pokemon - <a href="https://medium.com/@mfayazahamed2000/luffy-and-pokemon-f14dca2ee1d1" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Luffy`**
+
+<blockquote>Part 8</blockquote>
+
+<h3>5. The Truth About Grief — What I Learned from Childhood Loss - <a href="https://medium.com/middle-pause/the-truth-about-grief-what-i-learned-from-childhood-loss-e2a07928b608" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Middle-Pause`**
 
 <blockquote>A beautiful rebirth — Transforming pain into strength and relationship healing</blockquote>
 
-<h3>5. The 9 Sexiest Things Men Wear According To Women - <a href="https://medium.com/@Theacademyofmen/the-9-sexiest-things-men-wear-according-to-women-3e5ca06eda1c" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `The Academy Of Men | Metaphors For Love`**
-
-<blockquote>Putting these on will have women asking you to take them off</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Unit Testing a Login Page — No Code, No Design - <a href="https://medium.com/@shobhakartiwari/unit-testing-a-login-page-no-code-no-design-7000994fc8fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Roadmap for Flutter Development and Its Advantages - <a href="https://medium.com/@polo5494/roadmap-for-flutter-development-and-its-advantages-c483b9ab8e9a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shobhakar Tiwari`**
+✍️ **posted by `Polo`**
 
-<blockquote>In iOS interviews, some questions just hit differently. Like this one:</blockquote>
+<blockquote>Your guide to mastering Flutter and building powerful apps with ease.</blockquote>
 
 <h3>2. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Flutter 3.27 has dropped with a slew of cool improvements! Here are my top 6 favourites, along with examples and tips.</blockquote>
 
-<h3>4. Server - <a href="https://medium.com/@msmungg/server-2a7a3656bbfe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Flutter. Make stunning glassmorphic designs with glossy - <a href="https://medium.com/easy-flutter/flutter-make-stunning-glassmorphic-designs-with-glossy-ad1fb11e24b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MsMung`**
+✍️ **posted by `Easy Flutter`**
 
-<blockquote>A server is a computer that stores, processes, and shares data with other computers (called clients) over a network. It’s like the brain of…</blockquote>
+<blockquote>Universal formula of good design</blockquote>
 
 <h3>5. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Kubernetes Security Implementation Guide - <a href="https://medium.com/@rasvihostings/kubernetes-security-implementation-guide-d853bc6a86f2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Streamline Your Kubernetes Context Management with Kube Context Suite - <a href="https://medium.com/@ratibor78/streamline-your-kubernetes-context-management-with-kube-context-suite-842398193ed7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohamed Rasvi`**
+✍️ **posted by `Alexey Nizhegolenko`**
 
-<blockquote>Comprehensive guide covering Kubernetes security implementations</blockquote>
+<blockquote>Managing multiple Kubernetes clusters is a daily reality for many DevOps engineers and platform teams. Switching between different contexts…</blockquote>
 
 <h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
-<h3>4. Analytics has revolutionized the way businesses make decisions having a profound impact on various… - <a href="https://medium.com/@ashababbas8/analytics-has-revolutionized-the-way-businesses-make-decisions-having-a-profound-impact-on-various-d704ac5d106f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Linux: The Operating System that Powers the World - <a href="https://medium.com/@saimsc1999/linux-the-operating-system-that-powers-the-world-45f71bc24ad2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abbas 🦋`**
+✍️ **posted by `Writer Sai`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Linux</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. The Inevitable Future of Kubernetes: Why the Orchestrator Should Follow the Path of the Linux… - <a href="https://medium.com/aenix-io/the-inevitable-future-of-kubernetes-why-the-orchestrator-should-follow-the-path-of-the-linux-367f49916712" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Deploying Your AKS Cluster with Terraform: Key Points for a Successful Production Rollout - <a href="https://medium.com/@usingsystem/deploying-your-aks-cluster-with-terraform-key-points-for-a-successful-production-rollout-e92f1238906f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ænix`**
+✍️ **posted by `using System;`**
 
-<blockquote>At KubeCon + CloudNativeCon in Chicago on November 9, Tim Hockin, one of the early developers of Kubernetes, delivered a talk (here’s a…</blockquote>
+<blockquote>Azure Kubernetes Service (AKS) is Microsoft Azure’s fully managed Kubernetes offering. It simplifies many operational complexities around…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -560,23 +560,23 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Anyone who’s ever had to research and source technical B2B tooling is well-used to deciphering the pricing sections of products websites…</blockquote>
 
-<h3>3. I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever - <a href="https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Stackademic`**
-
-<blockquote>Why Letting Go of Kubernetes Worked for Us</blockquote>
-
-<h3>4. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `ITNEXT`**
-
-<blockquote>Spanning clusters in hybrid environments: a pipe dream?</blockquote>
-
-<h3>5. The Unidirectionality of Infrastructure as Code creates Asymmetry - <a href="https://medium.com/itnext/the-unidirectionality-of-infrastructure-as-code-creates-asymmetry-40c9f5eed959" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Unidirectionality of Infrastructure as Code creates Asymmetry - <a href="https://medium.com/itnext/the-unidirectionality-of-infrastructure-as-code-creates-asymmetry-40c9f5eed959" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ITNEXT`**
 
 <blockquote>The combination of unidirectionality and exclusive actuation of Infrastructure as Code create an asymmetric user experience.</blockquote>
+
+<h3>4. Setting Up Minikube on Windows - <a href="https://medium.com/@oyebisijemil_41110/setting-up-minikube-on-windows-23f89531298b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Jemil Oyebisi`**
+
+<blockquote>To run Kubernetes, you can either set it up locally (which can be complex and time-consuming) or use cloud providers (which can be…</blockquote>
+
+<h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `ITNEXT`**
+
+<blockquote>Spanning clusters in hybrid environments: a pipe dream?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
