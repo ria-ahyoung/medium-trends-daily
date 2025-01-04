@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/03)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/04)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -80,17 +80,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>How to Make Your Colleagues Fall in Love with Your React Applications.</blockquote>
 
-<h3>3. Why Netflix Shifted from React to Vanilla JavaScript - <a href="https://medium.com/@lbq999/why-netflix-shifted-from-react-to-vanilla-javascript-be5a479ca14e" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Boqiang & Henry`**
-
-<blockquote>Optimizing Performance with a Strategic Blend of Technologies</blockquote>
-
-<h3>4. Why we use @bean In Springboot - <a href="https://medium.com/devops-dev/why-we-use-bean-in-springboot-4141e2a175d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Why we use @bean In Springboot - <a href="https://medium.com/devops-dev/why-we-use-bean-in-springboot-4141e2a175d3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `DevOps.dev`**
 
 <blockquote>q</blockquote>
+
+<h3>4. Enhancing State Management with Custom MobX Decorators - <a href="https://medium.com/@amans199/enhancing-state-management-with-custom-mobx-decorators-a2cb1c78acaf" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ahmed Mansour`**
+
+<blockquote>When I first started using MobX, I was immediately captivated by how it simplified state management in my projects. But recently, I got to…</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -208,11 +208,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. 10 Bad TypeScript Habits To Break In 2024 - <a href="https://medium.com/gitconnected/10-bad-typescript-habits-to-break-in-2024-4301c67f2ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>TypeScript and JavaScript have continuously progressed over the last years, and some of the practices we built over the last decades have…</blockquote>
+<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
 
 <h3>4. Node.js Full TypeScript Support: What You Need to Know - <a href="https://medium.com/@emaddehnavi/node-js-full-typescript-support-what-you-need-to-know-3c90ffb6520c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -220,19 +220,19 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>As of Node.js v23.5.0, there is built-in lightweight support, you can use the built-in support for type stripping, and for full typescript…</blockquote>
 
-<h3>5. Why should I bother writing in TypeScript when I could stick to JavaScript? - <a href="https://medium.com/gitconnected/why-should-i-bother-writing-in-typescript-when-i-could-stick-to-javascript-2701cec7417a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>Before diving into TypeScript, it’s essential to first understand JavaScript — the foundation upon which TypeScript is built. Without…</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. NPM Packages: What They Are, Where They Came From, and When to Use Them - <a href="https://medium.com/@landonwjohnson/npm-packages-what-they-are-where-they-came-from-and-when-to-use-them-7304c411c1c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Best Way to Get Job Opportunities as a Fresher Web Developer in 2025 - <a href="https://medium.com/@kodewithkamran/best-way-to-get-job-opportunities-as-a-fresher-web-developer-in-2025-ef10731d2806" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Landon Johnson`**
+✍️ **posted by `Kamran shaikh`**
 
-<blockquote>If you’ve worked with JavaScript, you’re probably familiar with NPM packages — reusable code components that make development easier and…</blockquote>
+<blockquote>Breaking into the web development field as a fresher can be exciting but challenging. The market is saturated with talented developers…</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. Setting Up a Node.js Job Queue with Redis and Bull - <a href="https://medium.com/@adetifaboluwatife/setting-up-a-node-js-job-queue-with-redis-and-bull-4f4d64d56a9f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Node.js Advanced Patterns: Adaptive Rate Limiter - <a href="https://medium.com/@v-checha/node-js-advanced-patterns-adaptive-rate-limiter-aa8221177162" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Adetifa Boluwatife`**
+✍️ **posted by `V. Checha`**
 
-<blockquote>Prerequisites</blockquote>
+<blockquote>Rate limiting is crucial for protecting APIs and services from overload. While static rate limiters are common, adaptive rate limiting…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,13 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Serverless Architecture: A Game-Changer for Modern Web Development - <a href="https://medium.com/digital-minds/serverless-architecture-a-game-changer-for-modern-web-development-a089ad7751dc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. MongoDB: A Deep Dive into the NoSQL Giant
+MongoDB, a leading NoSQL database, has revolutionized how… - <a href="https://medium.com/@saitanoojogirala/mongodb-a-deep-dive-into-the-nosql-giant-mongodb-a-leading-nosql-database-has-revolutionized-how-e82d5a573d23" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Digital Minds`**
+✍️ **posted by `SAI TANOOJ OGIRALA`**
 
-<blockquote>Build faster, scale effortlessly, and stop babysitting servers — welcome to serverless architecture.</blockquote>
+<blockquote>* Security: Robust security features, including authentication, authorization, and encryption, to protect your data.
+Use Cases of MongoDB…</blockquote>
 
 <h3>2. Showing Off My Servers - <a href="https://medium.com/chifi-media/showing-off-my-servers-bb3eb0884302" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +280,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Work from home - <a href="https://medium.com/@prakashd18/work-from-home-55a9563b874b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Virat Kohli: An Inspiring Sheer Excellence in the World of Cricket - <a href="https://medium.com/@devdatkumar84/virat-kohli-an-inspiring-sheer-excellence-in-the-world-of-cricket-498d5af9bb5c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `PRAKASH D`**
+✍️ **posted by `Devdat Kumar`**
 
-<blockquote>Work from home jobs</blockquote>
+<blockquote>Kohli is hailed by numerous analysts as the best ODI and Test batsman; some have classified him as the greatest batsman, regardless of the…</blockquote>
 
 <h3>5. Quick Search of Hidden Photos With Optimization Approaches - <a href="https://medium.com/code-like-a-girl/quick-search-of-hidden-photos-with-optimization-approaches-57dcdbbc90be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -324,17 +326,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Social media earnings apps - <a href="https://medium.com/unique-publication/social-media-earnings-apps-3d56b54ffb49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `unique publication`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Social media earning</blockquote>
+<blockquote>My top tips for being a great Software Architect and making the best decisions for your teams and projects.</blockquote>
 
-<h3>2. Comparing consistent vs. rendezvous hashing for hashing server data - <a href="https://medium.com/my-games-company/comparing-consistent-vs-rendezvous-hashing-for-hashing-server-data-9e90dfe51740" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Building Projects With Chrome’s On-device AI - <a href="https://medium.com/gitconnected/building-projects-with-chromes-on-device-ai-4b66a5ec7fc1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MY.GAMES`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>In this post, we discuss the differences between consistent and rendezvous hashing with illustrated examples.</blockquote>
+<blockquote>Using the experimental prompt API on Chrome to build prototypes with AI features</blockquote>
 
 <h3>3. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -342,31 +344,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
 
-<h3>4. Founders, failsafes and swimming against the tide with Butian Li - <a href="https://medium.com/@blessnetwork/building-the-shared-computer-001-b5ae60001934" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Learn Data Science in 6 weeks - <a href="https://medium.com/write-a-catalyst/learn-data-science-in-6-weeks-14a74adfcfb4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bless`**
+✍️ **posted by `Write A Catalyst`**
 
-<blockquote>Co-founder interview with Bless Network CEO</blockquote>
+<blockquote>In this article, I have shared complete 6 weeks learning schedule to learn data science focused on key tools and techniques: Python…</blockquote>
 
-<h3>5. 5 Simple Ways To Reduce Memory Usage In Julia - <a href="https://medium.com/chifi-media/5-simple-ways-to-reduce-memory-usage-in-julia-19bccea6d21b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Python Radio 31: There Goes Your Money! - <a href="https://medium.com/radio-hackers/python-radio-31-there-goes-your-money-caca6e527e7e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `chifi`**
+✍️ **posted by `Radio Hackers`**
 
-<blockquote>Taking a look at a package that helps to mitigate Julia’s Achilles’ heal.</blockquote>
+<blockquote>Using Python to see how contactless transactions work.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Social media earnings apps - <a href="https://medium.com/unique-publication/social-media-earnings-apps-3d56b54ffb49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. AI In 2025: Time For Your Company To Love It Or Leave It - <a href="https://medium.com/entrepreneur-s-handbook/ai-in-2025-time-for-your-company-to-love-it-or-leave-it-5f742327f968" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `unique publication`**
+✍️ **posted by `Entrepreneurship Handbook`**
 
-<blockquote>Social media earning</blockquote>
+<blockquote>Here are four ways to adopt AI or bypass it altogether</blockquote>
 
-<h3>2. Predictions 2025: Big Tech Takes the Reins - <a href="https://medium.com/@johnbattelle/predictions-2025-big-tech-takes-the-reins-9bad710ebf13" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Building Projects With Chrome’s On-device AI - <a href="https://medium.com/gitconnected/building-projects-with-chromes-on-device-ai-4b66a5ec7fc1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `John Battelle`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>This isn’t going to be a normal year.</blockquote>
+<blockquote>Using the experimental prompt API on Chrome to build prototypes with AI features</blockquote>
 
 <h3>3. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,31 +376,31 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
 
-<h3>4. Founders, failsafes and swimming against the tide with Butian Li - <a href="https://medium.com/@blessnetwork/building-the-shared-computer-001-b5ae60001934" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 2024 Innovation Trend Recap: A Deployment Year for Multimodal AI and Mixed Reality - <a href="https://medium.com/ipg-media-lab/2024-innovation-trend-recap-a-deployment-year-for-multimodal-ai-and-mixed-reality-9748901fcee2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bless`**
+✍️ **posted by `IPG Media Lab`**
 
-<blockquote>Co-founder interview with Bless Network CEO</blockquote>
+<blockquote>Plus, major behavioral and landscape shifts in search, streaming, and social media</blockquote>
 
-<h3>5. Comparing consistent vs. rendezvous hashing for hashing server data - <a href="https://medium.com/my-games-company/comparing-consistent-vs-rendezvous-hashing-for-hashing-server-data-9e90dfe51740" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Trump Fiddles While Musk Burns Down MAGA - <a href="https://medium.com/@carlynbeccia/trump-fiddles-while-musk-burns-down-maga-6183696f73ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MY.GAMES`**
+✍️ **posted by `Carlyn Beccia`**
 
-<blockquote>In this post, we discuss the differences between consistent and rendezvous hashing with illustrated examples.</blockquote>
+<blockquote>Musk unleashes his anger on MAGA Republicans and vows "war."</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Social media earnings apps - <a href="https://medium.com/unique-publication/social-media-earnings-apps-3d56b54ffb49" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Someone Different - <a href="https://medium.com/@thekidultwriter/someone-different-4ce8e237e71a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `unique publication`**
+✍️ **posted by `thekidultwriter`**
 
-<blockquote>Social media earning</blockquote>
+<blockquote>He was something. He was different.</blockquote>
 
-<h3>2. All I Wanted For Christmas Was To Be Accepted as My Bisexual Self - <a href="https://medium.com/prismnpen/all-i-wanted-for-christmas-was-to-be-accepted-as-my-bisexual-self-51ce2911a194" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Art of Parenting with Your Partner - <a href="https://medium.com/the-parenting-portal/the-art-of-parenting-with-your-partner-7cca39cd6600" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prism & Pen`**
+✍️ **posted by `The Parenting Portal`**
 
-<blockquote>But that was too much to ask of my homophobic parents</blockquote>
+<blockquote>From nagging to paying compliments, and finding sweet moments to savor — a glimpse at the rollercoaster of being new parents.</blockquote>
 
 <h3>3. The 9 Sexiest Things Men Wear According To Women - <a href="https://medium.com/@Theacademyofmen/the-9-sexiest-things-men-wear-according-to-women-3e5ca06eda1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,49 +408,49 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Putting these on will have women asking you to take them off</blockquote>
 
-<h3>4. you did well - <a href="https://medium.com/@fyoaeuriz/you-did-well-4493249e1cb2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I Know I’m Not What You Wanted, But Was I For a While? - <a href="https://medium.com/@saikikeshi/i-know-im-not-what-you-wanted-but-was-i-for-a-while-1a8e3b0b1278" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `life in letters`**
 
-<blockquote>chapter closed</blockquote>
+<blockquote>Finding Yourself in the Shadows of Someone’s Past</blockquote>
 
-<h3>5. My Walk-In Closet Paints an Ugly Picture of Overconsumption - <a href="https://medium.com/written-with-love/my-walk-in-closet-paints-an-ugly-picture-of-overconsumption-d517976576ed" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. All I Wanted For Christmas Was To Be Accepted as My Bisexual Self - <a href="https://medium.com/prismnpen/all-i-wanted-for-christmas-was-to-be-accepted-as-my-bisexual-self-51ce2911a194" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `With Love`**
+✍️ **posted by `Prism & Pen`**
 
-<blockquote>How to begin a slow spend year</blockquote>
+<blockquote>But that was too much to ask of my homophobic parents</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Kotlin Properties vs. Java Fields - <a href="https://medium.com/proandroiddev/kotlin-properties-vs-java-fields-e5c426fa87de" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `ProAndroidDev`**
-
-<blockquote>Simplifying Data Handling and Encapsulation in Kotlin</blockquote>
-
-<h3>2. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Pairs Engineering`**
 
 <blockquote>I’m John Estropia from Eureka’s Mobile Platforms team. This article is posted as the 7th entry for the 2024 Pairs Engineering Advent…</blockquote>
 
-<h3>3. Jetpack compose — One Line trick for your ‘LazyColumn’ - <a href="https://medium.com/proandroiddev/jetpack-compose-one-line-trick-for-your-lazycolumn-9da58fde7d9a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. MVVM: Officially Recommended by Google for Flutter Development - <a href="https://medium.com/@ksufi7350/mvvm-officially-recommended-by-google-for-flutter-development-ba17f899d320" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Muhammad Sufiyan`**
 
-<blockquote>Make sure you are using this in your Jetpack Compose ‘LazyColumn’</blockquote>
+<blockquote>In a significant move, Google has officially recommended the MVVM (Model-View-ViewModel) architecture for Flutter app development. This…</blockquote>
 
-<h3>4. Flutter Generic Dropdown - <a href="https://medium.com/@melihcan129/flutter-generic-dropdown-a0f582103fe0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. What does I mean in iPhone, even millions of people using Apple may not know the truth - <a href="https://medium.com/@kishorthanki87/what-does-i-mean-in-iphone-even-millions-of-people-using-apple-may-not-know-the-truth-ea5c810c866f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Melihcan`**
+✍️ **posted by `Kishor Thanki`**
 
-<blockquote>I developed a reusable, flexible dropdown component for Flutter projects. With this generic structure, adapting dropdowns for various data…</blockquote>
+<blockquote>What does I mean in iPhone</blockquote>
 
-<h3>5. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Google Cloud - Community`**
 
 <blockquote>You’ve just landed in a new city, hotel booked, bags dropped, and ready to explore. But where to go first? That trendy coffee shop…</blockquote>
+
+<h3>5. Kotlin Properties vs. Java Fields - <a href="https://medium.com/proandroiddev/kotlin-properties-vs-java-fields-e5c426fa87de" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `ProAndroidDev`**
+
+<blockquote>Simplifying Data Handling and Encapsulation in Kotlin</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
@@ -484,11 +486,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Compose Multiplatform: A ready-made Template for your next App - <a href="https://medium.com/@davidguerrerod/compose-multiplatform-a-ready-made-template-for-your-next-app-7c76cb746041" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. iPhone Air: Reality Confirmed, Thickness and Price Unveiled | Vertical Bar Media - <a href="https://medium.com/vertical-bar-media/iphone-air-reality-confirmed-thickness-and-price-unveiled-vertical-bar-media-ccccb9a8f1ec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Guerrero`**
+✍️ **posted by `Vertical Bar Media`**
 
-<blockquote>Setting up a Compose Multiplatform project can be time-consuming and sometimes a non-trivial task, especially when ensuring all components…</blockquote>
+<blockquote>Speculation doesn’t always pan out, but we were certain this one was real.</blockquote>
 
 <h3>2. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +504,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>As I mentioned in the Write Swift Like Apple article, this part will cover additional Apple code conventions that I have observed…</blockquote>
 
-<h3>4. Smart watch - <a href="https://medium.com/@vanumusrinivas/smart-watch-b4c3921ea5b3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Here is a detailed piece on the role and significance of the President of India: - <a href="https://medium.com/@ramniwaskudiya23/here-is-a-detailed-piece-on-the-role-and-significance-of-the-president-of-india-72bea3ad05a7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `VANUMU SRINIVAS`**
+✍️ **posted by `Ramniwas Kudiya`**
 
-<blockquote>Smartwatch</blockquote>
+<blockquote>---</blockquote>
 
 <h3>5. Integrating Extensions into Large-Scale iOS apps - <a href="https://medium.com/lyft-engineering/integrating-extensions-into-large-scale-ios-apps-8f15dc5f3be9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +518,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Lake Palace ( Udaipur ) - <a href="https://medium.com/@OmprakashRLP/lake-palace-udaipur-a690d6cb22a9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Getting Started with CI/CD: An Introductory Guide to GitHub Actions for New Developers - <a href="https://medium.com/@shivambhadani_/getting-started-with-ci-cd-an-introductory-guide-to-github-actions-for-new-developers-f216d87f4dab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Omprakash Beniwal`**
+✍️ **posted by `Shivam Bhadani`**
 
-<blockquote>Lake Palace Udaipur Very nice view</blockquote>
+<blockquote>One shot blog that covers everything about CI/CD</blockquote>
 
 <h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +536,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
 
-<h3>4. THE MIDNIGHT ENCOUNTER PART 2 - <a href="https://medium.com/@B_benedict1/the-midnight-encounter-part-2-c6ebf320ae45" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Tutorial : Part-1 : Basics - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-1-basics-258ae7cdf334" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Peter Obi First son`**
+✍️ **posted by `Priya Srivastava`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Kuberenetes is mostly referred as K8s , where 8 represent the 8 characters that come between K and s .</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +550,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Vendor Lock-in vs Self-Made Chaos: Stop Over-Engineering Your Container Strategy - <a href="https://medium.com/@DevOpsTrenches/vendor-lock-in-vs-self-made-chaos-stop-over-engineering-your-container-strategy-286d780789f8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kubernetes Tutorial : Part-1 : Basics - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-1-basics-258ae7cdf334" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jotham Arinze`**
+✍️ **posted by `Priya Srivastava`**
 
-<blockquote>Disclaimer: While this story is fictional, it’s based on very real late-night debugging sessions, actual production incidents, and…</blockquote>
+<blockquote>Kuberenetes is mostly referred as K8s , where 8 represent the 8 characters that come between K and s .</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -560,17 +562,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Anyone who’s ever had to research and source technical B2B tooling is well-used to deciphering the pricing sections of products websites…</blockquote>
 
-<h3>3. How using Availability Zones can eat up your budget — our journey from Prometheus to… - <a href="https://medium.com/prezi-engineering/how-using-availability-zones-can-eat-up-your-budget-our-journey-from-prometheus-to-be8a816f7efe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The 12 Anti-factors of Infrastructure as Code - <a href="https://medium.com/itnext/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prezi Engineering`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Intro</blockquote>
+<blockquote>I discuss twelve “anti-factors” that make Infrastructure as Code suboptimal. This recaps my IaC posts from 2024.</blockquote>
 
-<h3>4. How I Spend My Free Time - <a href="https://medium.com/@Annu_Rathore__/how-i-spend-my-free-time-734e268b18b0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Life will gift you the kinds of lessons that grow you and build you - <a href="https://medium.com/@Annu_Rathore__/life-will-gift-you-the-kinds-of-lessons-that-grow-you-and-build-you-4e2eceb6068c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Martin Rathore`**
 
-<blockquote>Free Time</blockquote>
+<blockquote>Trust</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
