@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/04)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/05)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Constructing a Changing Dashboard Using React, Vite, and Reusable Elements - <a href="https://medium.com/@BatmanBabai/constructing-a-changing-dashboard-using-react-vite-and-reusable-elements-3c7a722217bd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Remove Duplicate Items from an Array in JavaScript. - <a href="https://medium.com/@prince.14.mishra/how-to-remove-duplicate-items-from-an-array-in-javascript-13ab29ef2765" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `BatmanBabai`**
+✍️ **posted by `Prince kumar Mishra`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>When working with JavaScript, dealing with duplicate items in an array is a common problem. Whether you’re cleaning up user input…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,13 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>q</blockquote>
 
-<h3>4. Enhancing State Management with Custom MobX Decorators - <a href="https://medium.com/@amans199/enhancing-state-management-with-custom-mobx-decorators-a2cb1c78acaf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Complete Guide to React.js: From Basic to Advanced Questions and Concepts - <a href="https://medium.com/@omkartalekar1112/complete-guide-to-react-js-from-basic-to-advanced-questions-and-concepts-560d3d01c718" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmed Mansour`**
+✍️ **posted by `Omkar Talekar`**
 
-<blockquote>When I first started using MobX, I was immediately captivated by how it simplified state management in my projects. But recently, I got to…</blockquote>
+<blockquote>🟥 What is React.js :
+ 
+⦿ React.js is an open-source JavaScript library developed by Meta (formerly Facebook) for building user interfaces…</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -100,11 +102,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. KT3 — Part II (Init Dashboard) - <a href="https://medium.com/@arturocuicas/kt3-part-ii-init-dashboard-0fb659dd4ba5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React Server Components Without Frameworks - <a href="https://medium.com/itnext/react-server-components-without-frameworks-7c61c1ce0561" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arturo Cuicas`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>It’s time to bring color to this project and start materializing some of the concepts discussed in the previous post. We’re going to…</blockquote>
+<blockquote>Do you know how React Server Components work? I doubt that unless you are part of the React team, who was working on creating it. This…</blockquote>
 
 <h3>2. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +120,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Vercel’s Costing Sucks: How to Deploy Your Next.js App on Hostinger VPS | Guide - <a href="https://medium.com/@sandydev/vercels-costing-sucks-how-to-deploy-your-next-js-app-on-hostinger-vps-guide-4b72513d9bbe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Implementing Multi-Modal LLM Agent Architecture with LangChain and Next.js - <a href="https://medium.com/@natashagluons/implementing-multi-modal-llm-agent-architecture-with-langchain-and-next-js-75f0ae1d663a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sandeep Singh (Full Stack Dev.)`**
+✍️ **posted by `Natasha Gluons`**
 
-<blockquote>Vercel’s pricing can be frustrating. Learn how to deploy your Next.js app on Hostinger VPS for better performance and lower costs.</blockquote>
+<blockquote>Hey there, fellow developers! Today, I’m going to walk you through building a sophisticated customer service AI agent using LangChain…</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +166,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. How To Animate Scroll In JavaScript? - <a href="https://medium.com/@richellejohn89/how-to-animate-scroll-in-javascript-66874037152c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 10 Must-learn Basics for Learning JavaScript in a Week - <a href="https://medium.com/@rehanwebdev/10-must-learn-basics-for-learning-javascript-in-a-week-72007fb84dda" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Richelle John`**
+✍️ **posted by `Rehan MERN Web DEV`**
 
-<blockquote>A small amount of movement on a website can draw visitors in, make them feel impressed, and grab their attention. You may set them to…</blockquote>
+<blockquote>Struggling to learn JavaScript? Join the club! JavaScript is an excellent and super-useful Programming language, but also one that…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -176,17 +178,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. If You Can Answer These 7 JavaScript Interview Questions, Companies Want To Hire You Immediately - <a href="https://medium.com/@arnoldgunter/if-you-can-answer-these-7-javascript-interview-questions-companies-want-to-hire-you-immediately-27d30112d6d3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Hoisting | Functions | Temporal Dead Zone | JS - <a href="https://medium.com/@bharathikannansambasivam/hoisting-functions-temporal-dead-zone-js-3f6221e666fb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arnold Gunter`**
+✍️ **posted by `Bharathikannan Sambasivam`**
 
-<blockquote>Read it here for free</blockquote>
+<blockquote>Let | Const | Var</blockquote>
 
-<h3>4. TypeScript for Pros: Advanced Tips with Real-World Code Snippets - <a href="https://medium.com/@it.works/typescript-for-pros-advanced-tips-with-real-world-code-snippets-e1e00d3c4233" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Object Copying - <a href="https://medium.com/@nonsooranye/object-copying-8d15977812d6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chris Chin`**
+✍️ **posted by `Nonso Oranye`**
 
-<blockquote>TypeScript offers advanced features that can elevate your development, especially in full-stack applications. In this blog, we’ll explore…</blockquote>
+<blockquote>Copying object is a regular occurrence when programming in javascript.</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -208,11 +210,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Writing a node class library is more confusing than it needs to be. Here’s a guide</blockquote>
 
-<h3>3. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
+<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
 <h3>4. Node.js Full TypeScript Support: What You Need to Know - <a href="https://medium.com/@emaddehnavi/node-js-full-typescript-support-what-you-need-to-know-3c90ffb6520c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -220,11 +222,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>As of Node.js v23.5.0, there is built-in lightweight support, you can use the built-in support for type stripping, and for full typescript…</blockquote>
 
-<h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nabendu Biswas`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
+<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -246,11 +248,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. Node.js Advanced Patterns: Adaptive Rate Limiter - <a href="https://medium.com/@v-checha/node-js-advanced-patterns-adaptive-rate-limiter-aa8221177162" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Getting Started with Node.js and Express.js: Your First Server - <a href="https://medium.com/@BatmanBabai/getting-started-with-node-js-and-express-js-your-first-server-459920ba209f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `V. Checha`**
+✍️ **posted by `BatmanBabai`**
 
-<blockquote>Rate limiting is crucial for protecting APIs and services from overload. While static rate limiters are common, adaptive rate limiting…</blockquote>
+<blockquote>In this blog, we’ll explore how to set up a basic server using Node.js and Express.js. If you’re new to backend development or just…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,13 +262,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. MongoDB: A Deep Dive into the NoSQL Giant
-MongoDB, a leading NoSQL database, has revolutionized how… - <a href="https://medium.com/@saitanoojogirala/mongodb-a-deep-dive-into-the-nosql-giant-mongodb-a-leading-nosql-database-has-revolutionized-how-e82d5a573d23" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Article on Literacy Rate - <a href="https://medium.com/@devdatkumar84/article-on-literacy-rate-62c6499c7e09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `SAI TANOOJ OGIRALA`**
+✍️ **posted by `Devdat Kumar`**
 
-<blockquote>* Security: Robust security features, including authentication, authorization, and encryption, to protect your data.
-Use Cases of MongoDB…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Showing Off My Servers - <a href="https://medium.com/chifi-media/showing-off-my-servers-bb3eb0884302" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -280,11 +280,13 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Virat Kohli: An Inspiring Sheer Excellence in the World of Cricket - <a href="https://medium.com/@devdatkumar84/virat-kohli-an-inspiring-sheer-excellence-in-the-world-of-cricket-498d5af9bb5c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. MongoDB: A Deep Dive into the NoSQL Giant
+MongoDB, a leading NoSQL database, has revolutionized how… - <a href="https://medium.com/@saitanoojogirala/mongodb-a-deep-dive-into-the-nosql-giant-mongodb-a-leading-nosql-database-has-revolutionized-how-e82d5a573d23" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Devdat Kumar`**
+✍️ **posted by `SAI TANOOJ OGIRALA`**
 
-<blockquote>Kohli is hailed by numerous analysts as the best ODI and Test batsman; some have classified him as the greatest batsman, regardless of the…</blockquote>
+<blockquote>* Security: Robust security features, including authentication, authorization, and encryption, to protect your data.
+Use Cases of MongoDB…</blockquote>
 
 <h3>5. Quick Search of Hidden Photos With Optimization Approaches - <a href="https://medium.com/code-like-a-girl/quick-search-of-hidden-photos-with-optimization-approaches-57dcdbbc90be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -422,67 +424,67 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Premium Price Tag of iPhones: Unpacking the Factors Behind the Cost - <a href="https://medium.com/@sathishdaa007/the-premium-price-tag-of-iphones-unpacking-the-factors-behind-the-cost-1f6f196e3cca" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Sathiz Sathiz`**
+
+<blockquote>The Premium Price Tag of iPhones: Unpacking the Factors Behind the Cost</blockquote>
+
+<h3>2. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Pairs Engineering`**
 
 <blockquote>I’m John Estropia from Eureka’s Mobile Platforms team. This article is posted as the 7th entry for the 2024 Pairs Engineering Advent…</blockquote>
 
-<h3>2. MVVM: Officially Recommended by Google for Flutter Development - <a href="https://medium.com/@ksufi7350/mvvm-officially-recommended-by-google-for-flutter-development-ba17f899d320" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. MVVM: Officially Recommended by Google for Flutter Development - <a href="https://medium.com/@ksufi7350/mvvm-officially-recommended-by-google-for-flutter-development-ba17f899d320" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Muhammad Sufiyan`**
 
 <blockquote>In a significant move, Google has officially recommended the MVVM (Model-View-ViewModel) architecture for Flutter app development. This…</blockquote>
 
-<h3>3. What does I mean in iPhone, even millions of people using Apple may not know the truth - <a href="https://medium.com/@kishorthanki87/what-does-i-mean-in-iphone-even-millions-of-people-using-apple-may-not-know-the-truth-ea5c810c866f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Conditional code eliminated Using POP + Polymorphism. - <a href="https://medium.com/@MdNiks/conditional-code-eliminated-using-pop-polymorphism-162e7a6bba4b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kishor Thanki`**
+✍️ **posted by `MdNiks`**
 
-<blockquote>What does I mean in iPhone</blockquote>
+<blockquote>Hey Guys !!!!!!</blockquote>
 
-<h3>4. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Serverless, Location-Aware Search for web and mobile apps with Agent Builder & BigQuery - <a href="https://medium.com/google-cloud/serverless-location-aware-search-for-web-and-mobile-apps-with-agent-builder-bigquery-89f2fef1ab20" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Google Cloud - Community`**
 
 <blockquote>You’ve just landed in a new city, hotel booked, bags dropped, and ready to explore. But where to go first? That trendy coffee shop…</blockquote>
 
-<h3>5. Kotlin Properties vs. Java Fields - <a href="https://medium.com/proandroiddev/kotlin-properties-vs-java-fields-e5c426fa87de" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `ProAndroidDev`**
-
-<blockquote>Simplifying Data Handling and Encapsulation in Kotlin</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Who Took My Money? - <a href="https://medium.com/@theapptician/who-took-my-money-bf996b1dd637" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `TheApptician`**
+
+<blockquote>How to Take Control of Your Finances Before They Disappear</blockquote>
+
+<h3>2. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ProAndroidDev`**
 
 <blockquote>Math and Graphics Can Be Fun</blockquote>
 
-<h3>2. Exploring ViewModel Internals - <a href="https://medium.com/proandroiddev/exploring-viewmodel-internals-4ca414b4080b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Exploring ViewModel Internals - <a href="https://medium.com/proandroiddev/exploring-viewmodel-internals-4ca414b4080b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ProAndroidDev`**
 
 <blockquote>At Google I/O 2017, Google introduced Architecture Components, a collection of libraries designed to address core challenges in Android…</blockquote>
 
-<h3>3. Which Local Database Should You Choose in 2025? Comparing Realm, SQLDelight, and Room. - <a href="https://medium.com/proandroiddev/which-local-database-should-you-choose-in-2025-comparing-realm-sqldelight-and-room-4221b354c899" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Android Malware Analysis & Reverse Engineering: Uncovering How Malware Steals Data and Operates… - <a href="https://medium.com/@abekweng/android-malware-analysis-reverse-engineering-uncovering-how-malware-steals-data-and-operates-099c6831c8c2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `AL QUDRI`**
 
-<blockquote>If you’re starting a Greenfield project, one of the key decisions you’ll face is selecting the right local database. Over the years, these…</blockquote>
+<blockquote>These days, based on statista.com, Android is one of the most used operating systems in the world, so in the tech industry scene, of…</blockquote>
 
-<h3>4. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Jan Kammerath`**
 
 <blockquote>Building apps for iOS and Android is fun. Although I have written software for numerous platforms over the past decades, building apps for…</blockquote>
-
-<h3>5. Netflix: The Gold Standard in Streaming and Storytelling - <a href="https://medium.com/@sravankushii/netflix-the-gold-standard-in-streaming-and-storytelling-0dce0712fe47" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Sravan Kushi`**
-
-<blockquote>Netflix: The Gold Standard in Streaming and Storytelling</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
@@ -536,11 +538,11 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
 
-<h3>4. Kubernetes Tutorial : Part-1 : Basics - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-1-basics-258ae7cdf334" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 5000+ Site Reliability Engineer (SRE) Interview Questions - <a href="https://medium.com/aws-in-plain-english/5000-site-reliability-engineer-sre-interview-questions-8c1dc1488c04" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Priya Srivastava`**
+✍️ **posted by `AWS in Plain English`**
 
-<blockquote>Kuberenetes is mostly referred as K8s , where 8 represent the 8 characters that come between K and s .</blockquote>
+<blockquote>Google, Apple, Microsoft, Facebook, IBM, and More</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -568,11 +570,11 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>I discuss twelve “anti-factors” that make Infrastructure as Code suboptimal. This recaps my IaC posts from 2024.</blockquote>
 
-<h3>4. Life will gift you the kinds of lessons that grow you and build you - <a href="https://medium.com/@Annu_Rathore__/life-will-gift-you-the-kinds-of-lessons-that-grow-you-and-build-you-4e2eceb6068c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Vendor Lock-in vs Self-Made Chaos: Stop Over-Engineering Your Container Strategy - <a href="https://medium.com/@DevOpsTrenches/vendor-lock-in-vs-self-made-chaos-stop-over-engineering-your-container-strategy-286d780789f8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Martin Rathore`**
+✍️ **posted by `Jotham Arinze`**
 
-<blockquote>Trust</blockquote>
+<blockquote>Disclaimer: While this story is fictional, it’s based on very real late-night debugging sessions, actual production incidents, and…</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -582,11 +584,11 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. The Fallacy of Complacent Distroless Containers - <a href="https://medium.com/towards-data-science/the-fallacy-of-complacent-distroless-containers-8b09bd3ad55a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Journey to Full-Stack Data Scientist: Model Deployment - <a href="https://medium.com/towards-data-science/journey-to-full-stack-data-scientist-model-deployment-f385f244ec67" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Towards Data Science`**
 
-<blockquote>Making containers smaller is the most popular practice when reducing your attack surface. But how real is this sense of security?</blockquote>
+<blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -600,11 +602,11 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
 
-<h3>4. KT3 — Part II (Init Dashboard) - <a href="https://medium.com/@arturocuicas/kt3-part-ii-init-dashboard-0fb659dd4ba5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kluster Cube: A Kubernetes Dashboard with Spring Boot - <a href="https://medium.com/@harshadannina/kluster-cube-a-kubernetes-dashboard-with-spring-boot-6d2c5bc9622a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arturo Cuicas`**
+✍️ **posted by `Harsha Dannina`**
 
-<blockquote>It’s time to bring color to this project and start materializing some of the concepts discussed in the previous post. We’re going to…</blockquote>
+<blockquote>A Kubernetes dashboard for cluster monitoring built with Java Spring Boot and Vaadin.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
