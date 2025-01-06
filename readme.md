@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/05)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/06)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -120,11 +120,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Implementing Multi-Modal LLM Agent Architecture with LangChain and Next.js - <a href="https://medium.com/@natashagluons/implementing-multi-modal-llm-agent-architecture-with-langchain-and-next-js-75f0ae1d663a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Server-Side Rendering in Next.js: An Advanced Guide - <a href="https://medium.com/digital-minds/mastering-server-side-rendering-in-next-js-an-advanced-guide-2b63d9f4f3cf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Natasha Gluons`**
+✍️ **posted by `Digital Minds`**
 
-<blockquote>Hey there, fellow developers! Today, I’m going to walk you through building a sophisticated customer service AI agent using LangChain…</blockquote>
+<blockquote>Take your Next.js SSR game to the next level — fast, scalable, unstoppable</blockquote>
 
 <h3>5. How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site - <a href="https://medium.com/javascript-in-plain-english/how-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -248,11 +248,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. Getting Started with Node.js and Express.js: Your First Server - <a href="https://medium.com/@BatmanBabai/getting-started-with-node-js-and-express-js-your-first-server-459920ba209f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Sherlock Holmes: The Case Of Redis Overload During a DDoS Attack - <a href="https://medium.com/@programmerraja/sherlock-holmes-the-case-of-redis-overload-during-a-ddos-attack-ec3331d36bdc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `BatmanBabai`**
+✍️ **posted by `programmerraja`**
 
-<blockquote>In this blog, we’ll explore how to set up a basic server using Node.js and Express.js. If you’re new to backend development or just…</blockquote>
+<blockquote>It was a calm day until disaster struck. We received alerts about DDoS and brute-force attacks originating from random bot IPs. Our team…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -262,17 +262,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Article on Literacy Rate - <a href="https://medium.com/@devdatkumar84/article-on-literacy-rate-62c6499c7e09" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Bolt DIY + Deepseek V3 + Gemini 2.0: The Free AI Coder - <a href="https://medium.com/ai-advances/bolt-diy-deepseek-v3-gemini-2-0-the-free-ai-coder-84a71498b380" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Devdat Kumar`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Hey, have you heard about Bolt DIY?</blockquote>
 
-<h3>2. Showing Off My Servers - <a href="https://medium.com/chifi-media/showing-off-my-servers-bb3eb0884302" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Fun Way to Teach Your Child About Statistical Inference… With Candy - <a href="https://medium.com/stem-parenting/a-fun-way-to-teach-your-child-about-statistical-inference-with-candy-a8511c368fe4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `chifi`**
+✍️ **posted by `STEM Parenting`**
 
-<blockquote>Showing off my collection of out-dated Intel servers.</blockquote>
+<blockquote>Using candy, a notepad, and a calculator to teach my child how polling estimates work.</blockquote>
 
 <h3>3. Top 7 Alternatives to Next.js in 2025 - <a href="https://medium.com/bitsrc/top-7-alternatives-to-next-js-in-2025-917bf9d5ffba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -280,19 +280,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. MongoDB: A Deep Dive into the NoSQL Giant
-MongoDB, a leading NoSQL database, has revolutionized how… - <a href="https://medium.com/@saitanoojogirala/mongodb-a-deep-dive-into-the-nosql-giant-mongodb-a-leading-nosql-database-has-revolutionized-how-e82d5a573d23" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. From Junior to Senior: A Developer’s Roadmap - <a href="https://medium.com/@manojmkm141098/from-junior-to-senior-a-developers-roadmap-fb99947a1414" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `SAI TANOOJ OGIRALA`**
+✍️ **posted by `Manoj MK`**
 
-<blockquote>* Security: Robust security features, including authentication, authorization, and encryption, to protect your data.
-Use Cases of MongoDB…</blockquote>
+<blockquote>A Step-by-Step Guide to Becoming a Senior Developer</blockquote>
 
-<h3>5. Quick Search of Hidden Photos With Optimization Approaches - <a href="https://medium.com/code-like-a-girl/quick-search-of-hidden-photos-with-optimization-approaches-57dcdbbc90be" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Showing Off My Servers - <a href="https://medium.com/chifi-media/showing-off-my-servers-bb3eb0884302" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Code Like A Girl`**
+✍️ **posted by `chifi`**
 
-<blockquote>A dramatic performance improvement of my original photo search app.</blockquote>
+<blockquote>Showing off my collection of out-dated Intel servers.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -360,49 +358,49 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. AI In 2025: Time For Your Company To Love It Or Leave It - <a href="https://medium.com/entrepreneur-s-handbook/ai-in-2025-time-for-your-company-to-love-it-or-leave-it-5f742327f968" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Tata Motors overtakes Maruti Suzuki as the maker of India’s No.1 car - <a href="https://medium.com/@indiantechguide/tata-motors-overtakes-maruti-suzuki-as-the-maker-of-indias-no-1-car-63dd87f24f3e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Entrepreneurship Handbook`**
+✍️ **posted by `Indian Tech & Infra`**
 
-<blockquote>Here are four ways to adopt AI or bypass it altogether</blockquote>
+<blockquote>For the first time in four decades, India’s best-selling car was not a Maruti Suzuki. In 2024, Tata Motors' Punch, a subcompact SUV…</blockquote>
 
-<h3>2. Building Projects With Chrome’s On-device AI - <a href="https://medium.com/gitconnected/building-projects-with-chromes-on-device-ai-4b66a5ec7fc1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Did LEGO Just Copy Its Own Copycat? - <a href="https://medium.com/bricksnbrackets/did-lego-just-copy-its-own-copycat-a0e693a3f43b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Bricks n’ Brackets`**
 
-<blockquote>Using the experimental prompt API on Chrome to build prototypes with AI features</blockquote>
+<blockquote>I hate to say it, but LEGO might be getting inspiration from the very companies that started out as LEGO copycats. And it’s more than just…</blockquote>
 
-<h3>3. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `DataDrivenInvestor`**
-
-<blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
-
-<h3>4. 2024 Innovation Trend Recap: A Deployment Year for Multimodal AI and Mixed Reality - <a href="https://medium.com/ipg-media-lab/2024-innovation-trend-recap-a-deployment-year-for-multimodal-ai-and-mixed-reality-9748901fcee2" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `IPG Media Lab`**
-
-<blockquote>Plus, major behavioral and landscape shifts in search, streaming, and social media</blockquote>
-
-<h3>5. Trump Fiddles While Musk Burns Down MAGA - <a href="https://medium.com/@carlynbeccia/trump-fiddles-while-musk-burns-down-maga-6183696f73ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Trump Fiddles While Musk Burns Down MAGA - <a href="https://medium.com/@carlynbeccia/trump-fiddles-while-musk-burns-down-maga-6183696f73ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Carlyn Beccia`**
 
 <blockquote>Musk unleashes his anger on MAGA Republicans and vows "war."</blockquote>
 
+<h3>4. 6 Reasons to Be (Cautiously) Optimistic About Movies in 2025: A Statistical Analysis - <a href="https://medium.com/fan-fare/6-reasons-to-be-cautiously-optimistic-about-movies-in-2025-a-statistical-analysis-9886c49275fa" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Fanfare`**
+
+<blockquote>Six reasons to be optimistic about the film industry.</blockquote>
+
+<h3>5. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `DataDrivenInvestor`**
+
+<blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Someone Different - <a href="https://medium.com/@thekidultwriter/someone-different-4ce8e237e71a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. When the World Feels Overwhelming, You Are My Safe Haven, the Peace I Run To, the Rest I Call Home - <a href="https://medium.com/@saikikeshi/when-the-world-feels-overwhelming-you-are-my-safe-haven-the-peace-i-run-to-the-rest-i-call-home-90f969c3c7f0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `thekidultwriter`**
+✍️ **posted by `life in letters`**
 
-<blockquote>He was something. He was different.</blockquote>
+<blockquote>The Peace I Never Knew I Needed, the Rest I Never Knew I Could Have</blockquote>
 
-<h3>2. The Art of Parenting with Your Partner - <a href="https://medium.com/the-parenting-portal/the-art-of-parenting-with-your-partner-7cca39cd6600" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. False Harmony: The Unexpected Threat to My Marriage - <a href="https://medium.com/highest-happiness/false-harmony-the-unexpected-threat-to-my-marriage-155e3d40adaf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Parenting Portal`**
+✍️ **posted by `Highest Happiness`**
 
-<blockquote>From nagging to paying compliments, and finding sweet moments to savor — a glimpse at the rollercoaster of being new parents.</blockquote>
+<blockquote>How silence and resentment almost tore us apart</blockquote>
 
 <h3>3. The 9 Sexiest Things Men Wear According To Women - <a href="https://medium.com/@Theacademyofmen/the-9-sexiest-things-men-wear-according-to-women-3e5ca06eda1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -410,17 +408,17 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Putting these on will have women asking you to take them off</blockquote>
 
-<h3>4. I Know I’m Not What You Wanted, But Was I For a While? - <a href="https://medium.com/@saikikeshi/i-know-im-not-what-you-wanted-but-was-i-for-a-while-1a8e3b0b1278" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why I Love My Man So Much - <a href="https://medium.com/@ayomideeee888/why-i-love-my-man-so-much-55d7fb76969e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `life in letters`**
+✍️ **posted by `Ayomi`**
 
-<blockquote>Finding Yourself in the Shadows of Someone’s Past</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
-<h3>5. All I Wanted For Christmas Was To Be Accepted as My Bisexual Self - <a href="https://medium.com/prismnpen/all-i-wanted-for-christmas-was-to-be-accepted-as-my-bisexual-self-51ce2911a194" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Keep Sending Me Christmas Cards, OK? - <a href="https://medium.com/age-of-empathy/keep-sending-me-christmas-cards-ok-5b41552281ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prism & Pen`**
+✍️ **posted by `Age of Empathy`**
 
-<blockquote>But that was too much to ask of my homophobic parents</blockquote>
+<blockquote>Holiday greetings may not be hip or trendy, but I love them still. Same time, next year?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -488,11 +486,11 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. iPhone Air: Reality Confirmed, Thickness and Price Unveiled | Vertical Bar Media - <a href="https://medium.com/vertical-bar-media/iphone-air-reality-confirmed-thickness-and-price-unveiled-vertical-bar-media-ccccb9a8f1ec" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Closures in Swift: Closure 101 - <a href="https://medium.com/icommunity/closures-in-swift-closure-101-9af88908e604" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vertical Bar Media`**
+✍️ **posted by `iCommunity`**
 
-<blockquote>Speculation doesn’t always pan out, but we were certain this one was real.</blockquote>
+<blockquote>Hello fellow iOS developers! Today, we will be talking about closures. Closures are fundamental building blocks in Swift.</blockquote>
 
 <h3>2. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -500,17 +498,17 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Building apps for iOS and Android is fun. Although I have written software for numerous platforms over the past decades, building apps for…</blockquote>
 
-<h3>3. Write Swift Like Apple. Part 2 - <a href="https://medium.com/@uwaisalqadri/write-swift-like-apple-part-2-44e025e51824" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 12 iOS 18 Settings You Should Change Right NOW for a Superior Experience - <a href="https://medium.com/macoclock/12-ios-18-settings-you-should-change-right-now-for-a-superior-experience-1994d847fcce" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Uwais Alqadri`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>As I mentioned in the Write Swift Like Apple article, this part will cover additional Apple code conventions that I have observed…</blockquote>
+<blockquote>Stop using your iPhone in Beginner Mode</blockquote>
 
-<h3>4. Here is a detailed piece on the role and significance of the President of India: - <a href="https://medium.com/@ramniwaskudiya23/here-is-a-detailed-piece-on-the-role-and-significance-of-the-president-of-india-72bea3ad05a7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Here's an 800-word detailed write-up about **Sachin Pilot**, structured in a point-by-point format… - <a href="https://medium.com/@ramniwaskudiya23/heres-an-800-word-detailed-write-up-about-sachin-pilot-structured-in-a-point-by-point-format-66d1f8f5ece8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ramniwas Kudiya`**
 
-<blockquote>---</blockquote>
+<blockquote>Sacin pailot</blockquote>
 
 <h3>5. Integrating Extensions into Large-Scale iOS apps - <a href="https://medium.com/lyft-engineering/integrating-extensions-into-large-scale-ios-apps-8f15dc5f3be9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -520,11 +518,11 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Getting Started with CI/CD: An Introductory Guide to GitHub Actions for New Developers - <a href="https://medium.com/@shivambhadani_/getting-started-with-ci-cd-an-introductory-guide-to-github-actions-for-new-developers-f216d87f4dab" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Automating Metadata Generation with Azure AI and AWS Bedrock: Two Distinct Approaches - <a href="https://medium.com/@idrisniyi94/automating-metadata-generation-with-azure-ai-and-aws-bedrock-two-distinct-approaches-02607ce19af0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shivam Bhadani`**
+✍️ **posted by `Idris Fagbemi`**
 
-<blockquote>One shot blog that covers everything about CI/CD</blockquote>
+<blockquote>In today’s data-driven landscape, efficiently managing and classifying data is paramount for organizations aiming to derive actionable…</blockquote>
 
 <h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -538,11 +536,11 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
 
-<h3>4. 5000+ Site Reliability Engineer (SRE) Interview Questions - <a href="https://medium.com/aws-in-plain-english/5000-site-reliability-engineer-sre-interview-questions-8c1dc1488c04" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Getting Started with CI/CD: An Introductory Guide to GitHub Actions for New Developers - <a href="https://medium.com/@shivambhadani_/getting-started-with-ci-cd-an-introductory-guide-to-github-actions-for-new-developers-f216d87f4dab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `AWS in Plain English`**
+✍️ **posted by `Shivam Bhadani`**
 
-<blockquote>Google, Apple, Microsoft, Facebook, IBM, and More</blockquote>
+<blockquote>One shot blog that covers everything about CI/CD</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -552,11 +550,11 @@ Use Cases of MongoDB…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Kubernetes Tutorial : Part-1 : Basics - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-1-basics-258ae7cdf334" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Here are several effective strategies for preventing HIV: - <a href="https://medium.com/@kellyayobami/here-are-several-effective-strategies-for-preventing-hiv-f91678119b25" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Priya Srivastava`**
+✍️ **posted by `Anoghase Kelly`**
 
-<blockquote>Kuberenetes is mostly referred as K8s , where 8 represent the 8 characters that come between K and s .</blockquote>
+<blockquote>HIV</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -570,11 +568,11 @@ Use Cases of MongoDB…</blockquote>
 
 <blockquote>I discuss twelve “anti-factors” that make Infrastructure as Code suboptimal. This recaps my IaC posts from 2024.</blockquote>
 
-<h3>4. Vendor Lock-in vs Self-Made Chaos: Stop Over-Engineering Your Container Strategy - <a href="https://medium.com/@DevOpsTrenches/vendor-lock-in-vs-self-made-chaos-stop-over-engineering-your-container-strategy-286d780789f8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kluster Cube: A Kubernetes Dashboard with Spring Boot - <a href="https://medium.com/@harshadannina/kluster-cube-a-kubernetes-dashboard-with-spring-boot-6d2c5bc9622a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jotham Arinze`**
+✍️ **posted by `Harsha Dannina`**
 
-<blockquote>Disclaimer: While this story is fictional, it’s based on very real late-night debugging sessions, actual production incidents, and…</blockquote>
+<blockquote>A Kubernetes dashboard for cluster monitoring built with Java Spring Boot and Vaadin.</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
