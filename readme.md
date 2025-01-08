@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/07)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/08)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -229,11 +229,11 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Boosting Node.js Performance with Clustering: A Story-Based Guide - <a href="https://medium.com/@ahmadshaik/boosting-node-js-performance-with-clustering-a-story-based-guide-0cf9f3bf492f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Limiting Concurrency in Node.js - <a href="https://medium.com/itnext/limiting-concurrency-in-node-js-40152905970b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmad`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>How to not overload API?</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -247,11 +247,11 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. Day 3: How to Implement Rate Limiting Without Any Third-Party Libraries - <a href="https://medium.com/stackademic/day-3-how-to-implement-rate-limiting-without-any-third-party-libraries-21a2ace1cb30" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. **Maclaren P1: The Hyper-Luxury Ride for the Passionate Car Nut** - <a href="https://medium.com/@sharishkamran/maclaren-p1-the-hyper-luxury-ride-for-the-passionate-car-nut-12c50e9e2ba7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stackademic`**
+✍️ **posted by `Sharish Kamran`**
 
-<blockquote>Learn how to build a custom rate-limiting middleware in Node.js using just core JavaScript and Express.</blockquote>
+<blockquote>The McLaren P1 is a Hypercar that seems to stretch automobile technology to incredible limits.</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -325,49 +325,49 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Marker Interfaces in Go - <a href="https://medium.com/@andreiboar/marker-interfaces-in-go-d395bfaeefe5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Let Gemini autonomously fix code for you - <a href="https://medium.com/google-cloud/let-gemini-autonomously-fix-code-for-you-0d721d24b42b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrei Boar`**
+✍️ **posted by `Google Cloud - Community`**
 
-<blockquote>This article is about Marker Interfaces, or how to go from an idea to a special idea:</blockquote>
+<blockquote>In the ever-evolving landscape of software development, automated tools that can help diagnose and fix code issues are becoming…</blockquote>
 
-<h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/@iamalvisng/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Side Projects That Make Your Resume Shine ✨ - <a href="https://medium.com/@irenazra/side-projects-waste-of-time-or-game-changer-28557efca6a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alvis Ng`**
+✍️ **posted by `İren Azra Zou`**
 
-<blockquote>A Deep Dive into the Practicalities, Pitfalls, and Potential of Next.js’s Server-Side Feature</blockquote>
+<blockquote>Trying to make your resume stand out with side projects? Pick the ones that actually make a difference — and avoid the ones that don’t!</blockquote>
 
-<h3>3. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Level Up Coding`**
+
+<blockquote>My top tips for being a great Software Architect and making the best decisions for your teams and projects.</blockquote>
+
+<h3>4. Introducing Swark: Automatic Architecture Diagrams from Code - <a href="https://medium.com/@ozanani/introducing-swark-automatic-architecture-diagrams-from-code-cb5c8af7a7a5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Oz Anani`**
+
+<blockquote>Software architecture is hard to get right. Misaligned teams, unclear diagrams, and time-consuming processes often result in frustration…</blockquote>
+
+<h3>5. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `DataDrivenInvestor`**
 
 <blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
 
-<h3>4. Python Radio 32: Old-Time Radio - <a href="https://medium.com/radio-hackers/python-radio-32-old-time-radio-3fc1337212f5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Radio Hackers`**
-
-<blockquote>Build a Time Machine</blockquote>
-
-<h3>5. Predictive Maintenance Models with a Focus on Class Balancing — Complete Notebook - <a href="https://medium.com/towards-data-science/predictive-maintenance-models-with-a-focus-on-class-balancing-complete-notebook-d8c385835a13" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Towards Data Science`**
-
-<blockquote>From Model Creation to Deployment: Building a Predictive Maintenance System with Streamlit</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Tata Motors overtakes Maruti Suzuki as the maker of India’s No.1 car - <a href="https://medium.com/@indiantechguide/tata-motors-overtakes-maruti-suzuki-as-the-maker-of-indias-no-1-car-63dd87f24f3e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Sasa - <a href="https://medium.com/@cryptohayes/sasa-0b474e218c5d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Indian Tech & Infra`**
+✍️ **posted by `Arthur Hayes`**
 
-<blockquote>For the first time in four decades, India’s best-selling car was not a Maruti Suzuki. In 2024, Tata Motors' Punch, a subcompact SUV…</blockquote>
+<blockquote>The backcountry gates at Hokkaido ski resorts offer excellent, mostly lift-accessible terrain. Early in the season, the burning question…</blockquote>
 
-<h3>2. How I Almost Let a Latte Ruin Our Product Launch - <a href="https://medium.com/managing-digital-products/how-i-almost-let-a-latte-ruin-our-product-launch-fb65750a0ae4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Shoddy Math on Unplugging Unused Appliances - <a href="https://medium.com/@westwise/the-shoddy-math-on-unplugging-unused-appliances-cd6d8abf1b52" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Product Coalition`**
+✍️ **posted by `Sam Westreich, PhD`**
 
-<blockquote>I once thought critical thinking meant strolling into a meeting, wearing a faux-intellectual expression, and just questioning everything…</blockquote>
+<blockquote>Will you save hundreds? Or are these bad conclusions from an outdated study?</blockquote>
 
 <h3>3. Trump Fiddles While Musk Burns Down MAGA - <a href="https://medium.com/@carlynbeccia/trump-fiddles-while-musk-burns-down-maga-6183696f73ad" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -375,17 +375,17 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <blockquote>Musk unleashes his anger on MAGA Republicans and vows "war."</blockquote>
 
-<h3>4. Did LEGO Just Copy Its Own Copycat? - <a href="https://medium.com/bricksnbrackets/did-lego-just-copy-its-own-copycat-a0e693a3f43b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. No, AI Will Not Make Your Job Fun Again - <a href="https://medium.com/entrepreneur-s-handbook/no-ai-will-not-make-your-job-fun-again-ae4a6355e8e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bricks n’ Brackets`**
+✍️ **posted by `Entrepreneurship Handbook`**
 
-<blockquote>I hate to say it, but LEGO might be getting inspiration from the very companies that started out as LEGO copycats. And it’s more than just…</blockquote>
+<blockquote>The tech industry has been selling us this story for decades, and AI is no different</blockquote>
 
-<h3>5. I just tried OpenAI’s updated o1 model. This technology will BREAK Wall Street - <a href="https://medium.com/datadriveninvestor/i-just-tried-openais-updated-o1-model-this-technology-will-break-wall-street-5f99bcdac976" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. I Spent a Week Building the Foundation for Cloud-Agnostic ML Pipelines — Here’s Everything You… - <a href="https://medium.com/ai-advances/i-spent-a-week-building-the-foundation-for-cloud-agnostic-ml-pipelines-heres-everything-you-f147bfb75ad0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DataDrivenInvestor`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>All of my articles are 100% free to read! Non-members can read for free by checking out this link.</blockquote>
+<blockquote>A Hands-On Guide with Kubernetes, Apache Beam, Spark/Flink, and MinIO — From Local Setup to Multi-Cloud Scalability</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -421,11 +421,11 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Progressive Web Apps: Why They’re the Future of Mobile Experience - <a href="https://medium.com/@haseebmajeed333/progressive-web-apps-why-theyre-the-future-of-mobile-experience-ca6f8ebcb28f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Flo design system: Part 1 - <a href="https://medium.com/flo-health/flo-design-system-part-1-1eb8b731a48c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Muhammad Haseeb`**
+✍️ **posted by `Flo Health UK`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Stepping stone</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,12 +439,11 @@ React.js is one of the most widely used, open-source JavaScript libraries for UI
 
 <blockquote>In a significant move, Google has officially recommended the MVVM (Model-View-ViewModel) architecture for Flutter app development. This…</blockquote>
 
-<h3>4. Making a Flutter Application with CLEAN ARCHITECTURE — Part3 - <a href="https://medium.com/@ali852609/making-a-flutter-application-with-clean-architecture-part3-cbd52907eb77" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Flo design system: Part 2 - <a href="https://medium.com/flo-health/flo-design-system-part-2-0848c4623081" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ali Akber`**
+✍️ **posted by `Flo Health UK`**
 
-<blockquote>Hello and welcome! This is part 3 and the final part of the tutorial series “Making a Flutter Application with CLEAN ARCHITECTURE”.
-If you…</blockquote>
+<blockquote>Time to automate!</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -486,11 +485,11 @@ If you…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. A Comparison of Two Smartphone Giants - <a href="https://medium.com/@arohemeka/a-comparison-of-two-smartphone-giants-f7cee7990839" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Create a security research device through a Jailbreak - <a href="https://medium.com/@blackhawkk/create-a-security-research-device-through-a-jailbreak-876adc7d4eb2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aroh Emeka`**
+✍️ **posted by `Tanmay Bhattacharjee`**
 
-<blockquote>iPhone vs. Samsung</blockquote>
+<blockquote>Disclaimer: It is educational purpose for ios mobile security researchers.</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -504,11 +503,14 @@ If you…</blockquote>
 
 <blockquote>Stop using your iPhone in Beginner Mode</blockquote>
 
-<h3>4. Create a security research device through a Jailbreak - <a href="https://medium.com/@blackhawkk/create-a-security-research-device-through-a-jailbreak-876adc7d4eb2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Species around the world have adapted to their environments through various physical, behavioral… - <a href="https://medium.com/@pritivarma322/species-around-the-world-have-adapted-to-their-environments-through-various-physical-behavioral-eed162cb757e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tanmay Bhattacharjee`**
+✍️ **posted by `Priti Varma`**
 
-<blockquote>Disclaimer: It is educational purpose for ios mobile security researchers.</blockquote>
+<blockquote>1. Desert Adaptations
+Camel:
+Humps store fat, which can be converted to water and energy.
+Long eyelashes and closable nostrils protect…</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -518,35 +520,35 @@ If you…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. India said this about Pakistan’s Attack on Afghanistan #Pakistan #India #Afghanistan - <a href="https://medium.com/@ramansharmaraman6/india-said-this-about-pakistans-attack-on-afghanistan-pakistan-india-afghanistan-cfac3aac2606" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Raman Sharma`**
+
+<blockquote>India said this about Pakistan's Attack on Afghanistan #Pakistan #India #Afghanistan</blockquote>
+
+<h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `InfoSec Write-ups`**
 
 <blockquote>Ineffable Cryptography: The science behind a new era of cybersecurity</blockquote>
 
-<h3>2. Say goodbye to slow, clunky containers and VMs - <a href="https://medium.com/technology-hits/say-goodbye-to-slow-clunky-containers-and-vms-7d87e79ce198" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Say goodbye to slow, clunky containers and VMs - <a href="https://medium.com/technology-hits/say-goodbye-to-slow-clunky-containers-and-vms-7d87e79ce198" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Technology Hits`**
 
 <blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
 
-<h3>3. Mastering Pod-to-Pod Communication & ClusterIP Services in Kubernetes: A Comprehensive Guide - <a href="https://medium.com/devops-dev/mastering-pod-to-pod-communication-clusterip-services-in-kubernetes-a-comprehensive-guide-2687beaa2093" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Most underestimated animal 🐴 - <a href="https://medium.com/@ramansharmaraman6/most-underestimated-animal-703efc811dfe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevOps.dev`**
+✍️ **posted by `Raman Sharma`**
 
-<blockquote>Unlocking Efficient Pod Communication in Kubernetes with ClusterIP Services</blockquote>
+<blockquote>Most underestimated animal 🐴</blockquote>
 
-<h3>4. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Product Coalition`**
 
 <blockquote>Curious about life as a SaaS founder? Killian’s story shows it’s about more than just servers and coding.</blockquote>
-
-<h3>5. How I Am Using a Lifetime 100% Free Server - <a href="https://medium.com/@harendra21/how-i-am-using-a-lifetime-100-free-server-bd241e3a347a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Harendra`**
-
-<blockquote>Get a server with 24 GB RAM + 4 CPU + 200 GB Storage + Always Free</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
