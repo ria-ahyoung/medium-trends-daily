@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/10)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/11)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Advanced Tips for Efficient React Development from a former MS Dev - <a href="https://medium.com/sourcescribes/advanced-tips-for-efficient-react-development-from-a-former-ms-dev-271a74a16726" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How the Garbage collection work in java? but why so many algorithms are introduced ? - <a href="https://medium.com/devops-dev/how-the-garbage-collection-work-in-java-but-why-so-many-algorithms-are-introduced-88b81a523524" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `OpenSourceScribes`**
+✍️ **posted by `DevOps.dev`**
 
-<blockquote>Tips to using React in your development work</blockquote>
+<blockquote>Java’s garbage collection (GC) is an automatic memory management process. It helps manage memory in the heap, which is used to store…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,25 +86,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>q</blockquote>
 
-<h3>4. React 19 and Leveraging Its Features - <a href="https://medium.com/@Luna-Rojas/react-19-and-leveraging-its-features-59e3759f0e17" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Luna Rojas`**
-
-<blockquote>New APIs like Actions and hooks (useFormStatus, useOptimistic) reduce boilerplate and streamline UI updates.</blockquote>
-
-<h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Max Shahdoost`**
 
 <blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
 
+<h3>5. 7 ReactJs Projects to Become a Better Developer - <a href="https://medium.com/javascript-in-plain-english/7-reactjs-projects-to-become-a-better-developer-98ca544bdf84" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `JavaScript in Plain English`**
+
+<blockquote>ReactJs is an Awesome Javascript library that makes building websites interactive and dynamic. It is useful for every developer, whenever…</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Mastering the Next.js Image Component: The Basics - <a href="https://medium.com/@c.y.cvetkov/mastering-the-next-js-image-component-the-basics-7588dfea78c8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective - <a href="https://medium.com/@a.heydari.dev/simplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tsvetan Tsvetkov`**
+✍️ **posted by `Ali Heydari`**
 
-<blockquote>A Developer’s Cheatsheet</blockquote>
+<blockquote>Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styling with this beginner-friendly guide.</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/@iamalvisng/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
 
-<h3>4. Tamagui: The Quest for the One UI Library to Rule Them All - <a href="https://medium.com/inkitt-tech/tamagui-the-quest-for-the-one-ui-library-to-rule-them-all-7a6c663ba85d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Efficient Data Exchange Between Docker Containers Using Shared Volumes - <a href="https://medium.com/@iamjunaid021/efficient-data-exchange-between-docker-containers-using-shared-volumes-634feaa24232" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Inkitt Tech`**
+✍️ **posted by `i_am_junaid`**
 
-<blockquote>In the realm of cross-platform development, a great challenge loomed over the lands of Inkitt. Our brave developers sought to forge a…</blockquote>
+<blockquote>When building modern applications, breaking them down into isolated services or microservices can significantly improve maintainability and…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Must-Know Concepts For JavaScript Developers - <a href="https://medium.com/dev-simplified/must-know-concepts-for-javascript-developers-538dc811db5f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Enterprise-Ready AI Agents in Java & Spring Boot: A Comprehensive Guide - <a href="https://medium.com/@bayramblog/enterprise-ready-ai-agents-in-java-spring-boot-a-comprehensive-guide-6cedaa8a0fe5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dev Simplified`**
+✍️ **posted by `Bayram EKER`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>The latest wave of AI agents — including Auto-GPT, BabyAGI, AgentGPT, Jarvis (HuggingGPT), and frameworks like LangChain — has shown…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>It took me quite the time to find the hidden bug in this JavaScript code</blockquote>
 
-<h3>4. 🏮 8 Types of JavaScript Functions 📜 - <a href="https://medium.com/@theexpertdeveloper/8-types-of-javascript-functions-19d18144ee88" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Efficient CI/CD Pipelines and Optimizing Java Memory for Kubernetes - <a href="https://medium.com/@pragmaticcoders/building-efficient-ci-cd-pipelines-and-optimizing-java-memory-for-kubernetes-31d00b783fe4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Expert Developer`**
+✍️ **posted by `Pragmatic Coders`**
 
-<blockquote>🚈 Learn about the different types of JavaScript functions, including anonymous functions, arrow functions, and more 🎓</blockquote>
+<blockquote>This guide provides practical steps to streamline deployments and configure Java memory to prevent resource overages and pod failures.</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. ⬆️Leveraging TypeScript’s Type Guards for Enhanced Code Maintainability - <a href="https://medium.com/@nagarajvela/️leveraging-typescripts-type-guards-for-enhanced-code-maintainability-c877e25aa2f6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TypeScript and ES Modules: Best Practices for Imports and Exports - <a href="https://medium.com/@robinviktorsson/typescript-and-es-modules-best-practices-for-imports-and-exports-9ce200e75a88" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nagaraj`**
+✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>Boost your TypeScript code’s maintainability and readability with type guards!</blockquote>
+<blockquote>TypeScript, being a superset of JavaScript, offers robust support for ES modules. The ES module system (introduced in ECMAScript 6 or ES6)…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,17 +214,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. Understanding the Differences Between var, let, and const in JavaScript and TypeScript 💻 - <a href="https://medium.com/@robinviktorsson/understanding-the-differences-between-var-let-and-const-in-javascript-and-typescript-0ddd90c0b672" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Leveraging TypeScript’s Type Guards for Enhanced Code Maintainability - <a href="https://medium.com/gitconnected/️leveraging-typescripts-type-guards-for-enhanced-code-maintainability-c877e25aa2f6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. TypeScript`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>In JavaScript and TypeScript, var, let, and const are the three keywords used to declare variables. However, all three have different…</blockquote>
+<blockquote>Boost your TypeScript code’s maintainability and readability with type guards!</blockquote>
 
-<h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Will Replace JavaScript Entirely in 2025 — Here’s the Proof - <a href="https://medium.com/@rabinarayandev/typescript-will-replace-javascript-entirely-in-2025-heres-the-proof-717f87537e41" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Rabinarayan Patra`**
 
-<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
+<blockquote>Ready for a bold prediction? By 2025, TypeScript may dethrone JavaScript entirely. Crazy? Maybe — but here’s the proof. Let’s dive in!</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. Node.js v23.6.0 is Here: TypeScript Execution Made Easier! 🎉 - <a href="https://medium.com/@nhannguyendevjs/node-js-v23-6-0-is-here-typescript-execution-made-easier-cd83b2aba96e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nhan Nguyen`**
+✍️ **posted by `Hayden Baillio`**
 
-<blockquote>The Node.js team has just rolled out version 23.6.0, and it comes with an exciting experimental feature bound to make TypeScript developers…</blockquote>
+<blockquote>When CVEs Become Tough Love</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,17 +260,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Frontend Developer Roadmap 2025: The Complete Guide - <a href="https://medium.com/gitconnected/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Implementing Flexible and Easy-to-Use Rate Limiting in Spring Boot - <a href="https://medium.com/@yazici98/implementing-flexible-and-easy-to-use-rate-limiting-in-spring-boot-bde2ff71f4d4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Yavuz Yazici`**
 
-<blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
+<blockquote>In today’s fast-paced digital world, rate limiting is a critical feature to ensure system stability, prevent abuse, and provide fair…</blockquote>
 
-<h3>2. Your JavaScript Bundle Is Too Fat - <a href="https://medium.com/javascript-in-plain-english/your-javascript-bundle-is-too-fat-b3e34d60ad21" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. …when all we ever needed was a text box - <a href="https://medium.com/@baktakt/when-all-we-ever-needed-was-a-text-box-c672c52a0dca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Johan Uddståhl`**
 
-<blockquote>It’s not just about speed; it’s about user experience, SEO, bounce rates, and whether your visitors stick around long enough to actually…</blockquote>
+<blockquote>or how 2025 will be back to basics for the web</blockquote>
 
 <h3>3. Bolt DIY + Deepseek V3 + Gemini 2.0: The Free AI Coder - <a href="https://medium.com/ai-advances/bolt-diy-deepseek-v3-gemini-2-0-the-free-ai-coder-84a71498b380" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,17 +278,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Hey, have you heard about Bolt DIY?</blockquote>
 
-<h3>4. Introduction to Radix Angular - <a href="https://medium.com/@pimenovoleg/introduction-to-radix-angular-8327a71ba52e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Frontend Developer Roadmap 2025: The Complete Guide - <a href="https://medium.com/gitconnected/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oleg Pimenov`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Radix Angular is an open-source library that brings the power of Radix UI’s headless primitives to the Angular ecosystem. If you’re…</blockquote>
+<blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
 
-<h3>5. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/@iamalvisng/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Your JavaScript Bundle Is Too Fat - <a href="https://medium.com/javascript-in-plain-english/your-javascript-bundle-is-too-fat-b3e34d60ad21" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alvis Ng`**
+✍️ **posted by `JavaScript in Plain English`**
 
-<blockquote>A Deep Dive into the Practicalities, Pitfalls, and Potential of Next.js’s Server-Side Feature</blockquote>
+<blockquote>It’s not just about speed; it’s about user experience, SEO, bounce rates, and whether your visitors stick around long enough to actually…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -356,17 +356,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Hiring Is Broken. And Not In The Way You Think. - <a href="https://medium.com/entrepreneur-s-handbook/hiring-is-broken-and-not-in-the-way-you-think-0d0288242377" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Meta decision: you can’t put the toothpaste back in the tube - <a href="https://medium.com/user-experience-design-1/the-meta-decision-you-cant-put-the-toothpaste-back-in-the-tube-6f1e0cb66ee6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Entrepreneurship Handbook`**
+✍️ **posted by `UX Collective`**
 
-<blockquote>As hiring ramps up in 2025, managers and job seekers alike face a hopeless clusterf***k.</blockquote>
+<blockquote>You can relinquish fact-checking responsibilities but can you ever be neutral again?</blockquote>
 
-<h3>2. The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer - <a href="https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2025-as-a-staff-software-engineer-98033c94566e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Beatles Break-up: A Quick Guide - <a href="https://medium.com/rock-nheavy/the-beatles-break-up-a-quick-guide-b4aa438e328d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Rock n’ Heavy`**
 
-<blockquote>Tools I use that are cheaper than Netflix</blockquote>
+<blockquote>The Beatles’ breakup is the most misunderstood topic debated by fans online, shaped by inaccuracies and agendas.</blockquote>
 
 <h3>3. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -380,51 +380,51 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The biggest challenge of the generative AI age is leaders defining value for their organization</blockquote>
 
-<h3>5. Is the Modern Tech Age A Giant Scam? - <a href="https://medium.com/never-stop-writing/is-the-modern-tech-age-a-giant-scam-e634a066c2d7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Tension Between Anomalies in the Sky and National Security - <a href="https://medium.com/@avi-loeb/the-tension-between-anomalies-in-the-sky-and-national-security-a0eed889003b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Never Stop Writing`**
+✍️ **posted by `Avi Loeb`**
 
-<blockquote>It sure feels like it sometimes</blockquote>
+<blockquote>The sky is our window to the Universe. Looking up allows us to get informed about our cosmic roots. A lot has happened over the past 13.8…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Listening to My Parents’ Late Night Quarrels - <a href="https://medium.com/invisible-illness/listening-to-my-parents-late-night-quarrels-16db699bf149" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. the river doesn’t apologize for changing - <a href="https://medium.com/@fyoaeuriz/the-river-doesnt-apologize-for-changing-04b319d2293c" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `iris ୨୧`**
+
+<blockquote>to learn, unlearn, and keep moving forward</blockquote>
+
+<h3>2. What It’s Really Like To Ride in a Waymo Driverless Car - <a href="https://medium.com/muddyum/what-its-really-like-to-ride-in-a-waymo-driverless-car-7d45c35a379f" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `MuddyUm`**
+
+<blockquote>Or how a robot almost convinced my wife to kill me</blockquote>
+
+<h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `iris ୨୧`**
+
+<blockquote>you owe it to yourself to live a life that’s yours</blockquote>
+
+<h3>4. Letting You Go Wasn’t a Decision—I Was Simply Left with No Choice But to Lose You - <a href="https://medium.com/@saikikeshi/letting-you-go-wasnt-a-decision-i-was-simply-left-with-no-choice-but-to-lose-you-95d3e839fbb0" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `life in letters`**
+
+<blockquote>When Love Knows No Choice But to Let Go</blockquote>
+
+<h3>5. What I Want My Mum to Know About Autism — Helen Olivier - <a href="https://medium.com/invisible-illness/what-i-want-my-mum-to-know-about-autism-helen-olivier-c3ec8a09882a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Invisible Illness`**
 
-<blockquote>How growing up in an unstable family made me hypervigilant</blockquote>
-
-<h3>2. Why My Mother Wanted Rebirth Without The Upgrade - <a href="https://medium.com/age-of-empathy/why-my-mother-wanted-rebirth-without-the-upgrade-bb23429fe35b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Age of Empathy`**
-
-<blockquote>A family reunion beyond — reimagining rebirth</blockquote>
-
-<h3>3. My 73-Year-Old Friend Is Divorcing Her 77-Year-Old Husband - <a href="https://medium.com/age-of-empathy/my-73-year-old-friend-is-divorcing-her-77-year-old-husband-75eed22e5b9d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Age of Empathy`**
-
-<blockquote>After 40 years of marriage, she divorces a cheap, mean man</blockquote>
-
-<h3>4. After She Left, He Tried To Change. She Blew Up At Him. - <a href="https://medium.com/@ossiana.tepfenhart/after-she-left-he-tried-to-change-she-blew-up-at-him-fe12c017beff" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ossiana Tepfenhart`**
-
-<blockquote>“What? I don’t understand. I am doing what you asked me to!?!”</blockquote>
-
-<h3>5. How Not To Climb a Mountain - <a href="https://medium.com/digital-global-traveler/how-not-to-climb-a-mountain-527bd683bcf7" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Digital Global Traveler`**
-
-<blockquote>The French Army, rum, and flip-flops at 10,000 feet</blockquote>
+<blockquote>Dear mum, I know you are confused about my recent autistic diagnosis. I would like to tell you more about it.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Understanding Weak vs Unowned References in Swift with Examples - <a href="https://medium.com/@alicantarim/understanding-weak-vs-unowned-references-in-swift-with-examples-869afb44672b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Config Editor Lab — Mobile Hacking Labs - <a href="https://medium.com/@eminf.egitim/config-editor-lab-mobile-hacking-labs-55c8ccdd074f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alican Tarım`**
+✍️ **posted by `Emin Fidan`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Exploring vulnerabilities in mobile applications often reveals fascinating insights into how software handles critical operations. In this…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Understanding the Need for Advanced Cleanup</blockquote>
 
-<h3>4. Config Editor Lab — Mobile Hacking Labs - <a href="https://medium.com/@eminf.egitim/config-editor-lab-mobile-hacking-labs-55c8ccdd074f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Post Broad Lab — Mobile Hacking Lab - <a href="https://medium.com/@eminf.egitim/post-broad-lab-mobile-hacking-lab-122976a08dd0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Emin Fidan`**
 
-<blockquote>Exploring vulnerabilities in mobile applications often reveals fascinating insights into how software handles critical operations. In this…</blockquote>
+<blockquote>In the world of mobile application security, vulnerabilities such as Cross-Site Scripting (XSS) can present significant risks if not…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -549,11 +549,11 @@ Unlike its…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Optimizing AWS EKS Cost Efficiency: Utilizing Spot Instances to Boost Affordability and Resilience - <a href="https://medium.com/thousandeyes-engineering/optimizing-aws-eks-cost-efficiency-utilizing-spot-instances-to-boost-affordability-and-resilience-ebcb0b333ce7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Enable Swap in Your EKS Cluster in Under 5 Minutes - <a href="https://medium.com/@eliran89c/how-to-enable-swap-in-your-eks-cluster-in-under-5-minutes-b87524cc821b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Cisco® ThousandEyes® Engineering`**
+✍️ **posted by `Eliran Cohen`**
 
-<blockquote>By Ananth Bhat, Senior Site Reliability Engineer and Uday Pani, Senior AI/ML Cloud Engineer</blockquote>
+<blockquote>Two years ago, I wrote an article focusing on Kubernetes CPU. If you haven’t read it yet, go check it out! It’s a great article😊. In…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -567,11 +567,11 @@ Unlike its…</blockquote>
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Vault — from Zero to Hero - <a href="https://medium.com/clearroute-engineering/vault-from-zero-to-hero-5311f7b7c1f8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. It’s Easy to Clear DevOps Interview, When You Know This.. - <a href="https://medium.com/@thecloudarchitect/its-easy-to-clear-devops-interview-when-you-know-this-fe7153b2b5c4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ClearRoute Engineering`**
+✍️ **posted by `Deep -- Cloud / DevOps Engineer`**
 
-<blockquote>A DIY success story from a team adopting HashiCorp Vault for Kubernetes Secrets Management</blockquote>
+<blockquote>On a free Medium plan? Click here to read free & Please Do Follow Me</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -581,11 +581,11 @@ Unlike its…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. The AI Tool That Cuts Your Docker Container Sizes by 80% - <a href="https://medium.com/generative-ai/the-ai-tool-that-cuts-your-docker-container-sizes-by-80-08cf1644cf34" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Setting Up Apache Kafka with Docker - <a href="https://medium.com/@adilsaid64/setting-up-apache-kafka-with-docker-ad33ac88f6af" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Generative AI`**
+✍️ **posted by `Adil Said`**
 
-<blockquote>How Docker Shrink Optimizes Containers and Saves You Time and Money</blockquote>
+<blockquote>This tutorial will guide you through setting up Apache Kafka using Docker and creating basic Python producers and consumers.</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -599,11 +599,11 @@ Unlike its…</blockquote>
 
 <blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
-<h3>4. Run Large Language Model in docker —  AI on Your Local Environment. - <a href="https://medium.com/@sejuba/run-large-language-model-in-docker-ai-on-your-local-environment-e5571be5d8b1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The AI Tool That Cuts Your Docker Container Sizes by 80% - <a href="https://medium.com/generative-ai/the-ai-tool-that-cuts-your-docker-container-sizes-by-80-08cf1644cf34" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Olawepo Olayemi`**
+✍️ **posted by `Generative AI`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>How Docker Shrink Optimizes Containers and Saves You Time and Money</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
