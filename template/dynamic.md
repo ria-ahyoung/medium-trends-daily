@@ -160,11 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. A tale of Handlebars and State Management - <a href="https://medium.com/@usottah/a-tale-of-handlebars-and-state-management-ee714362a838" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Uchechukwu Samuel Ottah`**
+✍️ **posted by `Hayden Baillio`**
 
-<blockquote>State management. Those two words can strike fear into the hearts of even the most seasoned engineers…</blockquote>
+<blockquote>When CVEs Become Tough Love</blockquote>
 
 <h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,11 +178,11 @@
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. PHP vs Node.js in 2025 - <a href="https://medium.com/@mehdibafdil/php-vs-node-js-in-2025-d643a974e4bb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hayden Baillio`**
+✍️ **posted by `Mehdi BAFDIL`**
 
-<blockquote>When CVEs Become Tough Love</blockquote>
+<blockquote>The Shocking Truth About Performance</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -262,11 +262,11 @@
 
 <blockquote>This is not just another story of a disgruntled ex-employee. I’m not shying away from the serious corporate espionage or the ethical…</blockquote>
 
-<h3>2. What developers miss about the Single Responsibility Principle - <a href="https://medium.com/gitconnected/what-developers-miss-about-the-single-responsibility-principle-de863574a917" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. One Hour of Learning, Three Hours of Creating: 9 Programming Beginners Take on Their First… - <a href="https://medium.com/@ryoshi3z/one-hour-of-learning-three-hours-of-creating-9-programming-beginners-take-on-their-first-b515845acefd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Ryo Shimizu(shi3z)`**
 
-<blockquote>The real meaning of the “S” in SOLID</blockquote>
+<blockquote>The “AI Hackathon for Beginners” I recently held in Nagaoka was quite an ambitious experiment — teaching basic programming and running a…</blockquote>
 
 <h3>3. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,17 +274,17 @@
 
 <blockquote>My top tips for being a great Software Architect and making the best decisions for your teams and projects.</blockquote>
 
-<h3>4. The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer - <a href="https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2025-as-a-staff-software-engineer-98033c94566e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How a Forgotten Receipt Can Lead to a Clever Scam - <a href="https://medium.com/@Bohr/how-a-forgotten-receipt-can-lead-to-a-clever-scam-e7df4bd13caf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Bour Abdelhadi`**
 
-<blockquote>Tools I use that are cheaper than Netflix</blockquote>
+<blockquote>I was standing at the self-checkout in a Boots store in London. As usual, someone had left their receipt behind on the machine. I glanced…</blockquote>
 
-<h3>5. Your JavaScript Bundle Is Too Fat - <a href="https://medium.com/javascript-in-plain-english/your-javascript-bundle-is-too-fat-b3e34d60ad21" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Tech Recruitment is Broken: Make Companies Respect Your Time - <a href="https://medium.com/@pavelfokin/tech-recruitment-is-broken-make-companies-respect-your-time-4622102b5ac8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Pavel Fokin`**
 
-<blockquote>It’s not just about speed; it’s about user experience, SEO, bounce rates, and whether your visitors stick around long enough to actually…</blockquote>
+<blockquote>Interviews are a black hole of time, with all the risks on a developer.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. the river doesn’t apologize for changing - <a href="https://medium.com/@fyoaeuriz/the-river-doesnt-apologize-for-changing-04b319d2293c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. it’s not your fault that you were soft in a world that punishes softness - <a href="https://medium.com/@fyoaeuriz/its-not-your-fault-that-you-were-soft-in-a-world-that-punishes-softness-d37a6a3e0ac0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `iris ୨୧`**
 
-<blockquote>to learn, unlearn, and keep moving forward</blockquote>
+<blockquote>forgive yourself because you deserve to move on</blockquote>
 
-<h3>2. What It’s Really Like To Ride in a Waymo Driverless Car - <a href="https://medium.com/muddyum/what-its-really-like-to-ride-in-a-waymo-driverless-car-7d45c35a379f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Weight of Perfectionism - <a href="https://medium.com/age-of-empathy/the-weight-of-perfectionism-dff614b2d4b5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MuddyUm`**
+✍️ **posted by `Age of Empathy`**
 
-<blockquote>Or how a robot almost convinced my wife to kill me</blockquote>
+<blockquote>Learning grace through shattered porcelain and damaged pride</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,25 +338,25 @@
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. Letting You Go Wasn’t a Decision—I Was Simply Left with No Choice But to Lose You - <a href="https://medium.com/@saikikeshi/letting-you-go-wasnt-a-decision-i-was-simply-left-with-no-choice-but-to-lose-you-95d3e839fbb0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The value of emotional control - <a href="https://medium.com/@iamalexmathers/the-value-of-emotional-control-76845c50756c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `life in letters`**
+✍️ **posted by `Alex Mathers`**
 
-<blockquote>When Love Knows No Choice But to Let Go</blockquote>
+<blockquote>Have better relationships</blockquote>
 
-<h3>5. What I Want My Mum to Know About Autism — Helen Olivier - <a href="https://medium.com/invisible-illness/what-i-want-my-mum-to-know-about-autism-helen-olivier-c3ec8a09882a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Losing My Stepfather Showed Me The Community We Sacrificed For Boundaries - <a href="https://medium.com/invisible-illness/losing-my-stepfather-showed-me-the-community-we-sacrificed-for-boundaries-7cf52a5c5b4c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Invisible Illness`**
 
-<blockquote>Dear mum, I know you are confused about my recent autistic diagnosis. I would like to tell you more about it.</blockquote>
+<blockquote>Stop putting yourself first</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Config Editor Lab — Mobile Hacking Labs - <a href="https://medium.com/@eminf.egitim/config-editor-lab-mobile-hacking-labs-55c8ccdd074f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Tap to focus: Mastering CameraX Transformations in Jetpack Compose - <a href="https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Emin Fidan`**
+✍️ **posted by `Android Developers`**
 
-<blockquote>Exploring vulnerabilities in mobile applications often reveals fascinating insights into how software handles critical operations. In this…</blockquote>
+<blockquote>Part 2 — Using the Compose gesture system , graphics, and coroutines to implement a visual tap-to-focus.</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -370,11 +370,11 @@
 
 <blockquote>Understanding the Need for Advanced Cleanup</blockquote>
 
-<h3>4. Post Broad Lab — Mobile Hacking Lab - <a href="https://medium.com/@eminf.egitim/post-broad-lab-mobile-hacking-lab-122976a08dd0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Advanced Tips for Efficient React Development from a former MS Dev - <a href="https://medium.com/sourcescribes/advanced-tips-for-efficient-react-development-from-a-former-ms-dev-271a74a16726" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Emin Fidan`**
+✍️ **posted by `OpenSourceScribes`**
 
-<blockquote>In the world of mobile application security, vulnerabilities such as Cross-Site Scripting (XSS) can present significant risks if not…</blockquote>
+<blockquote>Tips to using React in your development work</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -384,11 +384,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. From 20 Testers to Play Store in 14 Days: How I Published My App - <a href="https://medium.com/@pasindu-kavinda/from-20-testers-to-play-store-in-14-days-how-i-published-my-app-4ad5f3b36efe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Implementing SMS OTP Retrieval with Jetpack Compose - <a href="https://medium.com/@eneskayiklik/implementing-sms-otp-retrieval-with-jetpack-compose-6cd10c4a6429" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pasindu Kavinda`**
+✍️ **posted by `Enes Kayıklık`**
 
-<blockquote>Have you ever had a headache trying to publish an app on the Play Console with a personal account?</blockquote>
+<blockquote>A Step-by-Step Guide to Seamlessly Handling System Broadcasts in Android Apps with Jetpack Compose</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -396,17 +396,17 @@
 
 <blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
-<h3>3. Exploring ViewModel Internals - <a href="https://medium.com/proandroiddev/exploring-viewmodel-internals-4ca414b4080b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Mastering Kotlin Coroutine Channels in Android: From Basics to Advanced Patterns - <a href="https://medium.com/proandroiddev/mastering-kotlin-coroutine-channels-in-android-from-basics-to-advanced-patterns-b6fdd7754cca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ProAndroidDev`**
 
-<blockquote>At Google I/O 2017, Google introduced Architecture Components, a collection of libraries designed to address core challenges in Android…</blockquote>
+<blockquote>Master inter-coroutine communication in Android: A complete guide to Kotlin Channels, from basic concepts to production patterns.</blockquote>
 
-<h3>4. Tap to focus: Mastering CameraX Transformations in Jetpack Compose - <a href="https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Cross-Platform Libraries with Kotlin Multiplatform (KMP/KMM): A Deep Dive into Socket.IO - <a href="https://medium.com/@rahuljindaltech/building-cross-platform-libraries-with-kotlin-multiplatform-kmp-kmm-a-deep-dive-into-socket-io-89e58c3b221c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Android Developers`**
+✍️ **posted by `RAHUL JINDAL`**
 
-<blockquote>Part 2 — Using the Compose gesture system , graphics, and coroutines to implement a visual tap-to-focus.</blockquote>
+<blockquote>“The only thing worse than writing code for two platforms is writing the same code twice.”</blockquote>
 
 <h3>5. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,12 +416,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Mastering Navigation in SwiftUI with NavigationStack - <a href="https://medium.com/@naqeeb-ahmed/mastering-navigation-in-swiftui-with-navigationstack-955cab39c050" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building Cross-Platform Libraries with Kotlin Multiplatform (KMP/KMM): A Deep Dive into Socket.IO - <a href="https://medium.com/@rahuljindaltech/building-cross-platform-libraries-with-kotlin-multiplatform-kmp-kmm-a-deep-dive-into-socket-io-89e58c3b221c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ahmed Naqeeb`**
+✍️ **posted by `RAHUL JINDAL`**
 
-<blockquote>In SwiftUI, NavigationStack is a modern approach to managing navigation in an app introduced with iOS 16 and Swift 4.0
-Unlike its…</blockquote>
+<blockquote>“The only thing worse than writing code for two platforms is writing the same code twice.”</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -435,11 +434,11 @@ Unlike its…</blockquote>
 
 <blockquote>You’ll be amazed to know your iPhone could do this!</blockquote>
 
-<h3>4. Understanding Weak vs Unowned References in Swift with Examples - <a href="https://medium.com/@alicantarim/understanding-weak-vs-unowned-references-in-swift-with-examples-869afb44672b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. [iOS] Sorry, App Intents are fancy, but often frustrating - <a href="https://medium.com/@Jager-yoo/ios-sorry-app-intents-are-fancy-but-often-frustrating-7ab01f25fe01" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alican Tarım`**
+✍️ **posted by `Jaeho Yoo`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Based on my two years of real-life App Intents experience — true story.</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -449,11 +448,11 @@ Unlike its…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. From Bottlenecks to Breakthroughs: How the Compute API Redefines Provisioning - <a href="https://medium.com/trendyol-tech/from-bottlenecks-to-breakthroughs-how-the-compute-api-redefines-provisioning-a17701e2fafe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 🚀 AI-Powered Kubernetes Log Monitoring: Detecting Anomalies in Real-Time - <a href="https://medium.com/@idrisniyi94/ai-powered-kubernetes-log-monitoring-detecting-anomalies-in-real-time-4333a3c03121" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Trendyol Tech`**
+✍️ **posted by `Idris Fagbemi`**
 
-<blockquote>Managing the life cycles of 100,000 virtual machines  in cluster-based systems presents significant challenges…</blockquote>
+<blockquote>Managing logs in a Kubernetes cluster can feel like finding a needle in a haystack. With microservices generating thousands of log lines…</blockquote>
 
 <h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -461,17 +460,17 @@ Unlike its…</blockquote>
 
 <blockquote>Ineffable Cryptography: The science behind a new era of cybersecurity</blockquote>
 
-<h3>3. Say goodbye to slow, clunky containers and VMs - <a href="https://medium.com/technology-hits/say-goodbye-to-slow-clunky-containers-and-vms-7d87e79ce198" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top DevOps Tools for Infrastructure Automation in 2025 - <a href="https://medium.com/env0/top-devops-tools-for-infrastructure-automation-in-2025-cae2288e8314" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Technology Hits`**
+✍️ **posted by `env0`**
 
-<blockquote>Stop Using Docker Desktop: A Faster, Lightweight Alternative You Haven’t Tried Yet</blockquote>
+<blockquote>Explore the top DevOps tools for infrastructure automation, designed to streamline workflows, boost efficiency & simplify cloud management.</blockquote>
 
-<h3>4. 10 DevOps Books That Are Worth Every Penny - <a href="https://medium.com/@andreybyhalenko/10-devops-books-that-are-worth-every-penny-ef6902c3a82a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How I Passed the Certified GitOps Associate (CGOA) Exam in Less Than a Week - <a href="https://medium.com/@alexandre.cravid/how-i-passed-the-certified-gitops-associate-cgoa-exam-in-less-than-a-week-99347629b5ed" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Andrey Byhalenko`**
+✍️ **posted by `Alexandre Cravid`**
 
-<blockquote>Having read every one of these books during 2024, I thought they would be really useful for any DevOps engineer.</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -481,11 +480,11 @@ Unlike its…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. How to Enable Swap in Your EKS Cluster in Under 5 Minutes - <a href="https://medium.com/@eliran89c/how-to-enable-swap-in-your-eks-cluster-in-under-5-minutes-b87524cc821b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 🚀 AI-Powered Kubernetes Log Monitoring: Detecting Anomalies in Real-Time - <a href="https://medium.com/@idrisniyi94/ai-powered-kubernetes-log-monitoring-detecting-anomalies-in-real-time-4333a3c03121" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Eliran Cohen`**
+✍️ **posted by `Idris Fagbemi`**
 
-<blockquote>Two years ago, I wrote an article focusing on Kubernetes CPU. If you haven’t read it yet, go check it out! It’s a great article😊. In…</blockquote>
+<blockquote>Managing logs in a Kubernetes cluster can feel like finding a needle in a haystack. With microservices generating thousands of log lines…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -499,11 +498,11 @@ Unlike its…</blockquote>
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. It’s Easy to Clear DevOps Interview, When You Know This.. - <a href="https://medium.com/@thecloudarchitect/its-easy-to-clear-devops-interview-when-you-know-this-fe7153b2b5c4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Tutorial : Part 2 : Kubectl Commands and Installation - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-2-kubectl-commands-and-installation-4bccb0ce2838" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deep -- Cloud / DevOps Engineer`**
+✍️ **posted by `Priya Srivastava`**
 
-<blockquote>On a free Medium plan? Click here to read free & Please Do Follow Me</blockquote>
+<blockquote>Well its important that we understand the Kubernetes as a concept , but it is also require that we know how to use it .</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -513,11 +512,11 @@ Unlike its…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Setting Up Apache Kafka with Docker - <a href="https://medium.com/@adilsaid64/setting-up-apache-kafka-with-docker-ad33ac88f6af" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Comprehensive Guide to Deploying Private Repositories with Docker, Nginx, GitHub Actions, and HTTPS… - <a href="https://medium.com/@lakshitha1629/comprehensive-guide-to-deploying-private-repositories-with-docker-nginx-github-actions-and-https-b630716b12a1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Adil Said`**
+✍️ **posted by `Lakshitha Perera`**
 
-<blockquote>This tutorial will guide you through setting up Apache Kafka using Docker and creating basic Python producers and consumers.</blockquote>
+<blockquote>This guide provides a detailed walkthrough for deploying private GitHub repositories using Docker, Nginx, and GitHub Actions, along with…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +530,11 @@ Unlike its…</blockquote>
 
 <blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
-<h3>4. The AI Tool That Cuts Your Docker Container Sizes by 80% - <a href="https://medium.com/generative-ai/the-ai-tool-that-cuts-your-docker-container-sizes-by-80-08cf1644cf34" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Managing Minikube Clusters with K9s - <a href="https://medium.com/@netopschic/managing-minikube-clusters-with-k9s-db80cb227b09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Generative AI`**
+✍️ **posted by `NetOpsChic`**
 
-<blockquote>How Docker Shrink Optimizes Containers and Saves You Time and Money</blockquote>
+<blockquote>We all start learning Kubernetes from Kubectl CLI, but there are other ways to manage a cluster, a UI way.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
