@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/12)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/13)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. How the Garbage collection work in java? but why so many algorithms are introduced ? - <a href="https://medium.com/devops-dev/how-the-garbage-collection-work-in-java-but-why-so-many-algorithms-are-introduced-88b81a523524" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Optimizing React Performance: Advanced Techniques - <a href="https://medium.com/@rahul.dinkar/optimizing-react-performance-advanced-techniques-94796ff2f672" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevOps.dev`**
+✍️ **posted by `Rahul Dinkar`**
 
-<blockquote>Java’s garbage collection (GC) is an automatic memory management process. It helps manage memory in the heap, which is used to store…</blockquote>
+<blockquote>Learn advanced React performance optimization techniques: state localization, computation isolation & smart caching patterns for faster…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,25 +86,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>q</blockquote>
 
-<h3>4. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why you should not put index as the key in React - <a href="https://medium.com/@scekicm02/why-you-should-not-put-index-as-the-key-in-react-0acb969475d9" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Marko Scekic`**
+
+<blockquote>I always treated the key prop in React components as something not too important, but by accident, I realized that it’s actually crucial.</blockquote>
+
+<h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Max Shahdoost`**
 
 <blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
 
-<h3>5. 7 ReactJs Projects to Become a Better Developer - <a href="https://medium.com/javascript-in-plain-english/7-reactjs-projects-to-become-a-better-developer-98ca544bdf84" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `JavaScript in Plain English`**
-
-<blockquote>ReactJs is an Awesome Javascript library that makes building websites interactive and dynamic. It is useful for every developer, whenever…</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective - <a href="https://medium.com/@a.heydari.dev/simplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering forms in Next.js 15 and React 19 - <a href="https://medium.com/@kolbysisk/mastering-forms-in-next-js-15-and-react-19-e3d2d783946b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ali Heydari`**
+✍️ **posted by `Kolby Sisk`**
 
-<blockquote>Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styling with this beginner-friendly guide.</blockquote>
+<blockquote>Creating forms in modern React has evolved significantly with the latest releases. In this post we’ll explore best practices for building…</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/@iamalvisng/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -112,17 +112,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>A Deep Dive into the Practicalities, Pitfalls, and Potential of Next.js’s Server-Side Feature</blockquote>
 
-<h3>3. Top 7 Alternatives to Next.js in 2025 - <a href="https://medium.com/bitsrc/top-7-alternatives-to-next-js-in-2025-917bf9d5ffba" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Integrating Sanity with Next.js: A Guide to Data Import and Environment Setup - <a href="https://medium.com/@huzaifa3108hassan/integrating-sanity-with-next-js-a-guide-to-data-import-and-environment-setup-760eb41ea2a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bits and Pieces`**
+✍️ **posted by `HassanRJ`**
 
-<blockquote>Exploring Modern Frameworks That Bring Unique Strengths to Web Development Beyond Next.js</blockquote>
+<blockquote>In this blog post, we’ll walk through the process of integrating Sanity with an existing Next.js project, focusing on setting up…</blockquote>
 
-<h3>4. Efficient Data Exchange Between Docker Containers Using Shared Volumes - <a href="https://medium.com/@iamjunaid021/efficient-data-exchange-between-docker-containers-using-shared-volumes-634feaa24232" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective - <a href="https://medium.com/@a.heydari.dev/simplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `i_am_junaid`**
+✍️ **posted by `Ali Heydari`**
 
-<blockquote>When building modern applications, breaking them down into isolated services or microservices can significantly improve maintainability and…</blockquote>
+<blockquote>Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styling with this beginner-friendly guide.</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. TypeScript and ES Modules: Best Practices for Imports and Exports - <a href="https://medium.com/@robinviktorsson/typescript-and-es-modules-best-practices-for-imports-and-exports-9ce200e75a88" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding TypeScript Interfaces vs. Types: Differences, Similarities, and When to Use Them - <a href="https://medium.com/@robinviktorsson/understanding-typescript-interfaces-vs-types-differences-similarities-and-when-to-use-them-8a083ddabe35" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>TypeScript, being a superset of JavaScript, offers robust support for ES modules. The ES module system (introduced in ECMAScript 6 or ES6)…</blockquote>
+<blockquote>TypeScript is a statically typed superset of JavaScript that brings type safety and enhanced development capabilities to the language…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,17 +214,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. Leveraging TypeScript’s Type Guards for Enhanced Code Maintainability - <a href="https://medium.com/gitconnected/️leveraging-typescripts-type-guards-for-enhanced-code-maintainability-c877e25aa2f6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. TypeScript and ES Modules: Best Practices for Imports and Exports - <a href="https://medium.com/@robinviktorsson/typescript-and-es-modules-best-practices-for-imports-and-exports-9ce200e75a88" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>Boost your TypeScript code’s maintainability and readability with type guards!</blockquote>
+<blockquote>TypeScript, being a superset of JavaScript, offers robust support for ES modules. The ES module system (introduced in ECMAScript 6 or ES6)…</blockquote>
 
-<h3>5. TypeScript Will Replace JavaScript Entirely in 2025 — Here’s the Proof - <a href="https://medium.com/@rabinarayandev/typescript-will-replace-javascript-entirely-in-2025-heres-the-proof-717f87537e41" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rabinarayan Patra`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>Ready for a bold prediction? By 2025, TypeScript may dethrone JavaScript entirely. Crazy? Maybe — but here’s the proof. Let’s dive in!</blockquote>
+<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
 
-<h3>4. PHP vs Node.js in 2025 - <a href="https://medium.com/@mehdibafdil/php-vs-node-js-in-2025-d643a974e4bb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Complete Node.js Backend Development: Everything You need to Know to Get Started - <a href="https://medium.com/@adarsh-gupta/the-complete-node-js-backend-development-everything-you-need-to-know-to-get-started-fadd56b7be78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehdi BAFDIL`**
+✍️ **posted by `Adarsh Gupta`**
 
-<blockquote>The Shocking Truth About Performance</blockquote>
+<blockquote>There is no prerequisite to read this blog if you know JavaScript a little bit. Everything is written for complete beginners, but that will…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Implementing Flexible and Easy-to-Use Rate Limiting in Spring Boot - <a href="https://medium.com/@yazici98/implementing-flexible-and-easy-to-use-rate-limiting-in-spring-boot-bde2ff71f4d4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Error Handling in Go: The New ? operator - <a href="https://medium.com/plain-golang-tutorial/error-handling-in-go-the-new-operator-da92a0207b1e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yavuz Yazici`**
+✍️ **posted by `The Ordinary Programmer`**
 
-<blockquote>In today’s fast-paced digital world, rate limiting is a critical feature to ensure system stability, prevent abuse, and provide fair…</blockquote>
+<blockquote>It’s Not A Silver Bullet.</blockquote>
 
 <h3>2. …when all we ever needed was a text box - <a href="https://medium.com/@baktakt/when-all-we-ever-needed-was-a-text-box-c672c52a0dca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Hey, have you heard about Bolt DIY?</blockquote>
 
-<h3>4. Frontend Developer Roadmap 2025: The Complete Guide - <a href="https://medium.com/gitconnected/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Variable Trinity: Understanding var, const, and let for Better Coding - <a href="https://medium.com/@okparafavour202/the-variable-trinity-understanding-var-const-and-let-for-better-coding-bffe5950b657" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Okpara Favour`**
 
-<blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
+<blockquote>Variables are an essential part of JavaScript. In JavaScript, a variable is a container that holds a value — think of it as a labeled box…</blockquote>
 
 <h3>5. Your JavaScript Bundle Is Too Fat - <a href="https://medium.com/javascript-in-plain-english/your-javascript-bundle-is-too-fat-b3e34d60ad21" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -324,11 +324,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Fired From Meta After 1 Week: Here’s All The Dirt I Got - <a href="https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. You are an absolute moron for believing in the hype of “AI Agents”. - <a href="https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sebastian Carlos`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>This is not just another story of a disgruntled ex-employee. I’m not shying away from the serious corporate espionage or the ethical…</blockquote>
+<blockquote>I can’t even browse LinkedIn without seeing some product manager hype about agents coming “just around the corner”.</blockquote>
 
 <h3>2. One Hour of Learning, Three Hours of Creating: 9 Programming Beginners Take on Their First… - <a href="https://medium.com/@ryoshi3z/one-hour-of-learning-three-hours-of-creating-9-programming-beginners-take-on-their-first-b515845acefd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -336,17 +336,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The “AI Hackathon for Beginners” I recently held in Nagaoka was quite an ambitious experiment — teaching basic programming and running a…</blockquote>
 
-<h3>3. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Fired From Meta After 1 Week: Here’s All The Dirt I Got - <a href="https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Sebastian Carlos`**
 
-<blockquote>My top tips for being a great Software Architect and making the best decisions for your teams and projects.</blockquote>
+<blockquote>This is not just another story of a disgruntled ex-employee. I’m not shying away from the serious corporate espionage or the ethical…</blockquote>
 
-<h3>4. How a Forgotten Receipt Can Lead to a Clever Scam - <a href="https://medium.com/@Bohr/how-a-forgotten-receipt-can-lead-to-a-clever-scam-e7df4bd13caf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. "The Circle of Love: How the Love You Give to the World Always Finds Its Way Back to You" - <a href="https://medium.com/@Researchbulation99/the-circle-of-love-how-the-love-you-give-to-the-world-always-finds-its-way-back-to-you-d81584830be0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bour Abdelhadi`**
+✍️ **posted by `research bulletin`**
 
-<blockquote>I was standing at the self-checkout in a Boots store in London. As usual, someone had left their receipt behind on the machine. I glanced…</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. Tech Recruitment is Broken: Make Companies Respect Your Time - <a href="https://medium.com/@pavelfokin/tech-recruitment-is-broken-make-companies-respect-your-time-4622102b5ac8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,17 +356,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. The Meta decision: you can’t put the toothpaste back in the tube - <a href="https://medium.com/user-experience-design-1/the-meta-decision-you-cant-put-the-toothpaste-back-in-the-tube-6f1e0cb66ee6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. AI to Code Like Engineers by 2025, Predicts Zuckerberg - <a href="https://medium.com/@types24digital/ai-to-code-like-engineers-by-2025-predicts-zuckerberg-1e0b2ec8bea6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `UX Collective`**
+✍️ **posted by `Types Digital`**
 
-<blockquote>You can relinquish fact-checking responsibilities but can you ever be neutral again?</blockquote>
+<blockquote>In an era where technology evolves at breakneck speed, Mark Zuckerberg, the visionary behind Meta, has made a bold prediction: by 2025…</blockquote>
 
-<h3>2. The Beatles Break-up: A Quick Guide - <a href="https://medium.com/rock-nheavy/the-beatles-break-up-a-quick-guide-b4aa438e328d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Nerds, Curdled - <a href="https://medium.com/bouncin-and-behavin-blogs/nerds-curdled-60d64a885c28" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rock n’ Heavy`**
+✍️ **posted by `Bouncin’ and Behavin’ Blogs`**
 
-<blockquote>The Beatles’ breakup is the most misunderstood topic debated by fans online, shaped by inaccuracies and agendas.</blockquote>
+<blockquote>Why are modern business tycoons like this?</blockquote>
 
 <h3>3. My Top 3 Tips for Being a Great Software Architect - <a href="https://medium.com/gitconnected/my-top-3-tips-for-being-a-great-software-architect-173c3755b68b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,17 +374,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>My top tips for being a great Software Architect and making the best decisions for your teams and projects.</blockquote>
 
-<h3>4. Endless Right Answers: Explaining the Generative AI Value Gap - <a href="https://medium.com/@kozyrkov/endless-right-answers-explaining-the-generative-ai-value-gap-b5e5c37edd6d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. You are an absolute moron for believing in the hype of “AI Agents”. - <a href="https://medium.com/@austin-starks/you-are-an-absolute-moron-for-believing-in-the-hype-of-ai-agents-c0f760e7e48e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Cassie Kozyrkov`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>The biggest challenge of the generative AI age is leaders defining value for their organization</blockquote>
+<blockquote>I can’t even browse LinkedIn without seeing some product manager hype about agents coming “just around the corner”.</blockquote>
 
-<h3>5. The Tension Between Anomalies in the Sky and National Security - <a href="https://medium.com/@avi-loeb/the-tension-between-anomalies-in-the-sky-and-national-security-a0eed889003b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Printing Tech for Photographers - <a href="https://medium.com/full-frame/printing-tech-for-photographers-e5337f7e12c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Avi Loeb`**
+✍️ **posted by `Full Frame`**
 
-<blockquote>The sky is our window to the Universe. Looking up allows us to get informed about our cosmic roots. A lot has happened over the past 13.8…</blockquote>
+<blockquote>Basic techniques to make your photos physical.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -394,11 +394,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>forgive yourself because you deserve to move on</blockquote>
 
-<h3>2. The Weight of Perfectionism - <a href="https://medium.com/age-of-empathy/the-weight-of-perfectionism-dff614b2d4b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Food Became My Mom’s Unexpected Love Language - <a href="https://medium.com/rooted-publication/how-food-became-my-moms-unexpected-love-language-68fdc0a33ba8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Age of Empathy`**
+✍️ **posted by `Rooted`**
 
-<blockquote>Learning grace through shattered porcelain and damaged pride</blockquote>
+<blockquote>From going to bed hungry to a full table</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -412,19 +412,19 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Have better relationships</blockquote>
 
-<h3>5. Losing My Stepfather Showed Me The Community We Sacrificed For Boundaries - <a href="https://medium.com/invisible-illness/losing-my-stepfather-showed-me-the-community-we-sacrificed-for-boundaries-7cf52a5c5b4c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Weight of Perfectionism - <a href="https://medium.com/age-of-empathy/the-weight-of-perfectionism-dff614b2d4b5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Invisible Illness`**
+✍️ **posted by `Age of Empathy`**
 
-<blockquote>Stop putting yourself first</blockquote>
+<blockquote>Learning grace through shattered porcelain and damaged pride</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Tap to focus: Mastering CameraX Transformations in Jetpack Compose - <a href="https://medium.com/androiddevelopers/tap-to-focus-mastering-camerax-transformations-in-jetpack-compose-440853280a6e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top 3 Most Common Animations You Can Use in Your Jetpack Compose Project - <a href="https://medium.com/proandroiddev/top-3-most-common-animations-you-can-use-in-your-jetpack-compose-project-9bb92f5311a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Android Developers`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Part 2 — Using the Compose gesture system , graphics, and coroutines to implement a visual tap-to-focus.</blockquote>
+<blockquote>Enhance Your App’s User Experience with These Simple and Effective Animation Techniques in Jetpack Compose</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Understanding the Need for Advanced Cleanup</blockquote>
 
-<h3>4. Advanced Tips for Efficient React Development from a former MS Dev - <a href="https://medium.com/sourcescribes/advanced-tips-for-efficient-react-development-from-a-former-ms-dev-271a74a16726" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Hybrid Applications with React Native and Ionic: A Developer’s Tale - <a href="https://medium.com/@sameermkulkarni/building-hybrid-applications-with-react-native-and-ionic-a-developers-tale-14a8e8a1ce4a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `OpenSourceScribes`**
+✍️ **posted by `Sameer Kulkarni`**
 
-<blockquote>Tips to using React in your development work</blockquote>
+<blockquote>Hey there, fellow tech enthusiast! Let me take you on a little journey — a journey into the fascinating world of hybrid application…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Explore the top DevOps tools for infrastructure automation, designed to streamline workflows, boost efficiency & simplify cloud management.</blockquote>
 
-<h3>4. How I Passed the Certified GitOps Associate (CGOA) Exam in Less Than a Week - <a href="https://medium.com/@alexandre.cravid/how-i-passed-the-certified-gitops-associate-cgoa-exam-in-less-than-a-week-99347629b5ed" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Debugging in Python Like a Pro: Replace print() with ic() - <a href="https://medium.com/@ali_hamza/debugging-in-python-like-a-pro-replace-print-with-ic-bcbbe8037158" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alexandre Cravid`**
+✍️ **posted by `Ali Hamza`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Elevate your Python debugging skills with the power of ic() from the icecream library—clearer, smarter, and faster debugging made easy!</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
 
-<h3>4. Kubernetes Tutorial : Part 2 : Kubectl Commands and Installation - <a href="https://medium.com/@priyasrivastava18official/kubernetes-tutorial-part-2-kubectl-commands-and-installation-4bccb0ce2838" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Set Up an HTTPS Ingress with the Kubernetes CSI on AKS Using Workload Identity - <a href="https://medium.com/@usingsystem/how-to-set-up-an-https-ingress-with-the-kubernetes-csi-on-aks-using-workload-identity-c64072234537" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Priya Srivastava`**
+✍️ **posted by `using System;`**
 
-<blockquote>Well its important that we understand the Kubernetes as a concept , but it is also require that we know how to use it .</blockquote>
+<blockquote>Managing HTTPS in Kubernetes can be a bit of a puzzle — especially if you’re relying on ingress controllers like Nginx, Traefik, or any…</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
-<h3>4. Managing Minikube Clusters with K9s - <a href="https://medium.com/@netopschic/managing-minikube-clusters-with-k9s-db80cb227b09" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Containerization in Data Engineering: The Role of Docker and Kubernetes - <a href="https://medium.com/@aelbennouri/containerization-in-data-engineering-the-role-of-docker-and-kubernetes-2217cc31be28" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `NetOpsChic`**
+✍️ **posted by `Abdeslam EL BENNOURI`**
 
-<blockquote>We all start learning Kubernetes from Kubectl CLI, but there are other ways to manage a cluster, a UI way.</blockquote>
+<blockquote>1-Introduction :</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
