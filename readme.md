@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/13)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/14)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>In this blog post, we’ll walk through the process of integrating Sanity with an existing Next.js project, focusing on setting up…</blockquote>
 
-<h3>4. Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective - <a href="https://medium.com/@a.heydari.dev/simplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building Robust Client Libraries for Your Application: Best Practices for JavaScript and TypeScript - <a href="https://medium.com/@kanakkholwal/building-robust-client-libraries-for-your-application-best-practices-for-javascript-and-typescript-769108d5c8ba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ali Heydari`**
+✍️ **posted by `Kanak Kholwal`**
 
-<blockquote>Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styling with this beginner-friendly guide.</blockquote>
+<blockquote>Building Robust Client Libraries for Your Application: Best Practices for JavaScript and TypeScript</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Enterprise-Ready AI Agents in Java & Spring Boot: A Comprehensive Guide - <a href="https://medium.com/@bayramblog/enterprise-ready-ai-agents-in-java-spring-boot-a-comprehensive-guide-6cedaa8a0fe5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Write Smarter JavaScript with These Stream & Observable Tricks - <a href="https://medium.com/tech-vibes/write-smarter-javascript-with-these-stream-observable-tricks-85a63631da97" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bayram EKER`**
+✍️ **posted by `Tech Vibes`**
 
-<blockquote>The latest wave of AI agents — including Auto-GPT, BabyAGI, AgentGPT, Jarvis (HuggingGPT), and frameworks like LangChain — has shown…</blockquote>
+<blockquote>Ever feel like your JavaScript code is running circles around you instead of the other way around? You’re not alone.</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>It took me quite the time to find the hidden bug in this JavaScript code</blockquote>
 
-<h3>4. Building Efficient CI/CD Pipelines and Optimizing Java Memory for Kubernetes - <a href="https://medium.com/@pragmaticcoders/building-efficient-ci-cd-pipelines-and-optimizing-java-memory-for-kubernetes-31d00b783fe4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript: The Swiss Army Knife of Programming - <a href="https://medium.com/stackademic/javascript-the-swiss-army-knife-of-programming-08c7a988216b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Pragmatic Coders`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>This guide provides practical steps to streamline deployments and configure Java memory to prevent resource overages and pod failures.</blockquote>
+<blockquote>From building web pages to powering AI, IoT, and Web3, JavaScript is the ultimate tool for developers who dream big.</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -228,35 +228,35 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Effortless User Authentication with NestJS and Prisma: A Beginner-Friendly Guide - <a href="https://medium.com/@tona_tech/effortless-user-authentication-with-nestjs-and-prisma-a-beginner-friendly-guide-99989d36d7c2" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Adetona Adegbite`**
+
+<blockquote>Authentication is a critical part of any application, but it doesn’t have to be complex. In this article, I’ll walk you through building a…</blockquote>
+
+<h3>2. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Hayden Baillio`**
 
 <blockquote>When CVEs Become Tough Love</blockquote>
 
-<h3>2. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. NodeJS 23 is HERE! Features that will blow your mind 🤯 - <a href="https://medium.com/@Luna-Rojas/nodejs-23-is-here-features-that-will-blow-your-mind-0560ebfd8847" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Luna Rojas`**
+
+<blockquote>Released on October 16, 2024, introduces a suite of features and improvements enhancing developer experience, performance, and security.</blockquote>
+
+<h3>4. Role Base Access Control In Nest JS - <a href="https://medium.com/@palashmahabub/role-base-access-control-in-nest-js-e984f3db4634" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mahabub Hossain`**
+
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+
+<h3>5. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Games24x7 Blogs`**
 
 <blockquote>The prom-client (Prometheus Client) is the most popular library for Node.js, with approximately 2 million weekly downloads. This library…</blockquote>
-
-<h3>3. I Reduced AWS Bills by 80% Just by Optimizing Node.js Code - <a href="https://medium.com/aws-tip/i-reduced-aws-bills-by-80-just-by-optimizing-node-js-code-c8c13618d5d0" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `AWS Tip`**
-
-<blockquote>The Art of AWS Cost-Cutting: A Node.js Optimization Journey</blockquote>
-
-<h3>4. The Complete Node.js Backend Development: Everything You need to Know to Get Started - <a href="https://medium.com/@adarsh-gupta/the-complete-node-js-backend-development-everything-you-need-to-know-to-get-started-fadd56b7be78" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Adarsh Gupta`**
-
-<blockquote>There is no prerequisite to read this blog if you know JavaScript a little bit. Everything is written for complete beginners, but that will…</blockquote>
-
-<h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `JavaScript in Plain English`**
-
-<blockquote>So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you don’t want to pay a vector database…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
@@ -292,9 +292,9 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
-<h3>1. Preventing Auto-Zoom on iOS Input Fields: Best Practices for TextArea and Inputs - <a href="https://medium.com/@sildeswj/preventing-auto-zoom-on-ios-input-fields-best-practices-for-textarea-and-inputs-80bb4440febe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Preventing Auto-Zoom on iOS Input Fields: Best Practices for TextArea and Inputs - <a href="https://medium.com/stackademic/preventing-auto-zoom-on-ios-input-fields-best-practices-for-textarea-and-inputs-80bb4440febe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jay`**
+✍️ **posted by `Stackademic`**
 
 <blockquote>When using input fields like TextArea on iOS devices, you may notice that the screen automatically zooms when users tap on the field. This…</blockquote>
 
@@ -388,17 +388,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. it’s not your fault that you were soft in a world that punishes softness - <a href="https://medium.com/@fyoaeuriz/its-not-your-fault-that-you-were-soft-in-a-world-that-punishes-softness-d37a6a3e0ac0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Man Who Divorced His Wife And Then Adopted Her As His Daughter - <a href="https://medium.com/@historianandrew/the-man-who-divorced-his-wife-and-then-adopted-her-as-his-daughter-a9cf4e329562" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `Andrew Martin`**
 
-<blockquote>forgive yourself because you deserve to move on</blockquote>
+<blockquote>Few marriages have evolved in such a strange way as one Missouri couple from a century ago</blockquote>
 
-<h3>2. How Food Became My Mom’s Unexpected Love Language - <a href="https://medium.com/rooted-publication/how-food-became-my-moms-unexpected-love-language-68fdc0a33ba8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Choir Camp Made Me Glad I Fought For My Daughter’s High School - <a href="https://medium.com/age-of-empathy/choir-camp-made-me-glad-i-fought-for-my-daughters-high-school-ecddc1a24cb2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rooted`**
+✍️ **posted by `Age of Empathy`**
 
-<blockquote>From going to bed hungry to a full table</blockquote>
+<blockquote>She belongs.</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,17 +406,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. The value of emotional control - <a href="https://medium.com/@iamalexmathers/the-value-of-emotional-control-76845c50756c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. i did well today, i wish you saw - <a href="https://medium.com/@cherylkoo/i-did-well-today-i-wish-you-saw-d4edab2bb25b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex Mathers`**
+✍️ **posted by `cher`**
 
-<blockquote>Have better relationships</blockquote>
+<blockquote>As I walked out of the badminton court with a giddy feeling that I’ve successfully smashed and won the game against my family, I halted for…</blockquote>
 
-<h3>5. The Weight of Perfectionism - <a href="https://medium.com/age-of-empathy/the-weight-of-perfectionism-dff614b2d4b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How Food Became My Mom’s Unexpected Love Language - <a href="https://medium.com/rooted-publication/how-food-became-my-moms-unexpected-love-language-68fdc0a33ba8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Age of Empathy`**
+✍️ **posted by `Rooted`**
 
-<blockquote>Learning grace through shattered porcelain and damaged pride</blockquote>
+<blockquote>From going to bed hungry to a full table</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Understanding the Need for Advanced Cleanup</blockquote>
 
-<h3>4. Building Hybrid Applications with React Native and Ionic: A Developer’s Tale - <a href="https://medium.com/@sameermkulkarni/building-hybrid-applications-with-react-native-and-ionic-a-developers-tale-14a8e8a1ce4a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Composition Locals in Jetpack Compose: A Beginner-to-Advanced Guide - <a href="https://medium.com/proandroiddev/composition-locals-in-jetpack-compose-a-beginner-to-advanced-guide-e6a812ca7620" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sameer Kulkarni`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Hey there, fellow tech enthusiast! Let me take you on a little journey — a journey into the fascinating world of hybrid application…</blockquote>
+<blockquote>Did you ever need to pass data through multiple layers of composable functions without adding parameters everywhere? Meet…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Implementing SMS OTP Retrieval with Jetpack Compose - <a href="https://medium.com/@eneskayiklik/implementing-sms-otp-retrieval-with-jetpack-compose-6cd10c4a6429" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top 3 Most Common Animations You Can Use in Your Jetpack Compose Project - <a href="https://medium.com/proandroiddev/top-3-most-common-animations-you-can-use-in-your-jetpack-compose-project-9bb92f5311a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Enes Kayıklık`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>A Step-by-Step Guide to Seamlessly Handling System Broadcasts in Android Apps with Jetpack Compose</blockquote>
+<blockquote>Enhance Your App’s User Experience with These Simple and Effective Animation Techniques in Jetpack Compose</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Master inter-coroutine communication in Android: A complete guide to Kotlin Channels, from basic concepts to production patterns.</blockquote>
 
-<h3>4. Building Cross-Platform Libraries with Kotlin Multiplatform (KMP/KMM): A Deep Dive into Socket.IO - <a href="https://medium.com/@rahuljindaltech/building-cross-platform-libraries-with-kotlin-multiplatform-kmp-kmm-a-deep-dive-into-socket-io-89e58c3b221c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Easily Type the Not Equal Sign (≠) on Any Device! - <a href="https://medium.com/illumination/how-to-easily-type-the-not-equal-sign-on-any-device-642478ce6da7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `RAHUL JINDAL`**
+✍️ **posted by `ILLUMINATION`**
 
-<blockquote>“The only thing worse than writing code for two platforms is writing the same code twice.”</blockquote>
+<blockquote>Learn how to type the not equal sign (≠) on different devices like Windows, Mac, Android, iPhone, Linux, and in HTML. Discover simple…</blockquote>
 
 <h3>5. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Building Cross-Platform Libraries with Kotlin Multiplatform (KMP/KMM): A Deep Dive into Socket.IO - <a href="https://medium.com/@rahuljindaltech/building-cross-platform-libraries-with-kotlin-multiplatform-kmp-kmm-a-deep-dive-into-socket-io-89e58c3b221c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. @frozen in Swift - <a href="https://medium.com/@shobhakartiwari/frozen-in-swift-c25f934369a8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `RAHUL JINDAL`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>“The only thing worse than writing code for two platforms is writing the same code twice.”</blockquote>
+<blockquote>The `@frozen` attribute in Swift is used to optimize performance and ensure stability in library evolution. Here’s a simplified explanation…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -496,17 +496,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
-<h3>3. 5 iPhone Settings You Wish You Knew Sooner - <a href="https://medium.com/@evilgeek/5-iphone-settings-you-wish-you-knew-sooner-067447b901b6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Change These 18 iOS 18 Settings Right Now For a Superior Experience - <a href="https://medium.com/macoclock/change-these-18-ios-18-settings-right-now-for-a-superior-experience-2c1004189fb2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Evil Geek`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>You’ll be amazed to know your iPhone could do this!</blockquote>
+<blockquote>iOS 18’s got hell-a-lot features you can’t discover thyself</blockquote>
 
-<h3>4. [iOS] Sorry, App Intents are fancy, but often frustrating - <a href="https://medium.com/@Jager-yoo/ios-sorry-app-intents-are-fancy-but-often-frustrating-7ab01f25fe01" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Design an Analytics Manager in iOS - <a href="https://medium.com/@sohamb.1390/design-an-analytics-manager-in-ios-0430d58304cf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jaeho Yoo`**
+✍️ **posted by `Soham Bhattacharjee`**
 
-<blockquote>Based on my two years of real-life App Intents experience — true story.</blockquote>
+<blockquote>In many System Design interviews, candidates often face this question how to design a scalable Analytics Manager which can accommodate any…</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. 🚀 AI-Powered Kubernetes Log Monitoring: Detecting Anomalies in Real-Time - <a href="https://medium.com/@idrisniyi94/ai-powered-kubernetes-log-monitoring-detecting-anomalies-in-real-time-4333a3c03121" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Easily Back Up On-Prem Kubernetes Clusters to AWS S3 Using Velero - <a href="https://medium.com/@ali_hamza/how-to-easily-back-up-on-prem-kubernetes-clusters-to-aws-s3-using-velero-612dc9b03cef" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Idris Fagbemi`**
+✍️ **posted by `Ali Hamza`**
 
-<blockquote>Managing logs in a Kubernetes cluster can feel like finding a needle in a haystack. With microservices generating thousands of log lines…</blockquote>
+<blockquote>Safeguard Your Kubernetes Clusters with This Simple and Reliable Backup Strategy Using Velero and AWS S3.</blockquote>
 
 <h3>2. I Got 99 Problems, But a Breach Ain’t One - <a href="https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Explore the top DevOps tools for infrastructure automation, designed to streamline workflows, boost efficiency & simplify cloud management.</blockquote>
 
-<h3>4. Debugging in Python Like a Pro: Replace print() with ic() - <a href="https://medium.com/@ali_hamza/debugging-in-python-like-a-pro-replace-print-with-ic-bcbbe8037158" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Infra pull requests that make a DIFFerence - <a href="https://medium.com/itnext/infra-pull-requests-that-make-a-difference-9f363808fe52" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ali Hamza`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Elevate your Python debugging skills with the power of ic() from the icecream library—clearer, smarter, and faster debugging made easy!</blockquote>
+<blockquote>How to effectively collaborate on infrastructure as code and roll out changes with confidence</blockquote>
 
 <h3>5. Life, like SaaS, Will Never Be Perfect - <a href="https://medium.com/managing-digital-products/life-like-saas-will-never-be-perfect-d1ef04b60109" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. 🚀 AI-Powered Kubernetes Log Monitoring: Detecting Anomalies in Real-Time - <a href="https://medium.com/@idrisniyi94/ai-powered-kubernetes-log-monitoring-detecting-anomalies-in-real-time-4333a3c03121" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. ⎈ Things to Consider Before Creating an EKS Cluster on AWS ⎈ - <a href="https://medium.com/@muppedaanvesh/things-to-consider-before-creating-an-eks-cluster-on-aws-223a6eab53d7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Idris Fagbemi`**
+✍️ **posted by `Anvesh Muppeda`**
 
-<blockquote>Managing logs in a Kubernetes cluster can feel like finding a needle in a haystack. With microservices generating thousands of log lines…</blockquote>
+<blockquote>⇢ Amazon EKS Best Practices Guide ⚙️</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -560,17 +560,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Anyone who’s ever had to research and source technical B2B tooling is well-used to deciphering the pricing sections of products websites…</blockquote>
 
-<h3>3. STOP using Docker Desktop: Faster Alternative Nobody Uses - <a href="https://medium.com/gitconnected/stop-using-docker-desktop-faster-alternative-nobody-uses-d36a64af09a6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Evaluating and applying Infrastructure as Code is not like compiling and deploying application code - <a href="https://medium.com/itnext/evaluating-and-applying-infrastructure-as-code-is-not-like-compiling-and-deploying-application-code-c5f9936ef23d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Ditch Docker Desktop and try this faster, lighter tool that will make your life easier!</blockquote>
+<blockquote>Practices for building and deploying applications are not ideal for provisioning via Infrastructure as Code, due to critical differences.</blockquote>
 
-<h3>4. How to Set Up an HTTPS Ingress with the Kubernetes CSI on AKS Using Workload Identity - <a href="https://medium.com/@usingsystem/how-to-set-up-an-https-ingress-with-the-kubernetes-csi-on-aks-using-workload-identity-c64072234537" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Create a Production-Ready EKS Cluster on AWS Using Terraform (Part 1: VPC) - <a href="https://medium.com/@alex-tsvetkov/how-to-create-a-production-ready-eks-cluster-on-aws-using-terraform-part-1-vpc-e7e08d8045bb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `using System;`**
+✍️ **posted by `Alex Tsvetkov`**
 
-<blockquote>Managing HTTPS in Kubernetes can be a bit of a puzzle — especially if you’re relying on ingress controllers like Nginx, Traefik, or any…</blockquote>
+<blockquote>If you’re planning to deploy Kubernetes on AWS, starting with a robust foundation is critical. The backbone of an EKS cluster is its VPC…</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -580,11 +580,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Comprehensive Guide to Deploying Private Repositories with Docker, Nginx, GitHub Actions, and HTTPS… - <a href="https://medium.com/@lakshitha1629/comprehensive-guide-to-deploying-private-repositories-with-docker-nginx-github-actions-and-https-b630716b12a1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Testcontainers for local development setup. - <a href="https://medium.com/@sarojraj11/testcontainers-for-local-development-setup-b587cb4a8e87" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lakshitha Perera`**
+✍️ **posted by `Sarojraj`**
 
-<blockquote>This guide provides a detailed walkthrough for deploying private GitHub repositories using Docker, Nginx, and GitHub Actions, along with…</blockquote>
+<blockquote>Hi fellow developers. It is quite common to use the testcontainers in java for running integration tests. We can also use it to start…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -598,11 +598,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
-<h3>4. Containerization in Data Engineering: The Role of Docker and Kubernetes - <a href="https://medium.com/@aelbennouri/containerization-in-data-engineering-the-role-of-docker-and-kubernetes-2217cc31be28" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. From Slow to Fast: Caching POST Requests in FastAPI Using Redis - <a href="https://medium.com/stackademic/from-slow-to-fast-caching-post-requests-in-fastapi-using-redis-0219c7fa454f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abdeslam EL BENNOURI`**
+✍️ **posted by `Stackademic`**
 
-<blockquote>1-Introduction :</blockquote>
+<blockquote>Who said only GET requests get to enjoy the speed of caching? While developers often treat POST requests as uncacheable by default, there’s…</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
