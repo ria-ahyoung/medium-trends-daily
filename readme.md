@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/15)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/16)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -164,11 +164,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Write Smarter JavaScript with These Stream & Observable Tricks - <a href="https://medium.com/tech-vibes/write-smarter-javascript-with-these-stream-observable-tricks-85a63631da97" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 7 Simple Async/Await Tricks for Developers Who Hate Asynchronous JavaScript - <a href="https://medium.com/gitconnected/7-simple-async-await-tricks-for-developers-who-hate-asynchronous-javascript-fe370ac7fe72" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tech Vibes`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Ever feel like your JavaScript code is running circles around you instead of the other way around? You’re not alone.</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -176,17 +176,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. Only 1% of developers are able to find the bug in this code in less than 60 seconds - <a href="https://medium.com/@arnoldgunter/only-1-of-developers-can-find-the-error-in-this-code-90a6ae84378f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. OK, Angular 19 is amazing…🔥 Everything new! - <a href="https://medium.com/@Luna-Rojas/ok-angular-19-is-amazing-everything-new-1c2d4ae58bdf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arnold Gunter`**
+✍️ **posted by `Luna Rojas`**
 
-<blockquote>It took me quite the time to find the hidden bug in this JavaScript code</blockquote>
+<blockquote>Incremental Hydration, Signals, SSR and More</blockquote>
 
-<h3>4. JavaScript: The Swiss Army Knife of Programming - <a href="https://medium.com/stackademic/javascript-the-swiss-army-knife-of-programming-08c7a988216b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Realtime Word Count — Kafka Streams Series — 1 - <a href="https://medium.com/@shazinsadakath/realtime-word-count-kafka-streams-series-1-10f3915c52c2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stackademic`**
+✍️ **posted by `Shazin Sadakath`**
 
-<blockquote>From building web pages to powering AI, IoT, and Web3, JavaScript is the ultimate tool for developers who dream big.</blockquote>
+<blockquote>As part of Kafka Streams Series I started, let’s have a look at how to develop a real time, scalable Word Counting application. This is…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. A Simple Solution for Configuring Liveness Probes for Queue Consumers in Kubernetes - <a href="https://medium.com/promaton/a-simple-solution-for-configuring-liveness-probes-for-queue-consumers-in-kubernetes-2897930382ca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I Asked This Kubernetes Question in Every Interview — And Here’s the Catch - <a href="https://medium.com/gitconnected/i-asked-this-kubernetes-question-in-every-interview-and-heres-the-catch-6d37cc7cb7a5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Promaton`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>At Promaton, we run a bunch of Python consumers that listen to a queue and process jobs that require some dental AI magic 🦷. A few months…</blockquote>
+<blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,11 +566,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Practices for building and deploying applications are not ideal for provisioning via Infrastructure as Code, due to critical differences.</blockquote>
 
-<h3>4. ISTIO SERVICE MESH IMPLEMENTATION - <a href="https://medium.com/@manikanta5664/istio-service-mesh-implementation-91b105c03ff0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Ubiquity Unifi+ k3s + BGP and Metallb - <a href="https://medium.com/@spudstr/ubiquity-unifi-k3s-bgp-and-metallb-744b50706c7c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Manikanta`**
+✍️ **posted by `Zak Thompson`**
 
-<blockquote>Hey everyone!</blockquote>
+<blockquote>Why not?</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
