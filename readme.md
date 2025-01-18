@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/17)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/18)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,12 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Is the cognitive load that TypeScript forces on developers worth the "type safety" it provides? - <a href="https://medium.com/@araujo88/is-the-cognitive-load-that-typescript-forces-on-developers-worth-the-type-safety-it-provides-d663da041ff3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Difference Between throw and throws in Java - <a href="https://medium.com/@gaddamnaveen192/difference-between-throw-and-throws-in-java-971817abae81" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Leonardo`**
+✍️ **posted by `Gaddam.Naveen`**
 
-<blockquote>By Leonardo Araujo, Senior Software Engineer at [Redacted]
-January 15, 2025</blockquote>
+<blockquote>in Java, exception handling is a critical aspect of writing robust applications, and understanding the difference between throw and throws…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -87,11 +86,12 @@ January 15, 2025</blockquote>
 
 <blockquote>q</blockquote>
 
-<h3>4. Difference Between throw and throws in Java - <a href="https://medium.com/@gaddamnaveen192/difference-between-throw-and-throws-in-java-971817abae81" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Is the cognitive load that TypeScript forces on developers worth the "type safety" it provides? - <a href="https://medium.com/@araujo88/is-the-cognitive-load-that-typescript-forces-on-developers-worth-the-type-safety-it-provides-d663da041ff3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gaddam.Naveen`**
+✍️ **posted by `Leonardo`**
 
-<blockquote>in Java, exception handling is a critical aspect of writing robust applications, and understanding the difference between throw and throws…</blockquote>
+<blockquote>By Leonardo Araujo, Senior Software Engineer at [Redacted]
+January 15, 2025</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -165,11 +165,11 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. 7 Simple Async/Await Tricks for Developers Who Hate Asynchronous JavaScript - <a href="https://medium.com/gitconnected/7-simple-async-await-tricks-for-developers-who-hate-asynchronous-javascript-fe370ac7fe72" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. History of JavaScript, 1996-2025 - <a href="https://medium.com/@lo.casponi/history-of-javascript-1996-2025-9ac476fc2792" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Lorenzo Casponi`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Read for free inside</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -183,11 +183,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Incremental Hydration, Signals, SSR and More</blockquote>
 
-<h3>4. Realtime Word Count — Kafka Streams Series — 1 - <a href="https://medium.com/@shazinsadakath/realtime-word-count-kafka-streams-series-1-10f3915c52c2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. ✨ 10 Tips for Writing Clean JavaScript Code For become Experience Developer - <a href="https://medium.com/@letscodefuture/10-tips-for-writing-clean-javascript-code-for-become-experience-developer-f7e3c295042c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shazin Sadakath`**
+✍️ **posted by `Let's Code Future`**
 
-<blockquote>As part of Kafka Streams Series I started, let’s have a look at how to develop a real time, scalable Word Counting application. This is…</blockquote>
+<blockquote>JavaScript is a versatile language that powers the web, but writing clean and maintainable code is an art that separates beginner…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -197,11 +197,11 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Understanding TypeScript’s declare Keyword: A Guide to Cleaner Code and Ambient Declarations - <a href="https://medium.com/@helloantonixd/understanding-typescripts-declare-keyword-a-guide-to-cleaner-code-and-ambient-declarations-a7d246bcdf26" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React Native’de Clean Code Approachs — Part1 — (English) - <a href="https://medium.com/@sevdaimen/react-nativede-clean-code-approachs-part1-english-ebb467f09843" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anton Sjöö`**
+✍️ **posted by `Sevda Çimen`**
 
-<blockquote>In this case:</blockquote>
+<blockquote>Hello friends, in this article, I focused on how we can write better and cleaner code in React Native. The approaches I discussed here are…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -215,11 +215,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. React Native’de Clean Code Approachs — Part1 — (English) - <a href="https://medium.com/@sevdaimen/react-nativede-clean-code-approachs-part1-english-ebb467f09843" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding TypeScript’s declare Keyword: A Guide to Cleaner Code and Ambient Declarations - <a href="https://medium.com/@helloantonixd/understanding-typescripts-declare-keyword-a-guide-to-cleaner-code-and-ambient-declarations-a7d246bcdf26" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sevda Çimen`**
+✍️ **posted by `Anton Sjöö`**
 
-<blockquote>Hello friends, in this article, I focused on how we can write better and cleaner code in React Native. The approaches I discussed here are…</blockquote>
+<blockquote>In this case:</blockquote>
 
 <h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -261,17 +261,17 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. User Engagement Metrics: Essentials - <a href="https://medium.com/ux-planet/user-engagement-metrics-essentials-700fb597fc72" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Nobody Wants to Use These PHP Features (But They’re Useful!) - <a href="https://medium.com/@CodeMoox/nobody-wants-to-use-these-php-features-but-theyre-useful-4dd81974412b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `UX Planet`**
+✍️ **posted by `CodeMoox`**
 
-<blockquote>User engagement metrics measure how actively and effectively users interact with a platform, product, or service. These metrics help…</blockquote>
+<blockquote>PHP is full of hidden gems — features that developers often overlook but can make your code more efficient, secure, and maintainable. Let’s…</blockquote>
 
-<h3>2. BEAM-ing to the Future: Exploring Phoenix and Elixir - <a href="https://medium.com/@c5r/beam-ing-to-the-future-exploring-phoenix-and-elixir-1d61be0b7f03" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Chander Ramesh`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>The worst kept secret in software development is the BEAM virtual machine. If you need an infinitely-scalable, reliable system that’s been…</blockquote>
+<blockquote>Building a base template repo is probably the best thing you could do to push your career and projects forward.</blockquote>
 
 <h3>3. Frontend Developer Roadmap 2025: The Complete Guide - <a href="https://medium.com/gitconnected/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -279,17 +279,17 @@ January 15, 2025</blockquote>
 
 <blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
 
-<h3>4. Is Laravel the Top PHP Framework for 2025? - <a href="https://medium.com/@CodeMoox/is-laravel-the-top-php-framework-for-2025-2785382e5bac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. New CSS Features You Should Know - <a href="https://medium.com/@onix_react/new-css-features-you-should-know-958ed1d34464" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `CodeMoox`**
+✍️ **posted by `Onix React`**
 
-<blockquote>A Comprehensive Analysis</blockquote>
+<blockquote>As web development continues to evolve, CSS has grown from a simple styling language to a powerful tool capable of creating complex…</blockquote>
 
-<h3>5. …when all we ever needed was a text box - <a href="https://medium.com/@baktakt/when-all-we-ever-needed-was-a-text-box-c672c52a0dca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. BEAM-ing to the Future: Exploring Phoenix and Elixir - <a href="https://medium.com/@c5r/beam-ing-to-the-future-exploring-phoenix-and-elixir-1d61be0b7f03" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Johan Uddståhl`**
+✍️ **posted by `Chander Ramesh`**
 
-<blockquote>or how 2025 will be back to basics for the web</blockquote>
+<blockquote>The worst kept secret in software development is the BEAM virtual machine. If you need an infinitely-scalable, reliable system that’s been…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -325,17 +325,17 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. Dear Product Managers, Don’t Be Shitty: An Engineer’s Rant - <a href="https://medium.com/@shouvikgr/dear-product-managers-dont-be-shitty-an-engineer-s-rant-00a476fcb4cc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Journey of Limited Path Traversal To RCE With $40,000 Bounty! - <a href="https://medium.com/@HX007/a-journey-of-limited-path-traversal-to-rce-with-40-000-bounty-fc63c89576ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shouvik Ghosh Roy`**
+✍️ **posted by `HX007`**
 
-<blockquote>As engineers, especially in India, we’re all too familiar with being labeled as “resources.” We’re expected to do as we’re told, without…</blockquote>
+<blockquote>#Introduce Myself:</blockquote>
 
-<h3>2. Why Squares Aren’t Rectangles: Liskov Substitution Principle in SOLID - <a href="https://medium.com/@akovtun/why-squares-arent-rectangles-liskov-substitution-principle-in-solid-b78dc9a2e1bd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Algorithms & Algorhymes, Inventing the Spanning Tree Protocol, and The Passion for Storytelling… - <a href="https://medium.com/@mariana.carvalho/algorithms-algorhymes-inventing-the-spanning-tree-protocol-and-the-passion-for-storytelling-e80123640322" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alina Kovtun✨`**
+✍️ **posted by `Mariana Carvalho`**
 
-<blockquote>What Every Developer Needs to Know About Substitution</blockquote>
+<blockquote>In today’s episode of The Timeless Technology Podcast, I had the incredible opportunity to interview Radia Perlman, a Fellow at Dell…</blockquote>
 
 <h3>3. Fired From Meta After 1 Week: Here’s All The Dirt I Got - <a href="https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -343,31 +343,31 @@ January 15, 2025</blockquote>
 
 <blockquote>This is not just another story of a disgruntled ex-employee. I’m not shying away from the serious corporate espionage or the ethical…</blockquote>
 
-<h3>4. Proxy Alice: Secret Predictive Messages - <a href="https://medium.com/@sebastiancarlos/proxy-alice-predictive-messages-for-concealed-communication-abfdb4d6e736" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The best AI programmer, from Weights & Biases - <a href="https://medium.com/@shawnup/the-best-ai-programmer-from-weights-biases-04cf8127afd8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sebastian Carlos`**
+✍️ **posted by `Shawn Lewis`**
 
-<blockquote>Abstract</blockquote>
+<blockquote>I’m the co-founder and CTO of Weights & Biases. I’ve spent the last couple months dogfooding our tools and building autonomous programming…</blockquote>
 
-<h3>5. UX Design Techniques That Every Programmer Should Know - <a href="https://medium.com/gitconnected/ux-design-techniques-that-every-programmer-should-know-723ccf0aa4de" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Exploring CERN: A Tour to the CMS Detector - <a href="https://medium.com/code-like-a-girl/cern-tour-cms-detector-solenoid-science-technology-5b4eb442487a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Code Like A Girl`**
 
-<blockquote>Create high-quality, sustainable software products with these UX design techniques</blockquote>
+<blockquote>A Guide’s Key Takeaways from the CMS Guided Tour</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. I Got 20 Angry Texts at 7 AM. Blame This App Redesign. - <a href="https://medium.com/@atulkhola/i-got-20-angry-texts-at-7-am-blame-this-app-redesign-94b2e8530fbb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Google Titans: End of Transformer based LLMs? - <a href="https://medium.com/data-science-in-your-pocket/google-titans-end-of-transformer-based-llms-6c889d0673eb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Atul Khola`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>A couple of weeks ago, I woke up to a storm of messages from friends who share my BodyFit credentials (I’ve been on it for over 12 years —…</blockquote>
+<blockquote>Better alternate for Transformers architecture for LLMs</blockquote>
 
-<h3>2. What makes a Moon landing mission “successful”? - <a href="https://medium.com/predict/what-makes-a-moon-landing-mission-successful-6ba3bee3fb35" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Climate Hackers and Rain Kings - <a href="https://medium.com/the-new-climate/the-climate-hackers-and-rain-kings-f1d8da47c719" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Predict`**
+✍️ **posted by `The New Climate.`**
 
-<blockquote>Landers from Firefly and ispace are now in space. Both will reach for the Moon. One thing that is notable about both ispace’s and Firefly’s…</blockquote>
+<blockquote>The strange history of weather modification — and what it may mean for climate change</blockquote>
 
 <h3>3. The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer - <a href="https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2025-as-a-staff-software-engineer-98033c94566e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -375,17 +375,17 @@ January 15, 2025</blockquote>
 
 <blockquote>Tools I use that are cheaper than Netflix</blockquote>
 
-<h3>4. I Think This Might Be the Best MacBook Pro Ever - <a href="https://medium.com/macoclock/i-think-this-might-be-the-best-macbook-pro-ever-65e55919d9ea" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Microsoft’s New AI Just Secured Apple’s Future. - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/why-microsofts-new-ai-just-secured-apple-s-future-2a26039d6ac2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Ignacio de Gregorio`**
 
-<blockquote>I’ve finally got my hands on the base model M4 MacBook Pro!</blockquote>
+<blockquote>Today, I’m going to convince you that Microsoft’s new AI is not like any other model and, by the end of this piece, I will have changed…</blockquote>
 
-<h3>5. The Format is the Message - <a href="https://medium.com/full-frame/the-format-is-the-message-173d785a7d94" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. A Surprising Appearance of Euler’s Number - <a href="https://medium.com/@keith-mcnulty/a-surprising-appearance-of-eulers-number-68a1eb1eeb3f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Full Frame`**
+✍️ **posted by `Keith McNulty`**
 
-<blockquote>Size does matter when it comes to prints.</blockquote>
+<blockquote>Euler’s number e = 2.718… can pop up in the most surprising places — here’s a great example</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -421,11 +421,11 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. 🚀 Introducing Mirai — A Server Driven UI framework for Flutter - <a href="https://medium.com/@divyanshub024/introducing-mirai-a-server-driven-ui-framework-for-flutter-d020fd0c387d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Elephant in the Room for Android Devs: Jetpack Compose and Edge-to-Edge on Android 15 - <a href="https://medium.com/proandroiddev/the-elephant-in-the-room-for-android-devs-jetpack-compose-and-edge-to-edge-on-android-15-4776c0cca075" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Divyanshu Bhargava`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
+<blockquote>How Android 15’s Edge-to-Edge Feature Impacts Jetpack Compose Development</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -439,14 +439,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Did you ever need to pass data through multiple layers of composable functions without adding parameters everywhere? Meet…</blockquote>
 
-<h3>4. To view keyboard shortcuts, press question mark
-View keyboard shortcuts
-Moblink article
-25 web… - <a href="https://medium.com/@mk9572019/to-view-keyboard-shortcuts-press-question-mark-view-keyboard-shortcuts-moblink-article-25-web-c9e0d6f3f8d9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 💡Avoid Text Truncation in SwiftUI - <a href="https://medium.com/@fatbobman/avoid-text-truncation-in-swiftui-4ebd34a0a846" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `M .Hasnain Iqbal`**
+✍️ **posted by `fatbobman ( 东坡肘子)`**
 
-<blockquote>Moblink Jazz Network Issue: There's mention of a no-service issue on the Moblink Jazz network, where a user was experiencing connectivity…</blockquote>
+<blockquote>Quick Tips</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -456,11 +453,11 @@ Moblink article
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. 🚀 Introducing Mirai — A Server Driven UI framework for Flutter - <a href="https://medium.com/@divyanshub024/introducing-mirai-a-server-driven-ui-framework-for-flutter-d020fd0c387d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Android Intent Redirection: A Hacker’s Gateway to Internal Components - <a href="https://medium.com/@0x3adly/android-intent-redirection-a-hackers-gateway-to-internal-components-ebe126bbb2e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Divyanshu Bhargava`**
+✍️ **posted by `Anas Eladly ( 0x3adly )`**
 
-<blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
+<blockquote>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -468,17 +465,17 @@ Moblink article
 
 <blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
-<h3>3. Mastering Kotlin Coroutine Channels in Android: From Basics to Advanced Patterns - <a href="https://medium.com/proandroiddev/mastering-kotlin-coroutine-channels-in-android-from-basics-to-advanced-patterns-b6fdd7754cca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 🚀 10 Kotlin Coroutine Mistakes Every Senior Android Developer Must Avoid (With Real-World Fixes!) - <a href="https://medium.com/towardsdev/10-kotlin-coroutine-mistakes-every-senior-android-developer-must-avoid-with-real-world-fixes-b56a373c7c06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Towards Dev`**
 
-<blockquote>Master inter-coroutine communication in Android: A complete guide to Kotlin Channels, from basic concepts to production patterns.</blockquote>
+<blockquote>Kotlin Coroutines have revolutionized asynchronous programming on Android, making it simpler, cleaner, and more intuitive. However, even…</blockquote>
 
-<h3>4. Reducing Main Thread Blocking: A Key to Avoiding ANRs in Android - <a href="https://medium.com/paycell-tech-team/reducing-main-thread-blocking-a-key-to-avoiding-anrs-in-android-13585f0d5960" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Filter News by Topic in TrendNow: Save User Preferences with DataStore and Optimize Recomposition - <a href="https://medium.com/@danimahardhika/filter-news-by-topic-in-trendnow-save-user-preferences-with-datastore-and-optimize-recomposition-4e619e8476a8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Paycell Tech Team`**
+✍️ **posted by `Dani Mahardhika`**
 
-<blockquote>In Android development, one of the most dreaded issues that can significantly affect the user experience is the dreaded ANR (Application…</blockquote>
+<blockquote>Part 3 of a series exploring modern Android development through building a news aggregator app with Jetpack Compose</blockquote>
 
 <h3>5. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -488,11 +485,11 @@ Moblink article
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. SwiftUI :- Other Views - <a href="https://medium.com/@vishwasng/swiftui-other-views-2c5649a45b4a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to organize TabView in SwiftUI using Composable Architecture - <a href="https://medium.com/@provar67/how-to-organize-tabview-in-swiftui-using-composable-architecture-be76826ad2b1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vishwas Ng`**
+✍️ **posted by `Oleksandr Provarenko`**
 
-<blockquote>Hi when you start learning swiftUI you might have come across a lot of views like</blockquote>
+<blockquote>If you are, just getting familiar with Composable Architecture (TCA) or are wondering whether it is worth doing so, this article is for…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -506,11 +503,11 @@ Moblink article
 
 <blockquote>iOS 18’s got hell-a-lot features you can’t discover thyself</blockquote>
 
-<h3>4. 🚀 Introducing Mirai — A Server Driven UI framework for Flutter - <a href="https://medium.com/@divyanshub024/introducing-mirai-a-server-driven-ui-framework-for-flutter-d020fd0c387d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Migrating from RxSwift to Combine: Modernizing Your Legacy iOS Project (Part 1) - <a href="https://medium.com/@lee.vitya28/migrating-from-rxswift-to-combine-modernizing-your-legacy-ios-project-part-1-54c0efa4fb62" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Divyanshu Bhargava`**
+✍️ **posted by `Viktor Li`**
 
-<blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
+<blockquote>Table of contents</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -552,11 +549,11 @@ Moblink article
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Why do I stop using Kubernetes? - <a href="https://medium.com/@agungdarmanto/why-do-i-stop-using-kubernetes-58f3998f63ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Kubectl-r[exe]c: A kubectl plugin for auditing kubectl exec commands - <a href="https://medium.com/adyen/kubectl-r-exe-c-a-kubectl-plugin-for-auditing-kubectl-exec-commands-a23d41cc44e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Agung Darmanto`**
+✍️ **posted by `Adyen Tech`**
 
-<blockquote>After over three years of managing Kubernetes (K8s) clusters on DigitalOcean, I decided to shift away from K8s. Here’s why:</blockquote>
+<blockquote>By Marton Natko, Staff Engineer — Infrastructure, Adyen</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -570,11 +567,11 @@ Moblink article
 
 <blockquote>Practices for building and deploying applications are not ideal for provisioning via Infrastructure as Code, due to critical differences.</blockquote>
 
-<h3>4. What is Expected from a DevOps Engineer in 2025 - <a href="https://medium.com/@thecloudarchitect/what-is-expected-from-a-devops-engineer-in-2025-5f5223f2238f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Its Always DNS — Disabling IPv6 Incident in Kubernetes - <a href="https://medium.com/@mormoroth/its-always-dns-disabling-ipv6-incident-in-kubernetes-a007408a9d26" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deep -- Cloud / DevOps Engineer`**
+✍️ **posted by `Morteza Khazami Pour`**
 
-<blockquote>On a free Medium plan? Click here to read free & Please Do Follow Me</blockquote>
+<blockquote>Imagine you setup your cluster with both IPv4 and IPv6 enabled on servers and assigned to the interfaces, Its likely to default…</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
