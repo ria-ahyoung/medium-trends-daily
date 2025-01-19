@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/18)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/19)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Difference Between throw and throws in Java - <a href="https://medium.com/@gaddamnaveen192/difference-between-throw-and-throws-in-java-971817abae81" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 💡 Don’t overuse refs in your React components! - <a href="https://medium.com/@leandromoraes.developer/dont-overuse-refs-in-your-react-components-d4122dc30df3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Gaddam.Naveen`**
+✍️ **posted by `Paulo Leandro Sousa`**
 
-<blockquote>in Java, exception handling is a critical aspect of writing robust applications, and understanding the difference between throw and throws…</blockquote>
+<blockquote>One of React’s core principles is componentization. Structuring your components well and ensuring good communication between them is what…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,12 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>q</blockquote>
 
-<h3>4. Is the cognitive load that TypeScript forces on developers worth the "type safety" it provides? - <a href="https://medium.com/@araujo88/is-the-cognitive-load-that-typescript-forces-on-developers-worth-the-type-safety-it-provides-d663da041ff3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React 19 tutorials - <a href="https://medium.com/@nabendu82/react-19-tutorials-f3e1001f087f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Leonardo`**
+✍️ **posted by `Nabendu Biswas`**
 
-<blockquote>By Leonardo Araujo, Senior Software Engineer at [Redacted]
-January 15, 2025</blockquote>
+<blockquote>In this post we will learn about the new features in React 19, which is officially released few days back.</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -101,15 +100,15 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Chasing the Missing ’n’: A Debugger’s Odyssey - <a href="https://medium.com/@iamlope/chasing-the-missing-n-a-debugger-s-odyssey-5c6412dafdc2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 3 Critical Issues I Faced Deploying Next.js with AWS Amplify, CloudFront, and S3 - <a href="https://medium.com/@luanmacek/3-critical-issues-i-faced-deploying-next-js-with-aws-amplify-cloudfront-and-s3-8fc813fed71c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lope`**
+✍️ **posted by `luanmacek`**
 
-<blockquote>This week has been intense for me — I was stressed beyond my limits, and oh well, it’s only Wednesday. I could really use a weekend…</blockquote>
+<blockquote>Fixing CloudFront 403, Next.js 404, and AWS CDK Issues Efficiently</blockquote>
 
-<h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/@iamalvisng/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alvis Ng`**
+✍️ **posted by `Yopeso`**
 
 <blockquote>A Deep Dive into the Practicalities, Pitfalls, and Potential of Next.js’s Server-Side Feature</blockquote>
 
@@ -119,11 +118,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Creating forms in modern React has evolved significantly with the latest releases. In this post we’ll explore best practices for building…</blockquote>
 
-<h3>4. Top 3 Desgin Patterns In React ! - <a href="https://medium.com/@noordragon2004/top-3-desgin-patterns-in-react-5de9ed1485cb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deploying a Scalable Next.js Application with Azure Kubernetes Service (AKS) with Helm - <a href="https://medium.com/@sanyam40/deploying-a-scalable-next-js-application-with-azure-kubernetes-service-aks-with-helm-9c10e4a72059" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Noor Hesham`**
+✍️ **posted by `Sanyam`**
 
-<blockquote>Design patterns! The phrase often whispered in programming meetups and plastered all over StackOverflow threads. They’re the secret sauce…</blockquote>
+<blockquote>By Sanyam Narang,</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -151,11 +150,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
-<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 2025’s Top “8” UI/UX Trends - <a href="https://medium.com/@mahzabie.tomar17/2025s-top-8-ui-ux-trends-31333ad1df7f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Consagoustech`**
+✍️ **posted by `Mahzabie Tomar`**
 
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+<blockquote>The Replacement of Website Builders</blockquote>
 
 <h3>5. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -229,17 +228,17 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Why Your JWT Implementation is a Security Nightmare - <a href="https://medium.com/@mehdibafdil/why-your-jwt-implementation-is-a-security-nightmare-b82d4b492894" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why should NODE_ENV always be set to “production”? - <a href="https://medium.com/@mikayel.hovhannisyan27/why-should-node-env-always-be-set-to-production-55413c2f8c5e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehdi BAFDIL`**
+✍️ **posted by `Mikayel Hovhannisyan`**
 
-<blockquote>Last month, a client called me. Their production server was compromised, and the attacker had full access to user data. The culprit? A…</blockquote>
+<blockquote>“Understanding NODE_ENV and Why Setting It to ‘Production’ Matters”</blockquote>
 
-<h3>2. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hayden Baillio`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>When CVEs Become Tough Love</blockquote>
+<blockquote>Building a base template repo is probably the best thing you could do to push your career and projects forward.</blockquote>
 
 <h3>3. NodeJS 23 is HERE! Features that will blow your mind 🤯 - <a href="https://medium.com/@Luna-Rojas/nodejs-23-is-here-features-that-will-blow-your-mind-0560ebfd8847" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -247,17 +246,17 @@ January 15, 2025</blockquote>
 
 <blockquote>Released on October 16, 2024, introduces a suite of features and improvements enhancing developer experience, performance, and security.</blockquote>
 
-<h3>4. User Authentication in React and Express: Using Local Storage and VerifyToken Middleware - <a href="https://medium.com/@tushalkhatri902/user-authentication-in-react-and-express-using-local-storage-and-verifytoken-middleware-fc21fa8088fc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. From Zero to Live in 10 minutes: How to Create an MVP Without AI - <a href="https://medium.com/@szczerbicki.pawel/create-an-mvp-in-less-than-a-week-no-ai-required-97c0bf1142e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Raj Tushal`**
+✍️ **posted by `Paweł Szczerbicki`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Learn how to create a Minimum Viable Product effectively with practical steps and insights. Start your journey to building a successful MVP</blockquote>
 
-<h3>5. Optimizing prom-client: How We Improved P99 Latencies by 10x in Node.js - <a href="https://medium.com/@Games24x7Tech/optimizing-prom-client-how-we-improved-p99-latencies-by-10x-in-node-js-c3c2f6c68297" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Games24x7 Blogs`**
+✍️ **posted by `Hayden Baillio`**
 
-<blockquote>The prom-client (Prometheus Client) is the most popular library for Node.js, with approximately 2 million weekly downloads. This library…</blockquote>
+<blockquote>When CVEs Become Tough Love</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
@@ -279,11 +278,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
 
-<h3>4. New CSS Features You Should Know - <a href="https://medium.com/@onix_react/new-css-features-you-should-know-958ed1d34464" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. User Engagement Metrics: Essentials - <a href="https://medium.com/ux-planet/user-engagement-metrics-essentials-700fb597fc72" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Onix React`**
+✍️ **posted by `UX Planet`**
 
-<blockquote>As web development continues to evolve, CSS has grown from a simple styling language to a powerful tool capable of creating complex…</blockquote>
+<blockquote>User engagement metrics measure how actively and effectively users interact with a platform, product, or service. These metrics help…</blockquote>
 
 <h3>5. BEAM-ing to the Future: Exploring Phoenix and Elixir - <a href="https://medium.com/@c5r/beam-ing-to-the-future-exploring-phoenix-and-elixir-1d61be0b7f03" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -325,17 +324,17 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. A Journey of Limited Path Traversal To RCE With $40,000 Bounty! - <a href="https://medium.com/@HX007/a-journey-of-limited-path-traversal-to-rce-with-40-000-bounty-fc63c89576ea" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Large Language Model Course - <a href="https://medium.com/towards-data-science/the-large-language-model-course-b6663cd57ceb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `HX007`**
+✍️ **posted by `Towards Data Science`**
 
-<blockquote>#Introduce Myself:</blockquote>
+<blockquote>How to become an LLM Scientist or Engineer from scratch</blockquote>
 
-<h3>2. Algorithms & Algorhymes, Inventing the Spanning Tree Protocol, and The Passion for Storytelling… - <a href="https://medium.com/@mariana.carvalho/algorithms-algorhymes-inventing-the-spanning-tree-protocol-and-the-passion-for-storytelling-e80123640322" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 40 Years Of Programmer’s Sideprojects: A Historical Review - <a href="https://medium.com/@jankammerath/40-years-of-programmers-sideprojects-a-historical-review-034e438c8319" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mariana Carvalho`**
+✍️ **posted by `Jan Kammerath`**
 
-<blockquote>In today’s episode of The Timeless Technology Podcast, I had the incredible opportunity to interview Radia Perlman, a Fellow at Dell…</blockquote>
+<blockquote>Sidehustling programmers are as old as programming itself. From the very first floppies shipped by indie developers in the mid 80s to…</blockquote>
 
 <h3>3. Fired From Meta After 1 Week: Here’s All The Dirt I Got - <a href="https://medium.com/@sebastiancarlos/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -343,17 +342,17 @@ January 15, 2025</blockquote>
 
 <blockquote>This is not just another story of a disgruntled ex-employee. I’m not shying away from the serious corporate espionage or the ethical…</blockquote>
 
-<h3>4. The best AI programmer, from Weights & Biases - <a href="https://medium.com/@shawnup/the-best-ai-programmer-from-weights-biases-04cf8127afd8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Journey of Limited Path Traversal To RCE With $40,000 Bounty! - <a href="https://medium.com/@HX007/a-journey-of-limited-path-traversal-to-rce-with-40-000-bounty-fc63c89576ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shawn Lewis`**
+✍️ **posted by `HX007`**
 
-<blockquote>I’m the co-founder and CTO of Weights & Biases. I’ve spent the last couple months dogfooding our tools and building autonomous programming…</blockquote>
+<blockquote>#Introduce Myself:</blockquote>
 
-<h3>5. Exploring CERN: A Tour to the CMS Detector - <a href="https://medium.com/code-like-a-girl/cern-tour-cms-detector-solenoid-science-technology-5b4eb442487a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Tremendous Changes in My 2024: Writing, Earnings, Followers, and More… - <a href="https://medium.com/write-a-catalyst/how-to-flip-low-moments-into-viral-potential-706cd4376cdc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Code Like A Girl`**
+✍️ **posted by `Write A Catalyst`**
 
-<blockquote>A Guide’s Key Takeaways from the CMS Guided Tour</blockquote>
+<blockquote>A self-reflection on 2024 and bold resolutions for 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -389,11 +388,11 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. my final act of love is leaving you alone - <a href="https://medium.com/@cherylkoo/my-final-act-of-love-is-leaving-you-alone-062e09698f75" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. “maybe when i cry at the grave of what we used to be, you’re somewhere too far away, not even… - <a href="https://medium.com/@fyoaeuriz/maybe-when-i-cry-at-the-grave-of-what-we-used-to-be-youre-somewhere-too-far-away-not-even-f70e3fe0ba05" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `iris ୨୧`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>crying over a love that no longer has a name</blockquote>
 
 <h3>2. How 25 Years of Life Online Have Rewired Relationships - <a href="https://medium.com/wise-well/how-25-years-of-life-online-have-rewired-relationships-1d94db766945" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -407,11 +406,11 @@ January 15, 2025</blockquote>
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. If Time Heals All Wounds, Then Why Do Some Scars Still Hold Your Name? - <a href="https://medium.com/@saikikeshi/if-time-heals-all-wounds-then-why-do-some-scars-still-hold-your-name-5705c814c080" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I Wish I Had The Courage To Confess, As Fiercely As I’ve Fought To Bury Them In Silence - <a href="https://medium.com/@i043logs/i-wish-i-had-the-courage-to-confess-as-fiercely-as-ive-fought-to-bury-them-in-silence-2a720d81e5c8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `life in letters`**
+✍️ **posted by `oceanburned 𓇼`**
 
-<blockquote>On Love, Loss, and the Memories that Linger Long after Goodbye</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. A Gentleman’s Quarter - <a href="https://medium.com/ellemeno/a-gentlemans-quarter-8834d523172c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -503,11 +502,11 @@ January 15, 2025</blockquote>
 
 <blockquote>iOS 18’s got hell-a-lot features you can’t discover thyself</blockquote>
 
-<h3>4. Migrating from RxSwift to Combine: Modernizing Your Legacy iOS Project (Part 1) - <a href="https://medium.com/@lee.vitya28/migrating-from-rxswift-to-combine-modernizing-your-legacy-ios-project-part-1-54c0efa4fb62" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Is Apple’s Winning Streak Over? - <a href="https://medium.com/macoclock/is-apples-winning-streak-over-e7fe46dec4fb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Viktor Li`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>Table of contents</blockquote>
+<blockquote>Why sticking to Old Strategies is hurting Innovation and What Apple must do to stay ahead</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -517,17 +516,17 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Microservices: When the Cure is Worse Than the Disease - <a href="https://medium.com/@DevOpsTrenches/microservices-when-the-cure-is-worse-than-the-disease-9ea3bf2a7e4b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Linux Concept Journey — IPC Methods Between Kernel and User Space - <a href="https://medium.com/@boutnaru/the-linux-concept-journey-ipc-methods-between-kernel-and-user-space-3cde144341e9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jotham Arinze`**
+✍️ **posted by `Shlomi Boutnaru, Ph.D.`**
 
-<blockquote>How I Learned to Stop Worrying and Love the Monolith</blockquote>
+<blockquote>Due to the fact that kernel-mode code and user-mode code don’t share the same memory address space (because of security reasons) in case…</blockquote>
 
-<h3>2. Why Stack Overflow and Reddit Still Beats AI For Your Tech Problems - <a href="https://medium.com/@DevOpsTrenches/why-stack-overflow-and-reddit-still-beats-ai-for-your-tech-problems-b61f5bb41d6d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 5-Minute DevOps: How The US Army Does it Better Than You - <a href="https://medium.com/@bdfinst/5-minute-devops-how-the-us-army-does-it-better-than-you-67797addbdf7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jotham Arinze`**
+✍️ **posted by `Bryan Finster`**
 
-<blockquote>A Tale of Bugs, Communities, and Why Human Experience Matters</blockquote>
+<blockquote>The Army has a dedicated program to grow developers who understand modern software engineering. They are probably doing it better than you.</blockquote>
 
 <h3>3. Top DevOps Tools for Infrastructure Automation in 2025 - <a href="https://medium.com/env0/top-devops-tools-for-infrastructure-automation-in-2025-cae2288e8314" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -535,17 +534,17 @@ January 15, 2025</blockquote>
 
 <blockquote>Explore the top DevOps tools for infrastructure automation, designed to streamline workflows, boost efficiency & simplify cloud management.</blockquote>
 
-<h3>4. BottleNetes: Simplifying Kubernetes Management - <a href="https://medium.com/@bottlenetes/bottlenetes-simplifying-kubernetes-management-f91118f07f1c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Physical Servers vs. Virtual Machines: A Comprehensive comparison - <a href="https://medium.com/javarevisited/physical-servers-vs-virtual-machines-a-comprehensive-comparison-158791b98569" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `BottleNetes`**
+✍️ **posted by `Javarevisited`**
 
-<blockquote>Monitor, diagnose, and optimize your clusters from one dashboard.</blockquote>
+<blockquote>Physical servers vs. virtual machines (VMs) Understanding the key differences, advantages, and limitations of each option can help…</blockquote>
 
-<h3>5. Life of an On-Call Engineer: From Symphony Halls to Server Calls - <a href="https://medium.com/management-matters/life-of-an-on-call-engineer-from-symphony-halls-to-server-calls-c391d0ea2b7a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Why Stack Overflow and Reddit Still Beats AI For Your Tech Problems - <a href="https://medium.com/@DevOpsTrenches/why-stack-overflow-and-reddit-still-beats-ai-for-your-tech-problems-b61f5bb41d6d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Management Matters`**
+✍️ **posted by `Jotham Arinze`**
 
-<blockquote>As long as you answer your phone swiftly, you can be anywhere during your on-call rotation.</blockquote>
+<blockquote>A Tale of Bugs, Communities, and Why Human Experience Matters</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
@@ -567,11 +566,11 @@ January 15, 2025</blockquote>
 
 <blockquote>Practices for building and deploying applications are not ideal for provisioning via Infrastructure as Code, due to critical differences.</blockquote>
 
-<h3>4. Its Always DNS — Disabling IPv6 Incident in Kubernetes - <a href="https://medium.com/@mormoroth/its-always-dns-disabling-ipv6-incident-in-kubernetes-a007408a9d26" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Create a Perfect GCP Infrastructure with Terraform - <a href="https://medium.com/@alexandrumarius/how-to-create-a-perfect-gcp-infrastructure-with-terraform-d184c214bcdd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Morteza Khazami Pour`**
+✍️ **posted by `Alexandru Marius`**
 
-<blockquote>Imagine you setup your cluster with both IPv4 and IPv6 enabled on servers and assigned to the interfaces, Its likely to default…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -581,11 +580,11 @@ January 15, 2025</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Why do I stop using Kubernetes? - <a href="https://medium.com/@agungdarmanto/why-do-i-stop-using-kubernetes-58f3998f63ad" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Physical Servers vs. Virtual Machines: A Comprehensive comparison - <a href="https://medium.com/javarevisited/physical-servers-vs-virtual-machines-a-comprehensive-comparison-158791b98569" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Agung Darmanto`**
+✍️ **posted by `Javarevisited`**
 
-<blockquote>After over three years of managing Kubernetes (K8s) clusters on DigitalOcean, I decided to shift away from K8s. Here’s why:</blockquote>
+<blockquote>Physical servers vs. virtual machines (VMs) Understanding the key differences, advantages, and limitations of each option can help…</blockquote>
 
 <h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -599,11 +598,11 @@ January 15, 2025</blockquote>
 
 <blockquote>An introduction to productionizing a machine learning model using APIs and Docker.</blockquote>
 
-<h3>4. Docker Fundamentals - <a href="https://medium.com/@kodelan/docker-fundamentals-2e8c5d3e193b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 18 Docker Commands That Will Make You a Better Developer - <a href="https://medium.com/javarevisited/18-docker-commands-that-will-make-you-a-better-developer-90ab823dc852" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Konlan Mikpekoah`**
+✍️ **posted by `Javarevisited`**
 
-<blockquote>Understanding Docker</blockquote>
+<blockquote>Docker is an essential tool used in software development to build, ship, and run applications across various environments.</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
