@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/19)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/01/20)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -150,25 +150,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
-<h3>4. 2025’s Top “8” UI/UX Trends - <a href="https://medium.com/@mahzabie.tomar17/2025s-top-8-ui-ux-trends-31333ad1df7f" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Mahzabie Tomar`**
-
-<blockquote>The Replacement of Website Builders</blockquote>
-
-<h3>5. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Rakshagarambha`**
 
 <blockquote>The Future of UI/UX Design: Top Trends to Watch Out for in 2024</blockquote>
 
+<h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shailesh Chauhan`**
+
+<blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. History of JavaScript, 1996-2025 - <a href="https://medium.com/@lo.casponi/history-of-javascript-1996-2025-9ac476fc2792" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Script Tag Positioning: Common Mistakes and How to Fix Them - <a href="https://medium.com/@tahajiru/script-tag-positioning-common-mistakes-and-how-to-fix-them-562da6427137" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lorenzo Casponi`**
+✍️ **posted by `Taha Jiruwala`**
 
-<blockquote>Read for free inside</blockquote>
+<blockquote>Suppose you are creating a webpage where you increment a number displayed on the screen by pressing a button.</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -182,11 +182,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Incremental Hydration, Signals, SSR and More</blockquote>
 
-<h3>4. ✨ 10 Tips for Writing Clean JavaScript Code For become Experience Developer - <a href="https://medium.com/@letscodefuture/10-tips-for-writing-clean-javascript-code-for-become-experience-developer-f7e3c295042c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. My 6 Killer Javascript Functions Collection ! You Need to Know - <a href="https://medium.com/@letscodefuture/my-6-killer-javascript-functions-collection-you-need-to-know-e14259068997" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Let's Code Future`**
 
-<blockquote>JavaScript is a versatile language that powers the web, but writing clean and maintainable code is an art that separates beginner…</blockquote>
+<blockquote>JavaScript is a treasure chest of features that allow developers to write efficient, elegant, and performance-driven code. Among these, a…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. React Native’de Clean Code Approachs — Part1 — (English) - <a href="https://medium.com/@sevdaimen/react-nativede-clean-code-approachs-part1-english-ebb467f09843" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TS1118: An object literal cannot have multiple get/set accessors with the same name - <a href="https://medium.com/@turingvang/ts1118-an-object-literal-cannot-have-multiple-get-set-accessors-with-the-same-name-232701a92eaa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sevda Çimen`**
+✍️ **posted by `Turingvang`**
 
-<blockquote>Hello friends, in this article, I focused on how we can write better and cleaner code in React Native. The approaches I discussed here are…</blockquote>
+<blockquote>TypeScript is a powerful, typed superset of JavaScript that enables developers to write more robust and maintainable code. The primary…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -214,11 +214,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. Understanding TypeScript’s declare Keyword: A Guide to Cleaner Code and Ambient Declarations - <a href="https://medium.com/@helloantonixd/understanding-typescripts-declare-keyword-a-guide-to-cleaner-code-and-ambient-declarations-a7d246bcdf26" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React Native’de Clean Code Approachs — Part1 — (English) - <a href="https://medium.com/@sevdaimen/react-nativede-clean-code-approachs-part1-english-ebb467f09843" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anton Sjöö`**
+✍️ **posted by `Sevda Çimen`**
 
-<blockquote>In this case:</blockquote>
+<blockquote>Hello friends, in this article, I focused on how we can write better and cleaner code in React Native. The approaches I discussed here are…</blockquote>
 
 <h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Nobody Wants to Use These PHP Features (But They’re Useful!) - <a href="https://medium.com/@CodeMoox/nobody-wants-to-use-these-php-features-but-theyre-useful-4dd81974412b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Micro Frontends with HTMX - <a href="https://medium.com/@alexander.heerens/micro-frontends-with-htmx-266b457490b9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `CodeMoox`**
+✍️ **posted by `Alexander Heerens`**
 
-<blockquote>PHP is full of hidden gems — features that developers often overlook but can make your code more efficient, secure, and maintainable. Let’s…</blockquote>
+<blockquote>…the boring solution</blockquote>
 
 <h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, and grab a free progress tracker.</blockquote>
 
-<h3>4. User Engagement Metrics: Essentials - <a href="https://medium.com/ux-planet/user-engagement-metrics-essentials-700fb597fc72" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Scroll to a Div to Make it Visible in React? - <a href="https://medium.com/javascript-in-plain-english/how-to-scroll-to-a-div-to-make-it-visible-in-react-6fed4ef3e41" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `UX Planet`**
+✍️ **posted by `JavaScript in Plain English`**
 
-<blockquote>User engagement metrics measure how actively and effectively users interact with a platform, product, or service. These metrics help…</blockquote>
+<blockquote>Sometimes, we want to scroll to a div to make it visible in React.</blockquote>
 
 <h3>5. BEAM-ing to the Future: Exploring Phoenix and Elixir - <a href="https://medium.com/@c5r/beam-ing-to-the-future-exploring-phoenix-and-elixir-1d61be0b7f03" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -356,17 +356,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Google Titans: End of Transformer based LLMs? - <a href="https://medium.com/data-science-in-your-pocket/google-titans-end-of-transformer-based-llms-6c889d0673eb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 40 Years Of Programmer’s Sideprojects: A Historical Review - <a href="https://medium.com/@jankammerath/40-years-of-programmers-sideprojects-a-historical-review-034e438c8319" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Data Science in your pocket`**
+✍️ **posted by `Jan Kammerath`**
 
-<blockquote>Better alternate for Transformers architecture for LLMs</blockquote>
+<blockquote>Sidehustling programmers are as old as programming itself. From the very first floppies shipped by indie developers in the mid 80s to…</blockquote>
 
-<h3>2. The Climate Hackers and Rain Kings - <a href="https://medium.com/the-new-climate/the-climate-hackers-and-rain-kings-f1d8da47c719" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. You Cache Only Once: Cache-Augmented Generation (CAG) Instead Of RAG - <a href="https://medium.com/gitconnected/you-cache-only-once-cache-augmented-generation-cag-instead-of-rag-25f19cf239f6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The New Climate.`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>The strange history of weather modification — and what it may mean for climate change</blockquote>
+<blockquote>Streamlining Knowledge Tasks with Cache-Augmented Generation: A Simpler Alternative to Retrieval-Based Approaches</blockquote>
 
 <h3>3. The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer - <a href="https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2025-as-a-staff-software-engineer-98033c94566e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -374,17 +374,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Tools I use that are cheaper than Netflix</blockquote>
 
-<h3>4. Why Microsoft’s New AI Just Secured Apple’s Future. - <a href="https://medium.com/@ignacio.de.gregorio.noblejas/why-microsofts-new-ai-just-secured-apple-s-future-2a26039d6ac2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Google Titans: End of Transformer based LLMs? - <a href="https://medium.com/data-science-in-your-pocket/google-titans-end-of-transformer-based-llms-6c889d0673eb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ignacio de Gregorio`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>Today, I’m going to convince you that Microsoft’s new AI is not like any other model and, by the end of this piece, I will have changed…</blockquote>
+<blockquote>Better alternate for Transformers architecture for LLMs</blockquote>
 
-<h3>5. A Surprising Appearance of Euler’s Number - <a href="https://medium.com/@keith-mcnulty/a-surprising-appearance-of-eulers-number-68a1eb1eeb3f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Fundamental Product Management: Why it’s more important in the AI Age - <a href="https://medium.com/ai-advances/fundamental-product-management-why-its-more-important-in-the-ai-age-55969fc69ed1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Keith McNulty`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>Euler’s number e = 2.718… can pop up in the most surprising places — here’s a great example</blockquote>
+<blockquote>Generative Artificial Intelligence (GenAI) continues to expand its horizons across a myriad of industries, enabling product managers (PMs)…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Did you ever need to pass data through multiple layers of composable functions without adding parameters everywhere? Meet…</blockquote>
 
-<h3>4. 💡Avoid Text Truncation in SwiftUI - <a href="https://medium.com/@fatbobman/avoid-text-truncation-in-swiftui-4ebd34a0a846" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Flutter Async Demystified: await Future vs Future.wait Explained! - <a href="https://medium.com/@mustafatahirhussein/flutter-async-demystified-await-future-vs-future-wait-explained-7f94112fd764" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `fatbobman ( 东坡肘子)`**
+✍️ **posted by `Mustafa Tahir`**
 
-<blockquote>Quick Tips</blockquote>
+<blockquote>Working with asynchronous tasks in Flutter has always been an interesting activity, cause you get to see various new approaches; (by your…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,17 +452,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Android Intent Redirection: A Hacker’s Gateway to Internal Components - <a href="https://medium.com/@0x3adly/android-intent-redirection-a-hackers-gateway-to-internal-components-ebe126bbb2e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Introducing Arbigent — An AI Agent Testing Framework for Modern Applications - <a href="https://medium.com/@takahirom/introducing-arbigent-an-ai-agent-testing-framework-for-modern-applications-f43a2e01d342" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anas Eladly ( 0x3adly )`**
+✍️ **posted by `takahirom`**
 
-<blockquote>بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ</blockquote>
+<blockquote>The world of software testing is evolving. As applications become more complex and dynamic, traditional UI testing frameworks face…</blockquote>
 
-<h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. This Is the Phone You Should Take Portraits With - <a href="https://medium.com/@markellisreviews/this-is-the-phone-you-should-take-portraits-with-50cd7d9af853" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abid Ghani`**
+✍️ **posted by `Mark Ellis`**
 
-<blockquote>A Journey Through Modern App Mobile Development</blockquote>
+<blockquote>My Honor Magic7 Pro review!</blockquote>
 
 <h3>3. 🚀 10 Kotlin Coroutine Mistakes Every Senior Android Developer Must Avoid (With Real-World Fixes!) - <a href="https://medium.com/towardsdev/10-kotlin-coroutine-mistakes-every-senior-android-developer-must-avoid-with-real-world-fixes-b56a373c7c06" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,25 +470,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Kotlin Coroutines have revolutionized asynchronous programming on Android, making it simpler, cleaner, and more intuitive. However, even…</blockquote>
 
-<h3>4. Filter News by Topic in TrendNow: Save User Preferences with DataStore and Optimize Recomposition - <a href="https://medium.com/@danimahardhika/filter-news-by-topic-in-trendnow-save-user-preferences-with-datastore-and-optimize-recomposition-4e619e8476a8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Detecting Text with Camera in Compose Multiplatform - <a href="https://medium.com/@amirhossein-ijadi/detecting-text-with-camera-in-compose-multiplatform-b244d0f1f4d8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dani Mahardhika`**
+✍️ **posted by `Amirhossein ijadi`**
 
-<blockquote>Part 3 of a series exploring modern Android development through building a news aggregator app with Jetpack Compose</blockquote>
+<blockquote>Recently, the development of applications in the multi-platform framework provided by JetBrains has become popular. Development in this…</blockquote>
 
-<h3>5. Generating Fractals in Kotlin with Jetpack Compose - <a href="https://medium.com/proandroiddev/generating-fractals-in-kotlin-with-jetpack-compose-c94bf37b39da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Abid Ghani`**
 
-<blockquote>Math and Graphics Can Be Fun</blockquote>
+<blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. How to organize TabView in SwiftUI using Composable Architecture - <a href="https://medium.com/@provar67/how-to-organize-tabview-in-swiftui-using-composable-architecture-be76826ad2b1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why you should avoid client-side logic - <a href="https://medium.com/@daniel.reinhold/why-you-should-avoid-client-side-logic-deee9173de93" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oleksandr Provarenko`**
+✍️ **posted by `Daniel Reinhold`**
 
-<blockquote>If you are, just getting familiar with Composable Architecture (TCA) or are wondering whether it is worth doing so, this article is for…</blockquote>
+<blockquote>Hey everyone — this is my first article on Medium. Based on the experience I have gained over the last few months, I want to shed light on…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +502,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>iOS 18’s got hell-a-lot features you can’t discover thyself</blockquote>
 
-<h3>4. Is Apple’s Winning Streak Over? - <a href="https://medium.com/macoclock/is-apples-winning-streak-over-e7fe46dec4fb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. iOS 19 Camera App Redesign Leaked: A Sneak Peek at Apple’s Upcoming Interface - <a href="https://medium.com/macoclock/ios-19-camera-app-redesign-leaked-a-sneak-peek-at-apples-upcoming-interface-2bedb37349c3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mac O’Clock`**
 
-<blockquote>Why sticking to Old Strategies is hurting Innovation and What Apple must do to stay ahead</blockquote>
+<blockquote>Apple’s biggest leap since iOS 7?</blockquote>
 
 <h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
