@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Automatically Deploy Content Updates from Sanity.io to Your Next.js App on Vercel - <a href="https://medium.com/@sabirsafder/automatically-deploy-content-updates-from-sanity-io-to-your-next-js-app-on-vercel-011d15ac953d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React useCallback()-Avoid Re-rendering - <a href="https://medium.com/@taiye.akinlade1/react-usecallback-avoid-re-rendering-7df1d72f4bdd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sabir Hussain`**
+✍️ **posted by `Akinlade Taiye`**
 
-<blockquote>This article will guide you through setting up a seamless workflow between Sanity.io and Vercel. Learn how to automatically trigger Vercel…</blockquote>
+<blockquote>Prevent unnecessary re-renders with React useCallback(). Learn the power of useCallback Hook and when and how to use it effectively.</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>React Bits is a versatile library of animated and interactive React components that revolutionizes UI development. Whether you’re crafting…</blockquote>
 
-<h3>4. Understanding Nextra 4: How to Use It and move Nextra 3 to Nextra 4. - <a href="https://medium.com/frontendweb/understanding-nextra-4-how-to-use-it-and-move-nextra-3-to-nextra-4-9e020902b1d1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Exploring Payload CMS: A Code-First Headless CMS - <a href="https://medium.com/@msmechatronics/exploring-payload-cms-a-code-first-headless-cms-85860b51be68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `FrontEnd Web`**
+✍️ **posted by `Meiyappan Kannappa`**
 
-<blockquote>Nextra 4: Learn How to Use Its Latest Features.</blockquote>
+<blockquote>What is Content Management System (CMS)</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -160,11 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Crafting Realistic Test Data Using Faker and Mongoose - <a href="https://medium.com/@cagataygokcel/crafting-realistic-test-data-using-faker-and-mongoose-2cb4d2aab395" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Create a Three.js Component with Rollup - <a href="https://medium.com/@heyulei/how-to-create-a-three-js-component-with-rollup-6cbf355df243" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Cagataygokcel`**
+✍️ **posted by `Yulei He`**
 
-<blockquote>In software development, realistic test data is invaluable. It allows developers to simulate real-world scenarios, ensuring applications…</blockquote>
+<blockquote>This tutorial has implemented a simple Three.js frame rate display component. In fact, this module does not rely on Three.js or any other…</blockquote>
 
 <h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,11 +178,11 @@
 
 <blockquote>When we write a Node.js application, the initial focus is often on functionality — getting things up and running for your first users. But…</blockquote>
 
-<h3>4. Centralized Dependency Management for Node.js Projects - <a href="https://medium.com/@rhtlingayat/centralized-dependency-management-for-node-js-projects-7e5734aac51b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 5 Top Ways to Handle Errors in Node.js - <a href="https://medium.com/@arunangshudas/5-top-ways-to-handle-errors-in-node-js-87e9197dfcf8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rohit Lingayat`**
+✍️ **posted by `Arunangshu Das`**
 
-<blockquote>Manage Node.js Dependencies via Git</blockquote>
+<blockquote>Error handling isn’t the most glamorous part of coding, but when it comes to building reliable, production-grade applications in Node.js…</blockquote>
 
 <h3>5. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,13 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Master Your Personality: How DISC Styles and Winning Qualities Unlock Success
-(A Guide to… - <a href="https://medium.com/@rajeshkoli9390/master-your-personality-how-disc-styles-and-winning-qualities-unlock-success-a-guide-to-b0a36f85c644" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to become a web developer - <a href="https://medium.com/@raheelanjum151/how-to-become-a-web-developer-01861dc4e2ae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rajesh Kolli`**
+✍️ **posted by `Raheelanjum`**
 
-<blockquote>Master Your Personality: How DISC Styles and Winning Qualities Unlock Success
-(A Guide to Self-Awareness and Building Influence)</blockquote>
+<blockquote>How to become a web developer</blockquote>
 
 <h3>2. Building Multiplayer ‘Connect 4’ With Toolips - <a href="https://medium.com/chifi-media/building-multiplayer-connect-4-with-toolips-c985bf3f8eff" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -212,17 +210,17 @@
 
 <blockquote>My article is open to everyone; non-member readers can click this link to read the full text.</blockquote>
 
-<h3>4. How to become a web developer - <a href="https://medium.com/@raheelanjum151/how-to-become-a-web-developer-01861dc4e2ae" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Raheelanjum`**
-
-<blockquote>How to become a web developer</blockquote>
-
-<h3>5. People Smash Their Phones on These Websites - <a href="https://medium.com/@michalmalewicz/people-smash-their-phones-on-these-websites-9d00d36e0555" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. People Smash Their Phones on These Websites - <a href="https://medium.com/@michalmalewicz/people-smash-their-phones-on-these-websites-9d00d36e0555" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Michal Malewicz`**
 
 <blockquote>Optimizing mobile landing page conversion</blockquote>
+
+<h3>5. 7 Surprising Open Source Projects - <a href="https://medium.com/sourcescribes/7-surprising-open-source-projects-4583036986e9" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `OpenSourceScribes`**
+
+<blockquote>Innovative Open-Source Projects on GitHub</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -354,9 +352,9 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Agent Builder serving controls: Boosting. Semantic search with on the fly customizations. Part 1 - <a href="https://medium.com/@olejniczak.lukasz/agent-builder-serving-controls-boosting-semantic-search-with-on-the-fly-customizations-part-1-2547557ebf1d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Agent Builder serving controls: Boosting. Semantic search with on the fly customizations. Part 1 - <a href="https://medium.com/google-cloud/agent-builder-serving-controls-boosting-semantic-search-with-on-the-fly-customizations-part-1-2547557ebf1d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Olejniczak Lukasz`**
+✍️ **posted by `Google Cloud - Community`**
 
 <blockquote>Have you ever noticed how your favorite grocery store seems to know exactly what you’re craving? One week it’s all about Italian cuisine…</blockquote>
 
@@ -386,11 +384,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Understanding Coroutines Dispatchers - <a href="https://medium.com/proandroiddev/understanding-coroutines-dispatchers-2578dc577851" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Who Will Claim the Captain? - <a href="https://medium.com/cubieverse/who-will-claim-the-captain-77efacf48604" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Cubieverse`**
 
-<blockquote>Since Kotlin Coroutines have been widely adopted in many Android projects, they have continued to evolve, inspiring creative solutions for…</blockquote>
+<blockquote>Ahoy, Cubieverse adventurers! 🚢</blockquote>
 
 <h3>2. This Is the Phone You Should Take Portraits With - <a href="https://medium.com/@markellisreviews/this-is-the-phone-you-should-take-portraits-with-50cd7d9af853" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -404,11 +402,11 @@
 
 <blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
 
-<h3>4. Activity-Based Navigation in Multi-Module Android Apps - <a href="https://medium.com/@motefa1/activity-based-navigation-in-multi-module-android-apps-c811a9dc97e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Create a Reusable Premium Watermark in Jetpack Compose - <a href="https://medium.com/@kappdev/how-to-create-a-reusable-premium-watermark-in-jetpack-compose-83d79e9ce7c3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohamed Atef`**
+✍️ **posted by `Kappdev`**
 
-<blockquote>At one of the companies I worked for, we operate with multiple squads contributing to our Android app. This level of collaboration…</blockquote>
+<blockquote>Welcome everybody 👋 In this article, we’ll explore how to create a nice, customizable, and reusable Premium Watermark using Jetpack…</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -418,17 +416,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering Labels in SwiftUI - <a href="https://medium.com/devtechie/mastering-labels-in-swiftui-2bd1527a118e" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `DevTechie`**
+
+<blockquote>In SwiftUI, a Label is a view that combines a text view with an image view, creating a compact and visually appealing way to present…</blockquote>
+
+<h3>2. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Sergey Petrachkov`**
 
 <blockquote>A bit of theory, and lots of code snippets with the practical aspects of isolation, actors and sendability</blockquote>
-
-<h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Abid Ghani`**
-
-<blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
 <h3>3. Change These 18 iOS 18 Settings Right Now For a Superior Experience - <a href="https://medium.com/macoclock/change-these-18-ios-18-settings-right-now-for-a-superior-experience-2c1004189fb2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -436,17 +434,17 @@
 
 <blockquote>iOS 18’s got hell-a-lot features you can’t discover thyself</blockquote>
 
-<h3>4. KMP: Injecting Swift classes via Koin - <a href="https://medium.com/codandotv/kmp-injecting-swift-classes-via-koin-8bb9c7d7859f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Write Effective Swift Documentation in Xcode - <a href="https://medium.com/icommunity/how-to-write-effective-swift-documentation-in-xcode-e34793463cb9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `CodandoTV`**
+✍️ **posted by `iCommunity`**
 
-<blockquote>In a KMP project, sometimes we handle some aspects in very different ways depending on the platform we are implementing. It becomes even…</blockquote>
+<blockquote>When we haven’t looked at the code we’ve written for a long time, we might forget what it does. Or, when using Apple’s classes and not…</blockquote>
 
-<h3>5. Untapped Goldmines: Discovering Lucrative Niches for Android and iOS App Development - <a href="https://medium.com/@jankammerath/untapped-goldmines-discovering-lucrative-niches-for-android-and-ios-app-development-ac7b073abcfd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jan Kammerath`**
+✍️ **posted by `Abid Ghani`**
 
-<blockquote>Building apps for iOS and Android is fun. Although I have written software for numerous platforms over the past decades, building apps for…</blockquote>
+<blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
@@ -482,11 +480,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. KONG API gateway on GKE - <a href="https://medium.com/@rasvihostings/kong-api-gateway-on-gke-8c8d500fe3f3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Managing resources in Kubernetes cluster - <a href="https://medium.com/@jonatan5524/managing-resources-in-kubernetes-cluster-4090d27e2a58" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohamed Rasvi`**
+✍️ **posted by `Jonatan Ezron`**
 
-<blockquote>Comprehensive guide for setting up a GKE cluster with Terraform, installing Kong API Gateway, and deploying an application with OIDC…</blockquote>
+<blockquote>This article will discuss the different aspects we need to consider when managing resources on a Kubernetes cluster with multiple projects.</blockquote>
 
 <h3>2. Choosing the Right Software Deployment Model: On-Premises, Cloud (SaaS) or BYOC - <a href="https://medium.com/@jake.page91/choosing-the-right-software-deployment-model-on-premises-cloud-saas-or-byoc-be3304153f09" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -500,11 +498,11 @@
 
 <blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
 
-<h3>4. Managing resources in Kubernetes cluster - <a href="https://medium.com/@jonatan5524/managing-resources-in-kubernetes-cluster-4090d27e2a58" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Cluster Bootstrapping in a Multi-Cluster Argo CD Environment (Part 1) - <a href="https://medium.com/@john-tucker/cluster-bootstrapping-in-a-multi-cluster-argo-cd-environment-part-1-e9db4d7f0b48" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jonatan Ezron`**
+✍️ **posted by `John Tucker`**
 
-<blockquote>This article will discuss the different aspects we need to consider when managing resources on a Kubernetes cluster with multiple projects.</blockquote>
+<blockquote>Using a Git repository tags to declaratively define the mappings between workloads and managed clusters.</blockquote>
 
 <h3>5. Bringing Amazon EKS Hybrid Nodes to life with Palette - <a href="https://medium.com/itnext/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503" target="_blank" rel="noopener noreferrer">link</a></h3>
 
