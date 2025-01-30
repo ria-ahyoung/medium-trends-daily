@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Part 7: Testing React Context and Custom Hooks with Jest - <a href="https://medium.com/@entekumejeffrey/part-7-testing-react-context-and-custom-hooks-with-jest-0c4e19b43e46" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding JavaScript Closures: From Basics to Advanced Patterns - <a href="https://medium.com/@somindadhaniya/understanding-javascript-closures-from-basics-to-advanced-patterns-810f46b8bbea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Entekume jeffrey`**
+✍️ **posted by `Somin Dadhaniya`**
 
-<blockquote>In this part of the series, we’ll dive into testing React context and custom hooks, two powerful features in React that help manage state…</blockquote>
+<blockquote>If you’ve been programming in JavaScript for any length of time, you’ve probably heard the term “closure” thrown around. While closures…</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>React Bits is a versatile library of animated and interactive React components that revolutionizes UI development. Whether you’re crafting…</blockquote>
 
-<h3>4. Building APIs with Next.js 🔗: Best Practices and Examples - <a href="https://medium.com/stackademic/building-apis-with-next-js-best-practices-and-examples-e6a920703f41" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Best 8 Deployment and Hosting for Next.js App - <a href="https://medium.com/startup-nextjs/best-8-deployment-and-hosting-for-next-js-app-1c5123da9d9f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stackademic`**
+✍️ **posted by `Startup Nextjs`**
 
-<blockquote>Next.js has emerged as a powerful framework for building modern web applications, thanks to its rich feature set and ease of use. Among its…</blockquote>
+<blockquote>When it comes to hosting your Next.js application, several platforms offer great features, performance, and ease of use. Let’s explore a…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -82,11 +82,11 @@
 
 <blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
-<h3>4. 2025 UI/UX Design Trends: Top 5 Predictions - <a href="https://medium.com/@7dotssmartsolutions/2025-ui-ux-design-trends-top-5-predictions-a3b81d6c4f7e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `7 Dots Smart Solutions`**
+✍️ **posted by `Shailesh Chauhan`**
 
-<blockquote>What’s next for UX/UI in 2025? 🚀</blockquote>
+<blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
 
 <h3>5. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Top 10 JavaScript Performance Optimization Tips for 2025: From Beginner to Advanced - <a href="https://medium.com/@Luna-Rojas/top-10-javascript-performance-optimization-tips-for-2025-from-beginner-to-advanced-33a62d598a8d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Weird Parts of JavaScript: Strange Behaviors Explained - <a href="https://medium.com/@letscodefuture/the-weird-parts-of-javascript-strange-behaviors-explained-53d56b79ac91" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Luna Rojas`**
+✍️ **posted by `Let's Code Future`**
 
-<blockquote>In 2025, users expect instant interactions, and even a 100ms delay can impact engagement. Let’s dive into 10 actionable tips — from…</blockquote>
+<blockquote>Hey there, I’m Sachin! 🚀 JavaScript is an incredibly powerful and flexible language, but it also has some strange quirks that can confuse…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +114,11 @@
 
 <blockquote>Incremental Hydration, Signals, SSR and More</blockquote>
 
-<h3>4. 10 Underrated JavaScript Libraries You Should Be Using - <a href="https://medium.com/javascript-in-plain-english/10-underrated-javascript-libraries-you-should-be-using-07cac8178a27" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 10 Must-Know JavaScript Web APIs for Every Developer - <a href="https://medium.com/@mohammadrajpura/10-must-know-javascript-web-apis-for-every-developer-162b158c7f56" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Mohammad Rajpura`**
 
-<blockquote>Skip the Overhyped Ones, Focus on What Works</blockquote>
+<blockquote>Imagine building a website that could instantly tell you the weather ⛈️, access your location to suggest nearby restaurants 🍽️, or even…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -128,11 +128,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Master React Functional Components with TypeScript: A Beginner’s Guide - <a href="https://medium.com/@js.vipinmaraiya/master-react-functional-components-with-typescript-a-beginners-guide-e886dd0fbf9c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Guide to the Proxy Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-proxy-design-pattern-in-typescript-and-node-js-with-practical-examples-e2a328eb63e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vipin Sharma`**
+✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>Discover how to create type-safe and scalable React functional components with TypeScript. Learn best practices, explore real-world…</blockquote>
+<blockquote>The Proxy design pattern is one of the structural patterns that provides an object representing another object. The proxy controls access…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -146,17 +146,17 @@
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. A Guide to the Singleton Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-singleton-design-pattern-in-typescript-and-node-js-with-practical-examples-a792a5983e5d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Turing-Complete TypeScript: Building a Calculator with Pure Types - <a href="https://medium.com/@papa-karlo/turing-complete-typescript-building-a-calculator-with-pure-types-8388262cf50e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. TypeScript`**
+✍️ **posted by `Volfman Andrey`**
 
-<blockquote>The Singleton Pattern ensures that a class has only one instance and provides a global access point to that instance. It is widely used in…</blockquote>
+<blockquote>Turing-complete madness written in TypeScript</blockquote>
 
-<h3>5. TypeScript Patterns You Should Know for React Development - <a href="https://medium.com/@ignatovich.dm/typescript-patterns-you-should-know-for-react-development-d43129494027" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Mastering TypeScript: When to Choose Constants Over Enums (and Vice Versa) - <a href="https://medium.com/@krishnaananthvk/mastering-typescript-when-to-choose-constants-over-enums-and-vice-versa-bf06bd090bd7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Ananthakrishnan VK`**
 
-<blockquote>As TypeScript adoption continues to grow in the React ecosystem, understanding advanced patterns can dramatically improve your code…</blockquote>
+<blockquote>In TypeScript, developers often face the choice between using constant objects and enums when defining a set of fixed values. Both…</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. The 2025 PHP Developer RoadMap - <a href="https://medium.com/javarevisited/the-2025-php-developer-roadmap-d43b489da7d8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Slots: Make your Angular API flexible - <a href="https://medium.com/coreteq/slots-make-your-angular-api-flexible-89e707ffae4c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Javarevisited`**
+✍️ **posted by `CoreTEQ`**
 
-<blockquote>Your complete guide to become a PHP Developer in 2025 with resources</blockquote>
+<blockquote>Let’s explore all content projection approaches in Angular from the perspective of UI library developers and their users.</blockquote>
 
 <h3>2. Building Multiplayer ‘Connect 4’ With Toolips - <a href="https://medium.com/chifi-media/building-multiplayer-connect-4-with-toolips-c985bf3f8eff" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +210,11 @@
 
 <blockquote>Innovative Open-Source Projects on GitHub</blockquote>
 
-<h3>4. Enhancing Angular Templates with Untagged Template Literals - <a href="https://medium.com/netanelbasal/enhancing-angular-templates-with-untagged-template-literals-0baa5b4f8371" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. DeepSeek vs. OpenAI — New race in AI - <a href="https://medium.com/@bilosantonela1996/deepseek-vs-openai-new-race-in-ai-585b9c15be43" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Netanel Basal`**
+✍️ **posted by `codevil`**
 
-<blockquote>Angular’s latest release, 19.2.0-next.0, introduces a powerful enhancement that developers will love: support for untagged template…</blockquote>
+<blockquote>Recently, I’ve jumped on the AI ship and started actively exploring how to leverage LLM (Large Language Model) technology in development.</blockquote>
 
 <h3>5. People Smash Their Phones on These Websites - <a href="https://medium.com/@michalmalewicz/people-smash-their-phones-on-these-websites-9d00d36e0555" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -262,11 +262,11 @@
 
 <blockquote>Introduction:</blockquote>
 
-<h3>2. Mocking User Defaults in your Swift unit tests - <a href="https://medium.com/@colinwren/mocking-user-defaults-in-your-swift-unit-tests-54f8a8452dda" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery - <a href="https://medium.com/gitconnected/what-if-hallucination-is-a-spark-of-creativity-harnessing-llm-flaws-for-drug-discovery-eb98be47b2ee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Colin Wren`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Using a mock to ensure that your code that uses UserDefaults behaves correctly</blockquote>
+<blockquote>Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development</blockquote>
 
 <h3>3. This new IDE just destroyed VS Code and Copilot without even trying - <a href="https://medium.com/coding-beauty/windsurf-ide-0678288ce0a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,25 +274,25 @@
 
 <blockquote>Wow I never thought the day I stop using VS Code would come so soon…</blockquote>
 
-<h3>4. Why Junior Developers Are Burning Out Before They Bloom: Surviving Tech’s Obsession With ‘New’ - <a href="https://medium.com/mr-plan-publication/why-junior-developers-are-burning-out-before-they-bloom-surviving-techs-obsession-with-new-771b52e0f646" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Slots: Make your Angular API flexible - <a href="https://medium.com/coreteq/slots-make-your-angular-api-flexible-89e707ffae4c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. Plan ₿ Publication`**
+✍️ **posted by `CoreTEQ`**
 
-<blockquote>How the Industry’s Relentless Pace of Innovation Is Crushing New Coders — And the Old-School Mindset That Can Save Them</blockquote>
+<blockquote>Let’s explore all content projection approaches in Angular from the perspective of UI library developers and their users.</blockquote>
 
-<h3>5. DeepSeek-R1 Beats OpenAI’s o1, Revealing All Its Training Secrets Out In The Open - <a href="https://medium.com/gitconnected/deepseek-r1-beats-openais-o1-revealing-all-its-training-secrets-out-in-the-open-37f16f0990ec" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Nine Pico PIO Wats with MicroPython (Part 2) - <a href="https://medium.com/towards-data-science/nine-pico-pio-wats-with-micropython-part-2-984a642f25a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Towards Data Science`**
 
-<blockquote>A deep dive into how DeepSeek-R1 was trained from scratch and how this open-source research will accelerate AI progress like never before.</blockquote>
+<blockquote>Raspberry Pi programmable IO pitfalls illustrated with a musical example</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Deep seek Janus-Pro-7B: A Breakthrough in Multimodal AI - <a href="https://medium.com/@mirzasamaddanat/deep-seek-janus-pro-7b-a-breakthrough-in-multimodal-ai-efc7c690ac05" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Run DeepSeek R1 Locally with Cursor in 4 Minutes (yes completely offline!) - <a href="https://medium.com/@rizpabani/how-to-run-deepseek-r1-locally-with-cursor-in-4-minutes-yes-completely-offline-eecb03a48165" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mirza Samad`**
+✍️ **posted by `Riz Pabani`**
 
-<blockquote>Artificial Intelligence continues to redefine the boundaries of what’s possible, and the latest innovation from DeepSeek, a Chinese AI…</blockquote>
+<blockquote>DeepSeek R1 is a groundbreaking open-source AI model developed by DeepSeek AI that rivals the performance of industry leaders like OpenAI’s…</blockquote>
 
 <h3>2. A Tiny Chinese Startup Just Crashed Nvidia’s Stock - <a href="https://medium.com/ai-ai-oh/a-tiny-chinese-startup-just-crashed-nvidias-stock-32ae7fc75063" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -306,11 +306,11 @@
 
 <blockquote>Wow I never thought the day I stop using VS Code would come so soon…</blockquote>
 
-<h3>4. Deep Seek Detailed explanation of Janus-Pro-7B - <a href="https://medium.com/majordigest/deep-seek-detailed-explanation-of-janus-pro-7b-bd511698e497" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kimi k1.5 : OpenAI-o1 level multi-modal model - <a href="https://medium.com/data-science-in-your-pocket/kimi-k1-5-openai-o1-level-multi-modal-model-6eefb987d4cd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Major Digest`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>Deep Seek Janus-Pro-7B is an innovative large language model (LLM) that has been making waves in the artificial intelligence community.</blockquote>
+<blockquote>DeepSeek’s new competition outperforms GPT-4o and Claude 3.5</blockquote>
 
 <h3>5. DeepSeek-R1 Beats OpenAI’s o1, Revealing All Its Training Secrets Out In The Open - <a href="https://medium.com/gitconnected/deepseek-r1-beats-openais-o1-revealing-all-its-training-secrets-out-in-the-open-37f16f0990ec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Because Without You, I Wouldn’t Know That I’m Capable of Loving This Much - <a href="https://medium.com/@saikikeshi/because-without-you-i-wouldnt-know-that-i-m-capable-of-loving-this-much-90aa68db1272" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. you can be grateful for the lessons and still be sad for what you lost in learning them - <a href="https://medium.com/@fyoaeuriz/you-can-be-grateful-for-the-lessons-and-still-be-sad-for-what-you-lost-in-learning-them-450472c6056a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `life in letters`**
+✍️ **posted by `iris ୨୧`**
 
-<blockquote>The Story of a Love That Changed Everything I Thought I Knew</blockquote>
+<blockquote>every version of you that existed before this one mattered, too</blockquote>
 
-<h3>2. The Way - <a href="https://medium.com/@sfaldin/the-way-1a1977304b7a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Honey in the Gutter - <a href="https://medium.com/catharsis-chronicles/honey-in-the-gutter-243aa6ca824c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Serge Faldin`**
+✍️ **posted by `Catharsis Chronicles`**
 
-<blockquote>‘Whenever things get difficult, I want to get away.’</blockquote>
+<blockquote>A tale of love and leaving</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. How To Tell If A Loved One Is Secretly Q-Anon - <a href="https://medium.com/@ossiana.tepfenhart/how-to-tell-if-a-loved-one-is-secretly-q-anon-d761d26de779" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. You will find your people - <a href="https://medium.com/blog/you-will-find-your-people-0253321a5c62" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ossiana Tepfenhart`**
+✍️ **posted by `The Medium Blog`**
 
-<blockquote>This is also a guide for being secretly right-wing.</blockquote>
+<blockquote>Issue #256: the United States of Breakfast, midlife crises, and having fun</blockquote>
 
-<h3>5. Packing Up a Life and Marriage - <a href="https://medium.com/@laurafriedmanwilliams/reflections-on-identity-df92c377492d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Loneliness is the Gap Between Me and Myself - <a href="https://medium.com/engage/loneliness-is-the-gap-between-me-and-myself-13b9280c49bf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Laura Friedman Williams`**
+✍️ **posted by `Engage`**
 
-<blockquote>When It’s Time to Move On</blockquote>
+<blockquote>It is the herald announcing a call for change</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -370,12 +370,11 @@
 
 <blockquote>How Android 15’s Edge-to-Edge Feature Impacts Jetpack Compose Development</blockquote>
 
-<h3>4. Transforming Field Experiments Through Digital Games: The ProsperPlay Journey - <a href="https://medium.com/@schulz.lucie/transforming-field-experiments-through-digital-games-the-prosperplay-journey-17c955d250b8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Localization in Flutter with i69n: How to translate your App for global users - <a href="https://medium.com/@firunath/localisation-influtter-localization-with-i69n-how-to-translate-your-app-for-global-users-5a07ef2451d5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Lucie Schulz`**
+✍️ **posted by `Firdous nath`**
 
-<blockquote>Introduction
-What if a simple mobile game could revolutionize the way we conduct field experiments in remote settings? That question…</blockquote>
+<blockquote>Speak every user’s language 😎</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
