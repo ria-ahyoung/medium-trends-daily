@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. 🚀 39+ Game-Changing  Custom React Hooks You Can’t Imagine — Meet Haiku! 🎉 - <a href="https://medium.com/@letscodefuture/39-game-changing-custom-react-hooks-you-cant-imagine-meet-haiku-3a802f96260d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Use Framer Motion with Next.js Server Components (Without Breaking a Sweat) - <a href="https://medium.com/@mirazhs/how-to-use-framer-motion-with-next-js-server-components-without-breaking-a-sweat-64ca5452c8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Let's Code Future`**
+✍️ **posted by `Miraz Hossain`**
 
-<blockquote>Hey there, fellow React developers! I’m Sachin, and today, I’m introducing you to a game-changing library that will revolutionize how you…</blockquote>
+<blockquote>🚀 Learn How to Create Custom Motion Wrappers to Animate Server Components</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>The web development landscape continues to evolve, and as we move through 2025, Next.js and React are setting new standards for modern…</blockquote>
 
-<h3>4. Ngrok Magic: How to Share Your Localhost 👨‍💻 with the World 🌐 in 3 Easy Steps - <a href="https://medium.com/@halilural5/ngrok-magic-how-to-share-your-localhost-with-the-world-in-3-easy-steps-c2221ccaf243" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Next.js Leads the Future of Web Development in 2025 🌐 - <a href="https://medium.com/front-end-weekly/why-next-js-leads-the-future-of-web-development-in-2025-eb1a52a3931e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Halil Ural`**
+✍️ **posted by `Frontend Weekly`**
 
-<blockquote>A Step-by-Step Guide to Sharing Your Local Development Environment with Anyone, Anywhere</blockquote>
+<blockquote>As we step into 2025, the web development landscape is witnessing a significant shift, with frameworks like Next.js leading the charge…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -70,11 +70,11 @@
 
 <blockquote>We approach 2025,UI/UX design is set to push boundaries indeed further, incorporating advanced technology with mortal — centered…</blockquote>
 
-<h3>2. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 2025’s Top “8” UI/UX Trends - <a href="https://medium.com/@mahzabie.tomar17/2025s-top-8-ui-ux-trends-31333ad1df7f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Consagoustech`**
+✍️ **posted by `Mahzabie Tomar`**
 
-<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
+<blockquote>The Replacement of Website Builders</blockquote>
 
 <h3>3. Top UI/UX Design Trends to Watch in 2025 - <a href="https://medium.com/@design-studio/top-ui-ux-design-trends-to-watch-in-2025-75d46042cb07" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -82,11 +82,11 @@
 
 <blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
-<h3>4. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shailesh Chauhan`**
+✍️ **posted by `Consagoustech`**
 
-<blockquote>Get ready to level up your design game with these cutting-edge trends that will shape the future of UX/UI.</blockquote>
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
 
 <h3>5. Top UI/UX Design Trends 2024 - <a href="https://medium.com/@rakshagarambha/top-ui-ux-design-trends-2024-243ab5220f10" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -128,11 +128,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. A Guide to the Proxy Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-proxy-design-pattern-in-typescript-and-node-js-with-practical-examples-e2a328eb63e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Guide to the Mediator Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-mediator-design-pattern-in-typescript-and-node-js-with-practical-examples-12c51da62478" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>The Proxy design pattern is one of the structural patterns that provides an object representing another object. The proxy controls access…</blockquote>
+<blockquote>The Mediator design pattern is a behavioral pattern that helps reduce direct dependencies between objects by centralizing communication…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -146,11 +146,11 @@
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. Turing-Complete TypeScript: Building a Calculator with Pure Types - <a href="https://medium.com/@papa-karlo/turing-complete-typescript-building-a-calculator-with-pure-types-8388262cf50e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Guide to the Proxy Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-proxy-design-pattern-in-typescript-and-node-js-with-practical-examples-e2a328eb63e0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Volfman Andrey`**
+✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>Turing-complete madness written in TypeScript</blockquote>
+<blockquote>The Proxy design pattern is one of the structural patterns that provides an object representing another object. The proxy controls access…</blockquote>
 
 <h3>5. Mastering TypeScript: When to Choose Constants Over Enums (and Vice Versa) - <a href="https://medium.com/@krishnaananthvk/mastering-typescript-when-to-choose-constants-over-enums-and-vice-versa-bf06bd090bd7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. DeepSeek vs. OpenAI — New race in AI - <a href="https://medium.com/@bilosantonela1996/deepseek-vs-openai-new-race-in-ai-585b9c15be43" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Complete JavaScript Course 2025 - <a href="https://medium.com/gitconnected/the-complete-javascript-course-2025-14aacc674527" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `codevil`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Recently, I’ve jumped on the AI ship and started actively exploring how to leverage LLM (Large Language Model) technology in development.</blockquote>
+<blockquote>In this complete JavaScript course, you’ll learn everything you need to master JavaScript and start building real-world applications.</blockquote>
 
 <h3>2. Building Multiplayer ‘Connect 4’ With Toolips - <a href="https://medium.com/chifi-media/building-multiplayer-connect-4-with-toolips-c985bf3f8eff" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. you can be grateful for the lessons and still be sad for what you lost in learning them - <a href="https://medium.com/@fyoaeuriz/you-can-be-grateful-for-the-lessons-and-still-be-sad-for-what-you-lost-in-learning-them-450472c6056a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 6 Steps to Reach Your Emotionally Unavailable Partner - <a href="https://medium.com/@drjonicewebb/6-steps-to-reach-your-emotionally-unavailable-partner-7b411385115c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `Jonice Webb, Author of the Running On Empty Books`**
 
-<blockquote>every version of you that existed before this one mattered, too</blockquote>
+<blockquote>Emotionally unavailable partners are distant for a reason. Here’s how to pull yours closer.</blockquote>
 
-<h3>2. How I Handle Offensive Questions About Being Queer - <a href="https://medium.com/prismnpen/how-i-handle-offensive-questions-about-being-queer-76b724805dcb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Widow’s Playlist - <a href="https://medium.com/the-memoirist/the-widows-playlist-35e08d7194e2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prism & Pen`**
+✍️ **posted by `The Memoirist`**
 
-<blockquote>My Surprisingly Effective Response to the Inquiry, “What Are You?”</blockquote>
+<blockquote>How my husband’s suicide turned music into a minefield</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. You will find your people - <a href="https://medium.com/blog/you-will-find-your-people-0253321a5c62" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. What Happened In My Brain That One Time Todd From Marketing Said “I Like Your Sweater” - <a href="https://medium.com/slackjaw/what-happened-in-my-brain-that-one-time-todd-from-marketing-said-i-like-your-sweater-8d3bccb6f64d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Medium Blog`**
+✍️ **posted by `Slackjaw`**
 
-<blockquote>Issue #256: the United States of Breakfast, midlife crises, and having fun</blockquote>
+<blockquote>Should I smile? Smiling feels like something a normal person would do.</blockquote>
 
-<h3>5. When 11-Year-Olds Call Each Other Sociopaths, We Have a Problem - <a href="https://medium.com/three-imaginary-girls/when-11-year-olds-call-each-other-sociopaths-we-have-a-problem-69a38d2095cd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How I Handle Offensive Questions About Being Queer - <a href="https://medium.com/prismnpen/how-i-handle-offensive-questions-about-being-queer-76b724805dcb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Three Imaginary Girls`**
+✍️ **posted by `Prism & Pen`**
 
-<blockquote>Are contemporary revenge pop lyrics turning us into bullies?</blockquote>
+<blockquote>My Surprisingly Effective Response to the Inquiry, “What Are You?”</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -370,11 +370,11 @@
 
 <blockquote>Design System vs System Design</blockquote>
 
-<h3>4. SwiftUI Lifecycle 🚀 - <a href="https://medium.com/@yuvrajkale/swiftui-lifecycle-01a9f189a684" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Android Garbage Collection vs iOS ARC: Memory Management Showdown - <a href="https://medium.com/gitconnected/android-garbage-collection-vs-ios-arc-memory-management-showdown-eb166775a8bb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yuvraj Kale`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>SwiftUI introduces a new app lifecycle that replaces AppDelegate and SceneDelegate. Instead of relying on UIKit’s UIApplication, SwiftUI…</blockquote>
+<blockquote>Compare Android’s Garbage Collection vs. iOS’s ARC for optimal memory management in mobile app development. Discover key differences.</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,11 +416,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Create a Lock Screen Widget in SwiftUI - <a href="https://medium.com/@rishixcode/create-a-lock-screen-widget-in-swiftui-070a21f03a3d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Swift Error Handling: Build Resilient & Bug-Free Apps 🐞🚀 - <a href="https://medium.com/@nimjea/swift-error-handling-build-resilient-bug-free-apps-809992ef5d70" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rishabh Sharma`**
+✍️ **posted by `Anand Nimje`**
 
-<blockquote>In iOS 16, Apple introduced lock screen widgets, offering users quick access to relevant information without unlocking their devices. Since…</blockquote>
+<blockquote>Error handling is essential for building robust and reliable apps. In this guide, we’ll dive into Swift’s powerful error-handling tools —…</blockquote>
 
 <h3>2. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,11 +434,11 @@
 
 <blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
 
-<h3>4. A Developer’s Guide to Implement End-to-End Encryption in Mobile Apps 🛡️ - <a href="https://medium.com/@talsec/a-developers-guide-to-implement-end-to-end-encryption-in-mobile-apps-️-454b47158a3a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. iOS Penetration Testing: Getting Started with Jailbreaking the iPhone - <a href="https://medium.com/@harshvikramshahi/ios-penetration-testing-getting-started-with-jailbreaking-the-iphone-856208384082" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Talsec`**
+✍️ **posted by `Harsh vikram shahi`**
 
-<blockquote>by Ahmed Ayman, Senior Flutter Mobile Developer</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -448,11 +448,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. The Azure Terraformer’s Cheat Sheet: 10 Bookmarks You Can’t Ignore - <a href="https://medium.com/azure-terraformer/the-azure-terraformers-cheat-sheet-10-bookmarks-you-can-t-ignore-cbadad74c3b1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Argo Rollouts 1.8 Released - <a href="https://medium.com/argo-project/argo-rollouts-1-8-released-cf3183fae1af" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Azure Terraformer`**
+✍️ **posted by `Argo Project`**
 
-<blockquote>Embarking on the journey of automating Azure infrastructure with Terraform can be both exciting and overwhelming. Whether you’re just…</blockquote>
+<blockquote>Welcome Argo Rollouts 1.8! This release had 53 contributors, of which 39 were first-timers, and includes 202 commits!</blockquote>
 
 <h3>2. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,11 +466,11 @@
 
 <blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
 
-<h3>4. How To Install And Use DeepSeek R-1 In Your Local PC Today - <a href="https://medium.com/@haroldfinch01/how-to-install-and-use-deepseek-r-1-in-your-local-pc-today-d9513419c13a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Predicting California Housing Prices with Feature Engineering, End Pipeline, Streamlit UI and… - <a href="https://medium.com/@mabdulre9/predicting-california-housing-prices-with-feature-engineering-end-pipeline-streamlit-ui-and-d6766ace6c19" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Harold Finch`**
+✍️ **posted by `MUHAMMAD ABDUL REHMAN`**
 
-<blockquote>To install and run DeepSeek R-1 on your local PC, follow these steps:</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. Diagnosing CI Bottlenecks: From Chonky Tests to Embracing Variability - <a href="https://medium.com/@jason.aricheta/diagnosing-ci-bottlenecks-from-chonky-tests-to-embracing-variability-c76110d1fd95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
