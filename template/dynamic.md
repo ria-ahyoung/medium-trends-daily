@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. How to Use Framer Motion with Next.js Server Components (Without Breaking a Sweat) - <a href="https://medium.com/@mirazhs/how-to-use-framer-motion-with-next-js-server-components-without-breaking-a-sweat-64ca5452c8a3" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to integrate google map in Nextjs 15 - <a href="https://medium.com/@kusalkalingainfo/how-to-integrate-google-map-in-nextjs-15-d86dc00e5766" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Miraz Hossain`**
+✍️ **posted by `Kusal Kalinga`**
 
-<blockquote>🚀 Learn How to Create Custom Motion Wrappers to Animate Server Components</blockquote>
+<blockquote>In today’s digital landscape, location-based features are no longer a luxury — they’re a necessity. Whether you’re building a store…</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>The web development landscape continues to evolve, and as we move through 2025, Next.js and React are setting new standards for modern…</blockquote>
 
-<h3>4. Why Next.js Leads the Future of Web Development in 2025 🌐 - <a href="https://medium.com/front-end-weekly/why-next-js-leads-the-future-of-web-development-in-2025-eb1a52a3931e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Top 10 Best React Libraries You Should Try in 2025 - <a href="https://medium.com/lets-code-future/top-10-best-react-libraries-you-should-try-in-2025-3bb0db2ecffa" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Frontend Weekly`**
+✍️ **posted by `let’s Code Future`**
 
-<blockquote>As we step into 2025, the web development landscape is witnessing a significant shift, with frameworks like Next.js leading the charge…</blockquote>
+<blockquote>Hey there, fellow developers! I’m Sachin, and today I want to share some of my favorite React component libraries that can make your…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +114,11 @@
 
 <blockquote>Incremental Hydration, Signals, SSR and More</blockquote>
 
-<h3>4. Higher Order Functions in JavaScript Explained with Practical Examples - <a href="https://medium.com/@mohammedelaouri/higher-order-functions-in-javascript-explained-with-practical-examples-db0ccbea6dda" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Deep Flattening Nested Objects in JavaScript: Interview Series - <a href="https://medium.com/@abkech/deep-flattening-nested-objects-in-javascript-interview-series-3ff1301b350f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammed El Aouri`**
+✍️ **posted by `Abhinav kumar`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Welcome to another post in our Interview Series, where we tackle common coding challenges that often come up in technical interviews…</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -128,11 +128,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. A Guide to the Mediator Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-mediator-design-pattern-in-typescript-and-node-js-with-practical-examples-12c51da62478" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Guide to the State Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-state-design-pattern-in-typescript-and-node-js-with-practical-examples-20e92ff472df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>The Mediator design pattern is a behavioral pattern that helps reduce direct dependencies between objects by centralizing communication…</blockquote>
+<blockquote>The State design pattern is a behavioral pattern that allows an object to change its behavior dynamically based on its internal state…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -146,11 +146,11 @@
 
 <blockquote>Nowadays most modern ReactJS and NodeJS apps are created using TypeScript. Angular was already having it in-built. So, you go for a Reactt…</blockquote>
 
-<h3>4. A Guide to the Proxy Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-proxy-design-pattern-in-typescript-and-node-js-with-practical-examples-e2a328eb63e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. A Guide to the Composite Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-composite-design-pattern-in-typescript-and-node-js-with-practical-examples-b763a6f11218" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>The Proxy design pattern is one of the structural patterns that provides an object representing another object. The proxy controls access…</blockquote>
+<blockquote>The Composite design pattern is a structural pattern that allows individual objects and compositions of objects to be treated uniformly. It…</blockquote>
 
 <h3>5. Mastering TypeScript: When to Choose Constants Over Enums (and Vice Versa) - <a href="https://medium.com/@krishnaananthvk/mastering-typescript-when-to-choose-constants-over-enums-and-vice-versa-bf06bd090bd7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,35 +192,35 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. The Complete JavaScript Course 2025 - <a href="https://medium.com/gitconnected/the-complete-javascript-course-2025-14aacc674527" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 13 Open-Source Projects You’ll Wish You Knew Sooner - <a href="https://medium.com/sourcescribes/13-open-source-projects-youll-wish-you-knew-sooner-0d089a110d52" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `OpenSourceScribes`**
 
-<blockquote>In this complete JavaScript course, you’ll learn everything you need to master JavaScript and start building real-world applications.</blockquote>
+<blockquote>These open-source projects will boost productivity</blockquote>
 
-<h3>2. Building Multiplayer ‘Connect 4’ With Toolips - <a href="https://medium.com/chifi-media/building-multiplayer-connect-4-with-toolips-c985bf3f8eff" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Never Start a New Project Without a Proof of Concept (PoC) - <a href="https://medium.com/@tomoima525/never-start-a-new-project-without-a-proof-of-concept-poc-a5f9b8709dde" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tomoaki Imai`**
+
+<blockquote>We’re often eager to dive straight into coding when starting a new project. However, rushing into implementation without proper validation…</blockquote>
+
+<h3>3. Enhancing Angular Templates with Untagged Template Literals - <a href="https://medium.com/netanelbasal/enhancing-angular-templates-with-untagged-template-literals-0baa5b4f8371" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Netanel Basal`**
+
+<blockquote>Angular’s latest release, 19.2.0-next.0, introduces a powerful enhancement that developers will love: support for untagged template…</blockquote>
+
+<h3>4. Is Web Design over? - <a href="https://medium.com/@michalmalewicz/is-web-design-over-c14fe246125e" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Michal Malewicz`**
+
+<blockquote>AI still can’t design. We lost anyway.</blockquote>
+
+<h3>5. Building Multiplayer ‘Connect 4’ With Toolips - <a href="https://medium.com/chifi-media/building-multiplayer-connect-4-with-toolips-c985bf3f8eff" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `chifi`**
 
 <blockquote>Creating a multiplayer ‘connect 4’ game with Toolips 0.3.6.</blockquote>
-
-<h3>3. 7 Surprising Open Source Projects - <a href="https://medium.com/sourcescribes/7-surprising-open-source-projects-4583036986e9" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `OpenSourceScribes`**
-
-<blockquote>Innovative Open-Source Projects on GitHub</blockquote>
-
-<h3>4. Web development and management system - <a href="https://medium.com/@saqibsohail5453/web-development-and-management-system-748b410f99c7" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Saqib Sohail`**
-
-<blockquote>web development and management system</blockquote>
-
-<h3>5. People Smash Their Phones on These Websites - <a href="https://medium.com/@michalmalewicz/people-smash-their-phones-on-these-websites-9d00d36e0555" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Michal Malewicz`**
-
-<blockquote>Optimizing mobile landing page conversion</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -256,11 +256,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. React’s declarative model isn’t perfect - <a href="https://medium.com/@nmbennett/reacts-model-isn-t-perfect-f198296f4db2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. DeepSeek-R1 free API - <a href="https://medium.com/data-science-in-your-pocket/deepseek-r1-free-api-58b47e849f1c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nate Bennett`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>And ignorance of testing internals doesn’t excuse a horrible experience</blockquote>
+<blockquote>How to use DeepSeek-R1 for free using OpenRouter</blockquote>
 
 <h3>2. Simplify Restaurant Search in Your React App With foodie-react! - <a href="https://medium.com/gitconnected/simplify-restaurant-search-in-your-react-app-with-foodie-react-72db8487322f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,11 +274,11 @@
 
 <blockquote>Wow I never thought the day I stop using VS Code would come so soon…</blockquote>
 
-<h3>4. The End of Software Engineering as We Know It? - <a href="https://medium.com/@tsecretdeveloper/the-end-of-software-engineering-as-we-know-it-5cd5cbf2a87c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Full-Stack Lie: How Chasing “Everything” Made Developers Worse at Their Jobs - <a href="https://medium.com/mr-plan-publication/the-full-stack-lie-how-chasing-everything-made-developers-worse-at-their-jobs-8b41331a4861" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Secret Developer`**
+✍️ **posted by `Mr. Plan ₿ Publication`**
 
-<blockquote>Salesforce, one of the world’s most valuable software companies, just announced that it won’t be hiring any new engineers this year. Not…</blockquote>
+<blockquote>Why the obsession with being a coding Swiss Army knife is sabotaging careers — and how to reclaim your superpower</blockquote>
 
 <h3>5. Our Coding Obsession Is Pushing Kids Out of Tech - <a href="https://medium.com/stem-parenting/our-coding-obsession-is-pushing-kids-out-of-tech-4a843c6723ed" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. 6 Steps to Reach Your Emotionally Unavailable Partner - <a href="https://medium.com/@drjonicewebb/6-steps-to-reach-your-emotionally-unavailable-partner-7b411385115c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. who are you when no one’s watching? - <a href="https://medium.com/@fyoaeuriz/who-are-you-when-no-ones-watching-19216752929d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jonice Webb, Author of the Running On Empty Books`**
+✍️ **posted by `iris ୨୧`**
 
-<blockquote>Emotionally unavailable partners are distant for a reason. Here’s how to pull yours closer.</blockquote>
+<blockquote>would you, for once, finally exist just for yourself?</blockquote>
 
-<h3>2. The Widow’s Playlist - <a href="https://medium.com/the-memoirist/the-widows-playlist-35e08d7194e2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. My Father Died a Recluse, But He Was Still Loved - <a href="https://medium.com/the-memoirist/my-father-died-a-recluse-but-he-was-still-loved-2c32d247329d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `The Memoirist`**
 
-<blockquote>How my husband’s suicide turned music into a minefield</blockquote>
+<blockquote>The biggest fear I had was that he would die alone</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. How I Handle Offensive Questions About Being Queer - <a href="https://medium.com/prismnpen/how-i-handle-offensive-questions-about-being-queer-76b724805dcb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The 3 Simple Needs of Men in Relationships - <a href="https://medium.com/@jamesmsama/the-3-simple-needs-of-men-in-relationships-5e217659b5a7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prism & Pen`**
+✍️ **posted by `James Michael Sama`**
 
-<blockquote>My Surprisingly Effective Response to the Inquiry, “What Are You?”</blockquote>
+<blockquote>We are but simple creatures (I swear).</blockquote>
 
-<h3>5. the river doesn’t apologize for changing - <a href="https://medium.com/@fyoaeuriz/the-river-doesnt-apologize-for-changing-04b319d2293c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. From Love to Logic: How Algorithms Decide Our Matches - <a href="https://medium.com/intuition/from-love-to-logic-how-algorithms-decide-our-matches-32350346d3dc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `Intuition`**
 
-<blockquote>to learn, unlearn, and keep moving forward</blockquote>
+<blockquote>The Stable Matching Problem</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -370,11 +370,11 @@
 
 <blockquote>Design System vs System Design</blockquote>
 
-<h3>4. Picnic’s Page Platform from a Mobile perspective: enabling fast updates through server-driven UI - <a href="https://medium.com/picnic-engineering/server-driven-ui-in-picnics-page-platform-c1603b55c7b2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. React Native Folder Structure - <a href="https://medium.com/@andrew.chester/react-native-folder-structure-fb380b80697a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Picnic Engineering`**
+✍️ **posted by `Andrew Chester`**
 
-<blockquote>After introducing our Page Architecture initiative in this previous post, we’ll now dive deeper into how we transformed the mobile app —…</blockquote>
+<blockquote>Navigating the landscape of React Native development, especially for developers transitioning from other tech stacks, often involves…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -402,11 +402,11 @@
 
 <blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
 
-<h3>4. Handling Multiple Remember States in Jetpack Compose - <a href="https://medium.com/proandroiddev/handling-multiple-remember-states-in-jetpack-compose-075a8c2c34f2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Performance Tracking and Improvement in Android — Interview Guide - <a href="https://medium.com/@ranjeet123/performance-tracking-and-improvement-in-android-interview-guide-cd36b2a5e35a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProAndroidDev`**
+✍️ **posted by `Ranjeet`**
 
-<blockquote>Jetpack Compose is a declarative UI framework that manages state efficiently with remember and mutableStateOf. When dealing with multiple…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,11 +416,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Swift Error Handling: Build Resilient & Bug-Free Apps 🐞🚀 - <a href="https://medium.com/@nimjea/swift-error-handling-build-resilient-bug-free-apps-809992ef5d70" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Dependency Injection 101 with Swift - <a href="https://medium.com/icommunity/dependency-injection-101-with-swift-db3bc140663a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anand Nimje`**
+✍️ **posted by `iCommunity`**
 
-<blockquote>Error handling is essential for building robust and reliable apps. In this guide, we’ll dive into Swift’s powerful error-handling tools —…</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>2. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,12 +434,11 @@
 
 <blockquote>Build dynamic UIs and push app updates in seconds with JSON</blockquote>
 
-<h3>4. Apple’s Combine framework - <a href="https://medium.com/@muruganandhamkuppan/apples-combine-framework-61c2e23915eb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Dependency Injection in SwiftUI: From Basics to Advanced DI Containers - <a href="https://medium.com/@nimjea/dependency-injection-in-swiftui-from-basics-to-advanced-di-containers-241b8de76d7a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Muruganandham Kuppan`**
+✍️ **posted by `Anand Nimje`**
 
-<blockquote>Hmm… Combine framework? 🤔 Sounds like it’s combining something, right?
-Yes! It combines a variable and its dependents — without merging…</blockquote>
+<blockquote>In this article, we’ll explore how to harness the power of Swinject for Dependency Injection (DI) in a SwiftUI-based application. By…</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -449,11 +448,11 @@ Yes! It combines a variable and its dependents — without merging…</block
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Argo Rollouts 1.8 Released - <a href="https://medium.com/argo-project/argo-rollouts-1-8-released-cf3183fae1af" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. The Evolution of GitLab: From a Side Project to a DevOps Powerhouse - <a href="https://medium.com/devops-by-nature/the-evolution-of-gitlab-from-a-side-project-to-a-devops-powerhouse-a554a524d909" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Argo Project`**
+✍️ **posted by `DevOps By Nature`**
 
-<blockquote>Welcome Argo Rollouts 1.8! This release had 53 contributors, of which 39 were first-timers, and includes 202 commits!</blockquote>
+<blockquote>In the fast-evolving world of software development, GitLab has risen to become one of the leading platforms for DevOps, rivaling names like…</blockquote>
 
 <h3>2. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -467,11 +466,11 @@ Yes! It combines a variable and its dependents — without merging…</block
 
 <blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
 
-<h3>4. Predicting California Housing Prices with Feature Engineering, End Pipeline, Streamlit UI and… - <a href="https://medium.com/@mabdulre9/predicting-california-housing-prices-with-feature-engineering-end-pipeline-streamlit-ui-and-d6766ace6c19" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Migrating to Graviton on K8s - <a href="https://medium.com/@adityavallabh/migrating-to-graviton-on-k8s-a9e82601a5d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `MUHAMMAD ABDUL REHMAN`**
+✍️ **posted by `Aditya Vallabh Ganti`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>A Journey to Cost and Performance Optimization</blockquote>
 
 <h3>5. Diagnosing CI Bottlenecks: From Chonky Tests to Embracing Variability - <a href="https://medium.com/@jason.aricheta/diagnosing-ci-bottlenecks-from-chonky-tests-to-embracing-variability-c76110d1fd95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +530,11 @@ Yes! It combines a variable and its dependents — without merging…</block
 
 <blockquote>When it comes to local development environments, the simplicity and functionality of a fat Docker container can’t be overstated. This…</blockquote>
 
-<h3>4. Docker Image : Basic Commands to create it and command to find where Docker Images are stored. - <a href="https://medium.com/@ByteCodeBlogger/docker-image-basic-commands-to-create-it-and-command-to-find-where-docker-images-are-stored-e6eb8234456e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Set Up ROS Noetic on Ubuntu 22.04 with Docker and OpenGL Support - <a href="https://medium.com/@zahirmd/set-up-ros-noetic-on-ubuntu-22-04-with-docker-and-opengl-support-38aacabccac7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Full Stack Developer`**
+✍️ **posted by `Zahiruddin Mahammad`**
 
-<blockquote>This is a quick guide for people looking for refresher on Docker commands</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
 
