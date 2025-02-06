@@ -192,17 +192,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. JavaScript Advanced Concepts & Usage - <a href="https://medium.com/@ashishmisal/javascript-advanced-concepts-usage-b50b7cb7717d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 😤 Rage Clickers Will Hate Angular 19 Event Replay - <a href="https://medium.com/@tomaszs2/rage-clickers-will-hate-angular-19-event-reply-023522a8a7f9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ashish Misal`**
+✍️ **posted by `Tom Smykowski`**
 
-<blockquote>As a developer, I’ve encountered many challenges while diving deeper into JavaScript. Through years of experience, I’ve compiled this…</blockquote>
+<blockquote>Serial tappers beware. Angular 19 may piss you off</blockquote>
 
-<h3>2. The Nullish Coalescing Operators - <a href="https://medium.com/js-in-3-minutes-or-less/the-nullish-coalescing-operators-007b3aca12a2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Rethinking the frontend with HTMX - <a href="https://medium.com/@marcnealer/rethinking-the-frontend-with-htmx-780045980352" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JS in 3 minutes or less`**
+✍️ **posted by `Marc Nealer`**
 
-<blockquote>Behind this funny name lies a powerful operator that can simplify our code considerably.</blockquote>
+<blockquote>I’ve done a lot of work with FastAPI, and that led me to FastHTML. Now this library is far from ready to real use, but one of its…</blockquote>
 
 <h3>3. 20 free tools and resources you’re gonna love(Part 1) - <a href="https://medium.com/stackademic/20-free-tools-and-resources-youre-gonna-love-part-1-25431014f48e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,17 +210,17 @@
 
 <blockquote>Who doesn’t love free stuff? And when it’s not just free but also amazing, it’s like hitting the jackpot! 🚀 Let’s dive into an exciting…</blockquote>
 
-<h3>4. 13 Open-Source Projects You’ll Wish You Knew Sooner - <a href="https://medium.com/sourcescribes/13-open-source-projects-youll-wish-you-knew-sooner-0d089a110d52" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 📜 JavaScript Deep Dive #1: Mastering Closures Like a Pro - <a href="https://medium.com/techiediaries-com/javascript-deep-dive-1-mastering-closures-like-a-pro-518bae0263f0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `OpenSourceScribes`**
+✍️ **posted by `Programmer Space`**
 
-<blockquote>These open-source projects will boost productivity</blockquote>
+<blockquote>Ever wondered how some JavaScript functions seem to “remember” variables even after they’ve finished running? That’s closures at work</blockquote>
 
-<h3>5. React is Just document.createElement() With Good Marketing, and I Can Prove It - <a href="https://medium.com/@nate_78635/react-is-just-document-createelement-with-good-marketing-and-i-can-prove-it-7883b53a9063" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Nullish Coalescing Operators - <a href="https://medium.com/js-in-3-minutes-or-less/the-nullish-coalescing-operators-007b3aca12a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Nate`**
+✍️ **posted by `JS in 3 minutes or less`**
 
-<blockquote>After 15 years of web development, I’ve come to a shocking realization: React, the darling of modern web development, is nothing more than…</blockquote>
+<blockquote>Behind this funny name lies a powerful operator that can simplify our code considerably.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -256,17 +256,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. OpenAI just quietly released another agentic framework. It’s really fucking cool - <a href="https://medium.com/@austin-starks/openai-just-quietly-released-another-agentic-framework-its-really-fucking-cool-241ea35b6a94" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Google Gemini 2.0 Flash & Pro: Better than DeepSeek and OpenAI-o3? - <a href="https://medium.com/data-science-in-your-pocket/google-gemini-2-0-flash-pro-better-than-deepseek-and-openai-o3-80ea52c5f321" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Austin Starks`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>I’m used to OpenAI over-promising and under-delivering.</blockquote>
+<blockquote>How to use Google Gemini 2.0 Pro and Flash for free?</blockquote>
 
-<h3>2. Do You Know Yourself, ChatGPT? Can You Explain Your Behavior? - <a href="https://medium.com/gitconnected/do-you-know-yourself-chatgpt-can-you-explain-your-behavior-d87fefeb41bf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Understanding Word Embeddings in PyTorch - <a href="https://medium.com/@hathibel/understanding-word-embeddings-in-pytorch-ad9a981d3398" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Ashraff Hathibelagal`**
 
-<blockquote>Exploring the Spontaneous Articulation of Implicit Behaviors in Large Language Models</blockquote>
+<blockquote>Getting started with converting words into useful vector representations</blockquote>
 
 <h3>3. This new IDE just destroyed VS Code and Copilot without even trying - <a href="https://medium.com/coding-beauty/windsurf-ide-0678288ce0a4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,31 +274,31 @@
 
 <blockquote>Wow I never thought the day I stop using VS Code would come so soon…</blockquote>
 
-<h3>4. Dockerizing and Deploying a Spring Boot Application on Kubernetes - <a href="https://medium.com/gitconnected/dockerizing-and-deploying-a-spring-boot-application-on-kubernetes-98db3397c315" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. OpenAI just quietly released another agentic framework. It’s really fucking cool - <a href="https://medium.com/@austin-starks/openai-just-quietly-released-another-agentic-framework-its-really-fucking-cool-241ea35b6a94" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Austin Starks`**
 
-<blockquote>I will show how to transition from developing Spring Boot + Java applications to diving headfirst into the DevOps world</blockquote>
+<blockquote>All of my articles are 100% free to read. Non-members can read for free by clicking my friend link here.</blockquote>
 
-<h3>5. Untangling Knots - <a href="https://medium.com/science-spectrum/untangling-knots-61fb400f223f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Trump’s War on WFH🤯 - <a href="https://medium.com/@tsecretdeveloper/trumps-war-on-wfh-ff867f2fa4dc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Science Spectrum`**
+✍️ **posted by `The Secret Developer`**
 
-<blockquote>The Awesome World of Mathematical Knot Theory</blockquote>
+<blockquote>Remote work was once seen as one of the major perks of being a software developer, and this extended to times significantly before covid.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. The DCA Midair Disaster: How Politics Undermines Aviation Safety - <a href="https://medium.com/@skydayton/the-dca-midair-disaster-how-politics-undermines-aviation-safety-678089ba306f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Major Update: Orb i2 Miners Transition Plan Released - <a href="https://medium.com/codetech/major-update-orb-i2-miners-transition-plan-released-399cdba1a7e6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sky Dayton`**
+✍️ **posted by `CoDeTech`**
 
-<blockquote>Last week, a military Blackhawk helicopter flew directly across the approach path of an American Eagle regional jet on final approach to…</blockquote>
+<blockquote>Core Blockchain acknowledges the incredible contributions of the Orb i2 miners, which have actively been mining for almost three years…</blockquote>
 
-<h3>2. The ultimate note-taking solution — 2nd Edition (2025) - <a href="https://medium.com/@munafsheikh/the-ultimate-note-taking-solution-2nd-edition-2025-caea2165d46a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. DeepSeek-R1 — Intuitively and Exhaustively Explained - <a href="https://medium.com/intuitively-and-exhaustively-explained/deepseek-r1-intuitively-and-exhaustively-explained-722938fddca9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `🃏Munaf ✅️`**
+✍️ **posted by `Intuitively and Exhaustively Explained`**
 
-<blockquote>Just over 1 year ago, I wrote the first edition of this article. It’s time for a review and update. So much has changed in the last year…</blockquote>
+<blockquote>An “Aha” moment in Artificial Intelligence</blockquote>
 
 <h3>3. DeepSeek Is Chinese But Its AI Models Are From Another Planet - <a href="https://medium.com/@albertoromgar/deepseek-is-chinese-but-its-ai-models-are-from-another-planet-e4cf94840086" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -306,31 +306,31 @@
 
 <blockquote>OpenAI and the US are in deep trouble</blockquote>
 
-<h3>4. The Self Through Memes - <a href="https://medium.com/@danelij/the-self-through-memes-8f3dea286d8b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Maybe No One Can Find a Job Because LinkedIn Is Just a Social Network - <a href="https://medium.com/entrepreneur-s-handbook/maybe-no-one-can-find-a-job-because-linkedin-is-just-a-social-network-85a918f52ada" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Danelij`**
+✍️ **posted by `Entrepreneurship Handbook`**
 
-<blockquote>How to Review Text to Peers: Text to Views for Habits to Thoughts</blockquote>
+<blockquote>Companies are influencers and we’re all just followers now</blockquote>
 
-<h3>5. Peak Steel - <a href="https://medium.com/@thehonestsorcerer/peak-steel-96d65b5f040b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Where is my mind? - <a href="https://medium.com/@michaeldain/where-is-my-mind-638ddd633454" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `B`**
+✍️ **posted by `Michael Dain`**
 
-<blockquote>Global steel production has peaked in 2021 and it’s stagnating ever since. Is this just another minor hiccup or an ominous sign of a much…</blockquote>
+<blockquote>What we gain and lose by giving more of our thinking over to technology</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. who are you when no one’s watching? - <a href="https://medium.com/@fyoaeuriz/who-are-you-when-no-ones-watching-19216752929d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. What I Tell My Husband About My Writing Retreat vs. The Reality Of My Writing Retreat - <a href="https://medium.com/thebelladonnacomedy/what-i-tell-my-husband-about-my-writing-retreat-vs-the-reality-of-my-writing-retreat-55c50de6414a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `The Belladonna Comedy`**
 
-<blockquote>would you, for once, finally exist just for yourself?</blockquote>
+<blockquote>“Seriously, babe, it’s not that great.”</blockquote>
 
-<h3>2. Sleep-Divorcing My Husband Was The Best Thing I Ever Did - <a href="https://medium.com/modern-women/sleep-divorcing-my-husband-was-the-best-thing-i-ever-did-9aac12e964c0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. My dad comes home in a box - <a href="https://medium.com/human-parts/my-dad-comes-home-in-a-box-8f023e5709f9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Modern Women`**
+✍️ **posted by `Human Parts`**
 
-<blockquote>Why do couples need to sleep in the same bed when both are miserable?</blockquote>
+<blockquote>and I plant him in the garden</blockquote>
 
 <h3>3. “if you don’t spend enough time getting to know yourself, you’ll end up absorbing everyone else’s… - <a href="https://medium.com/@fyoaeuriz/if-you-dont-spend-enough-time-getting-to-know-yourself-you-ll-end-up-absorbing-everyone-else-s-e52c3ff17df4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,25 +338,25 @@
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. The cruel art of loving and letting go. - <a href="https://medium.com/@liesoflei/the-cruel-art-of-loving-and-letting-go-2bcaceba7757" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. letting go doesn’t mean it didn’t matter - <a href="https://medium.com/@hrjletters/letting-go-doesnt-mean-it-didn-t-matter-f429e499df8b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `lies of lei`**
+✍️ **posted by `nis`**
 
-<blockquote>I don’t want my life to be an act of letting go. I don’t want to constantly watch people slip through my fingers like sand, no matter how…</blockquote>
+<blockquote>it was real, and it meant something—even if it didn't last in the way we hoped.</blockquote>
 
-<h3>5. Something Always Brings Me Back To You - <a href="https://medium.com/ellemeno/something-always-brings-me-back-to-you-8f4069b9b32f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Sleep-Divorcing My Husband Was The Best Thing I Ever Did - <a href="https://medium.com/modern-women/sleep-divorcing-my-husband-was-the-best-thing-i-ever-did-9aac12e964c0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ellemeno`**
+✍️ **posted by `Modern Women`**
 
-<blockquote>Cruel revelations in the movements of passion</blockquote>
+<blockquote>Why do couples need to sleep in the same bed when both are miserable?</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. The Impact of Mobile Phones on Modern Life - <a href="https://medium.com/@alishbakhans343/the-impact-of-mobile-phones-on-modern-life-0fd55064f5e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Leveraging Generative AI in Mobile App Development: Opportunities and Challenges - <a href="https://medium.com/@santoshbotre01/leveraging-generative-ai-in-mobile-app-development-opportunities-and-challenges-562a41c4ad64" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alishba Khan`**
+✍️ **posted by `Santosh Botre`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Generative AI (GenAI) has emerged as a transformative force across industries. As mobile technology professionals, it’s crucial to examine…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -370,11 +370,11 @@
 
 <blockquote>1. Blocking the Main Thread</blockquote>
 
-<h3>4. Understanding Kotlin Context Receivers: A Game-Changer for Multi-Receiver Functions - <a href="https://medium.com/@kanagalingam91/understanding-kotlin-context-receivers-a-game-changer-for-multi-receiver-functions-ea6cb6b2da76" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Are Stored Properties Not Allowed in Enums in Swift? - <a href="https://medium.com/@shobhakartiwari/why-are-stored-properties-not-allowed-in-enums-in-swift-31c27f0210ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kanagalingam Jothi`**
+✍️ **posted by `Shobhakar Tiwari`**
 
-<blockquote>Kotlin keeps evolving to make coding more concise, expressive, and readable. One of its newer experimental features, Context Receivers…</blockquote>
+<blockquote>Enums are a fundamental part of Swift, allowing us to define a finite set of related values. However, if you have ever tried to add a…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -448,11 +448,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Low Hanging Fruit: Using AI to Generate Terraform Import Blocks - <a href="https://medium.com/@marktinderholt/low-hanging-fruit-using-ai-to-generate-terraform-import-blocks-80c0f4600b91" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster - <a href="https://medium.com/itnext/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Tinderholt`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>I’ve been using Terraform for many years. I’ve encountered this error message more times than I can count:</blockquote>
+<blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
 <h3>2. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,11 +466,11 @@
 
 <blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
 
-<h3>4. Nvidia Senior Software Engineer Interview Experienc 2025 - <a href="https://medium.com/@rathod-ajay/nvidia-senior-software-engineer-interview-experienc-2025-bf731dccf3dd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Dockerizing and Deploying a Spring Boot Application on Kubernetes - <a href="https://medium.com/gitconnected/dockerizing-and-deploying-a-spring-boot-application-on-kubernetes-98db3397c315" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ajay Rathod`**
+✍️ **posted by `Level Up Coding`**
 
-<blockquote>Hello Guys, This role is for Senior Software engineer of experience 8 + where they were expecting Kubernetes knowledge plus docker…</blockquote>
+<blockquote>I will show how to transition from developing Spring Boot + Java applications to diving headfirst into the DevOps world</blockquote>
 
 <h3>5. Diagnosing CI Bottlenecks: From Chonky Tests to Embracing Variability - <a href="https://medium.com/@jason.aricheta/diagnosing-ci-bottlenecks-from-chonky-tests-to-embracing-variability-c76110d1fd95" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -518,11 +518,11 @@
 
 <blockquote>I will show how to transition from developing Spring Boot + Java applications to diving headfirst into the DevOps world</blockquote>
 
-<h3>2. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Steal My Blueprint to Build and Deploy RAGs [In Minutes]. - <a href="https://medium.com/ai-advances/build-and-deploy-rag-llm-adf38e1ae260" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>Keep your containers vulnerability free and securely configured</blockquote>
+<blockquote>Most RAGs are built on this stack; why would you redo it every time?</blockquote>
 
 <h3>3. Kubernetes 10 Questions to Test Your Understanding of K8s - <a href="https://medium.com/@rifewang/kubernetes-10-questions-to-test-your-understanding-of-k8s-c2860c9f3cbf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -530,15 +530,16 @@
 
 <blockquote>Kubernetes 10 Questions</blockquote>
 
-<h3>4. Steal My Blueprint to Build and Deploy RAGs [In Minutes]. - <a href="https://medium.com/ai-advances/build-and-deploy-rag-llm-adf38e1ae260" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. School among students in 2024 school bag fashion trends
+In 2024, school bag trends among students… - <a href="https://medium.com/@areeshakhan_11152/school-among-students-in-2024-school-bag-fashion-trends-in-2024-school-bag-trends-among-students-89a115fe082f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `AI Advances`**
+✍️ **posted by `Areesha Khan`**
 
-<blockquote>Most RAGs are built on this stack; why would you redo it every time?</blockquote>
+<blockquote>1. Nostalgic and Themed Designs: High school seniors embraced backpacks featuring beloved childhood characters like Disney's "The Little…</blockquote>
 
-<h3>5. Containers: has the pendulum swung too far? - <a href="https://medium.com/itnext/containers-has-the-pendulum-swung-too-far-208ad02a6b42" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Container Security Scanning - <a href="https://medium.com/itnext/container-security-scanning-f16b438db58d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ITNEXT`**
 
-<blockquote>Containerization has revolutionized the software industry, but using them blindly for everything without considering their drawbacks or…</blockquote>
+<blockquote>Keep your containers vulnerability free and securely configured</blockquote>
 
