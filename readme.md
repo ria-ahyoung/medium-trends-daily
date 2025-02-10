@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/02/09)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/02/10)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>As React applications grow more complex, the patterns that were “just fine” when you were starting out might start to feel limiting. Maybe…</blockquote>
 
-<h3>4. How I Rebuilt My Portfolio and Solved Deployment Woes - <a href="https://medium.com/@arihant416/how-i-rebuilt-my-portfolio-and-solved-deployment-woes-c3d22feb2608" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Beginner’s Guide to Infinite Scroll in React: Scrolling Down - <a href="https://medium.com/@meenakshiratnawat0/beginners-guide-to-infinite-scroll-in-react-scrolling-down-dce7510e1859" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arihant Jain`**
+✍️ **posted by `Meenakshi Ratnawat`**
 
-<blockquote>I utilized a weekend to understand how powerful AI is at this point.</blockquote>
+<blockquote>Infinite scrolling is a popular technique in modern web applications that loads additional content as the user scrolls down, eliminating…</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -246,11 +246,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Being in the NodeJS ecosystem for a few years, I’m surprised by how many startups use NestJS and still face the same issues. Probably a lot…</blockquote>
 
-<h3>4. Absolute Paths in Node.js: Configure Webpack for Clean, Scalable Backend Code - <a href="https://medium.com/@Iyush_karki/absolute-paths-in-node-js-configure-webpack-for-clean-scalable-backend-code-00a5ddd6a7cb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The MongoDB Mistake That’s Costing Your Startup Millions - <a href="https://medium.com/@mehdibafdil/the-mongodb-mistake-thats-costing-your-startup-millions-bc2c23f732d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aayush Karki`**
+✍️ **posted by `Mehdi BAFDIL`**
 
-<blockquote>Are you tired of seeing ../../../../utils/helper in your Node.js imports? Let's transform your backend codebase into a clean, maintainable…</blockquote>
+<blockquote>Last month, a startup I consulted for was burning through $15,000 monthly on MongoDB Atlas. After implementing the optimizations I’m about…</blockquote>
 
 <h3>5. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Why software developers are becoming DBAs! - <a href="https://medium.com/@aksgolu/why-software-developers-are-becoming-dbas-33ecb2156480" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer - <a href="https://medium.com/@shivambhadani_/mastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arun Sharma`**
+✍️ **posted by `Shivam Bhadani`**
 
-<blockquote>Switching careers is never easy, but for software developers looking to make a shift, becoming a database administrator (DBA) is an…</blockquote>
+<blockquote>After reading this blog, you can clear every frontend developer interview.</blockquote>
 
 <h3>2. Rethinking the frontend with HTMX - <a href="https://medium.com/@marcnealer/rethinking-the-frontend-with-htmx-780045980352" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Read it here for free</blockquote>
 
-<h3>4. GitHub Copilot Brings Mockups to Life by Generating Code from Images - <a href="https://medium.com/@WebdesignerDepot/github-copilot-brings-mockups-to-life-by-generating-code-from-images-2dd78d5978f1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. PWA- Progressive Web App - <a href="https://medium.com/@himalrawal/pwa-progressive-web-app-c15b7f6d419f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `WebDesignerDepot.com`**
+✍️ **posted by `Himal Rawal`**
 
-<blockquote>GitHub is rolling out some game-changing updates for GitHub Copilot, and one of the coolest new features might just revolutionize how we…</blockquote>
+<blockquote>Have you ever visited a website on your browser that felt just like a native mobile or desktop app? Smooth animations, offline access, push…</blockquote>
 
 <h3>5. The Nullish Coalescing Operators - <a href="https://medium.com/js-in-3-minutes-or-less/the-nullish-coalescing-operators-007b3aca12a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -330,11 +330,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>How Our Obsession With Trendy Tools is Creating Bloated Codebases and Incompetent Developers</blockquote>
 
-<h3>2. A Timeless Puzzle to Challenge Your Reasoning - <a href="https://medium.com/puzzle-sphere/a-timeless-puzzle-to-challenge-your-reasoning-a10e7a930014" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How Does a Computer Learn to Read? - <a href="https://medium.com/@severinperez/how-does-a-computer-learn-to-read-ab5e5a85c15e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Puzzle Sphere`**
+✍️ **posted by `Severin Perez`**
 
-<blockquote>Fill in the Blanks!!!</blockquote>
+<blockquote>Believe it or not, computers are illiterate. So, if we want them to help us analyze texts, we need to find a way to turn text into numbers.</blockquote>
 
 <h3>3. The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer - <a href="https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2025-as-a-staff-software-engineer-98033c94566e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -348,11 +348,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>A few tips for questions people keep asking me</blockquote>
 
-<h3>5. Follow the Ants, They Know the Path: Enhancing LLM Reasoning with ACO-ToT - <a href="https://medium.com/gitconnected/follow-the-ants-they-know-the-path-enhancing-llm-reasoning-with-aco-tot-7974c4928658" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. A Timeless Puzzle to Challenge Your Reasoning - <a href="https://medium.com/puzzle-sphere/a-timeless-puzzle-to-challenge-your-reasoning-a10e7a930014" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Puzzle Sphere`**
 
-<blockquote>Harnessing Swarm Intelligence and Tree of Thought Optimization to Unlock Advanced AI Reasoning</blockquote>
+<blockquote>Fill in the Blanks!!!</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -388,11 +388,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Women Want Younger Men and Nobody’s Shocked (Except Old Men) - <a href="https://medium.com/fourth-wave/women-want-younger-men-and-nobodys-shocked-except-old-men-2051306e4311" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Heaven Can Come In Slices. - <a href="https://medium.com/@ifenimi/heaven-can-come-in-slices-0cb33acc1957" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fourth Wave`**
+✍️ **posted by `Ifenimi`**
 
-<blockquote>Believe it or not, women are human too</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>2. A Soundtrack for Regrets and No Regrets: My Love Life in Songs - <a href="https://medium.com/prismnpen/a-soundtrack-for-regrets-and-no-regrets-my-love-life-in-songs-61f7e9c96ac7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -406,25 +406,25 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>you owe it to yourself to live a life that’s yours</blockquote>
 
-<h3>4. How a Man’s Death Taught Me the Meaning of Life - <a href="https://medium.com/black-bear-recovery/how-a-mans-death-taught-me-the-meaning-of-life-6f99c505612b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why are people still stuck to their exes? - <a href="https://medium.com/@shreya.sharma227/why-are-people-still-stuck-to-their-exes-3dc756db75ee" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Shreya Sharma`**
+
+<blockquote>Breakups are messy</blockquote>
+
+<h3>5. How a Man’s Death Taught Me the Meaning of Life - <a href="https://medium.com/black-bear-recovery/how-a-mans-death-taught-me-the-meaning-of-life-6f99c505612b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Black Bear`**
 
 <blockquote>In love and death, what truly matters becomes clear</blockquote>
 
-<h3>5. who are you when no one’s watching? - <a href="https://medium.com/@fyoaeuriz/who-are-you-when-no-ones-watching-19216752929d" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `iris ୨୧`**
-
-<blockquote>would you, for once, finally exist just for yourself?</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Navigating the Challenges of Scoped Storage: Lessons for Modern Android Apps - <a href="https://medium.com/itnext/navigating-the-challenges-of-scoped-storage-lessons-for-modern-android-apps-b5fd8318a02c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. PWA- Progressive Web App - <a href="https://medium.com/@himalrawal/pwa-progressive-web-app-c15b7f6d419f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Himal Rawal`**
 
-<blockquote>Scoped Storage in Android 15: Challenges, Best Practices, and Solutions</blockquote>
+<blockquote>Have you ever visited a website on your browser that felt just like a native mobile or desktop app? Smooth animations, offline access, push…</blockquote>
 
 <h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -438,11 +438,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>1. Blocking the Main Thread</blockquote>
 
-<h3>4. Understanding Android App Testing: Core Tools and Best Practices - <a href="https://medium.com/@abbasmughees567/understanding-android-app-testing-core-tools-and-best-practices-eb882d43d477" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Leverage Dart Error handling in project - <a href="https://medium.com/@lapyaeootharthar/leverage-dart-error-handling-in-project-8412846623d8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Digital World`**
+✍️ **posted by `La Pyae Oo`**
 
-<blockquote>Android App Testing</blockquote>
+<blockquote>“Need to add to Try-catch statement in our code to prevent happening Error”. That is the fundamental sense of every developer. Cool…</blockquote>
 
 <h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Understanding remember in Jetpack Compose: How It Works Internally - <a href="https://medium.com/@sandeepkella23/understanding-remember-in-jetpack-compose-how-it-works-internally-8018c3dc695e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Flutter from Native developments (Android/iOS) - <a href="https://medium.com/@andbyte18/flutter-from-native-developments-android-ios-ba60bc5fefdd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sandeep Kella`**
+✍️ **posted by `Suraj Shakya`**
 
-<blockquote>Hey buddy! Since you’re diving deep into Jetpack Compose, let’s talk about remember. You've probably used it to retain state across…</blockquote>
+<blockquote>Hi mobile developers. You have all heard about Flutter or React Native. As you all know, Flutter is an open-source framework used to build…</blockquote>
 
 <h3>2. This Is the Phone You Should Take Portraits With - <a href="https://medium.com/@markellisreviews/this-is-the-phone-you-should-take-portraits-with-50cd7d9af853" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>1. Blocking the Main Thread</blockquote>
 
-<h3>4. Navigating the Challenges of Scoped Storage: Lessons for Modern Android Apps - <a href="https://medium.com/itnext/navigating-the-challenges-of-scoped-storage-lessons-for-modern-android-apps-b5fd8318a02c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Who Draws Text in Jetpack Compose Internally? - <a href="https://medium.com/proandroiddev/who-draws-text-in-jetpack-compose-internally-44ce387c9683" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>Scoped Storage in Android 15: Challenges, Best Practices, and Solutions</blockquote>
+<blockquote>Jetpack Compose, Google’s modern UI toolkit for Android, provides a declarative way to build UI components, including text rendering…</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,11 +484,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Choosing the Right SwiftUI Navigation Solution - <a href="https://medium.com/@robertdresler/choosing-the-right-swiftui-navigation-solution-3a790413f531" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. SOLID Principles in iOS - <a href="https://medium.com/@chaudharyyagh/solid-principles-in-ios-951e413a33ae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Robert Dresler`**
+✍️ **posted by `Yagh Chaudhary`**
 
-<blockquote>Are you building Views with SwiftUI but haven’t yet figured out how to implement navigation? Discover what you need to consider when…</blockquote>
+<blockquote>SOLID is a set of five design principles that help in writing maintainable, scalable, and robust code. These principles improve code…</blockquote>
 
 <h3>2. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -502,11 +502,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Everything new in the latest iOS 18.3 firmware update</blockquote>
 
-<h3>4. 10 cool iOS Automation ideas you’ll wish you knew sooner - <a href="https://medium.com/macoclock/10-cool-ios-automation-ideas-youll-wish-you-knew-sooner-17d7275d5b0b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Transform Your Angular App into a Cross-Platform PWA: A Developer’s Guide - <a href="https://medium.com/@techbrainhub/transform-your-angular-app-into-a-cross-platform-pwa-a-developers-guide-2d7cef17fabe" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Jatin Dave`**
 
-<blockquote>You’ll be amazed to know your brick could do these!</blockquote>
+<blockquote>In today’s mobile-first environment, Progressive Web Apps (PWAs) are becoming more crucial. As a developer who has assisted numerous teams…</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -516,11 +516,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. 13 Essential Open Source Project - <a href="https://medium.com/sourcescribes/13-essential-open-source-project-a22cd5b277ac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Configuring Fluent Bit to Send Error Logs to Slack and Telegram - <a href="https://medium.com/@hmquan08011996/configuring-fluent-bit-to-send-error-logs-to-slack-and-telegram-89d11968bc30" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `OpenSourceScribes`**
+✍️ **posted by `Quân Huỳnh`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>In this tutorial, we will configure Fluent Bit to filter logs containing [ERROR] and send them to Slack by using the Versus Incident.</blockquote>
 
 <h3>2. Cloud Cost Optimization: How We Cut Costs by 33% Without Slowing Growth - <a href="https://medium.com/@chaliyarc/cloud-cost-optimization-how-we-cut-costs-by-33-without-slowing-growth-bcb613c2bb68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
-<h3>4. Configuring Fluent Bit to Send Error Logs to Slack and Telegram - <a href="https://medium.com/@hmquan08011996/configuring-fluent-bit-to-send-error-logs-to-slack-and-telegram-89d11968bc30" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 13 Essential Open Source Project - <a href="https://medium.com/sourcescribes/13-essential-open-source-project-a22cd5b277ac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Quân Huỳnh`**
+✍️ **posted by `OpenSourceScribes`**
 
-<blockquote>In this tutorial, we will configure Fluent Bit to filter logs containing [ERROR] and send them to Slack by using the Versus Incident.</blockquote>
+<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
 
 <h3>5. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,11 +548,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster - <a href="https://medium.com/itnext/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to resolve IP exhaustion issues in EKS clusters with spiky workloads - <a href="https://medium.com/tenets/how-to-resolve-ip-exhaustion-issues-in-eks-clusters-with-spiky-workloads-877fb39d1022" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Tenets`**
 
-<blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
+<blockquote>Actionable fixes to resolve IP exhaustion in EKS (It’s not prefix delegation)</blockquote>
 
 <h3>2. Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant - <a href="https://medium.com/generative-ai/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -560,17 +560,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Simpler Kubernetes management, powered by voice and the Realtime OpenAI API.</blockquote>
 
-<h3>3. I Asked This Kubernetes Question in Every Interview — And Here’s the Catch - <a href="https://medium.com/gitconnected/i-asked-this-kubernetes-question-in-every-interview-and-heres-the-catch-6d37cc7cb7a5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster - <a href="https://medium.com/itnext/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>When I interview candidates, I prefer a real-world problem that demonstrates the candidate’s practical expertise with Kubernetes to be…</blockquote>
+<blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
-<h3>4. Best Kubernetes UI Tools for On-Prem Clusters: Rancher, Lens, Headlamp & More - <a href="https://medium.com/@PlanB./best-kubernetes-ui-tools-for-on-prem-clusters-rancher-lens-headlamp-more-113eb635283f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Terragrunt CI/CD with run-all and Provider Caching - <a href="https://medium.com/@alex_meschede_29414/terragrunt-ci-cd-with-run-all-and-provider-caching-650773892c31" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr.PlanB`**
+✍️ **posted by `Alexander Meschede`**
 
-<blockquote>Managing a Kubernetes cluster without a UI can feel like driving without a dashboard — you can do it, but it’s not exactly smooth. The…</blockquote>
+<blockquote>I want to share my experience with Terragrunt’s feature of Provider Caching in my run-all utilizing CI/CD Pipelines and see how it…</blockquote>
 
 <h3>5. How Infrastructure as Code tool implementations differ from imperative tools’ - <a href="https://medium.com/itnext/how-infrastructure-as-code-tool-implementations-differ-from-imperative-tools-31607c3ed37b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
