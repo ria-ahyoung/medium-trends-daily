@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/02/13)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/02/14)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,11 +68,11 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer - <a href="https://medium.com/@shivambhadani_/mastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to Change Swipe Direction in Swiper.js (Horizontal & Vertical Guide) - <a href="https://medium.com/@minahmmassy/how-to-change-swipe-direction-in-swiper-js-horizontal-vertical-guide-1bf8599816ba" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shivam Bhadani`**
+✍️ **posted by `Minah Paul Mmassy`**
 
-<blockquote>After reading this blog, you can clear every frontend developer interview.</blockquote>
+<blockquote>I was playing a “guess the swipe direction” lottery when I first started using Swiper.js in my React projects. From left to right? From…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -86,11 +86,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Hey there, fellow developers! I’m Sachin, and today I want to share some of my favorite React component libraries that can make your…</blockquote>
 
-<h3>4. Top 13 Next.js Open Source Projects with Most GitHub Stars⭐ - <a href="https://medium.com/lets-code-future/top-13-next-js-open-source-projects-with-most-github-stars-7a3398a5d5d5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The New use() Hook in React 19 - <a href="https://medium.com/@kapildadhich075/the-new-use-hook-in-react-19-6c67a4e246ee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Let’s Code Future`**
+✍️ **posted by `Kapil Dadhich`**
 
-<blockquote>Hey, developers! 👋Sachin here with an exciting list of top Next.js open-source projects that you should check out. Whether you’re building…</blockquote>
+<blockquote>React 19 introduces a revolutionary hook called use(), designed to simplify asynchronous operations like data fetching and context…</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -118,11 +118,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Hey there, fellow developers! I’m Sachin, and today I want to share some of my favorite React component libraries that can make your…</blockquote>
 
-<h3>4. Top 13 Next.js Open Source Projects with Most GitHub Stars⭐ - <a href="https://medium.com/lets-code-future/top-13-next-js-open-source-projects-with-most-github-stars-7a3398a5d5d5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Typesense: (simple) search (app) - <a href="https://medium.com/@venku.buragadda/typesesne-simple-search-1c48b3ff13fd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Let’s Code Future`**
+✍️ **posted by `Venku Buragadda`**
 
-<blockquote>Hey, developers! 👋Sachin here with an exciting list of top Next.js open-source projects that you should check out. Whether you’re building…</blockquote>
+<blockquote>Typesense is an open-source, in-memory, and blazing-fast search engine designed for simplicity and speed. It provides a developer-friendly…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -150,11 +150,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Stay ahead in 2025 with the latest UI/UX design trends and elevate your designs to a whole new level of creativity and innovation.</blockquote>
 
-<h3>4. UX/UI design trends in 2023 - <a href="https://medium.com/magnetic/ux-ui-design-trends-in-2023-efdc94ea0fb7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. The Impact of Quantum Computing on Future UI/UX Design Trends - <a href="https://medium.com/@itsconsagous/the-impact-of-quantum-computing-on-future-ui-ux-design-trends-dbaf7694a38d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Magnetic Notes`**
+✍️ **posted by `Consagoustech`**
 
-<blockquote>We designers are a curious species — tirelessly seeking and sharing ideas that help develop our craft and the things we make. UX design…</blockquote>
+<blockquote>The emergence of quantum computing in UI/UX designs signals a monumental shift for the computing sector. By utilizing proprietary dynamics…</blockquote>
 
 <h3>5. The Future of Design: Buckle Up for These UX/UI Trends in 2024! - <a href="https://medium.com/@shailesh.7890/the-future-of-design-buckle-up-for-these-ux-ui-trends-in-2024-a9d5dfef12c5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -196,11 +196,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. Stop Using Enums in TypeScript: Here’s Why Constants Are Superior - <a href="https://medium.com/@rushilnpatel/stop-using-enums-in-typescript-heres-why-constants-are-superior-6200ad6d798c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Guide to the Strategy Design Pattern in TypeScript and Node.js with Practical Examples 💻 - <a href="https://medium.com/@robinviktorsson/a-guide-to-the-strategy-design-pattern-in-typescript-and-node-js-with-practical-examples-c3d6984a2050" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rushil Patel`**
+✍️ **posted by `Mr. TypeScript`**
 
-<blockquote>Enums in TypeScript are a convenient way to define a set of named constants. However, they come with certain drawbacks, such as runtime…</blockquote>
+<blockquote>The Strategy design pattern is a behavioral pattern that enables the selection of an algorithm or behavior at runtime, encapsulating it…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -260,11 +260,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. 1 Billion users, yet they designed THIS?! - <a href="https://medium.com/@michalmalewicz/1-billion-users-yet-they-designed-this-d40a106a677f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Vue is Too Easy - <a href="https://medium.com/@fadamakis/vue-is-too-easy-3d4ecca5e454" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michal Malewicz`**
+✍️ **posted by `Fotis Adamakis`**
 
-<blockquote>Redesign case study</blockquote>
+<blockquote>Front end development is a very polarized industry. We argue about programming languages, frameworks, and even the best indentation style…</blockquote>
 
 <h3>2. Rethinking the frontend with HTMX - <a href="https://medium.com/@marcnealer/rethinking-the-frontend-with-htmx-780045980352" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -278,11 +278,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>After 15 years of web development, I’ve come to a shocking realization: React, the darling of modern web development, is nothing more than…</blockquote>
 
-<h3>4. Step-by-Step Guide: Enhancing UX with Parallel Routes & Interceptors in Next.js - <a href="https://medium.com/design-bootcamp/step-by-step-guide-enhancing-ux-with-parallel-routes-interceptors-in-next-js-9bac4a34e4ff" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building a blazing fast Buffered Data Grid in public - <a href="https://medium.com/itnext/building-a-blazing-fast-buffered-data-grid-in-public-7698bc781113" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bootcamp`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Learn how to combine Next.js Parallel Routes and Interceptors to create seamless and dynamic user experiences.</blockquote>
+<blockquote>Buffered cells & rows, OMT (multi-threading), real-time updates, advanced drag & drop, diagonal scrolling</blockquote>
 
 <h3>5. The Nullish Coalescing Operators - <a href="https://medium.com/js-in-3-minutes-or-less/the-nullish-coalescing-operators-007b3aca12a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -452,11 +452,11 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Mastering SOLID Principles in Android Development - <a href="https://medium.com/@amitverma_210/mastering-solid-principles-in-android-development-7b87c0a33f71" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Apple is counter-attacking KMP hegemony, Jetbrains has reacted! - <a href="https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Amit Verma`**
+✍️ **posted by `Christopher Saez 📱`**
 
-<blockquote>SOLID is a set of five principles introduced by Robert C. Martin (Uncle Bob) to help developers design maintainable and scalable…</blockquote>
+<blockquote>Last year, KMP was announced as a first-class support for Android developers. Did Apple anticipate this? Probably not. But that doesn’t…</blockquote>
 
 <h3>2. This Is the Phone You Should Take Portraits With - <a href="https://medium.com/@markellisreviews/this-is-the-phone-you-should-take-portraits-with-50cd7d9af853" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -470,11 +470,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>Since Google announced the Jetpack Compose 1.0 stable release, many companies have adopted Jetpack Compose to leverage its numerous…</blockquote>
 
-<h3>4. Android Interview Questions for Mid-Level Developers (3–6 Years) - <a href="https://medium.com/@anandgaur2207/android-interview-questions-for-mid-level-developers-3-6-years-d915266ef936" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Loading Initial Data properly with MVI - <a href="https://medium.com/proandroiddev/loading-initial-data-properly-with-mvi-5e54edd8ae56" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anand Gaur`**
+✍️ **posted by `ProAndroidDev`**
 
-<blockquote>As an Android developer with 3–6 years of experience, you are expected to have a solid understanding of Android fundamentals, architecture…</blockquote>
+<blockquote>I previously wrote an article on implementing MVI with Jetpack Compose (you can find it here). In that article, I loaded the initial data…</blockquote>
 
 <h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -484,43 +484,43 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Mastering Complex UI in SwiftUI: Building a Banking Dashboard - <a href="https://medium.com/@mireabot/mastering-complex-ui-in-swiftui-building-a-banking-dashboard-000c6f2645d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. UserDefaults in Swift - <a href="https://medium.com/@jpmtech/userdefaults-in-swift-31384fa8aef7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Michael Kolkov`**
+✍️ **posted by `Chase`**
 
-<blockquote>As an iOS developer, have you ever found yourself stuck trying to create intricate user interfaces using SwiftUI? It’s a common challenge…</blockquote>
+<blockquote>If you are ready to learn about Swifts lightweight storage option for user preferences known as UserDefaults, then let’s dive right in.</blockquote>
 
-<h3>2. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How A Simple, Stupid Error Keeps Crashing My App - <a href="https://medium.com/code-like-a-girl/how-a-simple-stupid-error-keeps-crashing-my-app-d9783332648f" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Code Like A Girl`**
+
+<blockquote>A Debugging Tale of Crashes, Clues, and Careless Mistakes</blockquote>
+
+<h3>3. 10 cool iOS Automation ideas you’ll wish you knew sooner - <a href="https://medium.com/macoclock/10-cool-ios-automation-ideas-youll-wish-you-knew-sooner-17d7275d5b0b" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Mac O’Clock`**
+
+<blockquote>You’ll be amazed to know your brick could do these!</blockquote>
+
+<h3>4. Mastering the Decorator Pattern in Swift: A Practical Guide - <a href="https://medium.com/@botirjon.nasridinov/mastering-the-decorator-pattern-in-swift-a-practical-guide-856de4a5a4f6" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Botirjon Nasridinov`**
+
+<blockquote>Introduction</blockquote>
+
+<h3>5. Practical Swift Concurrency. Actors, isolation, sendability - <a href="https://medium.com/@petrachkovsergey/practical-swift-concurrency-actors-isolation-sendability-a51343c2e4db" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Sergey Petrachkov`**
 
 <blockquote>A bit of theory, and lots of code snippets with the practical aspects of isolation, actors and sendability</blockquote>
 
-<h3>3. iOS 18.3 — It’s So Crucial! - <a href="https://medium.com/@evilgeek/ios-18-3-its-so-crucial-dbcf3dfa8853" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `The Evil Geek`**
-
-<blockquote>Everything new in the latest iOS 18.3 firmware update</blockquote>
-
-<h3>4. Interview Experience for SDE-III iOS at Walmart - <a href="https://medium.com/@rishixcode/interview-experience-for-sde-iii-ios-at-walmart-9ab411256c28" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Rishabh Sharma`**
-
-<blockquote>Recently, I had the incredible experience of interviewing for an SDE-III iOS Developer role at Walmart, and I’m thrilled to share that I…</blockquote>
-
-<h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Abid Ghani`**
-
-<blockquote>A Journey Through Modern App Mobile Development</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. 🚀 DevOps-GPT Just Got Smarter! Now Supports More Logs! 🚀 - <a href="https://medium.com/@devopslearning/devops-gpt-just-got-smarter-now-supports-more-logs-3c2ccb0b6af6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. 14 Commands to Display System Information in Linux. - <a href="https://medium.com/@andreybyhalenko/14-commands-to-display-system-information-in-linux-135a1d57c26e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Prashant Lakhera`**
+✍️ **posted by `Andrey Byhalenko`**
 
-<blockquote>We’re excited to announce that DevOps-GPT now integrates with journalctl, significantly enhancing log analysis capabilities. This means…</blockquote>
+<blockquote>Here are 14 commands to display the system information in Linux systems.</blockquote>
 
 <h3>2. Cloud Cost Optimization: How We Cut Costs by 33% Without Slowing Growth - <a href="https://medium.com/@chaliyarc/cloud-cost-optimization-how-we-cut-costs-by-33-without-slowing-growth-bcb613c2bb68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -534,11 +534,11 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
-<h3>4. Logs are Your Best Friend — Discover Advanced journalctl Skills for Efficient Log Analysis - <a href="https://medium.com/@howtouselinux/lost-in-linux-logs-these-journalctl-tricks-will-change-that-1b702f90ed21" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Terraform Tip for Today①⑦ - <a href="https://medium.com/devsecops-community/terraform-tip-for-today①⑦-ff4970b2da93" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `howtouselinux`**
+✍️ **posted by `devsecops-community`**
 
-<blockquote>Have you ever faced a system issue and had no idea where to start troubleshooting? Logs are your best friend!</blockquote>
+<blockquote>Hi All, hope you are doing well. This is the seventeenth(17th) tip regarding DevOps & Cloud where today I will share tips related to…</blockquote>
 
 <h3>5. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -548,17 +548,17 @@ Get more useful information conveniently right here. 🤓
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Should all developers learn Infrastructure as Code? - <a href="https://medium.com/itnext/should-all-developers-learn-infrastructure-as-code-a77e7feefbc8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Build CloudWatch Dashboards For EKS Monitoring Using Prometheus Data - <a href="https://medium.com/@vinayakpandey-7997/build-cloudwatch-dashboards-for-eks-monitoring-using-prometheus-data-34f050ac1d93" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Vinayak Pandey`**
 
-<blockquote>Should all developers deploying to the cloud and/or Kubernetes learn how to use Infrastructure as Code (IaC) tools?</blockquote>
+<blockquote>In this post, we’ll see how we can build CloudWatch dashboards for EKS monitoring using telemetry data stored in Prometheus. So far we have…</blockquote>
 
-<h3>2. Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant - <a href="https://medium.com/generative-ai/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3 - <a href="https://medium.com/generative-ai/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Generative AI`**
 
-<blockquote>Simpler Kubernetes management, powered by voice and the Realtime OpenAI API.</blockquote>
+<blockquote>Build a low-latency, privacy-focused Kubernetes voice interface using Llama 3 and local inference—a step-by-step guide.</blockquote>
 
 <h3>3. How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster - <a href="https://medium.com/itnext/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -566,17 +566,17 @@ Get more useful information conveniently right here. 🤓
 
 <blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
-<h3>4. Declare and Automatically Deploy ApplicationSets Using ArgoCD itself - <a href="https://medium.com/@dominikrottmann/declare-and-automatically-deploy-applicationsets-using-argocd-itself-de0397db24dc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How Kubernetes Works: A City Analogy for Container Orchestration - <a href="https://medium.com/@malik-hassan-qayyum/how-kubernetes-works-a-city-analogy-for-container-orchestration-e5d7a477ee70" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Domin`**
+✍️ **posted by `Malik Hassan Qayyum`**
 
-<blockquote>Using ArgoCD to synchronize its own resources — Application, ApplicationSet, and AppProject.</blockquote>
+<blockquote>Picture a bustling city, where every service works together to keep things running smoothly. That city is Kubernetes; a system built to…</blockquote>
 
-<h3>5. How Infrastructure as Code tool implementations differ from imperative tools’ - <a href="https://medium.com/itnext/how-infrastructure-as-code-tool-implementations-differ-from-imperative-tools-31607c3ed37b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Whisper to Your Kubernetes Cluster: Building KubeWhisper, the Voice-Activated AI Assistant - <a href="https://medium.com/generative-ai/whisper-to-your-kubernetes-cluster-building-kubewhisper-the-voice-activated-ai-assistant-9ef33c0426d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Generative AI`**
 
-<blockquote>How Infrastructure as Code is different from imperative user interface surfaces from an implementation point of view.</blockquote>
+<blockquote>Simpler Kubernetes management, powered by voice and the Realtime OpenAI API.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
