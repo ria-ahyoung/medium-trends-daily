@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Create React App (CRA) Is Deprecated - <a href="https://medium.com/towardsdev/create-react-app-cra-is-deprecated-d1f9beb7f048" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Top Alternatives to Create React App: Which One Should You Choose? 🚀 - <a href="https://medium.com/@ignatovich.dm/top-alternatives-to-create-react-app-which-one-should-you-choose-3b3a181aee0e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards Dev`**
+✍️ **posted by `Dzmitry Ihnatovich`**
 
-<blockquote>The best modern alternatives</blockquote>
+<blockquote>With the deprecation of Create React App (CRA), developers are exploring new tools for building React applications. This guide compares the…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -12,31 +12,31 @@
 
 <blockquote>How to Make Your Colleagues Fall in Love with Your React Applications.</blockquote>
 
-<h3>3. Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer - <a href="https://medium.com/@shivambhadani_/mastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Shivam Bhadani`**
-
-<blockquote>After reading this blog, you can clear every frontend developer interview.</blockquote>
-
-<h3>4. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Max Shahdoost`**
-
-<blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
-
-<h3>5. Event-Driven React with the Observer Pattern: A Clean Alternative to Prop Drilling - <a href="https://medium.com/@ignatovich.dm/event-driven-react-with-the-observer-pattern-a-clean-alternative-to-prop-drilling-a472aae7a74d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Event-Driven React with the Observer Pattern: A Clean Alternative to Prop Drilling - <a href="https://medium.com/@ignatovich.dm/event-driven-react-with-the-observer-pattern-a-clean-alternative-to-prop-drilling-a472aae7a74d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Dzmitry Ihnatovich`**
 
 <blockquote>In modern React development, managing state and communication between components can become a challenge, especially as applications grow in…</blockquote>
 
+<h3>4. React vs Javascript - <a href="https://medium.com/@contactmanoharbatra/react-vs-javascript-6859a04e5090" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Manohar Batra`**
+
+<blockquote>React vs. JavaScript​: Key Differences Every Developer Needs to Know !!</blockquote>
+
+<h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Max Shahdoost`**
+
+<blockquote>In this article, I am going to deep dive into the React world and what is the core value proposition of React, what is React reconciler…</blockquote>
+
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Top 10 React Libraries/Frameworks for 2025: Boost Your Development Efficiency and Performance 🚀 - <a href="https://medium.com/@yogeshchavan/top-10-react-libraries-frameworks-for-2025-boost-your-development-efficiency-and-performance-136832d9b859" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How to render different React components from a JSON array? - <a href="https://medium.com/@rlaworhkd430430/how-to-render-different-react-components-from-a-json-array-f0c5d8dadbd7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yogesh Chavan`**
+✍️ **posted by `jp3pe`**
 
-<blockquote>React is the go-to frontend library for modern web development, and in 2025 you can use some powerful tools from the ecosystem which we…</blockquote>
+<blockquote>If you’re new to React and Next.js like me, you may have just realized that you need to display UI using data from a database, a mock data…</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Hey, developers! 👋Sachin here with an exciting list of top Next.js open-source projects that you should check out. Whether you’re building…</blockquote>
 
-<h3>4. Create React App (CRA) Is Deprecated - <a href="https://medium.com/towardsdev/create-react-app-cra-is-deprecated-d1f9beb7f048" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Build an AI-powered Quora clone with Strapi and Next.js — Part 2 - <a href="https://medium.com/strapi/build-an-ai-powered-quora-clone-with-strapi-and-next-js-part-2-73b099423616" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Towards Dev`**
+✍️ **posted by `Strapi`**
 
-<blockquote>The best modern alternatives</blockquote>
+<blockquote>Learn how to set up an AI-powered Quora Clone with Strapi 5, Next.js, and Cloudflare AI. This tutorial covers Strapi backend setup, content</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Challenge different aspects of recursion, pathfinding, dynamic programming, and optimization… - <a href="https://medium.com/@dranolia/challenge-different-aspects-of-recursion-pathfinding-dynamic-programming-and-optimization-cde33265d1c9" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. A Beginner’s Guide to Currying in JavaScript for Cleaner Functions - <a href="https://medium.com/@surajrajput_46910/currying-in-javascript-42416a3a215e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Deepak Ranolia`**
+✍️ **posted by `Suraj Rajput`**
 
-<blockquote>Here’s how you can approach each of them:</blockquote>
+<blockquote>What is Currying in JavaScript?</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +114,11 @@
 
 <blockquote>Here’s a list of 15 JavaScript tricks and tips with real-life examples to make your coding more efficient and powerful:</blockquote>
 
-<h3>4. Mastering Dates and Times in JavaScript with the Date Object 💪👨‍🏫🤩 - <a href="https://medium.com/@diego.coder/mastering-dates-and-times-in-javascript-with-the-date-object-28414fe36744" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. JavaScript’s sort() Function – Why It Behaves Weirdly for Numbers & Strings? 🤔 - <a href="https://medium.com/lets-code-future/javascripts-sort-function-why-it-behaves-weirdly-for-numbers-strings-6b93c5ab1f84" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Diego Esteban 🧑‍💻🧢`**
+✍️ **posted by `Let’s Code Future`**
 
-<blockquote>Basic article on dates in JavaScript. Date object, methods and examples.</blockquote>
+<blockquote>Non members click here</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. How i found 3 Bugs in 10 minutes || Easy bugs #5 $$$ - <a href="https://medium.com/@securityinsights/how-i-found-3-bugs-in-10-minutes-easy-bugs-5-8b80b4966560" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. SafeLine: Open-Source Web Application Firewall (WAF) - <a href="https://medium.com/@harendra21/safeline-open-source-web-application-firewall-waf-766ea4d1a5a1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mehboob Khan`**
+✍️ **posted by `Harendra`**
 
-<blockquote>Free Link:- https://medium.com/@securityinsights/8b80b4966560?source=friends_link&sk=008d0be5597868e351ea1c8ef74edad2</blockquote>
+<blockquote>Secure your web application with SafeLine (Semantic Analysis-based WAF rules)</blockquote>
 
 <h3>2. Another Post About Progress - <a href="https://medium.com/chifi-media/another-post-about-progress-d0fdc1948eb6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +210,11 @@
 
 <blockquote>Front end development is a very polarized industry. We argue about programming languages, frameworks, and even the best indentation style…</blockquote>
 
-<h3>4. I Tried the View Transitions API — Now I Can’t Build Websites the Same Way - <a href="https://medium.com/dev-genius/i-tried-the-view-transitions-api-now-i-cant-build-websites-the-same-way-193159b7da42" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Design System Components In React - <a href="https://medium.com/@karthik.joshi103/design-system-components-in-react-7b5115c44f34" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dev Genius`**
+✍️ **posted by `Kartik Joshi`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Design Systems are essential in modern days of development it allows developers to leverage the existing components, which will have all…</blockquote>
 
 <h3>5. Rethinking the frontend with HTMX - <a href="https://medium.com/@marcnealer/rethinking-the-frontend-with-htmx-780045980352" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. no revenge because i like who i became after - <a href="https://medium.com/@cherylkoo/no-revenge-because-i-liked-how-who-i-became-after-03560bec78fc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. UNDEFINED - <a href="https://medium.com/@truthinfiction/undefined-f5fea3c36ac7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `cher`**
+✍️ **posted by `Truth In Fiction`**
 
-<blockquote>I’ll be the first to admit that when I embarked on my self-improvement/self-love journey about a year ago, I didn’t do it for myself. I did…</blockquote>
+<blockquote>You never said anything in the beginning...</blockquote>
 
-<h3>2. The One-Way Ticket Home - <a href="https://medium.com/the-memoirist/the-one-way-ticket-home-28f2244fadef" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Watching The Company I Founded Edit Me Out - <a href="https://medium.com/the-narrative-arc/watching-the-company-i-founded-edit-me-out-f5bbd6b67f00" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Memoirist`**
+✍️ **posted by `The Narrative Arc`**
 
-<blockquote>Escaping, belonging, and the city that called me home</blockquote>
+<blockquote>Partnership, purpose, and the price of walking away</blockquote>
 
 <h3>3. How to Read Someone’s Personality in 10 Seconds (Backed by Psychology) - <a href="https://medium.com/@pgadityasingh/how-to-read-someones-personality-in-10-seconds-backed-by-psychology-a398af0fa8a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>The Subtle Signs That Reveal Who Someone Really Is.</blockquote>
 
-<h3>4. how could you love me more now that you know me more, when you have given me less? - <a href="https://medium.com/@fyoaeuriz/how-could-you-love-me-more-now-that-you-know-me-more-when-you-have-given-me-less-0cc2beebd63a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I Left a Good Husband Because I Wanted to Be Nobody’s Wife - <a href="https://medium.com/fourth-wave/i-left-a-good-husband-because-i-wanted-to-be-nobodys-wife-c5caed04c2ae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `Fourth Wave`**
 
-<blockquote>knowing is not the same as loving</blockquote>
+<blockquote>. . . and I’ve never looked back</blockquote>
 
-<h3>5. There’s No One Perfect Couple’s Therapy - <a href="https://medium.com/unfaithful-perspectives-on-the-third-party/theres-no-one-perfect-couple-s-therapy-0a16627e5569" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Pint Glass - <a href="https://medium.com/the-interstitial/the-pint-glass-017c381481fd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Unfaithful: Perspectives on the Third-Party Relationship`**
+✍️ **posted by `The Interstitial`**
 
-<blockquote>And it’s a terrible idea to try to do it yourselves</blockquote>
+<blockquote>And the woman who made it</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -448,11 +448,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. Automating Amazon EKS Deployment from Bitbucket with CodeBuild and CodePipeline - <a href="https://medium.com/@shellkode/automating-amazon-eks-deployment-from-bitbucket-with-codebuild-and-codepipeline-de36b3bac410" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Enable Prefix Delegation in AWS EKS for Better IP Allocation and Cost Efficiency - <a href="https://medium.com/@gonewaje/enable-prefix-delegation-in-aws-eks-for-better-ip-allocation-and-cost-efficiency-0188201ec590" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ShellKode Blogs`**
+✍️ **posted by `Gonewaje`**
 
-<blockquote>As application development speeds up, organizations need to move past traditional manual processes for building, testing, and deploying…</blockquote>
+<blockquote>Amazon EKS uses the Amazon VPC CNI plugin to provide networking capabilities, and by default, each node gets a limited number of IP…</blockquote>
 
 <h3>2. Cloud Cost Optimization: How We Cut Costs by 33% Without Slowing Growth - <a href="https://medium.com/@chaliyarc/cloud-cost-optimization-how-we-cut-costs-by-33-without-slowing-growth-bcb613c2bb68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,25 +466,25 @@
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Linux System Call — File Operations - <a href="https://medium.com/@tonylixu/linux-system-call-file-operations-df33bdf89ea9" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tony`**
+
+<blockquote>Linux File Management</blockquote>
+
+<h3>5. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Alexander Hilton`**
 
 <blockquote>A powerful (and perhaps unexpected) illustration of systems thinking is archery. Far from being just “draw the bow and fire,” archery is a…</blockquote>
 
-<h3>5. Modern CI-CD Pipelines of REST API Python Project with UV - <a href="https://medium.com/@autognosi/modern-ci-cd-pipelines-of-rest-api-python-project-with-uv-be0c5fa1f514" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Carlo C.`**
-
-<blockquote>1. Introduction to UV: Automating the Creation of REST API Services</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. Can Configuration Languages (config DSLs) solve configuration complexity? - <a href="https://medium.com/itnext/can-configuration-languages-dsls-solve-configuration-complexity-eee8f124e13a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. EKS: Cilium as the only CNI driver with simplified hybrid nodes and admission webhooks routing - <a href="https://medium.com/@the.jfnadeau/eks-cilium-as-the-only-cni-driver-with-simplified-hybrid-nodes-and-admission-webhooks-routing-1f351d11f9dd" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ITNEXT`**
+✍️ **posted by `Jean-Francois Nadeau`**
 
-<blockquote>Can configuration languages dramatically reduce configuration complexity?</blockquote>
+<blockquote>I’ve been testing networking scenarios with EKS hybrid nodes and I find the (default) proposed model mixing AWS CNI on EC2 and…</blockquote>
 
 <h3>2. Learnings from a Machine Learning Engineer — Part 5: The Training - <a href="https://medium.com/data-science-collective/learnings-from-a-machine-learning-engineer-part-5-the-training-87f5e8b18949" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -498,11 +498,11 @@
 
 <blockquote>The key role of Platform Engineering teams in building a Kubernetes based Platforms.</blockquote>
 
-<h3>4. Learning through Clustering - <a href="https://medium.com/@78boos786/learning-through-clustering-efbd5d361718" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Kubernetes Control Plane Load Balancing (CPLB) Explained - <a href="https://medium.com/mirantis-engineering-blog/control-plane-load-balancing-explained-ad3816837cc0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `King 123`**
+✍️ **posted by `Tzero`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>A highly available Kubernetes cluster requires, among other things, a highly available control plane. In order to achieve this we need…</blockquote>
 
 <h3>5. KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3 - <a href="https://medium.com/generative-ai/kubevox-sub-200ms-kubernetes-voice-control-with-local-llama-3-d9baed31d62b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -512,11 +512,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Using Docker for the First Time: A Literal Piece of Cake - <a href="https://medium.com/@daria.khon/using-docker-for-the-first-time-a-literal-piece-of-cake-1faf20ef85cd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why I am excited about Docker in 2025 - <a href="https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Daria Khon`**
+✍️ **posted by `Sumit Gupta`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>The first time I came across Docker, I found it very interesting. But I never really felt the need to explore it deeply. Over time, I kept…</blockquote>
 
 <h3>2. Learnings from a Machine Learning Engineer — Part 5: The Training - <a href="https://medium.com/data-science-collective/learnings-from-a-machine-learning-engineer-part-5-the-training-87f5e8b18949" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -524,17 +524,17 @@
 
 <blockquote>Practical insights for model training in a Docker container</blockquote>
 
-<h3>3. Running DeepSeek-R1 Locally with Ollama and Docker - <a href="https://medium.com/xeynergy-blog/running-deepseek-r1-locally-with-ollama-and-docker-9b2b7d05607a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Dockerfile Security Best Practices: How to Build Secure Containers - <a href="https://medium.com/@IamLucif3r/dockerfile-security-best-practices-how-to-build-secure-containers-a4fc25c4f2be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Xeynergy Blog`**
+✍️ **posted by `Anmol Singh Yadav`**
 
-<blockquote>Running AI models like DeepSeek-R1 locally can be a fun and a good learning experience. In this post, I’ll show you two different methods…</blockquote>
+<blockquote>1. Introduction</blockquote>
 
-<h3>4. Building a Secure, Automated .NET Docker Image Pipeline with Renovate - <a href="https://medium.com/@abhimanyubajaj98/building-a-secure-automated-net-docker-image-pipeline-with-renovate-62d502e328a5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Enable Remote Debugging in a Docker Container for Rider and Visual Studio - <a href="https://medium.com/@dpursanov/how-to-enable-remote-debugging-in-a-docker-container-for-rider-and-visual-studio-5a535d4f036a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhimanyubajaj`**
+✍️ **posted by `Dima Pursanov`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>When containerizing your .NET application, you might still need to attach your IDE’s debugger to troubleshoot issues that occur only in…</blockquote>
 
 <h3>5. Steal My Blueprint to Build and Deploy RAGs [In Minutes]. - <a href="https://medium.com/ai-advances/build-and-deploy-rag-llm-adf38e1ae260" target="_blank" rel="noopener noreferrer">link</a></h3>
 
