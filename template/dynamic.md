@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Goodbye Create React App - <a href="https://medium.com/devinsight/goodbye-create-react-app-ff9f9e352888" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Routing and Protected Routing In React - <a href="https://medium.com/@vwadhwa3/routing-and-protected-routing-in-react-0ee02de7abae" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevInsight`**
+✍️ **posted by `Varun Wadhwa`**
 
-<blockquote>The Future of React Development is Here!</blockquote>
+<blockquote>Routing is a core part of any application, but it can introduce various challenges. One key consideration is that URLs should not be…</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -18,11 +18,11 @@
 
 <blockquote>In modern React development, managing state and communication between components can become a challenge, especially as applications grow in…</blockquote>
 
-<h3>4. React useTransition Hook : The Tool for Non-Blocking Updates - <a href="https://medium.com/@shrinidhibatavi/react-usetransition-hook-the-tool-for-non-blocking-updates-2a45b167d343" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Goodbye Create React App - <a href="https://medium.com/devinsight/goodbye-create-react-app-ff9f9e352888" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shrinidhi Batavi`**
+✍️ **posted by `DevInsight`**
 
-<blockquote>React offers various hooks to efficiently manage state and side effects. One such hook, introduced in React 18, is useTransition, which…</blockquote>
+<blockquote>The Future of React Development is Here!</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Goodbye Create React App - <a href="https://medium.com/devinsight/goodbye-create-react-app-ff9f9e352888" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Build a Simple Yet Scalable API with Next.js and Edge Functions - <a href="https://medium.com/itnext/build-a-simple-yet-scalable-api-with-next-js-and-edge-functions-191e932d4ab6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `DevInsight`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>The Future of React Development is Here!</blockquote>
+<blockquote>Supercharge your Next.js API with Edge Functions — fast, scalable, and serverless.</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Hey there, fellow developers! I’m Sachin, and today I want to share some of my favorite React component libraries that can make your…</blockquote>
 
-<h3>4. Effective Next.js Bundle Optimization with Webpack - <a href="https://medium.com/@ujjwaltiwari2/effective-next-js-bundle-optimization-with-webpack-cca8632ea03e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Next.js authentication with Supabase and NextAuth: A Deep Dive (Part 2) - <a href="https://medium.com/@sidharrthnix/next-js-authentication-with-supabase-and-nextauth-a-deep-dive-part-2-5fa43563989a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ujjwal Tiwari`**
+✍️ **posted by `Sidharrth Mahadevan`**
 
-<blockquote>In modern web development, optimizing bundle size and performance isn’t just a nice-to-have — it’s essential. Next.js, while providing…</blockquote>
+<blockquote>Welcome to Part 2 of our Next.js Authentication series! In Part 1, we set up the basics of NextAuth and Supabase, ensuring we had a minimal…</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -128,11 +128,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. The infer Keyword in TypeScript: A Deep Dive with Practical Examples - <a href="https://medium.com/@robinviktorsson/the-infer-keyword-in-typescript-a-deep-dive-with-practical-examples-3a7a51bd3ed6" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. TypeScript: Create Custom Types - <a href="https://medium.com/@abhishekw/typescript-create-custom-types-2f5b0586b12a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. TypeScript`**
+✍️ **posted by `Abhishek Wadalkar`**
 
-<blockquote>TypeScript provides powerful tools for static type inference, and one of the most advanced features is the infer keyword. This keyword…</blockquote>
+<blockquote>TypeScript allows developers to create custom types, which improve code readability, enforce structure, and make applications more robust…</blockquote>
 
 <h3>2. Handling Class Libraries in Node.js (With and Without TypeScript) - <a href="https://medium.com/better-programming/handling-class-libraries-in-node-js-with-and-without-typescript-39b73b2186b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -146,11 +146,11 @@
 
 <blockquote>Discover the pros and cons of using React.FC in TypeScript and how TypeScript 5.1 has improved its functionality.</blockquote>
 
-<h3>4. A Comprehensive Guide to the satisfies Operator in TypeScript with Practical Examples - <a href="https://medium.com/@robinviktorsson/a-comprehensive-guide-to-the-satisfies-operator-in-typescript-with-practical-examples-3d77a873dcf8" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. TypeScript : Understanding Enums - <a href="https://medium.com/@abhishekw/typescript-understanding-enums-9715ddee93df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. TypeScript`**
+✍️ **posted by `Abhishek Wadalkar`**
 
-<blockquote>TypeScript 4.9 introduced the satisfies operator, which enhances type safety while preserving flexibility in type inference. This operator…</blockquote>
+<blockquote>Enums are a powerful feature in TypeScript that allows developers to define a set of named constants. They make code more readable…</blockquote>
 
 <h3>5. TypeScript Interview Questions - <a href="https://medium.com/@nabendu82/typescript-interview-questions-80d4bb1e9733" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -160,11 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. I found a bug in Linux 🤔 - <a href="https://medium.com/@miguelangarano/i-found-a-bug-in-linux-5e2d6f0142e1" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Accept payments seamlessly with Stripe: A Developers’ Integration Guide - <a href="https://medium.com/@okraks/accept-payments-seamlessly-with-stripe-a-developers-integration-guide-9102c4aaa4be" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Miguel Langarano`**
+✍️ **posted by `Okraks`**
 
-<blockquote>This might look like a clickbait title, but there’s a reason behind it. I’m not entirely sure whether what I’m about to show you is a…</blockquote>
+<blockquote>Stripe has solidified itself as a leader in payments processing. They make your life easier as a developer when accepting payments. In…</blockquote>
 
 <h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -172,17 +172,17 @@
 
 <blockquote>Building a base template repo is probably the best thing you could do to push your career and projects forward.</blockquote>
 
-<h3>3. Why You Should Migrate to Express 5.0 Now - <a href="https://medium.com/@mehdibafdil/why-you-should-migrate-to-express-5-0-now-8bebaeaea734" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The MongoDB Mistake That’s Costing Your Startup Millions - <a href="https://medium.com/@mehdibafdil/the-mongodb-mistake-thats-costing-your-startup-millions-bc2c23f732d2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mehdi BAFDIL`**
 
-<blockquote>The web development world is buzzing with the recent debut of Express 5.0, a release that promises not only to enhance stability but also…</blockquote>
+<blockquote>Last month, a startup I consulted for was burning through $15,000 monthly on MongoDB Atlas. After implementing the optimizations I’m about…</blockquote>
 
-<h3>4. Express.js Secrets That Senior Developers Don’t Share - <a href="https://medium.com/@arunangshudas/express-js-secrets-that-senior-developers-dont-share-b2979bd7439a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How NASA’s Coding Rules Can Improve MERN Stack Development with TypeScript - <a href="https://medium.com/@sachirasujanthamp/how-nasas-coding-rules-can-improve-mern-stack-development-with-typescript-0e51f5704385" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arunangshu Das`**
+✍️ **posted by `Sachira Sujantha`**
 
-<blockquote>Express.js is often the go-to framework for building web applications in Node.js. It’s lightweight, unopinionated, and incredibly flexible…</blockquote>
+<blockquote>NASA’s coding standards for safety-critical software, as outlined in “The Power of Ten — Rules for Developing Safety Critical Code” by…</blockquote>
 
 <h3>5. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -262,11 +262,11 @@
 
 <blockquote>When it comes to mobile development, even small missteps in designing forms can have a big impact, not just on user experience but also on…</blockquote>
 
-<h3>2. The Em’s Computer Revival! - <a href="https://medium.com/chifi-media/the-ems-computer-revival-81680a25118b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. You Have The Power To Change Organizational Culture As An Introverted Engineering Manager - <a href="https://medium.com/engineering-managers-journal/you-have-the-power-to-change-organizational-culture-as-an-introverted-engineering-manager-e3265c1ce663" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `chifi`**
+✍️ **posted by `Engineering Manager’s Journal`**
 
-<blockquote>Reviving an old project in hopes of making a cool website.</blockquote>
+<blockquote>Harness your natural strengths.</blockquote>
 
 <h3>3. Goodbye RAG? Gemini 2.0 Flash Have Just Killed It! - <a href="https://medium.com/everyday-ai/goodbye-rag-gemini-2-0-flash-have-just-killed-it-96301113c01f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -280,11 +280,11 @@
 
 <blockquote>Introduction</blockquote>
 
-<h3>5. I have part of the system prompt for Grok 3. Here’s why I’m concerned it’s stalking social media - <a href="https://medium.com/@JimTheAIWhisperer/grok-3-system-prompt-71ee66cd6554" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Em’s Computer Revival! - <a href="https://medium.com/chifi-media/the-ems-computer-revival-81680a25118b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jim the AI Whisperer`**
+✍️ **posted by `chifi`**
 
-<blockquote>Is AI monitoring us? Grok 3 and DeepSeek raise red flags</blockquote>
+<blockquote>Reviving an old project in hopes of making a cool website.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
@@ -320,17 +320,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. I Left a Good Husband Because I Wanted to Be Nobody’s Wife - <a href="https://medium.com/fourth-wave/i-left-a-good-husband-because-i-wanted-to-be-nobodys-wife-c5caed04c2ae" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. [11:11]i just want to be someone’s 11:11 - <a href="https://medium.com/@cherylkoo/11-11-i-just-want-to-be-someones-11-11-57419183170f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fourth Wave`**
+✍️ **posted by `cher`**
 
-<blockquote>. . . and I’ve never looked back</blockquote>
+<blockquote>Whether or not you believe in this *iconic* set of number, 11:11 can mean a lot of things to different people. I’m a firm believer of 11:11…</blockquote>
 
-<h3>2. Watching The Company I Founded Edit Me Out - <a href="https://medium.com/the-narrative-arc/watching-the-company-i-founded-edit-me-out-f5bbd6b67f00" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. How the Mutable Beauty of Napatree Point Mirrors My 25-Year Marriage - <a href="https://medium.com/the-narrative-arc/how-the-mutable-beauty-of-napatree-point-mirrors-my-25-year-marriage-a0134a54e0c1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `The Narrative Arc`**
 
-<blockquote>Partnership, purpose, and the price of walking away</blockquote>
+<blockquote>Change is the constant we count on</blockquote>
 
 <h3>3. How to Read Someone’s Personality in 10 Seconds (Backed by Psychology) - <a href="https://medium.com/@pgadityasingh/how-to-read-someones-personality-in-10-seconds-backed-by-psychology-a398af0fa8a2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -338,17 +338,17 @@
 
 <blockquote>The Subtle Signs That Reveal Who Someone Really Is.</blockquote>
 
-<h3>4. UNDEFINED - <a href="https://medium.com/@truthinfiction/undefined-f5fea3c36ac7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. I Never Knew Love Could Feel Like This — Like Losing Myself, Only to Find You - <a href="https://medium.com/@saikikeshi/i-never-knew-love-could-feel-like-this-like-losing-myself-only-to-find-you-77e6b30e8e99" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Truth In Fiction`**
+✍️ **posted by `life in letters`**
 
-<blockquote>You never said anything in the beginning...</blockquote>
+<blockquote>Sometimes, losing yourself in love is the only way to truly be found.</blockquote>
 
-<h3>5. The Pint Glass - <a href="https://medium.com/the-interstitial/the-pint-glass-017c381481fd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. When Breaking Free from an Abuser Feels Impossible - <a href="https://medium.com/invisible-illness/when-breaking-free-from-an-abuser-feels-impossible-8354ec47bd99" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Interstitial`**
+✍️ **posted by `Invisible Illness`**
 
-<blockquote>And the woman who made it</blockquote>
+<blockquote>Examining extreme trauma bonds</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
@@ -416,11 +416,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. What Has Apple Done With the iPhone 16e? - <a href="https://medium.com/macoclock/what-has-apple-done-with-the-iphone-16e-73235e443c7f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Chapter 14:- SwiftUI @NameSpace Property Wrapper - <a href="https://medium.com/@tejalchaudhari/chapter-14-swiftui-namespace-property-wrapper-bd116fcd72ac" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Tejal Chaudhari`**
 
-<blockquote>I hope Tim Cook isn’t a Reddit reader</blockquote>
+<blockquote>@Namespace is a SwiftUI property wrapper that helps coordinate animations and transitions between views.</blockquote>
 
 <h3>2. How I Stole Your ChatGPT API Keys - <a href="https://medium.com/gitconnected/how-i-stole-your-chatgpt-api-keys-9acde6b68fdf" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -428,17 +428,17 @@
 
 <blockquote>Security fundamentals for the front-end</blockquote>
 
-<h3>3. 10 cool iOS Automation ideas you’ll wish you knew sooner - <a href="https://medium.com/macoclock/10-cool-ios-automation-ideas-youll-wish-you-knew-sooner-17d7275d5b0b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Apple is counter-attacking KMP hegemony, Jetbrains has reacted! - <a href="https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mac O’Clock`**
+✍️ **posted by `Christopher Saez 📱`**
 
-<blockquote>You’ll be amazed to know your brick could do these!</blockquote>
+<blockquote>Last year, KMP was announced as a first-class support for Android developers. Did Apple anticipate this? Probably not. But that doesn’t…</blockquote>
 
-<h3>4. SOLID Principles in Swift (iOS) - <a href="https://medium.com/@tejaswinimr/solid-principles-in-swift-ios-6d053304d355" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Adaptive Font Scaling in React Native: A Practical Guide - <a href="https://medium.com/@shreyas24s2001/adaptive-font-scaling-in-react-native-a-practical-guide-584fc3c3a65a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tejaswinimr`**
+✍️ **posted by `Shreyas S`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>Introduction</blockquote>
 
 <h3>5. How A Simple, Stupid Error Keeps Crashing My App - <a href="https://medium.com/code-like-a-girl/how-a-simple-stupid-error-keeps-crashing-my-app-d9783332648f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -512,11 +512,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Why I am excited about Docker in 2025 - <a href="https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Running a Java Playwright Test on GitHub Actions - <a href="https://medium.com/@pradappandiyan/running-a-java-playwright-test-on-github-actions-412c6d47e0eb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sumit Gupta`**
+✍️ **posted by `Pradap Pandiyan`**
 
-<blockquote>The first time I came across Docker, I found it very interesting. But I never really felt the need to explore it deeply. Over time, I kept…</blockquote>
+<blockquote>In modern continuous integration pipelines, automated browser testing is key to catching UI regressions early. In this article, we’ll…</blockquote>
 
 <h3>2. Learnings from a Machine Learning Engineer — Part 5: The Training - <a href="https://medium.com/data-science-collective/learnings-from-a-machine-learning-engineer-part-5-the-training-87f5e8b18949" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -530,15 +530,15 @@
 
 <blockquote>1. Introduction</blockquote>
 
-<h3>4. How to Enable Remote Debugging in a Docker Container for Rider and Visual Studio - <a href="https://medium.com/@dpursanov/how-to-enable-remote-debugging-in-a-docker-container-for-rider-and-visual-studio-5a535d4f036a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Dima Pursanov`**
-
-<blockquote>When containerizing your .NET application, you might still need to attach your IDE’s debugger to troubleshoot issues that occur only in…</blockquote>
-
-<h3>5. Steal My Blueprint to Build and Deploy RAGs [In Minutes]. - <a href="https://medium.com/ai-advances/build-and-deploy-rag-llm-adf38e1ae260" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Steal My Blueprint to Build and Deploy RAGs [In Minutes]. - <a href="https://medium.com/ai-advances/build-and-deploy-rag-llm-adf38e1ae260" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `AI Advances`**
 
 <blockquote>Most RAGs are built on this stack; why would you redo it every time?</blockquote>
+
+<h3>5. Running DeepSeek-R1 Locally with Ollama and Docker - <a href="https://medium.com/xeynergy-blog/running-deepseek-r1-locally-with-ollama-and-docker-9b2b7d05607a" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Xeynergy Blog`**
+
+<blockquote>Running AI models like DeepSeek-R1 locally can be a fun and a good learning experience. In this post, I’ll show you two different methods…</blockquote>
 
