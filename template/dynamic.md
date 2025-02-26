@@ -1,10 +1,10 @@
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. Top 6 Best React Headless UI Libraries in 2025 - <a href="https://medium.com/lets-code-future/top-6-best-react-headless-ui-libraries-in-2025-6998f2ae8091" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. React.js |Context API: No more prop drilling 🙅 - <a href="https://medium.com/@ashishkumar_81395/react-js-context-api-understand-in-a-easy-language-dc0bde445ea7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Let’s Code Future`**
+✍️ **posted by `Ashish Kumar`**
 
-<blockquote>The Future of React UI: Exploring the Best Headless UI Libraries in 2025</blockquote>
+<blockquote>Type of prop drilling</blockquote>
 
 <h3>2. Your React App Isn’t Great — Here’s Why. - <a href="https://medium.com/gitconnected/your-react-app-isnt-great-here-s-why-5eb61b3f110b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -18,11 +18,11 @@
 
 <blockquote>In modern React development, managing state and communication between components can become a challenge, especially as applications grow in…</blockquote>
 
-<h3>4. CSS Modules in React (or Any JS Framework) - <a href="https://medium.com/javascript-in-plain-english/css-modules-in-react-or-any-js-framework-fd7b0388eead" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Time in Binary - <a href="https://medium.com/@siddharthaasal/understanding-time-in-binary-f7ab6ea5f5b0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `JavaScript in Plain English`**
+✍️ **posted by `Siddharth Aasal`**
 
-<blockquote>CSS Modules provide a simple yet powerful way to scope styles locally, making styles modular, maintainable, and conflict-free in modern web</blockquote>
+<blockquote>What if I told you that your clock could speak the language of computers?</blockquote>
 
 <h3>5. How does the React fiber reconciler work? - <a href="https://medium.com/@maxtsh/how-does-the-react-fiber-reconciler-work-77c3650127da" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -82,11 +82,11 @@
 
 <blockquote>We approach 2025,UI/UX design is set to push boundaries indeed further, incorporating advanced technology with mortal — centered…</blockquote>
 
-<h3>4. Top 8 Mobile App UI/UX Design Trends in 2024 - <a href="https://medium.com/@appdesign360/top-8-mobile-app-ui-ux-design-trends-in-2024-bfc201b5a041" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Adobe XD Couldn’t Compete Against Figma? - <a href="https://medium.com/@kumarisakshi9595/why-adobe-xd-couldnt-compete-against-figma-4d1759665cf4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `App Design 360`**
+✍️ **posted by `Kumarisakshi`**
 
-<blockquote>The world of mobile apps UX/UI design is constantly evolving. This is due to advancements in technology, search to provide seamless user…</blockquote>
+<blockquote>Adobe XD and Figma are two of the most popular UI/UX design tools in the market today, each with its own set of strengths and weaknesses…</blockquote>
 
 <h3>5. Top UI/UX Design Trends to Watch in 2025 - <a href="https://medium.com/@design-studio/top-ui-ux-design-trends-to-watch-in-2025-75d46042cb07" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Hoisting in JavaScript (Easy Explanation) - <a href="https://medium.com/@codewithmern/hoisting-in-javascript-easy-explanation-f5f81b74432a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Understanding the JavaScript Event Loop: A Deep Dive - <a href="https://medium.com/@lakshmikantha.aries/understanding-the-javascript-event-loop-a-deep-dive-3e20202715df" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Code with MERN`**
+✍️ **posted by `Lakshmikanth D`**
 
-<blockquote>👉Hoisting means JavaScript moves function and variable declarations to the top before running the code.</blockquote>
+<blockquote>JavaScript is a single-threaded, non-blocking, asynchronous programming language. This is made possible by the Event Loop, a crucial…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -114,11 +114,11 @@
 
 <blockquote>Here’s a list of 15 JavaScript tricks and tips with real-life examples to make your coding more efficient and powerful:</blockquote>
 
-<h3>4. A Beginner’s Guide to Currying in JavaScript for Cleaner Functions - <a href="https://medium.com/@surajrajput_46910/currying-in-javascript-42416a3a215e" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Stop Writing Loops in JavaScript — Here’s What Senior Devs Do Instead - <a href="https://medium.com/the-syntax-diaries/stop-writing-loops-in-javascript-heres-what-senior-devs-do-instead-e5e173976766" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Suraj Rajput`**
+✍️ **posted by `The Syntax Diaries`**
 
-<blockquote>What is Currying in JavaScript?</blockquote>
+<blockquote>Look at why top developers are ditching traditional loops and what they’re using instead</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -192,11 +192,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. Frontend Weekly Digest #402 (17–23 Feb 2025) - <a href="https://medium.com/@frontender-ua/frontend-weekly-digest-402-17-23-feb-2025-fc4695e0250f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. For engineers who refuse to choose between innovation and stability: A core library overhaul - <a href="https://medium.com/@topofgr/for-engineers-who-refuse-to-choose-between-innovation-and-stability-a-core-library-overhaul-814fd6ac4d65" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Fresh Frontend Links`**
+✍️ **posted by `Franco Galeano Roca`**
 
-<blockquote>Web-development</blockquote>
+<blockquote>When a billing address input breaks during checkout, revenue stops. This isn’t a hypothetical scenario — it’s a risk every team faces when…</blockquote>
 
 <h3>2. A Simplified Introduction To Toolips - <a href="https://medium.com/chifi-media/a-simplified-introduction-to-toolips-005130ed716c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,11 +210,11 @@
 
 <blockquote>In today’s fast-paced tech world, developers constantly seek tools to streamline their workflow, improve efficiency, and save time. With…</blockquote>
 
-<h3>4. How CSS Just Changed Forever + 7 New Features You Need to Know - <a href="https://medium.com/gitconnected/how-css-just-changed-forever-7-new-features-you-need-to-know-c97f2f2517eb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Understanding Time in Binary - <a href="https://medium.com/@siddharthaasal/understanding-time-in-binary-f7ab6ea5f5b0" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Siddharth Aasal`**
 
-<blockquote>글을 확인하려면 링크를 클릭하세요. ⌲</blockquote>
+<blockquote>What if I told you that your clock could speak the language of computers?</blockquote>
 
 <h3>5. The Em’s Computer Revival! - <a href="https://medium.com/chifi-media/the-ems-computer-revival-81680a25118b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -256,17 +256,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. The Kubernetes Mirage: When Scaling Up Becomes Your Greatest Downfall - <a href="https://medium.com/mr-plan-publication/the-kubernetes-mirage-when-scaling-up-becomes-your-greatest-downfall-4abc05a7968f" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I Created a Bitcoin Price Prediction AI and Thought I’d Become Rich - <a href="https://medium.com/ai-advances/i-created-a-bitcoin-price-prediction-ai-and-thought-id-become-rich-374cf92e14ea" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mr. Plan ₿ Publication`**
+✍️ **posted by `AI Advances`**
 
-<blockquote>How Cloud Orchestration’s Golden Child Became a Billion-Dollar Bottleneck — And What Survivors Know That You Don’t</blockquote>
+<blockquote>My ambitious final university project promised quick profits, but reality had other plans.</blockquote>
 
-<h3>2. You Need TDD If You Use AI - <a href="https://medium.com/@lordmoma/you-need-tdd-if-you-use-ai-bd525d632e3a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. t-SNE — Visualizing Multidimensional World in 2D - <a href="https://medium.com/@msoczi/t-sne-visualizing-multidimensional-world-in-2d-200ff7e1992a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `David Lee`**
+✍️ **posted by `msoczi`**
 
-<blockquote>AI Code is Fast, but is it Right?</blockquote>
+<blockquote>t-Distributed Stochastic Neighbor Embedding</blockquote>
 
 <h3>3. Goodbye RAG? Gemini 2.0 Flash Have Just Killed It! - <a href="https://medium.com/everyday-ai/goodbye-rag-gemini-2-0-flash-have-just-killed-it-96301113c01f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -274,31 +274,34 @@
 
 <blockquote>Alright!!!</blockquote>
 
-<h3>4. Common mistakes with TextFormFields in Flutter - <a href="https://medium.com/@pomis172/common-mistakes-with-textformfields-in-flutter-8adc8af1a9af" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Claude 3.7 Sonnet and Claude Code: The best coding LLM is here - <a href="https://medium.com/data-science-in-your-pocket/claude-3-7-sonnet-and-claude-code-the-best-coding-llm-is-here-7a61d79b96d1" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Roman Ismagilov`**
+✍️ **posted by `Data Science in your pocket`**
 
-<blockquote>When it comes to mobile development, even small missteps in designing forms can have a big impact, not just on user experience but also on…</blockquote>
+<blockquote>Anthropic Claude new model and coding agent launched</blockquote>
 
-<h3>5. DDD: Should I write all the code using English? - <a href="https://medium.com/yield-studio/ddd-should-i-write-all-the-code-using-english-c39f1df30ac5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Love Your Code: Conquer C++ Pointers with This Fun Guide - <a href="https://medium.com/code-like-a-girl/love-your-code-conquer-c-pointers-with-this-fun-guide-8f47c693fec9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Yield Studio Playbook`**
+✍️ **posted by `Code Like A Girl`**
 
-<blockquote>When English is not your business language, what is the best approach? Translating everything into English? Using the original business…</blockquote>
+<blockquote>Dear Pointers,
+I have hated you all my life, and I don’t see that changing anytime soon.
+Never yours,
+Younger me.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. The Cybertruck Is Even Worse Than We Thought - <a href="https://medium.com/predict/the-cybertruck-is-even-worse-than-we-thought-92a8db9c86da" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. These Are the Jobs AI Will Replace - <a href="https://medium.com/entrepreneur-s-handbook/these-are-the-jobs-ai-will-replace-0abb0a814acc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Predict`**
+✍️ **posted by `Entrepreneurship Handbook`**
 
-<blockquote>How could it get any worse?</blockquote>
+<blockquote>Let’s talk about white collar knowledge workers and which jobs get eliminated</blockquote>
 
-<h3>2. StyleGAN: a Step by Step Introduction - <a href="https://medium.com/ai-mind-labs/stylegan-a-step-by-step-introduction-ff995c99a884" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. 📏 Quantifying Misalignment — A Data Scientist’s Intro To Information Theory — Part 3/4 - <a href="https://medium.com/data-science-collective/quantifying-misalignment-7582a090f5d6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `AI Mind`**
+✍️ **posted by `Data Science Collective`**
 
-<blockquote>Generative Adversarial Networks have been the go-to machine learning technique for generative content in the past few years. Seemingly…</blockquote>
+<blockquote>Gain intuition into Cross-Entropy, KL-Divergence and their applications in Machine Learning and Data Analysis. Python code provided. 🐍</blockquote>
 
 <h3>3. Goodbye RAG? Gemini 2.0 Flash Have Just Killed It! - <a href="https://medium.com/everyday-ai/goodbye-rag-gemini-2-0-flash-have-just-killed-it-96301113c01f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -306,17 +309,17 @@
 
 <blockquote>Alright!!!</blockquote>
 
-<h3>4. Grok is Overrated. Do This To Transform ANY LLM to a Super-Intelligent Financial Analyst - <a href="https://medium.com/@austin-starks/grok-is-overrated-do-this-to-transform-any-llm-to-a-super-intelligent-financial-analyst-40f697092399" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. BlockDAG’s #MondayUpdate: The Final Countdown for LISTING1000 and What’s Next - <a href="https://medium.com/@BlockDAGNetwork1/blockdags-mondayupdate-the-final-countdown-for-listing1000-and-what-s-next-c3cd65c4fc45" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Austin Starks`**
+✍️ **posted by `BlockDAG Network`**
 
-<blockquote>People are far too impressed by the most basic shit.</blockquote>
+<blockquote>Final 24 Hours: The Last Chance to Secure 350% BDAG Before BlockDAG’s Biggest Leap Forward</blockquote>
 
-<h3>5. You Have The Power To Change Organizational Culture As An Introverted Engineering Manager - <a href="https://medium.com/engineering-managers-journal/you-have-the-power-to-change-organizational-culture-as-an-introverted-engineering-manager-e3265c1ce663" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. t-SNE — Visualizing Multidimensional World in 2D - <a href="https://medium.com/@msoczi/t-sne-visualizing-multidimensional-world-in-2d-200ff7e1992a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Engineering Manager’s Journal`**
+✍️ **posted by `msoczi`**
 
-<blockquote>Harness your natural strengths.</blockquote>
+<blockquote>t-Distributed Stochastic Neighbor Embedding</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
@@ -358,37 +361,37 @@
 
 <blockquote>When it comes to mobile development, even small missteps in designing forms can have a big impact, not just on user experience but also on…</blockquote>
 
-<h3>2. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Engineer’s Notes: Archeological Sites & IT - <a href="https://medium.com/gitconnected/engineers-notes-archeological-sites-it-597162e2d6b5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Level Up Coding`**
+
+<blockquote>A software engineer discussing product design based on his vacation experiences.</blockquote>
+
+<h3>3. Modern iOS Architecture Patterns and Best Practices - <a href="https://medium.com/@sharmapraveen91/modern-ios-architecture-patterns-and-best-practices-5320e2d9d1aa" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `praveen sharma`**
+
+<blockquote>In iOS app development, adopting a clean and maintainable architecture is crucial for building scalable, testable, and maintainable…</blockquote>
+
+<h3>4. Flutter. New widget: MeshButton - <a href="https://medium.com/easy-flutter/flutter-new-widget-meshbutton-384a50d27fc7" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Easy Flutter`**
+
+<blockquote>Animated Mesh Gradient Button.</blockquote>
+
+<h3>5. Building the B&Q Mobile Apps: - <a href="https://medium.com/@abid.ghani/building-the-b-q-mobile-apps-ce69ab593797" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Abid Ghani`**
 
 <blockquote>A Journey Through Modern App Mobile Development</blockquote>
 
-<h3>3. Understanding Flutter rendering pipeline: Build phase - <a href="https://medium.com/@pomis172/understanding-flutter-rendering-pipeline-build-phase-cf7e05aa12f1" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Roman Ismagilov`**
-
-<blockquote>Flutter’s rendering pipeline is a highly optimized process that transforms your declarative UI code into pixels on the screen. With a deep…</blockquote>
-
-<h3>4. Flutter. GetX secret widgets: ValueBuilder and ObxValue - <a href="https://medium.com/easy-flutter/flutter-getx-secret-widgets-valuebuilder-and-obxvalue-eb8a079ef28b" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Easy Flutter`**
-
-<blockquote>I don’t like StatefulWidgets. I understand that they play a role in Flutter Architecture, but in my apps I never use them.</blockquote>
-
-<h3>5. Displaying all SwiftUI Previews in a Storybook app - <a href="https://medium.com/eureka-engineering/displaying-all-swiftui-previews-in-a-storybook-app-1dd8e925d777" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Pairs Engineering`**
-
-<blockquote>I’m John Estropia from Eureka’s Mobile Platforms team. This article is posted as the 7th entry for the 2024 Pairs Engineering Advent…</blockquote>
-
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Android vs. iOS - Difference - <a href="https://medium.com/@hamzakhan423/android-vs-ios-difference-40688807b008" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Breaking the chain of CA Certificate detection & SSL Pinning bypass for Android applications - <a href="https://medium.com/@pandurangisuprit/breaking-the-chain-of-ca-certificate-detection-ssl-pinning-bypass-for-android-applications-65c4ac66d9f2" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hamza Khan`**
+✍️ **posted by `Suprit Pandurangi`**
 
-<blockquote>Quick look at the difference between Android and iOS</blockquote>
+<blockquote>Hi there, my name is Suprit Pandurangi aka s3ctat0r let's get started without any further delay!! While testing an Android app, I…</blockquote>
 
 <h3>2. Making basicMarquee-Modifier More Accessible - <a href="https://medium.com/proandroiddev/making-basicmarquee-modifier-more-accessible-8b3737307dee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -402,11 +405,11 @@
 
 <blockquote>Last year, K.M.P. (Kotlin Mobile Multiplatform) was announced as a first-class support for Android developers. Did Apple anticipate this…</blockquote>
 
-<h3>4. About designing a HAL and using it on a Service - <a href="https://medium.com/profusion-engineering/about-designing-a-hal-and-using-it-on-a-service-e73861a62ebd" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering Native Bridging in Flutter: A Deep Dive - <a href="https://medium.com/@afridi.khondakar/mastering-native-bridging-in-flutter-a-deep-dive-e07a11dc3099" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ProFUSION Engineering`**
+✍️ **posted by `Khondakar Afridi`**
 
-<blockquote>This article will approach the core concepts of Hardware Abstraction Layer (HAL), the structure of a simple HAL, and how to use it on a…</blockquote>
+<blockquote>Flutter is powerful, but there are times when we need to interact with native platform features that are not available in Dart. This is…</blockquote>
 
 <h3>5. Why Do People Hate The Corporate World? - <a href="https://medium.com/from9to5/why-do-people-hate-the-corporate-world-a797f7f1f0a9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -416,17 +419,17 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Chapter 14:- SwiftUI @NameSpace Property Wrapper - <a href="https://medium.com/@tejalchaudhari/chapter-14-swiftui-namespace-property-wrapper-bd116fcd72ac" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Tejal Chaudhari`**
-
-<blockquote>@Namespace is a SwiftUI property wrapper that helps coordinate animations and transitions between views.</blockquote>
-
-<h3>2. iPad mini 7th gen — big in so many ways - <a href="https://medium.com/macoclock/ipad-mini-7th-gen-big-in-so-many-ways-15013d5c7de7" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. iPad mini 7th gen — big in so many ways - <a href="https://medium.com/macoclock/ipad-mini-7th-gen-big-in-so-many-ways-15013d5c7de7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Mac O’Clock`**
 
 <blockquote>It might not be packing every feature — but it’s enough…for now</blockquote>
+
+<h3>2. How I Stole Your ChatGPT API Keys - <a href="https://medium.com/gitconnected/how-i-stole-your-chatgpt-api-keys-9acde6b68fdf" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Level Up Coding`**
+
+<blockquote>Security fundamentals for the front-end</blockquote>
 
 <h3>3. Apple is counter-attacking KMP hegemony, Jetbrains has reacted! - <a href="https://medium.com/@SaezChristopher/apple-is-counter-attacking-kmp-hegemony-jetbrains-has-reacted-1c4a60c2ab3e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -434,25 +437,25 @@
 
 <blockquote>Last year, K.M.P. (Kotlin Mobile Multiplatform) was announced as a first-class support for Android developers. Did Apple anticipate this…</blockquote>
 
-<h3>4. Adaptive Font Scaling in React Native: A Practical Guide - <a href="https://medium.com/@shreyas24s2001/adaptive-font-scaling-in-react-native-a-practical-guide-584fc3c3a65a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Mastering task cancellation in SwiftUI - <a href="https://medium.com/@sebasf8/mastering-task-cancellation-in-swiftui-74cb9d5af4ff" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shreyas S`**
+✍️ **posted by `Sebastien fernandez`**
 
-<blockquote>Introduction</blockquote>
+<blockquote>Explore how to handle the cancellation of asynchronous operations in modern concurrency with SwiftUI when user input changes.</blockquote>
 
-<h3>5. How I Stole Your ChatGPT API Keys - <a href="https://medium.com/gitconnected/how-i-stole-your-chatgpt-api-keys-9acde6b68fdf" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How A Simple, Stupid Error Keeps Crashing My App - <a href="https://medium.com/code-like-a-girl/how-a-simple-stupid-error-keeps-crashing-my-app-d9783332648f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Level Up Coding`**
+✍️ **posted by `Code Like A Girl`**
 
-<blockquote>Security fundamentals for the front-end</blockquote>
+<blockquote>A Debugging Tale of Crashes, Clues, and Careless Mistakes</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. My cat helps me with merging merge requests. Does yours? - <a href="https://medium.com/@aleksandr.masliaev/my-cat-helps-me-with-merging-merge-requests-does-yours-a46d406b5916" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Self-Host DeepSeek R1 on EC2 - <a href="https://medium.com/@hmquan08011996/self-host-deepseek-r1-on-ec2-b599c7dc303b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aleksandr Masliaev`**
+✍️ **posted by `Quân Huỳnh`**
 
-<blockquote>Why do we even need help merging merge requests?</blockquote>
+<blockquote>Deploying large language models (LLMs) like DeepSeek R1 on your infrastructure gives you full control over data privacy and customization.</blockquote>
 
 <h3>2. Cloud Cost Optimization: How We Cut Costs by 33% Without Slowing Growth - <a href="https://medium.com/@chaliyarc/cloud-cost-optimization-how-we-cut-costs-by-33-without-slowing-growth-bcb613c2bb68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -466,11 +469,11 @@
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Terraform Web UI for AWS Deployment: A Step-by-Step Guide - <a href="https://medium.com/@idrisniyi94/terraform-web-ui-for-aws-deployment-a-step-by-step-guide-b3f14b66d540" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Gruntwork Newsletter, February 2025 - <a href="https://medium.com/gruntwork/gruntwork-newsletter-february-2025-150db4e3ec30" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Idris Fagbemi`**
+✍️ **posted by `Gruntwork`**
 
-<blockquote>🔗 GitHub Repository</blockquote>
+<blockquote>Every few months, we send out a newsletter to all Gruntwork customers that describes all the updates we’ve made since the last newsletter…</blockquote>
 
 <h3>5. From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform… - <a href="https://medium.com/@alexdh359/in-todays-fast-paced-vuca-world-success-rarely-comes-from-isolated-improvements-09c048bfe1e4" target="_blank" rel="noopener noreferrer">link</a></h3>
 
