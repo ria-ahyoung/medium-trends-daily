@@ -12,11 +12,11 @@
 
 <blockquote>How to Make Your Colleagues Fall in Love with Your React Applications.</blockquote>
 
-<h3>3. Event-Driven React with the Observer Pattern: A Clean Alternative to Prop Drilling - <a href="https://medium.com/@ignatovich.dm/event-driven-react-with-the-observer-pattern-a-clean-alternative-to-prop-drilling-a472aae7a74d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer - <a href="https://medium.com/@shivambhadani_/mastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Dzmitry Ihnatovich`**
+✍️ **posted by `Shivam Bhadani`**
 
-<blockquote>In modern React development, managing state and communication between components can become a challenge, especially as applications grow in…</blockquote>
+<blockquote>After reading this blog, you can clear every frontend developer interview.</blockquote>
 
 <h3>4. The Secret Behind React Keys: What Every Developer Must Know - <a href="https://medium.com/@skrohilla1/the-secret-behind-react-keys-what-every-developer-must-know-b5b7b367887c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -32,11 +32,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Authentication in Next.js with an External Backend - <a href="https://medium.com/@urboifox/authentication-in-next-ajs-with-an-external-backend-262fc2748158" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Build an AI Chatbot Frontend with React, Next.js, and FastAPI Powered by Ollama & DeepSeek-R1 - <a href="https://medium.com/@rabbi.cse.sust.bd/build-an-ai-chatbot-frontend-with-react-next-js-and-fastapi-powered-by-ollama-deepseek-r1-9a7adc600804" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `urboiFox`**
+✍️ **posted by `Md. Mehedi Hasan`**
 
-<blockquote>How to securely authenticate a Next.js app with an external backend while keeping server-side rendering and security best practices intact</blockquote>
+<blockquote>Build an AI chatbot frontend with React & Next.js, powered by FastAPI, Ollama & DeepSeek-R1 for seamless and intelligent conversations.</blockquote>
 
 <h3>2. A Year with Next.js Server Actions: Lessons Learned - <a href="https://medium.com/yopeso/a-year-with-next-js-server-actions-lessons-learned-93ef7b518c73" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -50,11 +50,11 @@
 
 <blockquote>Hey, developers! 👋Sachin here with an exciting list of top Next.js open-source projects that you should check out. Whether you’re building…</blockquote>
 
-<h3>4. Implementing UTM Parameter Tracking in Next.js Applications - <a href="https://medium.com/@yusufie/implementing-utm-parameter-tracking-in-next-js-applications-36691eb1e524" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Reusable Components in React Vs Next - <a href="https://medium.com/@rsdushya/reusable-components-in-react-vs-next-b41fba7a8e3b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yusuf`**
+✍️ **posted by `Shivaani Dushya`**
 
-<blockquote>This article details the technical implementation of UTM parameter tracking in a Next.js application. We’ll focus on the engineering…</blockquote>
+<blockquote>Why do we need to create a reusable component?</blockquote>
 
 <h3>5. 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js - <a href="https://medium.com/javascript-in-plain-english/100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -96,11 +96,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. How to Upgrade Libraries Without Breaking Your Codebase: The Module Aliasing Technique - <a href="https://medium.com/@rahul.dinkar/how-to-upgrade-libraries-without-breaking-your-codebase-the-module-aliasing-technique-d7a420a4ebeb" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Astro.js: The Web Development (R)Evolution in 2025 - <a href="https://medium.com/@themorbeus/astro-js-the-web-development-r-evolution-in-2025-e067aa46557e" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Rahul Dinkar`**
+✍️ **posted by `Morbeus`**
 
-<blockquote>Learn how to safely upgrade JavaScript libraries using module aliasing — a powerful technique for managing multiple package versions.</blockquote>
+<blockquote>Discover how Astro.js combines lightning-fast performance, minimal JavaScript, and a developer-friendly approach to reshape the landscape…</blockquote>
 
 <h3>2. Top 30 JavaScript Interview Questions and Answers for 2025 - <a href="https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -108,17 +108,17 @@
 
 <blockquote>Prepare for your next JavaScript interview with confidence!</blockquote>
 
-<h3>3. Stop Writing Loops in JavaScript — Here’s What Senior Devs Do Instead - <a href="https://medium.com/the-syntax-diaries/stop-writing-loops-in-javascript-heres-what-senior-devs-do-instead-e5e173976766" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. 15 Must Know JavaScript Tricks for Experienced Developers - <a href="https://medium.com/dev-genius/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `The Syntax Diaries`**
+✍️ **posted by `Dev Genius`**
 
-<blockquote>Look at why top developers are ditching traditional loops and what they’re using instead</blockquote>
+<blockquote>Here’s a list of 15 JavaScript tricks and tips with real-life examples to make your coding more efficient and powerful:</blockquote>
 
-<h3>4. Optimizing Large-Scale JavaScript Data Processing Without Memory Bottlenecks - <a href="https://medium.com/tech-vibes/optimizing-large-scale-javascript-data-processing-without-memory-bottlenecks-34ecdb4b70ac" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Upgrade Libraries Without Breaking Your Codebase: The Module Aliasing Technique - <a href="https://medium.com/@rahul.dinkar/how-to-upgrade-libraries-without-breaking-your-codebase-the-module-aliasing-technique-d7a420a4ebeb" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tech Vibes`**
+✍️ **posted by `Rahul Dinkar`**
 
-<blockquote>JavaScript was never designed to handle terabytes of data. Yet, here we are — pushing it to its limits with real-time analytics, AI-driven…</blockquote>
+<blockquote>Learn how to safely upgrade JavaScript libraries using module aliasing — a powerful technique for managing multiple package versions.</blockquote>
 
 <h3>5. JavaScript in a nutshell! - <a href="https://medium.com/@daisyjelagat/javascript-in-a-nutshell-669dab5b6e78" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -160,11 +160,11 @@
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. zkp-athOne SQL injection and your bcrypt hashes are cooked — good luck, champ. - <a href="https://medium.com/@hpraveenmatheesha/zkp-athone-sql-injection-and-your-bcrypt-hashes-are-cooked-good-luck-champ-613fb073f35c" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Node-oracledb 6.8 - <a href="https://medium.com/@sharad-chandran/node-oracledb-6-8-b0342c5dc998" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hpraveenmatheesha`**
+✍️ **posted by `Sharad Chandran`**
 
-<blockquote>What the Hell Started This Mess</blockquote>
+<blockquote>Release announcement: A new release of node-oracledb, the Node.js and TypeScript module for accessing Oracle Database, is available from…</blockquote>
 
 <h3>2. How To Build A Base Web Dev Template Repo - <a href="https://medium.com/gitconnected/how-to-build-a-base-web-dev-template-repo-d4172ebfa915" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -178,11 +178,11 @@
 
 <blockquote>Express.js is often the go-to framework for building web applications in Node.js. It’s lightweight, unopinionated, and incredibly flexible…</blockquote>
 
-<h3>4. Fun with vectors, LM Studio, NodeJS and Oracle DB 23ai - <a href="https://medium.com/@francisco.alvarez.rabanal/fun-with-vectors-lm-studio-nodejs-and-oracle-db-23ai-7ec793143dae" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Developing generic modules for Nest.js using Drizzle-ORM - <a href="https://medium.com/@lucasdalan09/developing-generic-modules-for-nest-js-using-drizzle-orm-2344616a4fe9" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Francisco Alvarez`**
+✍️ **posted by `Lucas Dalan`**
 
-<blockquote>If you’re new to vectors and similarity search, let me show you how to get up and running with this exciting functionality in less than one…</blockquote>
+<blockquote>Nest.js provides a powerful framework for building scalable and maintainable backend applications. However, when working on multiple…</blockquote>
 
 <h3>5. The Great Node.js Intervention of 2025 - <a href="https://medium.com/@haydengpt/the-great-node-js-intervention-of-2025-24821f8d0cec" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -210,12 +210,11 @@
 
 <blockquote>In today’s fast-paced tech world, developers constantly seek tools to streamline their workflow, improve efficiency, and save time. With…</blockquote>
 
-<h3>4. HTML Forms Explained
-Web forms based on HTML, due to their capability for users to enter and submit… - <a href="https://medium.com/@dev.asim/html-forms-explained-web-forms-based-on-html-due-to-their-capability-for-users-to-enter-and-submit-3e5b0082f8be" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Ng-News 25/09: Angular 19.2, httpResource - <a href="https://medium.com/ng-news/ng-news-25-09-angular-19-2-httpresource-593e3fad2a52" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Asim Ali`**
+✍️ **posted by `ng-news`**
 
-<blockquote>Html froms</blockquote>
+<blockquote>Angular 19.2 is here, and the standout feature is the experimental httpResource.</blockquote>
 
 <h3>5. Securing Legacy Web Apps in a Modern World - <a href="https://medium.com/gitconnected/securing-legacy-web-apps-in-a-modern-world-834f08c396e7" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -257,75 +256,75 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. I “vibe-coded” over 160,000 lines of code. It IS real. - <a href="https://medium.com/@austin-starks/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I “vibe-coded” over 160,000 lines of code. It IS real. - <a href="https://medium.com/codex/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Austin Starks`**
+✍️ **posted by `CodeX`**
 
 <blockquote>When I was getting my MS from CMU and coding up the algorithmic trading platform NextTrade, I wrote every single goddamn line of code…</blockquote>
 
-<h3>2. Only Developers — Not CEOs — Can Turn AI from an Overvalued Toy into a Real Industry - <a href="https://medium.com/ai-advances/only-developers-not-ceos-can-turn-ai-from-an-overvalued-toy-into-a-real-industry-c16b3c5e93cc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Simple Beauty of the Pigeonhole Principle - <a href="https://medium.com/science-spectrum/the-simple-beauty-of-the-pigeonhole-principle-e96bbef8df34" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Science Spectrum`**
+
+<blockquote>How A Basic Idea Leads to Big Results</blockquote>
+
+<h3>3. Google just confirmed the AI reality many programmers are desperately trying to deny - <a href="https://medium.com/coding-beauty/ai-writes-google-codebase-00e6ad35ac7c" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Coding Beauty`**
+
+<blockquote>AI is slowly taking over coding but many programmers are still sticking their head in the sand about what’s coming…</blockquote>
+
+<h3>4. I sought out to create a “Deep Research” alternative for financial analysis. I can’t stop using it! - <a href="https://medium.com/@austin-starks/i-sought-out-to-create-a-deep-research-alternative-for-financial-analysis-i-cant-stop-using-it-eb3947534ece" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Austin Starks`**
+
+<blockquote>When I first tried OpenAI’s new “Deep Research” agent, I was very impressed. Unlike my traditional experience with large language models…</blockquote>
+
+<h3>5. Only Developers — Not CEOs — Can Turn AI from an Overvalued Toy into a Real Industry - <a href="https://medium.com/ai-advances/only-developers-not-ceos-can-turn-ai-from-an-overvalued-toy-into-a-real-industry-c16b3c5e93cc" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `AI Advances`**
 
 <blockquote>No amount of executive hype can replace the human craftsmanship needed to turn AI into working solutions.</blockquote>
-
-<h3>3. Hypermodern Python Toolbox 2025 - <a href="https://medium.com/gitconnected/hypermodern-python-toolbox-2025-c336a534adb0" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Level Up Coding`**
-
-<blockquote>Python tools setting the standard in 2025.</blockquote>
-
-<h3>4. 11 Trending Open Source Projects - <a href="https://medium.com/sourcescribes/11-trending-open-source-projects-73e1d7eaa39a" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `OpenSourceScribes`**
-
-<blockquote>Essential Open Source Tools</blockquote>
-
-<h3>5. Leading Team Meetings As An Introvert Is Not Only Possible, It’s Beneficial - <a href="https://medium.com/engineering-managers-journal/leading-team-meetings-as-an-introvert-is-not-only-possible-its-beneficial-3b2adb485b62" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Engineering Manager’s Journal`**
-
-<blockquote>You have what it takes!</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. I “vibe-coded” over 160,000 lines of code. It IS real. - <a href="https://medium.com/@austin-starks/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I “vibe-coded” over 160,000 lines of code. It IS real. - <a href="https://medium.com/codex/i-vibe-coded-an-entire-algorithmic-trading-platform-it-is-real-c8ee0addef57" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Austin Starks`**
+✍️ **posted by `CodeX`**
 
 <blockquote>When I was getting my MS from CMU and coding up the algorithmic trading platform NextTrade, I wrote every single goddamn line of code…</blockquote>
 
-<h3>2. Only Developers — Not CEOs — Can Turn AI from an Overvalued Toy into a Real Industry - <a href="https://medium.com/ai-advances/only-developers-not-ceos-can-turn-ai-from-an-overvalued-toy-into-a-real-industry-c16b3c5e93cc" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The Simple Beauty of the Pigeonhole Principle - <a href="https://medium.com/science-spectrum/the-simple-beauty-of-the-pigeonhole-principle-e96bbef8df34" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Science Spectrum`**
+
+<blockquote>How A Basic Idea Leads to Big Results</blockquote>
+
+<h3>3. Google just confirmed the AI reality many programmers are desperately trying to deny - <a href="https://medium.com/coding-beauty/ai-writes-google-codebase-00e6ad35ac7c" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Coding Beauty`**
+
+<blockquote>AI is slowly taking over coding but many programmers are still sticking their head in the sand about what’s coming…</blockquote>
+
+<h3>4. Why I know 18F had to die - <a href="https://medium.com/@noahkunin/why-i-know-18f-had-to-die-332a0d52d255" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Noah Kunin`**
+
+<blockquote>Over the weekend, 18F was deleted at GSA. The website, gone. All the people, fired, without cause.</blockquote>
+
+<h3>5. Is Apple Plotting a Master stroke? Unveiling the Plan Behind Apple Intelligence. - <a href="https://medium.com/ai-advances/is-apple-plotting-a-master-stroke-unveiling-the-plan-behind-apple-intelligence-ef73200e8dc5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `AI Advances`**
 
-<blockquote>No amount of executive hype can replace the human craftsmanship needed to turn AI into working solutions.</blockquote>
-
-<h3>3. Hypermodern Python Toolbox 2025 - <a href="https://medium.com/gitconnected/hypermodern-python-toolbox-2025-c336a534adb0" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Level Up Coding`**
-
-<blockquote>Python tools setting the standard in 2025.</blockquote>
-
-<h3>4. SpaceX Has Finally Figured Out Why Starship Exploded, And The Reason Is Utterly Embarrassing - <a href="https://medium.com/predict/spacex-has-finally-figured-out-why-starship-exploded-and-the-reason-is-utterly-embarrassing-ccb30295c8e5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Predict`**
-
-<blockquote>This should never have happened.</blockquote>
-
-<h3>5. Bruteforcing the city (2/3) - <a href="https://medium.com/butwhatwasthequestion/bruteforcing-the-city-2-3-2e24bc41be59" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `But what was the question?`**
-
-<blockquote>Second of three posts reflecting on Shanghai’s convivial streets and small vehicles in which we explore the alternative, the bruteforced…</blockquote>
+<blockquote>Understanding the Strategy Behind Apple’s Latest AI Innovations and Analyzing the Machiavellian Tactics Behind Apple Intelligence.</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. Isn’t it lonely? I’d do anything to make you want me. - <a href="https://medium.com/@thekidultwriter/isnt-it-lonely-i-d-do-anything-to-make-you-want-me-378f56ae615d" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Impending Divorce Turns Weird After Judge Orders Malicious Tickling Must Stop Immediately - <a href="https://medium.com/@historianandrew/impending-divorce-turns-weird-after-judge-orders-malicious-tickling-must-stop-immediately-92506097f47f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `thekidultwriter`**
+✍️ **posted by `Andrew Martin`**
 
-<blockquote>Who am I when you’re not around?</blockquote>
+<blockquote>The end of a failing marriage turned very strange because one spouse couldn’t keep their hands off the other</blockquote>
 
 <h3>2. We Really Need to Talk About Women - <a href="https://medium.com/@felsull/we-really-need-to-talk-about-women-78e195640374" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -339,11 +338,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <blockquote>A Social Psychologist’s Secret to Effortless Connection</blockquote>
 
-<h3>4. don’t shrink yourself just to fit into places that don’t value you - <a href="https://medium.com/@fyoaeuriz/dont-shrink-yourself-just-to-fit-into-places-that-don-t-value-you-79bce2c51dbe" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Isn’t it lonely? I’d do anything to make you want me. - <a href="https://medium.com/@thekidultwriter/isnt-it-lonely-i-d-do-anything-to-make-you-want-me-378f56ae615d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `iris ୨୧`**
+✍️ **posted by `thekidultwriter`**
 
-<blockquote>you weren’t made for almosts and halfways</blockquote>
+<blockquote>Who am I when you’re not around?</blockquote>
 
 <h3>5. Bridging the Generational Gap - <a href="https://medium.com/crows-feet/bridging-the-generational-gap-44e76302371f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -385,11 +384,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Why the Xiaomi 15 Immediately Blew Me Away - <a href="https://medium.com/@markellisreviews/why-the-xiaomi-15-immediately-blew-me-away-63c5e023cc93" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Stop override Activity/Fragment Lifecycle Methods in Android - <a href="https://medium.com/@santimattius/stop-override-activity-fragment-lifecycle-methods-in-android-b0e0bb2b5748" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mark Ellis`**
+✍️ **posted by `Santiago Mattiauda`**
 
-<blockquote>Well, isn’t this refreshing?</blockquote>
+<blockquote>Overriding lifecycle methods in Activity and Fragment has been a common practice in Android development. However, this can lead to tightly…</blockquote>
 
 <h3>2. Server-Driven UI with Compose Remote Layout - <a href="https://medium.com/@utsmannn/server-driven-ui-with-compose-remote-layout-bdc902d973f8" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -403,11 +402,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <blockquote>Last year, K.M.P. (Kotlin Mobile Multiplatform) was announced as a first-class support for Android developers. Did Apple anticipate this…</blockquote>
 
-<h3>4. Understanding Every Parameter in Column in Jetpack Compose - <a href="https://medium.com/kotlin-android-chronicle/understanding-every-parameter-in-column-in-jetpack-compose-b2b36d32e3e0" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Composing with Accessibility in Mind: Because Every User Matters! — Part 1 - <a href="https://medium.com/@bhoomigadhiya/composing-with-accessibility-in-mind-because-every-user-matters-part-1-6a4647449191" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kotlin Android Chronicle`**
+✍️ **posted by `Bhoomi Vaghasiya Gadhiya`**
 
-<blockquote>Jetpack Compose provides a Column composable that arranges its children vertically. It is a fundamental layout component in Compose, and…</blockquote>
+<blockquote>Building Inclusive Jetpack Compose Apps for Everyone</blockquote>
 
 <h3>5. Making basicMarquee-Modifier More Accessible - <a href="https://medium.com/proandroiddev/making-basicmarquee-modifier-more-accessible-8b3737307dee" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -449,11 +448,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. How to write bash or shell script in SSM run command and execute in linux ec2 instance? - <a href="https://medium.com/@haroldfinch01/how-to-write-bash-or-shell-script-in-ssm-run-command-and-execute-in-linux-ec2-instance-35e1d6e83fae" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Multi-Architecture Container Pipeline using GitLab & Docker Build Kit - <a href="https://medium.com/@andyblooman/multi-architecture-container-build-pipeline-using-docker-build-kit-7e2dbf22dd7d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Harold Finch`**
+✍️ **posted by `Andrew Blooman`**
 
-<blockquote>To run a Bash/Shell script on an Amazon EC2 Linux instance using AWS Systems Manager (SSM) Run Command, follow these steps.</blockquote>
+<blockquote>Building containers for Amazon Graviton CPU, Apple Silicon (ARM) or x86 based Linux and Windows Platforms</blockquote>
 
 <h3>2. Anthropic MCP: Extinguish Encoding Fires & Sleep Soundly - <a href="https://medium.com/generative-ai/anthropic-mcp-extinguish-encoding-fires-sleep-soundly-dedab6dc182b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -467,11 +466,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <blockquote>Introduction</blockquote>
 
-<h3>4. Top 5 Udemy Courses to Learn DevSecOps in 2025 - <a href="https://medium.com/javarevisited/top-5-udemy-courses-to-learn-devsecops-in-2025-7507e90bdf7b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. How to Customize Alert Messages from Alertmanager to Slack and Telegram - <a href="https://medium.com/@hmquan08011996/how-to-customize-alert-messages-from-alertmanager-to-slack-and-telegram-786525713689" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Javarevisited`**
+✍️ **posted by `Quân Huỳnh`**
 
-<blockquote>These are the best DevSecOps Courses on Udemy for experienced developers to join in 2025</blockquote>
+<blockquote>In this guide, you’ll learn how to route Prometheus Alertmanager alerts to Slack and Telegram using the Versus Incident, while fully…</blockquote>
 
 <h3>5. Cloud Cost Optimization: How We Cut Costs by 33% Without Slowing Growth - <a href="https://medium.com/@chaliyarc/cloud-cost-optimization-how-we-cut-costs-by-33-without-slowing-growth-bcb613c2bb68" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -481,11 +480,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. 11 Trending Open Source Projects - <a href="https://medium.com/sourcescribes/11-trending-open-source-projects-73e1d7eaa39a" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Abandoned Kubernetes Configuration Ideas - <a href="https://medium.com/itnext/abandoned-kubernetes-configuration-ideas-195706d61d0c" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `OpenSourceScribes`**
+✍️ **posted by `ITNEXT`**
 
-<blockquote>Essential Open Source Tools</blockquote>
+<blockquote>From the beginning of the Kubernetes project, I had ideas and opinions about how declarative configuration should be supported. That led to…</blockquote>
 
 <h3>2. How to Efficiently Use GPUs for Distributed Machine Learning in MLOps - <a href="https://medium.com/weles-ai/how-to-efficiently-use-gpus-for-distributed-machine-learning-in-mlops-94add9801a2b" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -499,11 +498,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <blockquote>Kubernetes is powerful, but let’s be real — it can get messy. Managing all those resources efficiently is no small task, and that’s why…</blockquote>
 
-<h3>4. Restoring and Backing Up Kubernetes Volumes Content - <a href="https://medium.com/@suryabhusal11/restoring-and-backing-up-kubernetes-volumes-content-361916a62b3b" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 11 Trending Open Source Projects - <a href="https://medium.com/sourcescribes/11-trending-open-source-projects-73e1d7eaa39a" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `surya bhusal`**
+✍️ **posted by `OpenSourceScribes`**
 
-<blockquote>Kubernetes cluster often involves backing up and restoring the contents of volume into one another. Suppose, you have postgres database…</blockquote>
+<blockquote>Essential Open Source Tools</blockquote>
 
 <h3>5. Break GPU Vendor Lock-In: Distributed MLOps across mixed AMD and NVIDIA Clusters - <a href="https://medium.com/weles-ai/break-gpu-vendor-lock-in-distributed-mlops-across-mixed-amd-and-nvidia-clusters-9cf5e1af767f" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -513,11 +512,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Hosting Your Web App with AWS, GitHub Actions, Docker & Automated Workflows: A Complete Guide - <a href="https://medium.com/@psatpathy/hosting-your-web-app-with-aws-github-actions-docker-automated-workflows-a-complete-guide-c404b5e1acb2" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Multi-Architecture Container Pipeline using GitLab & Docker Build Kit - <a href="https://medium.com/@andyblooman/multi-architecture-container-build-pipeline-using-docker-build-kit-7e2dbf22dd7d" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Punnam Satpathy`**
+✍️ **posted by `Andrew Blooman`**
 
-<blockquote>Ever had a spicy opinion that you just had to share? Something like, “Dark mode should be mandatory!” or “Pineapple belongs on pizza!”?</blockquote>
+<blockquote>Building containers for Amazon Graviton CPU, Apple Silicon (ARM) or x86 based Linux and Windows Platforms</blockquote>
 
 <h3>2. Step Through Every Instruction - <a href="https://medium.com/gitconnected/step-through-every-instruction-89e83cdd49b6" target="_blank" rel="noopener noreferrer">link</a></h3>
 
@@ -531,11 +530,11 @@ Web forms based on HTML, due to their capability for users to enter and submit�
 
 <blockquote>Using docker init to write Dockerfile and docker-compose configs</blockquote>
 
-<h3>4. HumanGov: Proof of Concept (POC) on AWS Elastic Container Service (ECS) fronted By Application Load… - <a href="https://medium.com/@bobpstr7/humangov-proof-of-concept-poc-on-aws-elastic-container-service-ecs-fronted-by-application-load-7d247a562bc4" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. 5 Ways I Use my M1 Mac Mini as a Home Server! - <a href="https://medium.com/macoclock/5-ways-i-use-my-m1-mac-mini-as-a-home-server-10e96f042180" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Bob Poster`**
+✍️ **posted by `Mac O’Clock`**
 
-<blockquote>In this hands-on project, I modernized, containerized, and deployed the HumanGov application onto AWS Cloud. The project involved…</blockquote>
+<blockquote>You can easily set up a personal NAS, Pi-hole, Plex Server, and more.</blockquote>
 
 <h3>5. Learnings from a Machine Learning Engineer — Part 5: The Training - <a href="https://medium.com/data-science-collective/learnings-from-a-machine-learning-engineer-part-5-the-training-87f5e8b18949" target="_blank" rel="noopener noreferrer">link</a></h3>
 
