@@ -1,4 +1,4 @@
-# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/12/22)-725236)
+# Daily Tech Trends ![Static Badge](https://img.shields.io/badge/version-latest_updated_(2025/12/23)-725236)
 Hi there , It's `Ah-Young Jang` 👋
 
 📘 How well-informed are you about latest trends in the <b>Web and Tech Field</b>?
@@ -68,106 +68,99 @@ Get more useful information conveniently right here. 🤓
 
 
 <h1><a href=https://medium.com/tag/reactjs/recommended target="_blank" rel="noopener noreferrer">ReactJS</a></h1>
-<h3>1. How to update Strings, Numbers, Objects & Arrays in useState - <a href="https://medium.com/@nishath01/how-to-update-strings-numbers-objects-arrays-in-usestate-d72bead69c3b?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why I Decided to Stop Working with React.js in 2026 - <a href="https://medium.com/@holasoymalva/why-i-decided-to-stop-working-with-react-js-in-2026-09e60bb8d7da?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohamed Nishath M`**
+✍️ **posted by `HolaSoyMalva`**
 
-<blockquote>When you start learning React, useState feels simple.
+<blockquote>After years of building with React, I realized it was no longer the tool I wanted to grow with.
 Continue reading on Medium »</blockquote>
 
-<h3>2. What is JavaScript React? 2026’s Practical Guide for Beginners - <a href="https://javascript.plainenglish.io/what-is-javascript-react-2026s-practical-guide-for-beginners-6ed6875e5a31?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. React 19 Server Components Security Crisis: A Complete Analysis & Response Guide - <a href="https://medium.com/@DevBoostLab/react-19-server-components-security-crisis-a-complete-analysis-response-guide-4f6921749a2d?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `TrendScribe`**
+✍️ **posted by `DevBoost Lab`**
 
-<blockquote>React is often described as “just a JavaScript library.”
+<blockquote>The vulnerability cascade that shocked the React community
+Continue reading on Medium »</blockquote>
+
+<h3>3. Coming Back to React.js After a Few Years: A React.js Technical Interview - <a href="https://medium.com/@noryx/coming-back-to-react-js-after-a-few-years-a-react-js-technical-interview-6400e39e0f8a?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `noryx`**
+
+<blockquote>If you are coming back to React.js after a few years, things might look a bit busier than before.
+Continue reading on Medium »</blockquote>
+
+<h3>4. How I Build a useFetch Layer in React That Stays Secure and Clean - <a href="https://medium.com/@seetaramyadav/building-a-robust-usefetch-hook-in-react-security-flexibility-and-clean-architecture-d0cf87e85ff8?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Seeta Ram Yadav`**
+
+<blockquote>Most React apps grow from a couple of fetch calls sprinkled in components to a web of GET/POST/PUT/DELETE requests, auth tokens, error…
+Continue reading on Medium »</blockquote>
+
+<h3>5.  Recoil vs Zustand — Simple State Management for React - <a href="https://javascript.plainenglish.io/recoil-vs-zustand-simple-state-management-for-react-a2d6141c20d8?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Akiko Kawai`**
+
+<blockquote>“Good state management makes React feel easy.
+ Bad state management makes everything painful.” 😵‍💫
 Continue reading on JavaScript in Plain English »</blockquote>
 
-<h3>3. ⚛️ React Hooks Explained Simply (Beginner-Friendly) - <a href="https://medium.com/@Jeevan_Achar/%EF%B8%8F-react-hooks-explained-simply-beginner-friendly-4b6108c8a4ea?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. Server-Side Rendering (SSR) vs Static Site Generation (SSG) in React — Explained Simply  - <a href="https://javascript.plainenglish.io/server-side-rendering-ssr-vs-static-site-generation-ssg-in-react-explained-simply-dab5505fe43a?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jeevan v`**
+✍️ **posted by `Akiko Kawai`**
 
-<blockquote>🪝 What Are React Hooks?
-Continue reading on Medium »</blockquote>
-
-<h3>4. What Happens When You Don’t Use the Setter Function to Update State in React ? - <a href="https://medium.com/@soodakriti45/what-happens-when-you-dont-use-the-setter-function-to-update-state-in-react-4dc1ec6b8bd8?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Akriti Sood`**
-
-<blockquote>Why Direct Mutation Breaks React (And How to Fix It)
-Continue reading on Medium »</blockquote>
-
-<h3>5. React Server Components Vulnerability ( CVE-2025–55182 ) - <a href="https://medium.com/@gorairanvir/react-server-components-vulnerability-cve-2025-55182-90f0c8c624c2?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `RANVIR GORAI`**
-
-<blockquote>Recently, a critical security vulnerability was discovered in React Server Components, identified as CVE 2025 55182.
-Continue reading on Medium »</blockquote>
-
-<h3>6. React in 2025: What Changed, What Matters, and What’s Next - <a href="https://tusharkantatk.medium.com/react-in-2025-what-changed-what-matters-and-whats-next-a947dca7b1f8?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Tech Fest`**
-
-<blockquote>React has never stood still, but 2025 marks one of the most important inflection points in its history. What began as a simple UI library…
-Continue reading on Medium »</blockquote>
-
-<h3>7. The One React Hook I Didn’t Understand — Until It Clicked - <a href="https://javascript.plainenglish.io/the-one-react-hook-i-didnt-understand-until-it-clicked-79f16c6d6db8?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Amar pratap singh`**
-
-<blockquote>For a long time, there was one React hook that made me pause every single time I used it.
+<blockquote>“How your page is built decides how fast users see it.” ⚡
 Continue reading on JavaScript in Plain English »</blockquote>
+
+<h3>7. Understanding Micro Frontend Architecture Using React.js - <a href="https://blog.stackademic.com/understanding-micro-frontend-architecture-using-react-js-fc57aa0cfbd4?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Elsie Rainee`**
+
+<blockquote>Learn how micro frontend architecture works using React.js to build scalable, modular, and independently deployable web applications.
+Continue reading on Stackademic »</blockquote>
+
+<h3>8.  CVE-2025–5182: The Perfect 10.0 React Vulnerability That Broke Server Components - <a href="https://medium.com/@bharathofficial05/cve-2025-5182-the-perfect-10-0-react-vulnerability-that-broke-server-components-6918ea5512b7?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Bharath Ilangovan`**
+
+<blockquote>A Developer’s Deep Dive into Unauthenticated Remote Code Execution
+Continue reading on Medium »</blockquote>
+
+<h3>9. Monorepo Architecture: Benefits, Features, and Why It’s the Future of Scalable Development - <a href="https://medium.com/@sanmugamsanjai98/monorepo-architecture-benefits-features-and-why-its-the-future-of-scalable-development-0401215bca3d?source=rss------reactjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Sanmugam`**
+
+<blockquote>Learn why Monorepo architecture simplifies large-scale projects, boosts collaboration, and streamlines dependencies
+Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nextjs/recommended target="_blank" rel="noopener noreferrer">NextJS</a></h1>
-<h3>1. Day 13 — API Routes vs Route Handlers vs Server Actions - <a href="https://medium.com/@devFemzy/day-13-api-routes-vs-route-handlers-vs-server-actions-14ad2d61af2c?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Day 14 — Integrating Databases & ORMs the Right Way - <a href="https://medium.com/@devFemzy/day-14-integrating-databases-orms-the-right-way-bad6c8481406?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `devFemzy`**
 
 <blockquote>30 Days Excerpt from 6+ Years Experience
 Continue reading on Medium »</blockquote>
 
-<h3>2. Fixing a Payload CMS Admin Crash After Integrating S3 Storage - <a href="https://diko-dev99.medium.com/fixing-a-payload-cms-admin-crash-after-integrating-s3-storage-b7f7b18b6d2e?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why Next.js and React 19 Changed Everything for Frontend Developers - <a href="https://medium.com/@iamqitmeeer/why-next-js-and-react-19-changed-everything-for-frontend-developers-3c9c5f946755?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Diko_Mahendra`**
+✍️ **posted by `Muhammad Qitmeer`**
 
-<blockquote>“Export getAutosaveInterval doesn’t exist in target module”
+<blockquote>React 19 has arrived, and it changed how we build websites with Next.js. It is not just a small update with a few bug fixes. It is a total…
 Continue reading on Medium »</blockquote>
 
-<h3>3. If You Skip This Next.js API Series, You’ll Always Struggle With Frontend–Backend Logic - <a href="https://javascript.plainenglish.io/if-you-skip-this-next-js-api-series-youll-always-struggle-with-frontend-backend-logic-7cdf7ee94d0d?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. React 19 Server Components Security Crisis: A Complete Analysis & Response Guide - <a href="https://medium.com/@DevBoostLab/react-19-server-components-security-crisis-a-complete-analysis-response-guide-4f6921749a2d?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `DevBoost Lab`**
+
+<blockquote>The vulnerability cascade that shocked the React community
+Continue reading on Medium »</blockquote>
+
+<h3>4.  Next.js API Series (Part-1): What an API Really Is & How Next.js Handles Backend Logic - <a href="https://javascript.plainenglish.io/next-js-api-series-part-1-what-an-api-really-is-how-next-js-handles-backend-logic-1cfe87aeb0a8?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `NextCodeTech`**
 
-<blockquote>Most frontend developers know how to build beautiful UIs.
-Many can work comfortably with React or Next.js components.
+<blockquote>Before writing backend code or creating API routes, one thing is extremely important: clarity.
 Continue reading on JavaScript in Plain English »</blockquote>
-
-<h3>4. Next.js Server Actions Error Handling: A Production-Ready Guide - <a href="https://medium.com/@pawantripathi648/next-js-server-actions-error-handling-the-pattern-i-wish-i-knew-earlier-e717f28f2f75?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Pawan tripathi`**
-
-<blockquote>Why Error Handling in Server Actions is Different (And Why It Matters)
-Continue reading on Medium »</blockquote>
-
-<h3>5. ⚡️“Why I Choose Next.js for Every Serious Project — And You Should Too”  - <a href="https://medium.com/@Amanda0/%EF%B8%8F-why-i-choose-next-js-for-every-serious-project-and-you-should-too-078b2e60da7f?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Amanda ✨`**
-
-<blockquote>“Not every tool is made for the big leagues. Next.js is.” — a frontend dev who’s been there.
-Continue reading on Medium »</blockquote>
-
-<h3>6.  “Stop Building Boring Websites: Build Dynamic Dashboards with Next.js”  - <a href="https://medium.com/@beenakumawat002/stop-building-boring-websites-build-dynamic-dashboards-with-next-js-f2805eba417f?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Elizabeth ✨`**
-
-<blockquote>Let’s face it — building static pages is fine, but if you really want to impress clients or recruiters, build something interactive and…
-Continue reading on Medium »</blockquote>
-
-<h3>7. 1. Build a Next.js Blog from Scratch — Getting Set Up - <a href="https://chuckcatron.medium.com/1-build-a-next-js-blog-from-scratch-getting-set-up-7b61afa2d069?source=rss------nextjs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Chuck Catron`**
-
-<blockquote>Module 1 — Getting Set Up
-Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ui-ux-design-trends/recommended target="_blank" rel="noopener noreferrer">UI-UX Design</a></h1>
@@ -223,7 +216,14 @@ Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/javascript-development/recommended target="_blank" rel="noopener noreferrer">JavaScript</a></h1>
-<h3>1. Why Most JavaScript Codebases Collapse After Year Two - <a href="https://javascript.plainenglish.io/why-most-javascript-codebases-collapse-after-year-two-9892ede79ac1?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1.  Introduction: Why Promises Changed JavaScript Forever - <a href="https://medium.com/@sachinghadi/introduction-why-promises-changed-javascript-forever-69fe12b40690?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Sachin Ghadi`**
+
+<blockquote>Promises revolutionized JavaScript development when they were introduced in ES6 (2015). Before Promises, developers struggled with…
+Continue reading on Medium »</blockquote>
+
+<h3>2. Why Most JavaScript Codebases Collapse After Year Two - <a href="https://javascript.plainenglish.io/why-most-javascript-codebases-collapse-after-year-two-9892ede79ac1?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Dr Abdullah Azhar`**
 
@@ -234,7 +234,7 @@ They’re not even rewritten.
 They…
 Continue reading on JavaScript in Plain English »</blockquote>
 
-<h3>2. The Subtle Difference Between Writing JavaScript and Engineering With It - <a href="https://javascript.plainenglish.io/the-subtle-difference-between-writing-javascript-and-engineering-with-it-cf9db9f3f0bb?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. The Subtle Difference Between Writing JavaScript and Engineering With It - <a href="https://javascript.plainenglish.io/the-subtle-difference-between-writing-javascript-and-engineering-with-it-cf9db9f3f0bb?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Dr Abdullah Azhar`**
 
@@ -243,14 +243,14 @@ They are JavaScript writers.
 Features are…
 Continue reading on JavaScript in Plain English »</blockquote>
 
-<h3>3.  10 Common JavaScript Mistakes (And How to Avoid Them!)  - <a href="https://react-developer.medium.com/10-common-javascript-mistakes-and-how-to-avoid-them-e70e9cf93999?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4.  10 Common JavaScript Mistakes (And How to Avoid Them!)  - <a href="https://react-developer.medium.com/10-common-javascript-mistakes-and-how-to-avoid-them-e70e9cf93999?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `ReactMind`**
 
 <blockquote>🎻 JavaScript is incredibly powerful and flexible. However, this same flexibility often leads to common pitfalls. Understanding and…
 Continue reading on Medium »</blockquote>
 
-<h3>4. JavaScript:Location.Reload(True) — A Complete Guide - <a href="https://medium.com/@bakerh871/javascript-location-reload-true-a-complete-guide-52bb99e17934?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. JavaScript:Location.Reload(True) — A Complete Guide - <a href="https://medium.com/@bakerh871/javascript-location-reload-true-a-complete-guide-52bb99e17934?source=rss------javascript_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Hannah Baker`**
 
@@ -259,21 +259,28 @@ Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/typescript-tips/recommended target="_blank" rel="noopener noreferrer">TypeScript</a></h1>
-<h3>1. TypeScript 7’s Native Compiler: What It Really Means for Frontend Engineering - <a href="https://javascript.plainenglish.io/typescript-7s-native-compiler-what-it-really-means-for-frontend-engineering-089eee19fa48?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Eliminate Magic Strings with TypeScript Template Literals - <a href="https://javascript.plainenglish.io/eliminate-magic-strings-with-typescript-template-literals-a886e617b825?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Sunny Sun`**
+
+<blockquote>Turn fragile string typos into compile-time errors forever
+Continue reading on JavaScript in Plain English »</blockquote>
+
+<h3>2. TypeScript 7’s Native Compiler: What It Really Means for Frontend Engineering - <a href="https://javascript.plainenglish.io/typescript-7s-native-compiler-what-it-really-means-for-frontend-engineering-089eee19fa48?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ghazi Khan`**
 
 <blockquote>Originally published at https://www.iocombats.com.
 Continue reading on JavaScript in Plain English »</blockquote>
 
-<h3>2. Partial, Pick, Records and more… These ReactJS types accelerate your Code Quality - <a href="https://dozerex-codes.medium.com/partial-pick-records-and-more-these-reactjs-types-accelerate-your-code-quality-a3b177bf5b49?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Partial, Pick, Records and more… These ReactJS types accelerate your Code Quality - <a href="https://dozerex-codes.medium.com/partial-pick-records-and-more-these-reactjs-types-accelerate-your-code-quality-a3b177bf5b49?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Dozerex`**
 
 <blockquote>Make it more TypeScript & not TypeSh*t after this one
 Continue reading on Medium »</blockquote>
 
-<h3>3. Stop Fighting TypeScript: 35 Lessons That Actually Work - <a href="https://javascript.plainenglish.io/stop-fighting-typescript-35-lessons-that-actually-work-2fd0a3232171?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Stop Fighting TypeScript: 35 Lessons That Actually Work - <a href="https://javascript.plainenglish.io/stop-fighting-typescript-35-lessons-that-actually-work-2fd0a3232171?source=rss------typescript_tips-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Ahmad Bilal`**
 
@@ -282,91 +289,99 @@ Continue reading on JavaScript in Plain English »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/nodejs/recommended target="_blank" rel="noopener noreferrer">NodeJS</a></h1>
-<h3>1. Building Production-Grade Idempotency with Node.js, Fastify, and Redis - <a href="https://medium.com/@vijaysinh.khot/building-production-grade-idempotency-with-node-js-fastify-and-redis-4876de266222?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. I Rewrote Our Node.js API in Java. Performance Increased 10x - <a href="https://devrimozcay.medium.com/i-rewrote-our-node-js-api-in-java-performance-increased-10x-b5cd3276502a?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Vijay Khot`**
+✍️ **posted by `Devrim Ozcay `**
 
-<blockquote>A definitive guide to handling duplicate requests, race conditions, and distributed locks in your API.
+<blockquote>The rewrite nobody wanted became the migration everyone needed.
 Continue reading on Medium »</blockquote>
 
-<h3>2. Node_modules was a mistake, why Deno needed to exist - <a href="https://medium.com/@tendanifallain/node-modules-was-a-mistake-why-deno-needed-to-exist-7f6a153c3315?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why and how I vibed my own Typescript LINQ-inspired ORM for Node.js - <a href="https://medium.com/@bruno.laurinec/why-and-how-i-vibed-my-own-typescript-linq-inspired-orm-for-node-js-c9bcf1dc8013?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Muthuphei Mukhunyeledzi`**
+✍️ **posted by `Bruno Laurinec`**
 
-<blockquote>Credit where it’s due: before I moved to Node, I had dealt with multiple package managers, but I never really paid attention to them. They…
+<blockquote>A journey from Entity Framework nostalgia to building a type-safe, LINQ-inspired ORM for PostgreSQL
 Continue reading on Medium »</blockquote>
 
-<h3>3. Implementing Distributed Rate Limiting with KafkaJS, Redis, and Node.js - <a href="https://shreyashupare.medium.com/implementing-distributed-rate-limiting-with-kafkajs-redis-and-node-js-c2054c2f9568?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Strategic Architecture Report: Modernizing Legacy Laravel Ecosystems - <a href="https://medium.com/@devancormick/strategic-architecture-report-modernizing-legacy-laravel-ecosystems-c82c33dc4886?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shreyas Hupare`**
+✍️ **posted by `Devan Cormick`**
 
-<blockquote>A Practical Implementation Using KafkaJS, Redis, and Node.js
+<blockquote>Prepared By: Full Stack & AI Systems Specialist Target Audience: Technical Stakeholders & Project Owners
 Continue reading on Medium »</blockquote>
 
-<h3>4. Node.js Adaptive Rate Control: Token Buckets Tuned by p95 Latency - <a href="https://medium.com/@2nick2patel2/node-js-adaptive-rate-control-token-buckets-tuned-by-p95-latency-1016a82a28f4?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building File-System Tools for AI Agents Using Node.js + MCP - <a href="https://noncodersuccess.medium.com/building-file-system-tools-for-ai-agents-using-node-js-mcp-263cf49f2efa?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Codastra`**
+✍️ **posted by `NonCoderSuccess`**
 
-<blockquote>Stop guessing “safe QPS.” Use a token bucket that listens to p95 latency and adjusts itself — so your Node.js services stay fast under…
+<blockquote>If you are building AI agents seriously, at some point you will hit a hard limit:
 Continue reading on Medium »</blockquote>
 
-<h3>5. Stop Using console.log!  Why It’s “Illegal” for Node.js Production - <a href="https://javascript.plainenglish.io/stop-using-console-log-why-its-illegal-for-node-js-production-53c385390357?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How to Programmatically Fill a PDF Form with Raw JavaScript (The Easy Way) - <a href="https://medium.com/joyfill/how-to-programmatically-fill-a-pdf-form-with-raw-javascript-the-easy-way-21e03ed800a9?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ranggaaprillio`**
+✍️ **posted by `John Pagley`**
 
-<blockquote>Have you ever wondered why your Node.js app suddenly chokes under heavy traffic, even though your logic seems solid? The culprit might not…
-Continue reading on JavaScript in Plain English »</blockquote>
+<blockquote>Programmatically filling PDF forms can be straightforward or tricky, depending on the setup. The challenge usually depends on whether you…
+Continue reading on Joyfill »</blockquote>
 
-<h3>6. Why Most Node.js APIs Are Insecure (And Devs Don’t Realize It) - <a href="https://javascript.plainenglish.io/why-most-node-js-apis-are-insecure-and-devs-dont-realize-it-24f182878ecb?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. Your ETL Is Slow? 7 Worker-Threads Patterns That Fly - <a href="https://medium.com/@npavfan2facts/your-etl-is-slow-7-worker-threads-patterns-that-fly-2e5f1dd2b77d?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Atul Programmer`**
+✍️ **posted by `Quellin`**
 
-<blockquote>Insecure APIs aren’t written by careless developers — they’re written by confident ones following normal coding habits
-Continue reading on JavaScript in Plain English »</blockquote>
+<blockquote>Practical Node.js worker_threads designs to squeeze CPU-heavy ETL into predictable, scalable pipelines — without turning your codebase…
+Continue reading on Medium »</blockquote>
+
+<h3>7. MongoDB vs PostgreSQL for Node.js: When to Choose Each - <a href="https://medium.com/@deval93/mongodb-vs-postgresql-for-node-js-when-to-choose-each-68acdbe0dbc0?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Deval Kasundra`**
+
+<blockquote>The database decision that shapes your architecture — explained for beginners and intermediate developers
+Continue reading on Medium »</blockquote>
+
+<h3>8. Top 5 Node gRPC Fan-Out Patterns Without Fan-Fires - <a href="https://medium.com/@Praxen/top-5-node-grpc-fan-out-patterns-without-fan-fires-38290af673ee?source=rss------nodejs-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Praxen`**
+
+<blockquote>Safer ways to call many gRPC services from Node — without timeouts, thundering herds, or “why is prod on fire” incident rooms.
+Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/web-development/recommended target="_blank" rel="noopener noreferrer">Web Development</a></h1>
-<h3>1. SaaS Starter Kit vs SaaS Boilerplate: Which One Should You Choose? - <a href="https://medium.com/@semihtrn4/saas-starter-kit-vs-saas-boilerplate-which-one-should-you-choose-e1938186a954?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Building Full-Stack Apps in 2026: Architecture, Scale, and the Parts AI Won’t Do for You - <a href="https://medium.com/@shivangraikar/building-full-stack-apps-in-2026-architecture-scale-and-the-parts-ai-wont-do-for-you-cf60a3e28a65?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Semihtrn`**
+✍️ **posted by `Shivang Raikar`**
 
-<blockquote>If you’ve ever tried to build a SaaS product, you already know the hardest part isn’t coming up with an idea.
+<blockquote>Everyone can build an app today.
+Very few can design one that scales, survives, and stays understandable.
 Continue reading on Medium »</blockquote>
 
-<h3>2. HTML and SEO: The Bad Habits Most Web Developers Pick Up Too Early - <a href="https://medium.com/@kingdesign2014/html-and-seo-the-bad-habits-most-web-developers-pick-up-too-early-074d52fcfcb2?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. "The 2026 Web Dev Internship Roadmap: How to Escape Tutorial Hell and Get Hired" - <a href="https://medium.com/@jyotiyadav110708/the-2026-web-dev-internship-roadmap-how-to-escape-tutorial-hell-and-get-hired-ca0534cbc97d?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kingdesign`**
+✍️ **posted by `Dreamlife`**
 
-<blockquote>Modern web development moves fast.
+<blockquote>A step-by-step guide for students who are tired of watching videos and ready to start building real-world projects.
 Continue reading on Medium »</blockquote>
 
-<h3>3. JS Frameworks used to be fun. Now they’re just PHP… Probably, even worse. - <a href="https://medium.com/@malik_abd_elkader/back-to-the-future-how-the-php-migration-aura-is-creating-a-modern-js-maintenance-nightmare-af9b88f1ce4d?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Top 7 Companies to Hire Indian Programmers: Pricing, Pros, and Ideal Use Cases - <a href="https://medium.com/predict/top-7-companies-to-hire-indian-programmers-pricing-pros-and-ideal-use-cases-509a681fbd65?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Malik Abdulkader`**
+✍️ **posted by `Megha Verma`**
 
-<blockquote>We are not here to repeat the “JS is becoming PHP” cliché. That’s surface-level. We are here to point out what became a daily routine…
+<blockquote>A few years ago, I sat on a late-night call with a tired CTO from a SaaS startup in Austin.
+Continue reading on Predict »</blockquote>
+
+<h3>4. Why Next.js and React 19 Changed Everything for Frontend Developers - <a href="https://medium.com/@iamqitmeeer/why-next-js-and-react-19-changed-everything-for-frontend-developers-3c9c5f946755?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Muhammad Qitmeer`**
+
+<blockquote>React 19 has arrived, and it changed how we build websites with Next.js. It is not just a small update with a few bug fixes. It is a total…
 Continue reading on Medium »</blockquote>
 
-<h3>4. Frameworkers, Attention! When “Bare” Code is the Real Luxury - <a href="https://stacklegend.medium.com/frameworkers-attention-when-bare-code-is-the-real-luxury-76764bd93374?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. The Developer Toolkit for 2025: Stop Buying, Start Learning - <a href="https://blog.stackademic.com/the-developer-toolkit-for-2025-stop-buying-start-learning-149ed591f64d?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Stacklegend`**
+✍️ **posted by `Tech Brand`**
 
-<blockquote>By Zsolt Tövis — Chief Architect & Co-Founder at Stacklegend
-Continue reading on Medium »</blockquote>
-
-<h3>5. What services does Techwebo provide in the digital marketing sector? - <a href="https://medium.com/@mybusiness.bb6/what-services-does-techwebo-provide-in-the-digital-marketing-sector-e9b9ced4956b?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Techwebo `**
-
-<blockquote>Digital Marketing Services by Techwebo*
-Continue reading on Medium »</blockquote>
-
-<h3>6. 5 Design Token Practices That Simplify Any Frontend Project - <a href="https://medium.com/@sachindilshan/5-design-token-practices-that-simplify-any-frontend-project-ff4246acd266?source=rss------web_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Sachin Dilshan`**
-
-<blockquote>Design tokens are a core part of modern frontend development. They help teams keep colors, spacing, typography, and themes consistent…
-Continue reading on Medium »</blockquote>
+<blockquote>How I wasted $2,847 on courses I never finished — and found everything I needed for free.
+Continue reading on Stackademic »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/webview/recommended target="_blank" rel="noopener noreferrer">Web Views</a></h1>
@@ -421,416 +436,394 @@ Continue reading on Level Up Coding »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/programming/recommended target="_blank" rel="noopener noreferrer">Programming</a></h1>
-<h3>1. How to Learn Quantum Computing Without Wasting Years - <a href="https://medium.com/@jesseclement83/how-to-learn-quantum-computing-without-wasting-years-8ddddbf98e1e?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. "The 2026 Web Dev Internship Roadmap: How to Escape Tutorial Hell and Get Hired" - <a href="https://medium.com/@jyotiyadav110708/the-2026-web-dev-internship-roadmap-how-to-escape-tutorial-hell-and-get-hired-ca0534cbc97d?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jesse Clemnt`**
+✍️ **posted by `Dreamlife`**
 
-<blockquote>Quantum computing is one of those fields everyone talks about — and almost no one actually learns properly.
+<blockquote>A step-by-step guide for students who are tired of watching videos and ready to start building real-world projects.
 Continue reading on Medium »</blockquote>
 
-<h3>2. Pydantic-DeepAgents: A Lightweight, Production-Ready Framework for Building Autonomous AI Agents - <a href="https://medium.com/@kacperwlodarczyk/pydantic-deepagents-a-lightweight-production-ready-framework-for-building-autonomous-ai-agents-7a7f31226a3d?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The 7 Data Structures That Make or Break Your Flutter Interview at Top Tech Companies - <a href="https://medium.com/@alaxhenry0121/the-7-data-structures-that-make-or-break-your-flutter-interview-at-top-tech-companies-70083dd1ee72?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Kacperwlodarczyk`**
+✍️ **posted by `Jeffery Alexandro Henry`**
 
-<blockquote>Inspired by LangChain deepagents — but simpler, type-safe, and with Docker sandboxing built-in
+<blockquote>Critical data structures Flutter developers must master for top tech interviews. Real questions, code examples.
 Continue reading on Medium »</blockquote>
 
-<h3>3. Lupakan Instalasi Ribet: Panduan Setup Google Colab & Kaggle Kernels untuk Data Science - <a href="https://medium.com/@najibfaqihfathan/lupakan-instalasi-ribet-panduan-setup-google-colab-kaggle-kernels-untuk-data-science-2db68db0208f?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Najib Faqih Fathan`**
-
-<blockquote>Nggak perlu pusing setting environment yang error melulu. Pelajari cara pakai Google Colab dan Kaggle buat coding Python instan dan gratis.
-Continue reading on Medium »</blockquote>
-
-<h3>4. DTOs vs Entities: Why Separating Them Leads to Cleaner and More Secure Code - <a href="https://medium.com/@sunil17bbmp/dtos-vs-entities-why-separating-them-leads-to-cleaner-and-more-secure-code-6e3f8458e7b6?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Spring Dependency Injection in Java: Examples and Best Practices - <a href="https://medium.com/@sunil17bbmp/spring-dependency-injection-in-java-examples-and-best-practices-657cbd7e202f?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Code With Sunil | Code Smarter, not harder`**
 
-<blockquote>In Java web applications — especially when using frameworks like Spring, Hibernate, or JPA — you’ll often come across two important…
+<blockquote>Spring Dependency Injection (DI) is a design pattern used in the Spring framework to manage how objects in your application are connected…
 Continue reading on Medium »</blockquote>
+
+<h3>4.  Python for Beginners: A Complete Step-by-Step Learning Guide - <a href="https://medium.com/@julietarubis/python-for-beginners-a-complete-step-by-step-learning-guide-bdc8da312104?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Julieta D. Rubis`**
+
+<blockquote>Python is one of the most beginner-friendly and powerful programming languages today. Whether you want to build apps, analyze data…
+Continue reading on Medium »</blockquote>
+
+<h3>5. Power BI for Learners—Part 9: Advanced DAX Patterns and Performance Best Practices - <a href="https://medium.com/microsoft-power-bi/power-bi-for-learners-part-9-advanced-dax-patterns-and-performance-best-practices-4e2745589696?source=rss------programming-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `David Marvellous`**
+
+<blockquote>This is the stage where Power BI starts to feel powerful instead of confusing. Advanced DAX is not about writing longer formulas. It is…
+Continue reading on Power BI Masterclass »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/technology/recommended target="_blank" rel="noopener noreferrer">Technology</a></h1>
-<h3>1. Inside the sphere: How Eight360 is revolutionising virtual training and immersive simulation - <a href="https://medium.com/@siobhan.hofma_99667/inside-the-sphere-how-eight360-is-revolutionising-virtual-training-and-immersive-simulation-ece2b021557f?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Time-Based SQL Injection: Complete Real-World Bug Bounty Guide - <a href="https://osintteam.blog/time-based-sql-injection-complete-real-world-bug-bounty-guide-0d38311a4adf?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Instinctively Real Media`**
+✍️ **posted by `Monika sharma`**
 
-<blockquote>TERRY MILLER | CEO | EIGHT360
+<blockquote>How Silent Delays, Burp Repeater, and Patient Testing Turn “Nothing Happening” into a Real Vulnerability
+Continue reading on OSINT Team »</blockquote>
+
+<h3>2. Bloody Tuesday in Beta: When “Ship & Patch” Stops Breaking Toothbrushes and Starts Breaking Minds - <a href="https://generativeai.pub/bloody-tuesday-in-beta-when-ship-patch-stops-breaking-toothbrushes-and-starts-breaking-minds-7f2380ebd79d?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `System Notes`**
+
+<blockquote>It is 7:15 AM. You are standing barefoot on cold tiles, mint foam dripping onto your chin, holding a piece of plastic that cost you $200…
+Continue reading on Generative AI »</blockquote>
+
+<h3>3. iOS 26.2 Is Now Live Here Are All the New Features on Your iPhone - <a href="https://medium.com/@mathanamohans2003/ios-26-2-is-now-live-here-are-all-the-new-features-on-your-iphone-b2dd67c08bcc?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `apple inside`**
+
+<blockquote>After several weeks of beta testing, iOS 26.2 is now available for all iPhone users. The update brings new features for Apple Podcasts and…
 Continue reading on Medium »</blockquote>
 
-<h3>2. Why Avi Loeb’s “Loeb Scale 4” Rating for 3I/ATLAS Is Not Scientifically Justified - <a href="https://www.astrophyzix.com/why-avi-loebs-loeb-scale-4-rating-for-3i-atlas-is-not-scientifically-justified-ae23d94164f8?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Surge Pricing Came for Uber, Then Concerts, Then Hotels. Now It’s Coming for Your Grocery Store. - <a href="https://medium.com/@limousyf/surge-pricing-came-for-uber-then-concerts-then-hotels-now-its-coming-for-your-grocery-store-34eae1423836?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Astrophyzix Reliable Science and Space News`**
+✍️ **posted by `Francis Limousy`**
 
-<blockquote>A response to “Updating the Loeb Classification Scale of 3I/ATLAS”.
-Continue reading on Astrophyzix.com - Sourced Science Communication »</blockquote>
-
-<h3>3. AI Arms Race 2026: World Governments and Their Own AI Strategies - <a href="https://pub.towardsai.net/ai-arms-race-2026-world-governments-and-their-own-ai-strategies-bc72e0003ca1?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Pietro D. Makowski`**
-
-<blockquote>Learn the stakes and strategies involved now.
-Continue reading on Towards AI »</blockquote>
-
-<h3>4. The Crucial Skillset to Become a High-Impact UI/UX Content Writer - <a href="https://medium.com/@johnhuatech/the-crucial-skillset-to-become-a-high-impact-ui-ux-content-writer-ee8801496c56?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `John (Open for B2b/SaaS Writing!)`**
-
-<blockquote>UI/UX content writing — often called UX writing or product content design — is one of the most strategic roles in modern digital products…
-Continue reading on Medium »</blockquote>
-
-<h3>5. How to Learn Quantum Computing Without Wasting Years - <a href="https://medium.com/@jesseclement83/how-to-learn-quantum-computing-without-wasting-years-8ddddbf98e1e?source=rss------technology-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Jesse Clemnt`**
-
-<blockquote>Quantum computing is one of those fields everyone talks about — and almost no one actually learns properly.
+<blockquote>You’ve made your peace with it by now. The Uber that costs $12 at 2pm costs $34 on a rainy Friday night. That Taylor Swift ticket started…
 Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/relationships/recommended target="_blank" rel="noopener noreferrer">Relationships</a></h1>
-<h3>1. 3 Essential Qualities Divorced Women Must Look for in a New Partner - <a href="https://medium.com/@yetta-lee/3-essential-qualities-divorced-women-must-look-for-in-a-new-partner-9602894365e0?source=rss------relationships-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. If You Believe This, You’ll Fall for the Wrong Person - <a href="https://medium.com/@809859825/if-you-believe-this-youll-fall-for-the-wrong-person-44953b672102?source=rss------relationships-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yettalee`**
+✍️ **posted by `Held & Heard`**
 
-<blockquote>Divorced women need partners with responsibility, financial stability, and good temperament for lasting happiness
+<blockquote>I used to think I had a type.
+Continue reading on Medium »</blockquote>
+
+<h3>2. Resentment Is Why You’re Not Attracted to Your Partner Anymore - <a href="https://torithesexologist.medium.com/resentment-is-why-youre-not-attracted-to-your-partner-anymore-272c77c7b18d?source=rss------relationships-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Tori Swanson`**
+
+<blockquote>A lot of people come into therapy saying they’re worried about attraction.
+Continue reading on Medium »</blockquote>
+
+<h3>3. All I Want for Christmas is Destiny: The Korean Concept of “In-Yun” (Fate) - <a href="https://medium.com/@wangta69/all-i-want-for-christmas-is-destiny-the-korean-concept-of-in-yun-fate-7f4c34c5dc3a?source=rss------relationships-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Gilra`**
+
+<blockquote>It’s December 23rd. The world is lit up with lights, and the air is filled with anticipation.
+In Korea, Christmas is less about family and…
+Continue reading on Medium »</blockquote>
+
+<h3>4. 3 Moments Smart Women Get Close When They Want You - <a href="https://medium.com/@heddascott/3-moments-smart-women-get-close-when-they-want-you-e4fcf48b7a59?source=rss------relationships-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `HeddaScott`**
+
+<blockquote>Discover the emotional moments when intelligent women show genuine interest and connection
 Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/mobile-app-development/recommended target="_blank" rel="noopener noreferrer">App Development</a></h1>
-<h3>1. Your Business Isn’t “Too Small” for Digital Transformation — Here’s Why - <a href="https://medium.com/@atinistudio/your-business-isnt-too-small-for-digital-transformation-here-s-why-5552d9243c6f?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. How Liquor Delivery App Development Is Redefining Happy Hour (Without Leaving Your Couch) - <a href="https://medium.com/@www.jagraj21/how-liquor-delivery-app-development-is-redefining-happy-hour-without-leaving-your-couch-6b0b8d80acd4?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Christine Ting`**
+✍️ **posted by `Jagraj`**
 
-<blockquote>Many small and mid-sized business owners still believe that digital transformation is a trend meant for global corporations, tech…
+<blockquote>Let’s face it — the days of hopping from bar to bar in search of the perfect cocktail are slowly fading. Why? Because now, thanks to…
 Continue reading on Medium »</blockquote>
 
-<h3>2. React Native 0.83: What Actually Changed, What Matters, and Should You Upgrade? - <a href="https://medium.com/@Thatreactnativeguy/react-native-0-83-what-actually-changed-what-matters-and-should-you-upgrade-c89e1199c7db?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. High-Traffic Android Apps: State Management When Everything Is Real-Time - <a href="https://medium.com/@oktaygenc/high-traffic-android-apps-state-management-when-everything-is-real-time-fd9bc6aedd11?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Shubham Mehta | Senior React Native Developer`**
+✍️ **posted by `Oktay Genç`**
 
-<blockquote>⭐ A production-focused breakdown of RN 0.83 — what changed, what matters in real apps, and when upgrading actually makes sense
+<blockquote>Why managing UI state becomes the hardest problem when data never stops flowing.
 Continue reading on Medium »</blockquote>
 
-<h3>3. Galaxy Z TriFold Sold Out in Minutes — Limited Restock Alert and Global Launch Timeline - <a href="https://medium.com/@ilahy/galaxy-z-trifold-sold-out-in-minutes-limited-restock-alert-and-global-launch-timeline-e5b93e03fd77?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Firebase mi, Supabase mi? Expo React Native Projeniz İçin 2026'ya hazırlık - <a href="https://atakansava.medium.com/firebase-mi-supabase-mi-expo-react-native-projeniz-i%CC%87%C3%A7in-2026ya-haz%C4%B1rl%C4%B1k-21c34107027a?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Imed Ilahy`**
+✍️ **posted by `Atakan Savaş`**
 
-<blockquote>In the fast-paced world of foldable smartphones, Samsung has once again captured global attention with the launch of its groundbreaking…
+<blockquote>Hellö. Güncel bir notumu paylaşmak istiyorum.
+Mobil uygulama geliştirmenin o kaçınılmaz anı: Proje fikri harika, tasarım hazır, Expo…
 Continue reading on Medium »</blockquote>
 
-<h3>4. The New React Native DevTools Are a Game Changer (Network + Performance) - <a href="https://aneeqa-k25.medium.com/the-new-react-native-devtools-are-a-game-changer-network-performance-59f12698175a?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Why Kotlin Flow Exists When LiveData Already Works! - <a href="https://medium.com/@engineerzaid/why-kotlin-flow-exists-when-livedata-already-works-d99e9fcb9af6?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Aneeqa Khan`**
+✍️ **posted by `Zaid Mirza`**
 
-<blockquote>For years, debugging performance issues in React Native has required a mix of guesswork, console logs, Flipper plugins, and external…
+<blockquote>I have been using LiveData for a long time, and it has worked well. However, it always been a bottleneck for a Clean Architecture-based…
 Continue reading on Medium »</blockquote>
 
-<h3>5. Dart’ta var, final ve const farkını yeni başlayanlar nasıl düşünmeli? - <a href="https://medium.com/@sudeesuluk/dartta-var-final-ve-const-fark%C4%B1n%C4%B1-yeni-ba%C5%9Flayanlar-nas%C4%B1l-d%C3%BC%C5%9F%C3%BCnmeli-c7fe931b5022?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. How to Choose Between Native and Hybrid App Development in Trivandrum - <a href="https://medium.com/@shehinshaz01/how-to-choose-between-native-and-hybrid-app-development-in-trivandrum-e39c12b4a121?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sude Suluk`**
+✍️ **posted by `Lunar Enterprises`**
 
-<blockquote>Dart öğrenirken en çok kafamı karıştıran konulardan biri var, final ve const arasındaki farktı.
- Başta hepsi “değişken tanımlama” gibi…
+<blockquote>Trivandrum, Kerala’s growing IT hub, has become a popular destination for mobile app development. When building an app, businesses often…
 Continue reading on Medium »</blockquote>
 
-<h3>6.  8 Game-Changing JavaScript Performance Tips You Need to Know  - <a href="https://developer-in.medium.com/8-game-changing-javascript-performance-tips-you-need-to-know-b6d8981d94a7?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. UICollectionView vs UITableView: When I Use What in Real Apps - <a href="https://medium.com/@ravi.vaghela73307/uicollectionview-vs-uitableview-when-i-use-what-in-real-apps-6d2237264c1a?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Developer`**
+✍️ **posted by `Ravi Vaghela`**
 
-<blockquote>🚜 Hey folks! 👋 After years of wrestling with JavaScript, building apps, and making (lots of) mistakes — I’ve picked up some solid…
+<blockquote>This article is based on my personal experience working with UIKit in real production apps.
 Continue reading on Medium »</blockquote>
 
-<h3>7. DXB APPS — A Leading Mobile App Development Company Creating Smart Apps - <a href="https://medium.com/@dxbappsuae12/dxb-apps-a-leading-mobile-app-development-company-creating-smart-apps-bac8d2755d3b?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>7. DXB APPS is the Award-winning mobile app development company Dubai - <a href="https://medium.com/@dxbappsuae12/dxb-apps-is-the-award-winning-mobile-app-development-company-dubai-18f7ba85b19c?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `DXB APPS`**
 
-<blockquote>In a rapidly evolving digital economy, businesses require scalable, secure, and intelligent mobile solutions to stay competitive. As a…
+<blockquote>DXB APPS is a progressive mobile app development company that focuses on mobile app development Dubai solutions for startups and companies…
 Continue reading on Medium »</blockquote>
 
-<h3>8. Navigasi Forum dengan Auto-Scroll & Highlight di Flutter - <a href="https://medium.com/@nailasazizah/navigasi-forum-dengan-auto-scroll-highlight-di-flutter-be5ceabccdba?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>8. Getting Started with Flutter: Installation Guide and First Project Initialization - <a href="https://medium.com/@hadyan.kp/getting-started-with-flutter-installation-guide-and-first-project-initialization-aa9c2049d97a?source=rss------mobile_app_development-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Naila Shafa Azizah`**
+✍️ **posted by `Hadyan Kholish Prasetio`**
 
-<blockquote>Pernah buka forum atau kolom komentar, tapi malah bingung:
+<blockquote>Some times ago i did an installation guide and project initialization on react native CLI and Kotlin(in indonesian language), you can…
 Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/android/recommended target="_blank" rel="noopener noreferrer">Android</a></h1>
-<h3>1. Data Structures Every Mobile Developer Should Master: The 2025 FAANG Interview Blueprint - <a href="https://medium.com/@alaxhenry0121/data-structures-every-mobile-developer-should-master-the-2025-faang-interview-blueprint-b8010d1eb0ac?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. High-Traffic Android Apps: State Management When Everything Is Real-Time - <a href="https://medium.com/@oktaygenc/high-traffic-android-apps-state-management-when-everything-is-real-time-fd9bc6aedd11?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jeffery Alexandro Henry`**
+✍️ **posted by `Oktay Genç`**
 
-<blockquote>Crack FAANG Android interviews with essential data structures. Real questions, expert explanations, working code.
+<blockquote>Why managing UI state becomes the hardest problem when data never stops flowing.
 Continue reading on Medium »</blockquote>
 
-<h3>2. Stack vs Heap in Android: The Memory Management Question That Kills 80% of FAANG Interviews - <a href="https://medium.com/@alaxhenry0121/stack-vs-heap-in-android-the-memory-management-question-that-kills-80-of-faang-interviews-d41e51c591b7?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Why Kotlin Flow Exists When LiveData Already Works! - <a href="https://medium.com/@engineerzaid/why-kotlin-flow-exists-when-livedata-already-works-d99e9fcb9af6?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Jeffery Alexandro Henry`**
+✍️ **posted by `Zaid Mirza`**
 
-<blockquote>Stack vs heap memory in Android explained. Master FAANG interview questions on memory management with real examples.
+<blockquote>I have been using LiveData for a long time, and it has worked well. However, it always been a bottleneck for a Clean Architecture-based…
 Continue reading on Medium »</blockquote>
 
-<h3>3. Why Most AI Projects Fail Quietly (And How Instrumentation Creates Real Leverage) - <a href="https://medium.com/@serin.e.noman/why-most-ai-projects-fail-quietly-and-how-instrumentation-creates-real-leverage-05f496eaee9c?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Common Kotlin Coding Questions with Simple Solutions - <a href="https://medium.com/@ranjithravibe/common-kotlin-coding-questions-with-simple-solutions-805b72f43f94?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Serin Noman ✨`**
+✍️ **posted by `Ranjith K`**
 
-<blockquote>Most teams imagine AI failure as something dramatic.
+<blockquote>Problem 1: Most Frequent Element in an Array (Kotlin)
+fun mostFrequentElement(arr: IntArray): Int {
+ val countMap = HashMap<Int, Int>()…
 Continue reading on Medium »</blockquote>
 
-<h3>4. Dart’ta var, final ve const farkını yeni başlayanlar nasıl düşünmeli? - <a href="https://medium.com/@sudeesuluk/dartta-var-final-ve-const-fark%C4%B1n%C4%B1-yeni-ba%C5%9Flayanlar-nas%C4%B1l-d%C3%BC%C5%9F%C3%BCnmeli-c7fe931b5022?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Building an Android App: What I Learned Making a Finance Manager - <a href="https://medium.com/@anteprocess/building-an-android-app-what-i-learned-making-a-finance-manager-1d1c82931497?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Sude Suluk`**
+✍️ **posted by `Michael M.H`**
 
-<blockquote>Dart öğrenirken en çok kafamı karıştıran konulardan biri var, final ve const arasındaki farktı.
- Başta hepsi “değişken tanımlama” gibi…
+<blockquote>Hi, this is Mike🤖! So here is a guide to Android development with real-world examples!!
 Continue reading on Medium »</blockquote>
 
-<h3>5. Android Device Security: Sandboxing, Rooting, and Attestation Explained - <a href="https://proandroiddev.com/android-device-security-sandboxing-rooting-and-attestation-explained-719169339871?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Vikas Soni`**
-
-<blockquote>As Android developers, understanding device security is essential to protect our apps and users.
-Continue reading on ProAndroidDev »</blockquote>
-
-<h3>6.  WorkManager in Android: A Complete Guide with Java Example - <a href="https://medium.com/@vikaspadvalvp/workmanager-in-android-a-complete-guide-with-java-example-9c14d84fa901?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Vikas Padval`**
-
-<blockquote>Background work is a core part of many Android apps — whether it’s syncing data, uploading logs, or performing cleanup tasks. However…
-Continue reading on Medium »</blockquote>
-
-<h3>7. Where the mind slows down and the soul feels heard  - <a href="https://medium.com/@hiraaarya/where-the-mind-slows-down-and-the-soul-feels-heard-1f54da14c8ff?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Hira Aarya`**
-
-<blockquote>This is my space for meditation, calm, and self-growth.
-Continue reading on Medium »</blockquote>
-
-<h3>8. Memory Leaks in Jetpack Compose: A Developer’s Guide. - <a href="https://medium.com/droidstack/memory-leaks-in-jetpack-compose-a-developers-guide-0bf204e7e880?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Understanding PagingData in Jetpack Compose (With Example) - <a href="https://medium.com/droidstack/understanding-pagingdata-in-jetpack-compose-with-example-f66101f63bc4?source=rss------android-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Kamaldeep Kakkar`**
 
-<blockquote>Learn how to detect and fix memory leaks in Jetpack Compose using effect handlers, best practices, and tools like LeakCanary.
+<blockquote>Learn Jetpack Compose Paging in simple terms — what PagingData is, how LazyPagingItems work, and how to build smooth infinite lists.
 Continue reading on DroidStack »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/ios/recommended target="_blank" rel="noopener noreferrer">IOS</a></h1>
-<h3>1. Android Device Security: Sandboxing, Rooting, and Attestation Explained - <a href="https://proandroiddev.com/android-device-security-sandboxing-rooting-and-attestation-explained-719169339871?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Vikas Soni`**
-
-<blockquote>As Android developers, understanding device security is essential to protect our apps and users.
-Continue reading on ProAndroidDev »</blockquote>
-
-<h3>2. The One Line of Code That Solves Your Layout Nightmares - <a href="https://medium.com/@euijjang97/swiftui-containerrelativeframe-a-new-layout-solution-to-replace-geometryreader-7401c3cd1ff8?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Je_Ong`**
-
-<blockquote>Simplify your responsive layouts and build adaptive UIs without complex geometry calculations.
-Continue reading on Medium »</blockquote>
-
-<h3>3. You’re Missing These Advanced SwiftUI Modifiers in iOS 26 - <a href="https://mohammadtabishanwar9.medium.com/youre-missing-these-advanced-swiftui-modifiers-in-ios-26-7ce0b33d38a1?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Tabish anwar`**
-
-<blockquote>Unlocking Next-Level iOS Development with Apple’s Latest Framework Enhancements
-Continue reading on Medium »</blockquote>
-
-<h3>4. iOS 26.2 Introduces ‘AirDrop Codes’ Here’s How the New Feature Works - <a href="https://medium.com/@mathanamohans2003/ios-26-2-introduces-airdrop-codes-here-s-how-the-new-feature-works-270d73967bdf?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. iOS 26.2 Is Now Live Here Are All the New Features on Your iPhone - <a href="https://medium.com/@mathanamohans2003/ios-26-2-is-now-live-here-are-all-the-new-features-on-your-iphone-b2dd67c08bcc?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `apple inside`**
 
-<blockquote>iOS 26.2 is officially here, packing a bunch of brand new features, including an enhancement to AirDrop called ‘AirDrop codes.’ Here’s how…
+<blockquote>After several weeks of beta testing, iOS 26.2 is now available for all iPhone users. The update brings new features for Apple Podcasts and…
 Continue reading on Medium »</blockquote>
 
-<h3>5. iOS Developer Interview Questions & Answers || by Hosne Mobarok - <a href="https://medium.com/@hosnemobarok/ios-developer-interview-questions-answers-a3a0a7b34dd0?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. The 7 Data Structures That Separate FAANG-Bound iOS Developers From Everyone Else - <a href="https://medium.com/@alaxhenry0121/the-7-data-structures-that-separate-faang-bound-ios-developers-from-everyone-else-6042fbd86752?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Hosne Mobarok`**
+✍️ **posted by `Jeffery Alexandro Henry`**
 
-<blockquote>A Comprehensive Guide Covering Swift, UIKit, SwiftUI, Architecture, and Real-World iOS Concepts
+<blockquote>Crack FAANG iOS interviews with these 7 essential data structures. Real questions, Swift code, and insider tips.
+Continue reading on Medium »</blockquote>
+
+<h3>3. Apple Intelligence: Apple’s strategic answer to generative AI Centralization - <a href="https://medium.com/@hayatoutahar/apple-intelligence-apples-strategic-counteroffensive-to-the-centralization-of-generative-ai-6545edae24b9?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Hayat Outahar`**
+
+<blockquote>In my monitoring work, I still encounter claims that Apple is lagging behind in generative AI, a perception that, in my view, rests on a…
+Continue reading on Medium »</blockquote>
+
+<h3>4. UICollectionView vs UITableView: When I Use What in Real Apps - <a href="https://medium.com/@ravi.vaghela73307/uicollectionview-vs-uitableview-when-i-use-what-in-real-apps-6d2237264c1a?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Ravi Vaghela`**
+
+<blockquote>This article is based on my personal experience working with UIKit in real production apps.
+Continue reading on Medium »</blockquote>
+
+<h3>5. CoordinatorKit 2.0: Production-Ready SwiftUI Navigation - <a href="https://medium.com/@vinodh_36508/coordinatorkit-2-0-production-ready-swiftui-navigation-6b833659e21b?source=rss------ios-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `VINODH KUMAR`**
+
+<blockquote>How I transformed a simple coordinator pattern into a robust framework with gesture control, root management, and bulletproof concurrency…
 Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/devops/recommended target="_blank" rel="noopener noreferrer">Devops</a></h1>
-<h3>1. ⚙️ MLOps on Kubernetes: EKS Data Preprocessing with Pod Identity ️ - <a href="https://medium.com/@muppedaanvesh/%EF%B8%8F-mlops-on-kubernetes-eks-data-preprocessing-with-pod-identity-%EF%B8%8F-3023bd0e85d0?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Why CI/CD Pipelines Break as Engineering Teams Grow - <a href="https://medium.com/@sysroot.io/why-ci-cd-pipelines-break-as-engineering-teams-grow-28f1660183a0?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anvesh Muppeda`**
+✍️ **posted by `SysRoot.IO`**
 
-<blockquote>⇢ MLOps with AWS Series — Part 15
+<blockquote>How processes that worked for 3 engineers quietly collapse at 15 — and what to fix before it hurts production
 Continue reading on Medium »</blockquote>
 
-<h3>2. The Package Arrived… But I Forgot Why I Ordered It: How Impulse Tech Decisions Break DevOps - <a href="https://komnata-lomki.medium.com/the-package-arrived-but-i-forgot-why-i-ordered-it-how-impulse-tech-decisions-break-devops-bdaaeb58e9b7?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Deploy Your Angular SSR App on Dokploy with Railpack (No Dockerfile Needed) - <a href="https://medium.com/@nico.maitre.stair/deploy-your-angular-ssr-app-on-dokploy-with-railpack-no-dockerfile-needed-696cbf187fb9?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ivan Rabkesov`**
+✍️ **posted by `Nicolas Maitre`**
 
-<blockquote>The real tech debt isn’t in the code — it’s in the decision backlog of skipped conversations with DevOps.
+<blockquote>If you’ve ever tried deploying an Angular SSR application, you know it can be a bit tricky. Unlike classic SPAs that just need a static…
 Continue reading on Medium »</blockquote>
 
-<h3>3. Build Your Own LinkedIn Analytics Part 9: Making a Maintainable Pipeline - <a href="https://medium.com/@kunojilym/build-your-own-linkedin-analytics-part-9-making-a-maintainable-pipeline-d2c35a874e3a?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. How Senior DevOps Engineers Plan a Migration (Without Losing Their Mind) - <a href="https://medium.com/@devOpsIsRil/how-senior-devops-engineers-plan-a-migration-without-losing-their-mind-56a00bdf842f?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Yingzhao Ouyang`**
+✍️ **posted by `DevOpsIsRil`**
 
-<blockquote>By the end of the previous post, we had built our data pipeline for LinkedIn analytics from ingestion all the way to the final dashboard…
+<blockquote>If you’re aiming for a senior DevOps role — or already there — you know that migrations are one of the ultimate tests of your skills…
 Continue reading on Medium »</blockquote>
 
-<h3>4.  DevOps Day-4: Networking for DevOps — Ports, DNS, HTTP, curl, ping, telnet (Hands-On) - <a href="https://medium.com/@abhibycode/devops-day-4-networking-for-devops-ports-dns-http-curl-ping-telnet-hands-on-188e48a0a349?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. Caching Strategies Every Software Engineer Should Know (Redis, CDN, In-Memory) - <a href="https://medium.com/@rmesadieu/caching-strategies-every-software-engineer-should-know-redis-cdn-in-memory-087f1b0aebb9?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Abhishek Kongari`**
+✍️ **posted by `Rodolph Mesadieu, MSCS`**
 
-<blockquote>Welcome to Day 4 of the DevOps 60-Day Series 🎯
- If you want to become a DevOps / Cloud / SRE Engineer, then Networking is non-negotiable…
+<blockquote>In the fast-paced world of software engineering, performance is king. Users expect snappy applications, and businesses can’t afford…
 Continue reading on Medium »</blockquote>
 
-<h3>5. The Ultimate DevOps & AI Manifesto: From Hype to Production Reality - <a href="https://medium.com/@bozyol/the-ultimate-devops-ai-manifesto-from-hype-to-production-reality-3ede8a65b434?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Canary Deployment in Kubernetes: A Technical Guide for CKAD - <a href="https://medium.com/@farhanii.henda/canary-deployment-in-kubernetes-a-technical-guide-for-ckad-245f99f61ae5?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Burakhan ÖZYOL`**
+✍️ **posted by `Farhanii Henda`**
 
-<blockquote>If you follow the AI hype closely, you might think DevOps engineers are becoming an endangered species. According to conference keynotes…
+<blockquote>Canary deployment is a release pattern used to introduce a new version of an application gradually, while the majority of traffic…
 Continue reading on Medium »</blockquote>
 
-<h3>6. I Thought AWS Application Load Balancer Was Easy — Until I Built One - <a href="https://medium.com/@alexjoyelraj/i-thought-aws-application-load-balancer-was-easy-until-i-built-one-de1f6d40d0ae?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. The Death of YAML: How I Build and Deploy My Entire LLMOps Stack in Pure Python - <a href="https://medium.com/@edgarmilvus/the-death-of-yaml-how-i-build-and-deploy-my-entire-llmops-stack-in-pure-python-0afc748e74e9?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alex Joyel Raj I | Cyber Howler`**
+✍️ **posted by `Edgar Milvus`**
 
-<blockquote>When I first learned about AWS Application Load Balancer (ALB), it sounded straightforward.
+<blockquote>We’ve all been there. It’s 2 AM, and the production deployment is failing.
 Continue reading on Medium »</blockquote>
 
-<h3>7. Day 1 of My DevOps Journey: Understanding the “Why” Before the “How” - <a href="https://medium.com/@0b101011110010/devops-journey-day-1-devops-foundations-f07b25a13287?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>7. Designing Performance Tests Using Real Production Traffic - <a href="https://arashkhavari.medium.com/designing-performance-tests-using-real-production-traffic-5331480250e8?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `ThoughtBit`**
+✍️ **posted by `Arash Khavari`**
 
-<blockquote>DevOps explained for beginners: meaning of DevOps, principles, culture, CI/CD, infrastructure as code, and real-world DevOps thinking.
+<blockquote>Building Performance Test Scenarios from Real Production Traffic
 Continue reading on Medium »</blockquote>
 
-<h3>8. The DevOps Interview Questions You Can’t Google Fast Enough - <a href="https://aws.plainenglish.io/the-devops-interview-questions-you-cant-google-fast-enough-32cc16f43923?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>8. Are Cloud Certifications Worth It? I Analyzed 825 Jobs to Find Out - <a href="https://medium.com/@john_mehler/are-cloud-certifications-worth-it-i-analyzed-825-jobs-to-find-out-9b73f4226771?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tech Brand`**
+✍️ **posted by `John Mehler`**
 
-<blockquote>Why Your Quick Searches Aren’t Saving You in DevOps Interviews
-Continue reading on AWS in Plain English »</blockquote>
-
-<h3>9. DevOps in 2026: Should You Stay in DevOps or Transition to MLOps, AIOps, or DataOps? - <a href="https://medium.com/build-automate/devops-in-2026-should-you-stay-in-devops-or-transition-to-mlops-aiops-or-dataops-22c102060f0c?source=rss------devops-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Vijay Daswani`**
-
-<blockquote>As we move toward the end of 2025, many DevOps engineers are asking the same question:
-Continue reading on Build & Automate »</blockquote>
+<blockquote>“Get certified and you’ll earn more.” It’s advice you’ll hear in every career guide, at every tech conference, and from every cloud vendor…
+Continue reading on Medium »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/kubernetes/recommended target="_blank" rel="noopener noreferrer">Kubernetes</a></h1>
-<h3>1. ⚙️ MLOps on Kubernetes: EKS Data Preprocessing with Pod Identity ️ - <a href="https://medium.com/@muppedaanvesh/%EF%B8%8F-mlops-on-kubernetes-eks-data-preprocessing-with-pod-identity-%EF%B8%8F-3023bd0e85d0?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. StarRocks Disaster Recovery on Kubernetes: A Practical Guide to Cluster Snapshot - <a href="https://medium.com/starrocks-engineering/starrocks-disaster-recovery-on-kubernetes-a-practical-guide-to-cluster-snapshot-98c81bfb3264?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Anvesh Muppeda`**
+✍️ **posted by `StarRocks Engineering`**
 
-<blockquote>⇢ MLOps with AWS Series — Part 15
-Continue reading on Medium »</blockquote>
+<blockquote>With the release of StarRocks 3.5, a brand-new Cluster Snapshot recovery mechanism was introduced, further enhancing StarRocks’ data…
+Continue reading on StarRocks Engineering »</blockquote>
 
-<h3>2. Why Tail Latency Matters and How C++ & Rust Beat Java/C# in Core Systems - <a href="https://medium.com/@vn44/why-tail-latency-matters-and-how-c-rust-beat-java-c-in-core-systems-8497fd74b2dc?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Viswa Nemani`**
-
-<blockquote>In high-scale distributed systems, engineers often focus on throughput — how many requests per second a service can handle. But the real…
-Continue reading on Medium »</blockquote>
-
-<h3>3. The DevOps Interview Questions You Can’t Google Fast Enough - <a href="https://aws.plainenglish.io/the-devops-interview-questions-you-cant-google-fast-enough-32cc16f43923?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Tech Brand`**
-
-<blockquote>Why Your Quick Searches Aren’t Saving You in DevOps Interviews
-Continue reading on AWS in Plain English »</blockquote>
-
-<h3>4. The One Analogy That Makes Kubernetes Volumes Click - <a href="https://medium.com/@farhanii.henda/the-one-analogy-that-makes-kubernetes-volumes-click-f255f01da3da?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Canary Deployment in Kubernetes: A Technical Guide for CKAD - <a href="https://medium.com/@farhanii.henda/canary-deployment-in-kubernetes-a-technical-guide-for-ckad-245f99f61ae5?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Farhanii Henda`**
 
-<blockquote>Volumes, PersistentVolumes, and PersistentVolumeClaims Explained for CKAD.
+<blockquote>Canary deployment is a release pattern used to introduce a new version of an application gradually, while the majority of traffic…
 Continue reading on Medium »</blockquote>
 
-<h3>5. Why Kubernetes Upgrades Feel Harder on Platforms Like Google Anthos - <a href="https://medium.com/@agarwalkeshav670/why-kubernetes-upgrades-feel-harder-on-platforms-like-google-anthos-f0c177dadbd1?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. Designing Performance Tests Using Real Production Traffic - <a href="https://arashkhavari.medium.com/designing-performance-tests-using-real-production-traffic-5331480250e8?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `keshav agarwal`**
+✍️ **posted by `Arash Khavari`**
 
-<blockquote>Kubernetes upgrades are often described as routine operations, but that assumption quietly breaks down the moment Kubernetes becomes part…
+<blockquote>Building Performance Test Scenarios from Real Production Traffic
 Continue reading on Medium »</blockquote>
 
-<h3>6. The One Analogy That Makes CKAD Scheduling Concepts Stick - <a href="https://medium.com/@farhanii.henda/the-one-analogy-that-makes-ckad-scheduling-concepts-stick-af468d033304?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. AI Workloads are a Security Nightmare — Here’s How to Fix Them in Kubernetes - <a href="https://rao-simplifies.medium.com/https-medium-com-hellorao-ca-securing-ai-workloads-kubernetes-a6108aa92387?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Abhishek Rao`**
+
+<blockquote>AI is transforming how we build, train, and deploy applications — but behind the excitement lies a serious, often overlooked problem…
+Continue reading on Medium »</blockquote>
+
+<h3>5. Kubernetes Rollout Strategies You Must Know for the CKAD Exam - <a href="https://medium.com/@farhanii.henda/kubernetes-rollout-strategies-you-must-know-for-the-ckad-exam-030cb1bc36da?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
 ✍️ **posted by `Farhanii Henda`**
 
-<blockquote>Node Affinity, Taints, and Tolerations Explained
+<blockquote>Deployments in Kubernetes are designed to update applications safely. When a Deployment changes, Kubernetes performs a rollout, gradually…
 Continue reading on Medium »</blockquote>
 
-<h3>7. Stateless Kafka-Compatible Brokers Backed by Object Storage - <a href="https://medium.com/@alexanderalten/stateless-kafka-compatible-brokers-backed-by-object-storage-be7e8792b9a2?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. TLS in Kubernetes — From Encryption Basics to mTLS, kubeconfig & Cluster Security - <a href="https://medium.com/@shivani.kumari.clouddevopsblog/tls-in-kubernetes-from-encryption-basics-to-mtls-kubeconfig-cluster-security-462a773a5833?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Alexander Alten`**
+✍️ **posted by `Shivani Kumari @CloudDevOps Engineer`**
 
-<blockquote>Running Kafka-style systems in Kubernetes has become common, but it rarely feels simple.
+<blockquote>From encryption fundamentals to control-plane mTLS — a DevOps engineer’s end-to-end guide to Kubernetes TLS without memorizing file paths.
 Continue reading on Medium »</blockquote>
+
+<h3>7. Securing Kubernetes Clusters: Learn Before Hackers Teach You - <a href="https://medium.com/devsecops-community/securing-kubernetes-clusters-learn-before-hackers-teach-you-22228784556f?source=rss------kubernetes-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+
+✍️ **posted by `Karthick Dk`**
+
+<blockquote>Day 50: Securing Kubernetes Clusters — Best Practices
+Continue reading on devsecops-community »</blockquote>
 
 <br/>
 <h1><a href=https://medium.com/tag/docker/recommended target="_blank" rel="noopener noreferrer">Docker</a></h1>
-<h3>1. Building Observability into Your Jakarta EE Applications with Prometheus - <a href="https://medium.com/@arie.kiswanto12/building-observability-into-your-jakarta-ee-applications-with-prometheus-74bfc5f2fdf6?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>1. Running Kagent with Local LLMs on Docker Desktop: A Practical Guide - <a href="https://medium.com/@thenotoriousrunner/running-kagent-with-local-llms-on-docker-desktop-a-practical-guide-1b49dcc1e61f?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Arie Kiswanto`**
+✍️ **posted by `thenotorious runner`**
 
-<blockquote>Observability is no longer a nice-to-have in modern applications — it’s a necessity. When your application goes live, you need to know…
+<blockquote>The concept of “agentic AI on Kubernetes” appears impressive in theory; however, the practical aspects include managing Docker containers…
 Continue reading on Medium »</blockquote>
 
-<h3>2. Otomasyon Devrimi: n8n ile İş Akışlarınızı Özgürleştirmek ve Sınırsız Verimliliğe Ulaşmak İçin… - <a href="https://medium.com/@selinkocakk0/otomasyon-devrimi-n8n-ile-i%CC%87%C5%9F-ak%C4%B1%C5%9Flar%C4%B1n%C4%B1z%C4%B1-%C3%B6zg%C3%BCrle%C5%9Ftirmek-ve-s%C4%B1n%C4%B1rs%C4%B1z-verimlili%C4%9Fe-ula%C5%9Fmak-i%CC%87%C3%A7in-1b8613b98434?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>2. Production-Grade 3‑Tier MERN Deployment on AWS with Docker, Nginx, CI/CD & Terraform - <a href="https://medium.com/@ravikantdiwakar/production-grade-3-tier-mern-deployment-on-aws-with-docker-nginx-ci-cd-terraform-42c081047e12?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Selin Koçak`**
+✍️ **posted by `Ravikant Diwakar`**
 
-<blockquote>Bir önceki bölümde ne olduğundan bahsetmiştim. Bu bölümde ise diğer araçlardan farklarına ve ardından kurulumuna geçeceğiz. İyi okumalar…
+<blockquote>Web application code belongs to this source
 Continue reading on Medium »</blockquote>
 
-<h3>3. The DevOps Interview Questions You Can’t Google Fast Enough - <a href="https://aws.plainenglish.io/the-devops-interview-questions-you-cant-google-fast-enough-32cc16f43923?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>3. WebAssembly vs Docker: Competing or Complementary Technologies? - <a href="https://medium.com/@shouke.wei/webassembly-vs-docker-competing-or-complementary-technologies-79b0de9565b4?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Tech Brand`**
+✍️ **posted by `Dr. Shouke Wei`**
 
-<blockquote>Why Your Quick Searches Aren’t Saving You in DevOps Interviews
-Continue reading on AWS in Plain English »</blockquote>
-
-<h3>4. Running Keycloak with PostgreSQL using Docker & Docker Compose (Beginner-Friendly Guide) - <a href="https://medium.com/@udayaashu1502/running-keycloak-with-postgresql-using-docker-docker-compose-beginner-friendly-guide-26b1c655ea07?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Ashutosh Singh`**
-
-<blockquote>If you’re learning Keycloak or setting it up for real projects, this guide will help you do it the right way — using PostgreSQL instead of…
+<blockquote>How Wasm and Containers Differ, When to Use Each, and Why the Future Uses Both
 Continue reading on Medium »</blockquote>
 
-<h3>5. Security hardening of the OnlineBoutique sample apps with Docker Hardened Images (DHI) - <a href="https://medium.com/google-cloud/security-hardening-of-the-onlineboutique-sample-apps-with-docker-hardened-images-dhi-ca1fad348343?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>4. FastAPI Images Under 100MB That Still Feel “Full-Stack” - <a href="https://medium.com/@ThinkingLoop/fastapi-images-under-100mb-that-still-feel-full-stack-7615418c3efa?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mathieu Benoit`**
+✍️ **posted by `Thinking Loop`**
 
-<blockquote>The GoogleCloudPlatform/microservices-demo is a very popular GitHub repository for demos around containers and Kubernetes. It has…
-Continue reading on Google Cloud - Community »</blockquote>
-
-<h3>6. Minimal Size, Maximum Safety:
-Hardening Docker Images - <a href="https://olha-stefanishyna.medium.com/minimal-size-maximum-safety-hardening-docker-images-de1346b16ffb?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
-
-✍️ **posted by `Olha Stefanishyna`**
-
-<blockquote>Learn practical steps to harden Docker images for Node.js: multi-stage builds, non-root runtimes, and secure registry access.
+<blockquote>Seven container patterns that ship fast, patch cleanly, and run like production — without dragging a 300MB backpack.
 Continue reading on Medium »</blockquote>
 
-<h3>7. Day 21 — Balancing Speed and Security (Confrontation with Jack) - <a href="https://itnext.io/day-21-balancing-speed-and-security-confrontation-with-jack-28c2e67824f2?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>5. Deploying a Python (FastAPI) Application Using Docker: A Complete Step-by-Step Guide - <a href="https://medium.com/@rana.akansha321/deploying-a-python-fastapi-application-using-docker-a-complete-step-by-step-guide-3fd458b62339?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Mohammad-Ali A'RÂBI`**
+✍️ **posted by `StoryWord`**
 
-<blockquote>Container Security Advent
-Continue reading on ITNEXT »</blockquote>
+<blockquote>Docker has become the industry standard for deploying applications because it solves the classic problem of “it works on my machine”. In…
+Continue reading on Medium »</blockquote>
 
-<h3>8. How to setup a music server using Navidrome ? — A beginner’s log - <a href="https://medium.com/coding-nexus/how-to-setup-a-music-server-using-navidrome-a-beginners-log-6fb04fe92bae?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>6. Learning Docker with Claude Code — Part 3: Docker Networking Unveiled - <a href="https://medium.com/@guqung6/learning-docker-with-claude-code-part-3-docker-networking-unveiled-c000805f1586?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Ukesh Aryal`**
+✍️ **posted by `TinyTwo`**
 
-<blockquote>“If buying is not owning, then piracy is not theft.”
-— Someone on the internet
-Continue reading on Coding Nexus »</blockquote>
+<blockquote>Understanding Container Communication Through Inquiry
+Continue reading on Medium »</blockquote>
 
-<h3>9. Supercharging Laravel CI/CD Pipeline: From 9 Minutes to 2 Minutes with Pre-built MySQL Images and… - <a href="https://oguzhankrcb.medium.com/supercharging-laravel-ci-cd-pipeline-from-9-minutes-to-2-minutes-with-pre-built-mysql-images-and-16a16e073a42?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
+<h3>7. Complete Guide: Troubleshooting Docker Configuration Errors and Removing Supabase Containers - <a href="https://leonardopiel.medium.com/the-problem-4182dfaeed85?source=rss------docker-5" target="_blank" rel="noopener noreferrer">link</a></h3>
 
-✍️ **posted by `Oğuzhan KARACABAY`**
+✍️ **posted by `Leonardo Piel`**
 
-<blockquote>When your test suite grows to hundreds of tests, CI/CD pipeline performance becomes critical. In this article, I’ll walk you through how I…
+<blockquote>After uninstalling Supabase using Scoop (scoop uninstall supabase), you might encounter Docker configuration errors and leftover…
 Continue reading on Medium »</blockquote>
 
