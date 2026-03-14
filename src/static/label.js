@@ -10,9 +10,12 @@ const DISPLAY_LABEL = {
   webview: "Front/Web Views",
 
   /* Common */
+  "artificial-intelligence": "Dev/Artificial Intelligence",
+  "ai-agent": "Dev/AI Agent",
+  "soft-skills": "Dev/Communication",
   programming: "Dev/Programming",
   technology: "Dev/Technology",
-  relationships: "Dev/Relationships",
+  backend: "Dev/Backend",
 
   /* Mobile */
   "mobile-app-development": "Mobile/App Development",
@@ -20,6 +23,9 @@ const DISPLAY_LABEL = {
   ios: "Mobile/IOS",
 
   /* Infra */
+  cloud: "Infra/Cloud",
+  networking: "Infra/Networking",
+  security: "Infra/Security",
   devops: "Infra/Devops",
   kubernetes: "Infra/Kubernetes",
   docker: "Infra/Docker",
