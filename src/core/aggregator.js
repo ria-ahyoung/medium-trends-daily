@@ -3,18 +3,16 @@ import { TRENDS_TOPIC } from "../static/index.js";
 
 export default async function aggregateTrends() {
   const allTrends = {};
-  
-  for (const tag of TRENDS_TOPIC) {
-    try {
-      const mediumTrends = await collectMediumTrends(tag);
-      allTrends[tag] = {
-        source: 'medium',
-        trends: mediumTrends
-      };
-    } catch (error) {
-      console.error(`${tag} 트렌드 수집 중 오류 발생:`, error);
-    }
-  }
-  
+  const tasks = TRENDS_TOPIC.map((tag) =>
+    collectMediumTrends(tag)
+      .then((mediumTrends) => {
+        allTrends[tag] = { source: "medium", trends: mediumTrends };
+      })
+      .catch((error) => {
+        console.error(`Error while collecting trends for [${tag}]:`, error);
+        allTrends[tag] = { source: "medium", trends: [] };
+      }),
+  );
+  await Promise.allSettled(tasks);
   return allTrends;
-} 
+}

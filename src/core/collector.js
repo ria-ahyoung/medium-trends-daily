@@ -6,7 +6,7 @@ const parser = new Parser();
 export default async function collectMediumTrends(tag) {
   try {
 
-    // 1. 트렌드 수집
+    // 1. Collect trends
     const feed = await parser.parseURL(`https://medium.com/feed/tag/${tag}`);
     const rawTrends = feed.items.map(item => ({
       title: item.title,
@@ -17,13 +17,13 @@ export default async function collectMediumTrends(tag) {
       categories: item.categories
     }));
 
-    // 2. 데이터 검증
+    // 2. Validate data
     const filteredTrends = validateTrends(rawTrends);
-    console.log(`[${tag}] 📥 수집된 트렌드: ${rawTrends.length}개, ✅ 검증된 트렌드: ${filteredTrends.length}개`);
+    console.log(`[${tag}] collected: ${rawTrends.length}, validated: ${filteredTrends.length}`);
 
     return filteredTrends;
   } catch (error) {
-    console.error(`[${tag}] 트렌드 수집 중 오류 발생 (${error.message})`);
+    console.error(`[${tag}] error while fetching trends (${error.message})`);
     return [];
   }
 } 

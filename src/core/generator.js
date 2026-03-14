@@ -19,7 +19,7 @@ export default function generatePostContent(tag, posts) {
   const label = DISPLAY_LABEL[tag].split("/")[1];
   let readmeContent = `\n<h1><a href=https://medium.com/tag/${tag}/recommended target="_blank" rel="noopener noreferrer">${label}</a></h1>\n`;
 
-  if (!posts.length) return readmeContent += directContent('https://medium.com/tag/' + tag, label);
+  if (!posts.length) return readmeContent += directContent("https://medium.com/tag/" + tag, label);
   else {
     posts?.forEach((post, index) => {
       const template = templateContent(post, index);
@@ -30,14 +30,14 @@ export default function generatePostContent(tag, posts) {
 }
 
 const directContent = (link, label) => {
-  return `<h3>🔥 &nbsp;<a href=${link} target="_blank" rel="noopener noreferrer">${label} 주간 핫토픽</a>&nbsp; 🔗</h3>\n`;
+  return `<h3>🔥 &nbsp;<a href="${link}" target="_blank" rel="noopener noreferrer">${label} Weekly Hot Topics</a>&nbsp; 🔗</h3>\n`;
 };
 
 const templateContent = (post, index) => {
   const { title, author, content, link } = post;
   const postTitle = `${index + 1}. ${title}`;
   const postLink = `<a href="${link}" target="_blank" rel="noopener noreferrer">link</a>`;
-  const authorInfo = `✍️ **posted by \`${author}\`**`;
-  const postPreview = `<blockquote>${content ?? "글을 확인하려면 링크를 클릭하세요. ⌲"}</blockquote>`;
+  const authorInfo = `✍️ **posted by \`${author ?? "Unknown"}\`**`;
+  const postPreview = `<blockquote>${content ?? "Please click the link to read the article. ⌲"}</blockquote>`;
   return `<h3>${postTitle} - ${postLink}</h3>\n\n${authorInfo}\n\n${postPreview}\n\n`;
 };
