@@ -11,19 +11,18 @@ Get more useful information conveniently right here. 🤓
 <img src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="400" height="300">
 
-<blockquote>These trends include the following sections and what you will find in each:</blockquote>
+<blockquote>These trends are grouped into four main areas:</blockquote>
 
-- **Common**
-  - Developer should be aware of abouts : **`Technology`** and **`Soft Skills`**
-  - Also includes general **`Artificial Intelligence`**, **`AI Agent`**, **`Backend`**, **`Programming`**
-- **Infra**
-  - Platform foundations across **`Cloud`**, **`Networking`**, **`Security`**
-  - Trends covering **`DevOps`, `Kubernetes`, and `Docker`.**
+- **Dev Common**
+  - Core topics that every developer should know
+  - Including **`Technology`**, **`Soft Skills`**, **`AI`**, **`Backend`**, and **`Programming`**.
+- **Infrastructure**
+  - Platform foundations across **`Cloud`**, **`Networking`**, and **`Security`**
 - **Frontend Trends**
-  - Lastest trend topics which useful for frontend engineers
-  - Such as **`React.js`**, **`Next.js`**, **`UI/UX`**, **`JavaScript`**, **`TypeScript`**, **`Node.js`**, **`Web Development`**, **`Web Views`**
+  - Latest topics for frontend engineers
+  - Trends covering **`React.js`**, **`Next.js`**, **`UI/UX`**, **`JavaScript`**, **`TypeScript`**, **`Node.js`**, **`Web Development`**, and **`Web Views`**.
 - **Mobile**
-  - related to **`App Development`**, **`Android`**, **`iOS`**
+  - Recent updates in **`App Development`**, **`Android`**, and **`iOS`**.
 
 💡 If you have any further Questions or Ideas, welcome to ask!
 
